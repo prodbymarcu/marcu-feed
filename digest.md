@@ -1,1 +1,1 @@
-- 7900xtx got speedup — https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/ (score 11)
+- [Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon — https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/ (score 8)

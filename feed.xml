@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>7900xtx got speedup</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/</link>
-      <guid isPermaLink="false">t3_1xl65xy</guid>
-      <pubDate>Sun, 01 Nov 2026 12:16:10 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you are running qwen3.8 27B on rx7900xtx check this out it&amp;#39;s a super nice speedup&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/thefahien/elpis-on-7900xtx&quot;&gt;https://github.com/thefahien/elpis-on-7900xtx&lt;/a&gt;&lt;/p&gt;  | why kept: qwen, qwen, local, llama</description>
+      <title>[Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/</link>
+      <guid isPermaLink="false">t3_1xl5yfs</guid>
+      <pubDate>Sun, 01 Nov 2026 12:46:52 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/PmJ2i-_g2g8FIxmPwuVxTYeCauLeeTJLN0PcTJpbHUE.png?width=640&amp;amp;crop=sm | why kept: model, local, inference, llama</description>
     </item></channel></rss>
