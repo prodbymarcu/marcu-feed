@@ -1,1 +1,1 @@
-- Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard — https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/ (score 13)
+- fix(cua-driver): name current snapshots on a token-only refusal, and … — https://github.com/trycua/cua/commit/0cdcec94bc9988d41087d470b32f1fad2ba28691 (score 2)
