@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Are bespoke inference engines overhyped? My Strata experience on 2× R9700</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/</link>
-      <guid isPermaLink="false">t3_1xl0oqz</guid>
-      <pubDate>Sun, 01 Nov 2026 07:20:51 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M.&lt;/p&gt; &lt;p&gt;I was already running Next Flash in Q2 with llama. Good for conversational use but not fo | why kept: qwen, qwen, inference, llama</description>
+      <title>GLM-5.3-Flash on our H200s does most of my coding now while GPT-6.1 Sol orchestrates (OpenCode setup)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding/</link>
+      <guid isPermaLink="false">t3_1xkz4lf</guid>
+      <pubDate>Sun, 01 Nov 2026 07:52:01 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/z38LHKJwGPzHlwSe8_wyPkgqxdSmRpvmo8zjhHQQVhk.jpeg?width=640&amp;amp;crop= | why kept: local, llama</description>
     </item></channel></rss>
