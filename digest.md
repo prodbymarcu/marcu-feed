@@ -1,1 +1,1 @@
-- DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System — https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/ (score 6)
+- Heretic 2.0 released: Model modification for everyone — https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/ (score 4)
