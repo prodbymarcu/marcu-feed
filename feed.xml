@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): name current snapshots on a token-only refusal, and …</title>
-      <link>https://github.com/trycua/cua/commit/0cdcec94bc9988d41087d470b32f1fad2ba28691</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0cdcec94bc9988d41087d470b32f1fad2ba28691</guid>
-      <pubDate>Sun, 01 Nov 2026 05:30:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): name current snapshots on a token-only refusal, and refuse a bare row a re-read orphaned (#6259)
-
-* fix(cua-driver): name current snapshots on a token-only refusal, and refuse a  | why kept: model</description>
+      <title>Am I Crazy Or GLM 5.3 Flash is Hilarious?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious/</link>
+      <guid isPermaLink="false">t3_1xkz4mo</guid>
+      <pubDate>Sun, 01 Nov 2026 05:53:42 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am sorry for the useless thread, but I finally loaded GLM 5.3 Flash IQ4-XS and didn&amp;#39;t know what to expect. I was earlier trying out DeepSeek 4.1 Flash 1017 IQ2 and Qwen 3.8 Flash and while I was chatt | why kept: qwen, model, qwen</description>
     </item></channel></rss>
