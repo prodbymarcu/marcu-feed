@@ -1,9 +1,11 @@
 {
- "fetched": 160,
+ "fetched": 135,
  "new": 1,
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
+  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
+  "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "simonw: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -13,5 +15,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 1,
- "at": "2026-11-01T20:24:28Z"
+ "at": "2026-11-01T20:40:19Z"
 }

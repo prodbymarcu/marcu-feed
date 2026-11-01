@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/</link>
-      <guid isPermaLink="false">t3_1xlboqi</guid>
-      <pubDate>Sun, 01 Nov 2026 15:24:28 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/anphbGszZTl3MXpoMeB-DSl8hFr9iwSrVpA_ijWXLCy55JdqfAfEIPFZ4Asv.jpeg? | why kept: local, llama, hardware</description>
+      <title>Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/</link>
+      <guid isPermaLink="false">t3_1xl9yfi</guid>
+      <pubDate>Sun, 01 Nov 2026 15:40:19 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I made this, so treat it as biased. It is free and open, with no paid tier or API behind it.&lt;/p&gt; &lt;p&gt;Silencio-2 is a fine-tune of Kyutai&amp;#39;s Pocket TTS 18M that follows tags written inside the text:&lt;/p&gt; &lt;p | why kept: kyutai, voice, free, fine-tun</description>
     </item></channel></rss>

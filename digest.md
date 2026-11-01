@@ -1,1 +1,1 @@
-- llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU — https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/ (score 6)
+- Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights) — https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/ (score 11)
