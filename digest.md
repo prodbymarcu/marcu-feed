@@ -1,1 +1,1 @@
-- Since we're sharing addiction stories. — https://www.reddit.com/r/LocalLLaMA/comments/1xko42y/since_were_sharing_addiction_stories/ (score 11)
+- llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU — https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/ (score 6)
