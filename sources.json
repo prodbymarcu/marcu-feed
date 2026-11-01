@@ -1,0 +1,21 @@
+{
+  "_": "Marcu Garcia personal feed graph, derived from his 790-item X bookmarks dump (2026-10-05) plus standing interest lanes. Handles and terms come from measured bookmark counts, not guesses.",
+  "people": ["tonbistudio","0xsero","nousresearch","teknium","iamlukethedev","trycua","minimax_ai","prince_canuma","unslothai","steipete","claudeai","aisearchio","alacritic_super","oluwaphilemon1","alibaba_qwen","linusekenstam","modelscope2022","openai","huggingmodels","kirillk_web3","voxyz_ai","alexfinn"],
+  "terms": ["model","agent","hermes","claude","qwen","codex","openclaw","video","voice","local","runs","free","quant","inference","mlx","llama","fine-tun","context window","tool call","computer use","robot","3d print","hardware"],
+  "feeds": [
+    {"name":"hn-agent","url":"https://hnrss.org/newest?q=agent&points=20"},
+    {"name":"hn-llm","url":"https://hnrss.org/newest?q=LLM&points=20"},
+    {"name":"hn-local","url":"https://hnrss.org/newest?q=local+model&points=15"},
+    {"name":"simonw","url":"https://www.simonwillison.net/atom/articles/"},
+    {"name":"reddit-local-llama","url":"https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"},
+    {"name":"ml-community","url":"https://www.reddit.com/r/MachineLearning/top/.rss?t=day"},
+    {"name":"mlx-releases","url":"https://github.com/ml-explore/mlx/releases.atom"},
+    {"name":"llama-cpp-commits","url":"https://github.com/ggml-org/llama.cpp/commits/master.atom"},
+    {"name":"cua-commits","url":"https://github.com/trycua/cua/commits/main.atom"},
+    {"name":"hf-papers","url":"https://huggingface.co/papers"},
+    {"name":"latent-space","url":"https://www.latent.space/feed"},
+    {"name":"interconnects","url":"https://www.interconnects.ai/feed"}
+  ],
+  "kill_rules": ["premium subscription","waitlist","apply for access","we are launching our","corporate announcement","media coverage","sponsored by","limited offer","giveaway","discount code"],
+  "boost_people_terms": ["unsloth","qwen","hermes","nousresearch","trycua","mlx","kyutai","pyannote","minimax","tonbi","0xsero","steipete"]
+}
