@@ -1,1 +1,2 @@
-- I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, O — https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/ (score 4)
+- Coding is solved* (exclusions apply) — https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/ (score 4)
+- Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU — https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/ (score 4)

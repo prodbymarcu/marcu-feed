@@ -1,9 +1,10 @@
 {
- "fetched": 160,
- "new": 4,
+ "fetched": 140,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 3,
+ "dropped_low": 0,
  "errors": [
+  "hn-agent: TimeoutError('The read operation timed out')",
   "simonw: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -12,6 +13,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 1,
- "at": "2026-11-01T18:12:28Z"
+ "kept": 2,
+ "at": "2026-11-01T18:35:10Z"
 }
