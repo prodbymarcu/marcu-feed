@@ -1,14 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/</link>
-      <guid isPermaLink="false">t3_1xlec67</guid>
-      <pubDate>Sun, 01 Nov 2026 16:28:35 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m sharing this here because this is working way better than it used to a few months ago with older models. I see people here posting slower speeds with much better hardware than mine and hopefully thi | why kept: qwen, model, qwen, hardware</description>
-    </item>
-    <item>
-      <title>tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/</link>
-      <guid isPermaLink="false">t3_1xldent</guid>
-      <pubDate>Sun, 01 Nov 2026 16:28:35 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;tandem.cpp is a patch set for llama.cpp that makes MoE models that don&amp;#39;t fit in VRAM run faster. It keeps the most-used experts on the GPU and lets the CPU help with the rest, for any MoE model llama.cp | why kept: qwen, model, qwen, llama</description>
+      <title>QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own forward pass</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/</link>
+      <guid isPermaLink="false">t3_1xle8ta</guid>
+      <pubDate>Sun, 01 Nov 2026 17:04:04 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cm52ajg0a3ljMnpoMRVkDc57fOIf0oYRSCLQSGGhqmA2ZXYhZrnxypkWGMty.png? | why kept: qwen, model, qwen, local, runs, llama</description>
     </item></channel></rss>
