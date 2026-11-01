@@ -1,1 +1,2 @@
-- Heretic 2.0 released: Model modification for everyone — https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/ (score 4)
+- AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy — https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy (score 4)
+- While Altman complains about your audacity of having RAM in your PC, more than half of NVIDIA's GPUs are unproductive st — https://www.reddit.com/r/LocalLLaMA/comments/1xl4bjz/while_altman_complains_about_your_audacity_of/ (score 4)
