@@ -1,1 +1,2 @@
-- Would this be interesting to some here? — https://www.reddit.com/r/LocalLLaMA/comments/1xkv2ga/would_this_be_interesting_to_some_here/ (score 4)
+- Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwe — https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/ (score 11)
+- tandem.cpp: Qwen3.8-Flash-Next at 97 tok/s on a single 4090 + 64 GB RAM, 3.3× llama.cpp, works for any MoE — https://www.reddit.com/r/LocalLLaMA/comments/1xldent/tandemcpp_qwen38flashnext_at_97_toks_on_a_single/ (score 11)
