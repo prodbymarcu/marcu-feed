@@ -6,7 +6,7 @@
     {"name":"hn-agent","url":"https://hnrss.org/newest?q=agent&points=20"},
     {"name":"hn-llm","url":"https://hnrss.org/newest?q=LLM&points=20"},
     {"name":"hn-local","url":"https://hnrss.org/newest?q=local+model&points=15"},
-    {"name":"simonw","url":"https://www.simonwillison.net/atom/articles/"},
+    {"name":"simonw","url":"https://www.simonwillison.net/atom/everything/"},
     {"name":"reddit-local-llama","url":"https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day"},
     {"name":"ml-community","url":"https://www.reddit.com/r/MachineLearning/top/.rss?t=day"},
     {"name":"mlx-releases","url":"https://github.com/ml-explore/mlx/releases.atom"},
