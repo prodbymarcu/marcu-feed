@@ -1,1 +1,1 @@
-- Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: — https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/ (score 14)
+- Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard — https://www.reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable/ (score 13)
