@@ -1,1 +1,1 @@
-- Silencio-2: an 18M TTS with emotion and sound tags, ~20x realtime on CPU (open weights) — https://www.reddit.com/r/LocalLLaMA/comments/1xl9yfi/silencio2_an_18m_tts_with_emotion_and_sound_tags/ (score 11)
+- Would this be interesting to some here? — https://www.reddit.com/r/LocalLLaMA/comments/1xkv2ga/would_this_be_interesting_to_some_here/ (score 4)
