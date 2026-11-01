@@ -1,0 +1,1 @@
+- Rented some server time and wanted to share some learnings from benching using RAM heavier servers with some decent GPU: — https://www.reddit.com/r/LocalLLaMA/comments/1xkvp10/rented_some_server_time_and_wanted_to_share_some/ (score 14)
