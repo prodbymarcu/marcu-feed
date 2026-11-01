@@ -1,7 +1,1 @@
-<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/</link>
-      <guid isPermaLink="false">t3_1xle3ul</guid>
-      <pubDate>Sun, 01 Nov 2026 17:25:53 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I run a local assistant on a Mac (MLX via oMLX, 24 GB M5 Pro). It needs to call tools reliably across mail, calendar, notes and files, chain a few calls, and reply in a short, calm voice. It also has to syn | why kept: mlx, model, voice, local, mlx</description>
-    </item></channel></rss>
+<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language></channel></rss>

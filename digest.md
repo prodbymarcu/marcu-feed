@@ -1,1 +1,1 @@
-- Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing? — https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/ (score 13)
+
