@@ -1,1 +1,2 @@
-
+- Speedy is shockingly good for qwen3.8 FN — https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/ (score 11)
+- docs(spaces): describe adding a machine from app.cua.ai (CUA-3063) (#… — https://github.com/trycua/cua/commit/c87aee487b5cf67ad6e840681e61324c8f413f88 (score 7)

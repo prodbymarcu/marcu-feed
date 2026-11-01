@@ -1,1 +1,17 @@
-<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language></channel></rss>
+<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
+      <title>Speedy is shockingly good for qwen3.8 FN</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/</link>
+      <guid isPermaLink="false">t3_1xlfhrd</guid>
+      <pubDate>Sun, 01 Nov 2026 18:35:15 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I had &lt;em&gt;just&lt;/em&gt; finished setting up avalon, then i found speedy, which crushed avalon.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/freriadoc/Avalon&quot;&gt;https://github.com/freriadoc/Avalon&lt;/a&gt;&lt;br/&gt; &lt;a href=&quot;https:// | why kept: qwen, qwen, quant, hardware</description>
+    </item>
+    <item>
+      <title>docs(spaces): describe adding a machine from app.cua.ai (CUA-3063) (#…</title>
+      <link>https://github.com/trycua/cua/commit/c87aee487b5cf67ad6e840681e61324c8f413f88</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c87aee487b5cf67ad6e840681e61324c8f413f88</guid>
+      <pubDate>Sun, 01 Nov 2026 18:35:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(spaces): describe adding a machine from app.cua.ai (CUA-3063) (#6288)
+
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt; | why kept: trycua, claude</description>
+    </item></channel></rss>
