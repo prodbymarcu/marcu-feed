@@ -1,2 +1,3 @@
-- AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy — https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy (score 4)
-- While Altman complains about your audacity of having RAM in your PC, more than half of NVIDIA's GPUs are unproductive st — https://www.reddit.com/r/LocalLLaMA/comments/1xl4bjz/while_altman_complains_about_your_audacity_of/ (score 4)
+- Infernix - New Release! — https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/ (score 15)
+- Don't people pay attention anymore when buying hardware for AI? — https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/ (score 11)
+- LFM3-1.7b seems impressive — https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/ (score 4)

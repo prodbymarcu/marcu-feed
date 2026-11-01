@@ -1,14 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50325662</guid>
-      <pubDate>Sun, 01 Nov 2026 09:52:02 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy&quot;&gt;https://www.t | why kept: agent, hardware</description>
+      <title>Infernix - New Release!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/</link>
+      <guid isPermaLink="false">t3_1xl4pf6</guid>
+      <pubDate>Sun, 01 Nov 2026 11:40:32 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4MFsQFxR9FF4j_P7cjeZAB9euKwW7DcNwJQdNmCLQCs.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4 | why kept: qwen, model, qwen, local, inference, llama</description>
     </item>
     <item>
-      <title>While Altman complains about your audacity of having RAM in your PC, more than half of NVIDIA&#x27;s GPUs are unproductive stocked in warehouses says author Ed Zitron</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl4bjz/while_altman_complains_about_your_audacity_of/</link>
-      <guid isPermaLink="false">t3_1xl4bjz</guid>
-      <pubDate>Sun, 01 Nov 2026 09:52:02 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xl4bjz/while_altman_complains_about_your_audacity_of/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/n04qyr97g0zh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=18b22c9067fe79 | why kept: local, llama</description>
+      <title>Don&#x27;t people pay attention anymore when buying hardware for AI?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/</link>
+      <guid isPermaLink="false">t3_1xl4ckr</guid>
+      <pubDate>Sun, 01 Nov 2026 11:40:32 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was trying to sell my old AM4 system, X470 / Ryzen 5 5600 / 64GB / RX580 / 1TB NVME and it didn&amp;#39;t sell. Granted it was a bit pricey at 750€, because I took into account the current local RAM and NVME  | why kept: qwen, qwen, local, hardware</description>
+    </item>
+    <item>
+      <title>LFM3-1.7b seems impressive</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/</link>
+      <guid isPermaLink="false">t3_1xl64ho</guid>
+      <pubDate>Sun, 01 Nov 2026 11:40:32 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been testing Liquid&amp;#39;s LFM3-1.7B (Q8_0 GGUF, llama.cpp, ROCm) as a candidate for compression and summarization work&lt;/p&gt; &lt;p&gt;4.1k t/s prefill and ~78 t/s decode on a Strix Halo iGPU&lt;/p&gt; &lt;p&gt;~7.1k / ~151 if  | why kept: local, llama</description>
     </item></channel></rss>
