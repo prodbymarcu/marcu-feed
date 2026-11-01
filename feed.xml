@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/</link>
-      <guid isPermaLink="false">t3_1xl5yfs</guid>
-      <pubDate>Sun, 01 Nov 2026 12:46:52 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/PmJ2i-_g2g8FIxmPwuVxTYeCauLeeTJLN0PcTJpbHUE.png?width=640&amp;amp;crop=sm | why kept: model, local, inference, llama</description>
+      <title>I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, Office exports, etc.)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/</link>
+      <guid isPermaLink="false">t3_1xl7jr0</guid>
+      <pubDate>Sun, 01 Nov 2026 13:12:28 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZvyEjDd8V88RfDJBg6-FkDsvJxBXELmdcAoEN6VJaT0.png?width=140&amp;amp;height=70&amp;amp; | why kept: local, llama</description>
     </item></channel></rss>

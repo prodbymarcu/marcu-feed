@@ -1,1 +1,1 @@
-- [Release] Drex Max v1: Open-weight 27B multimodal decision model, 262K context, local inference on Apple Silicon — https://www.reddit.com/r/LocalLLaMA/comments/1xl5yfs/release_drex_max_v1_openweight_27b_multimodal/ (score 8)
+- I built Frontier UI to give local LLMs ChatGPT-style visual responses in Open WebUI (maps, photos, interactive charts, O — https://www.reddit.com/r/LocalLLaMA/comments/1xl7jr0/i_built_frontier_ui_to_give_local_llms/ (score 4)
