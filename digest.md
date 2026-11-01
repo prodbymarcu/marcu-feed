@@ -1,1 +1,1 @@
-- Am I Crazy Or GLM 5.3 Flash is Hilarious? — https://www.reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious/ (score 9)
+- new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× les — https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/ (score 6)
