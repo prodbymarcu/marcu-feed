@@ -1,1 +1,1 @@
-- GLM-5.3-Flash on our H200s does most of my coding now while GPT-6.1 Sol orchestrates (OpenCode setup) — https://www.reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding/ (score 4)
+- DeepSeek: Exploring Super-agent Design: Towards a More Autonomous Agent System — https://www.reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a/ (score 6)
