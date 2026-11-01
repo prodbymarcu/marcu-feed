@@ -1,2 +1,1 @@
-- Coding is solved* (exclusions apply) — https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/ (score 4)
-- Meet Ava: In-browser local AI avatar with LFM3-Omni and WebGPU — https://www.reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni/ (score 4)
+- Since we're sharing addiction stories. — https://www.reddit.com/r/LocalLLaMA/comments/1xko42y/since_were_sharing_addiction_stories/ (score 11)
