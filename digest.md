@@ -1,1 +1,1 @@
-- QwenBend : Qwen writes a Bend program, then the same model type checks it with Bend2 rules and runs it inside its own fo — https://www.reddit.com/r/LocalLLaMA/comments/1xle8ta/qwenbend_qwen_writes_a_bend_program_then_the_same/ (score 15)
+- Is Gemma 4 E4B still the best small model for a local, tool-calling personal assistant? What am I missing? — https://www.reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a/ (score 13)
