@@ -1,3 +1,1 @@
-- Infernix - New Release! — https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/ (score 15)
-- Don't people pay attention anymore when buying hardware for AI? — https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/ (score 11)
-- LFM3-1.7b seems impressive — https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/ (score 4)
+- 7900xtx got speedup — https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/ (score 11)

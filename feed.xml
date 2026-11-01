@@ -1,21 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Infernix - New Release!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/</link>
-      <guid isPermaLink="false">t3_1xl4pf6</guid>
-      <pubDate>Sun, 01 Nov 2026 11:40:32 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4MFsQFxR9FF4j_P7cjeZAB9euKwW7DcNwJQdNmCLQCs.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4 | why kept: qwen, model, qwen, local, inference, llama</description>
-    </item>
-    <item>
-      <title>Don&#x27;t people pay attention anymore when buying hardware for AI?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/</link>
-      <guid isPermaLink="false">t3_1xl4ckr</guid>
-      <pubDate>Sun, 01 Nov 2026 11:40:32 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I was trying to sell my old AM4 system, X470 / Ryzen 5 5600 / 64GB / RX580 / 1TB NVME and it didn&amp;#39;t sell. Granted it was a bit pricey at 750€, because I took into account the current local RAM and NVME  | why kept: qwen, qwen, local, hardware</description>
-    </item>
-    <item>
-      <title>LFM3-1.7b seems impressive</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive/</link>
-      <guid isPermaLink="false">t3_1xl64ho</guid>
-      <pubDate>Sun, 01 Nov 2026 11:40:32 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Been testing Liquid&amp;#39;s LFM3-1.7B (Q8_0 GGUF, llama.cpp, ROCm) as a candidate for compression and summarization work&lt;/p&gt; &lt;p&gt;4.1k t/s prefill and ~78 t/s decode on a Strix Halo iGPU&lt;/p&gt; &lt;p&gt;~7.1k / ~151 if  | why kept: local, llama</description>
+      <title>7900xtx got speedup</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl65xy/7900xtx_got_speedup/</link>
+      <guid isPermaLink="false">t3_1xl65xy</guid>
+      <pubDate>Sun, 01 Nov 2026 12:16:10 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If you are running qwen3.8 27B on rx7900xtx check this out it&amp;#39;s a super nice speedup&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/thefahien/elpis-on-7900xtx&quot;&gt;https://github.com/thefahien/elpis-on-7900xtx&lt;/a&gt;&lt;/p&gt;  | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>
