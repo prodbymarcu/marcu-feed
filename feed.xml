@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/</link>
-      <guid isPermaLink="false">t3_1xkzony</guid>
-      <pubDate>Sun, 01 Nov 2026 06:23:55 +0000</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Lazylion2&quot;&gt; /u/Lazylion2 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://x.com/askalphaxiv/status/2116779287390896418&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/LocalLLaM | why kept: model, local, llama</description>
+      <title>Are bespoke inference engines overhyped? My Strata experience on 2× R9700</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/</link>
+      <guid isPermaLink="false">t3_1xl0oqz</guid>
+      <pubDate>Sun, 01 Nov 2026 07:20:51 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My intention was to find a setup at least equal to qwen 3.8 27b Q8 MTP but with a larger context. Ideally 1M.&lt;/p&gt; &lt;p&gt;I was already running Next Flash in Q2 with llama. Good for conversational use but not fo | why kept: qwen, qwen, inference, llama</description>
     </item></channel></rss>

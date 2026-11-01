@@ -1,1 +1,1 @@
-- new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× les — https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/ (score 6)
+- Are bespoke inference engines overhyped? My Strata experience on 2× R9700 — https://www.reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata/ (score 11)
