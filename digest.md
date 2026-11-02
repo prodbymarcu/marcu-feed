@@ -1,1 +1,2 @@
-- chore(main): release cua-sdk 0.10.0 (#5876) — https://github.com/trycua/cua/commit/c1df825cc7ad1257f73eef13f019763ab672bbc7 (score 5)
+- Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now. — https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/ (score 13)
+- 8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total) — https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/ (score 8)
