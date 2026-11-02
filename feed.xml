@@ -1,13 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>jinja : implement map(&#x27;filter&#x27;) (#24033)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/59695669f1924c81f421f2044c690ed6373bec79</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/59695669f1924c81f421f2044c690ed6373bec79</guid>
-      <pubDate>Mon, 02 Nov 2026 05:57:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;jinja : implement map(&amp;#39;filter&amp;#39;) (#24033)
-
-* jinja: implement map(&amp;#39;filter&amp;#39;)
-
-* jinja : validate filter keyword arguments
-
-Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
+      <title>If you are using big model compared to ram try and disable mtp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/</link>
+      <guid isPermaLink="false">t3_1xlsd4v</guid>
+      <pubDate>Mon, 02 Nov 2026 06:15:28 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Little reminder, with all my testing I found out that mtp can decrease performance when using very big model, since many are starting to use strata or similar and I see many app activating it as default try | why kept: model</description>
     </item></channel></rss>

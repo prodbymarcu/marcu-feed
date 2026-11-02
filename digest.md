@@ -1,1 +1,1 @@
-- jinja : implement map('filter') (#24033) — https://github.com/ggml-org/llama.cpp/commit/59695669f1924c81f421f2044c690ed6373bec79 (score 2)
+- If you are using big model compared to ram try and disable mtp — https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/ (score 2)
