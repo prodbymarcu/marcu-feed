@@ -1,2 +1,1 @@
-- mtmd: Pocket tts - support for voices without voice cloning (#31429) — https://github.com/ggml-org/llama.cpp/commit/d02b4c0d66796e0a44380611d038123fefb9fe83 (score 9)
-- model: add Clover support (#31306) — https://github.com/ggml-org/llama.cpp/commit/e4b6c8ca6a6e8da70248da30709e897e7cc8615e (score 4)
+- Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools — https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/ (score 6)

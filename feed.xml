@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd: Pocket tts - support for voices without voice cloning (#31429)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d02b4c0d66796e0a44380611d038123fefb9fe83</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d02b4c0d66796e0a44380611d038123fefb9fe83</guid>
-      <pubDate>Mon, 02 Nov 2026 12:51:48 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: Pocket tts - support for voices without voice cloning (#31429)
-
-* feat: support PocketTTS voices with no voice cloning
-
-The kyutai/pocket-tts-without-voice-cloning weights ship predefined v | why kept: kyutai, model, voice</description>
-    </item>
-    <item>
-      <title>model: add Clover support (#31306)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e4b6c8ca6a6e8da70248da30709e897e7cc8615e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e4b6c8ca6a6e8da70248da30709e897e7cc8615e</guid>
-      <pubDate>Mon, 02 Nov 2026 12:51:48 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model: add Clover support (#31306)
-
-* model : add AR-only Clover MoE support
-
-Add GGUF conversion, model loading, and causal hybrid attention for Clover, reusing shared attention, recurrent-state | why kept: model, llama</description>
+      <title>Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/</link>
+      <guid isPermaLink="false">t3_1xm33gr</guid>
+      <pubDate>Mon, 02 Nov 2026 13:07:58 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineer | why kept: claude, inference, hardware</description>
     </item></channel></rss>
