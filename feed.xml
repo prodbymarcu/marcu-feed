@@ -1,11 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : flash_attn_ext_rows - more efficient unified kv for multi-seq…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/1b6935b227b9f9aa89deea8016c0e208f547446f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1b6935b227b9f9aa89deea8016c0e208f547446f</guid>
-      <pubDate>Mon, 02 Nov 2026 11:26:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : flash_attn_ext_rows - more efficient unified kv for multi-seq (#29510)
+      <title>Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/</link>
+      <guid isPermaLink="false">t3_1xm102d</guid>
+      <pubDate>Mon, 02 Nov 2026 11:44:09 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mjqrl0p8z7zh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=13c1c02701509 | why kept: unsloth, local, llama</description>
+    </item>
+    <item>
+      <title>test(spaces-sdk-swift): fix ToolCoverageTests on main (stopgap allowl…</title>
+      <link>https://github.com/trycua/cua/commit/50242387d74cf82ccbed20846fc134e7a49ffa7c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/50242387d74cf82ccbed20846fc134e7a49ffa7c</guid>
+      <pubDate>Mon, 02 Nov 2026 11:44:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces-sdk-swift): fix ToolCoverageTests on main (stopgap allowlist) (#6311)
 
-* llama : use llm_attn_mask and kv_rows for unified attention
+* test(spaces-sdk-swift): expect the 114 contract tools; allowlist callTool-only agent/thread tools (CUA-3091)
 
-Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4-Flas | why kept: llama</description>
+ | why kept: trycua, agent, claude</description>
     </item></channel></rss>

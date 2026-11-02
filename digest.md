@@ -1,1 +1,2 @@
-- llama : flash_attn_ext_rows - more efficient unified kv for multi-seq… — https://github.com/ggml-org/llama.cpp/commit/1b6935b227b9f9aa89deea8016c0e208f547446f (score 2)
+- Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench — https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/ (score 9)
+- test(spaces-sdk-swift): fix ToolCoverageTests on main (stopgap allowl… — https://github.com/trycua/cua/commit/50242387d74cf82ccbed20846fc134e7a49ffa7c (score 9)
