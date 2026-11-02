@@ -1,10 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs: CANN backend supports BF16 on 910B, document GGML_CANN_NO_PINNE…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/458fcfc3400fad3cfddc0923cc41125627eb0844</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/458fcfc3400fad3cfddc0923cc41125627eb0844</guid>
-      <pubDate>Mon, 02 Nov 2026 07:27:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: CANN backend supports BF16 on 910B, document GGML_CANN_NO_PINNED (#31249)
-
-The note under &amp;#39;Run the inference&amp;#39; still said that the CANN backend only
-supports FP16/Q4_0/Q8_0 models, w | why kept: model, inference</description>
+      <title>Not another tok/s post: local quants vs Claude on 9 real bugs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/</link>
+      <guid isPermaLink="false">t3_1xlwpqv</guid>
+      <pubDate>Mon, 02 Nov 2026 08:48:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ufmzse0g77zh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f74412000fd | why kept: model, claude, local, quant, llama</description>
+    </item>
+    <item>
+      <title>sensenova/SenseNova-Loop-9B-Preview · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xlw9v4</guid>
+      <pubDate>Mon, 02 Nov 2026 08:48:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/DqBmCaAAmzoPzVI5jKHVNZIyeRH4YfAj8DA19YtD19I.png?width=640&amp;amp;crop=sma | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>The U.S. Census Bureau and “Super Intelligence”</title>
+      <link>https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/</guid>
+      <pubDate>Mon, 02 Nov 2026 08:48:57 +0000</pubDate>
+      <description>&lt;p&gt;I was reminded today of &lt;a href=&quot;https://www.apolloacademy.com/ai-adoption-rate-trending-down-for-large-companies/&quot;&gt;AI Adoption Rate Trending Down for Large Companies&lt;/a&gt;, a chart produced by Apollo Global Management in September 2025, w | why kept: claude</description>
     </item></channel></rss>

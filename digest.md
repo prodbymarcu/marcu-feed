@@ -1,1 +1,3 @@
-- docs: CANN backend supports BF16 on 910B, document GGML_CANN_NO_PINNE… — https://github.com/ggml-org/llama.cpp/commit/458fcfc3400fad3cfddc0923cc41125627eb0844 (score 4)
+- Not another tok/s post: local quants vs Claude on 9 real bugs — https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/ (score 10)
+- sensenova/SenseNova-Loop-9B-Preview · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/ (score 4)
+- The U.S. Census Bureau and “Super Intelligence” — https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ (score 2)
