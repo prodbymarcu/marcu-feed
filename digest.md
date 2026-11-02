@@ -1,3 +1,1 @@
-- Not another tok/s post: local quants vs Claude on 9 real bugs — https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/ (score 10)
-- sensenova/SenseNova-Loop-9B-Preview · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xlw9v4/sensenovasensenovaloop9bpreview_hugging_face/ (score 4)
-- The U.S. Census Bureau and “Super Intelligence” — https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/ (score 2)
+- ci: drop removed libs/python/computer from Test Models and cold-start… — https://github.com/trycua/cua/commit/3119f924c2ee58592f806c9087df45da473685ed (score 9)
