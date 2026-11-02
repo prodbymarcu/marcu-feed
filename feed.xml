@@ -1,24 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/</link>
-      <guid isPermaLink="false">t3_1xm0i9m</guid>
-      <pubDate>Mon, 02 Nov 2026 14:59:47 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5sqetisjy7zh1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp; | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>ci(macos): PRs reuse main&#x27;s Rust build cache (CUA-3094) (#6317)</title>
-      <link>https://github.com/trycua/cua/commit/7371bb14a456ba80a47bb98078e07d8b81435139</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7371bb14a456ba80a47bb98078e07d8b81435139</guid>
-      <pubDate>Mon, 02 Nov 2026 14:59:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(macos): PRs reuse main&amp;#39;s Rust build cache (CUA-3094) (#6317)
+      <title>cua-spaces-macos: faster install-local.sh (sccache, parallel web buil…</title>
+      <link>https://github.com/trycua/cua/commit/b72833f107064b9aa2f0c4f6c05622e2b2d1af35</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b72833f107064b9aa2f0c4f6c05622e2b2d1af35</guid>
+      <pubDate>Mon, 02 Nov 2026 15:36:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cua-spaces-macos: faster install-local.sh (sccache, parallel web build) (#6320)
 
-ffi now goes through the spaces-rust-slice action: exact key hit restores
-main&amp;#39;s library, a miss builds with the producer&amp; | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/</link>
-      <guid isPermaLink="false">t3_1xm6jow</guid>
-      <pubDate>Mon, 02 Nov 2026 14:59:47 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/oEQ_iy2p0YcBT2b7BpNa0_EiZvhUep-rTfmJxckhbF0.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+* cua-spaces-macos: install-local uses sccache when present and builds the web UI alongside cargo
+
+Co-Authored-By: | why kept: claude, local</description>
     </item></channel></rss>

@@ -1,3 +1,1 @@
-- 😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying — https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/ (score 11)
-- ci(macos): PRs reuse main's Rust build cache (CUA-3094) (#6317) — https://github.com/trycua/cua/commit/7371bb14a456ba80a47bb98078e07d8b81435139 (score 7)
-- Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights — https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/ (score 4)
+- cua-spaces-macos: faster install-local.sh (sccache, parallel web buil… — https://github.com/trycua/cua/commit/b72833f107064b9aa2f0c4f6c05622e2b2d1af35 (score 4)
