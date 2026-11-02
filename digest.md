@@ -1,1 +1,1 @@
-- List of tiny-to-medium models for web research/coding agents — https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/ (score 11)
+- 4" touchscreen for inference engine monitoring — https://www.reddit.com/r/LocalLLaMA/comments/1xlsuwf/4_touchscreen_for_inference_engine_monitoring/ (score 6)
