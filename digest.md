@@ -1,1 +1,1 @@
-- fix(agent): surface rejected model keys and silent runs; refuse --wir… — https://github.com/trycua/cua/commit/f595a4fb6f524e555e5e422aab81c3457fe4a713 (score 8)
+- Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with — https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/ (score 13)

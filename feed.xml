@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(agent): surface rejected model keys and silent runs; refuse --wir…</title>
-      <link>https://github.com/trycua/cua/commit/f595a4fb6f524e555e5e422aab81c3457fe4a713</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f595a4fb6f524e555e5e422aab81c3457fe4a713</guid>
-      <pubDate>Sun, 01 Nov 2026 19:37:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(agent): surface rejected model keys and silent runs; refuse --wire without --base-url (CUA-3069) (#6293)
-
-- The runner&amp;#39;s key check now also covers a custom --base-url endpoint (Claude Cod | why kept: model, agent, claude, runs</description>
+      <title>Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B &amp; Clover 35B (Q4 + KFlash) on MacBook M5 Max 2026 with Kapitsa (Apple Silicon Inference Engine)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/</link>
+      <guid isPermaLink="false">t3_1xlgu8m</guid>
+      <pubDate>Sun, 01 Nov 2026 20:03:43 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlgu8m/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/32s48p6jx2zh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8caafcdf8bf35 | why kept: qwen, qwen, local, inference, llama</description>
     </item></channel></rss>
