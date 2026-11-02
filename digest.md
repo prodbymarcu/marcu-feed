@@ -1,1 +1,2 @@
-- Official Statement: Qwen Models Will Stick to Open Source to the End! — https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/ (score 13)
+- mtmd: Pocket tts - support for voices without voice cloning (#31429) — https://github.com/ggml-org/llama.cpp/commit/d02b4c0d66796e0a44380611d038123fefb9fe83 (score 9)
+- model: add Clover support (#31306) — https://github.com/ggml-org/llama.cpp/commit/e4b6c8ca6a6e8da70248da30709e897e7cc8615e (score 4)
