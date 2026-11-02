@@ -1,12 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: drop removed libs/python/computer from Test Models and cold-start…</title>
-      <link>https://github.com/trycua/cua/commit/3119f924c2ee58592f806c9087df45da473685ed</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3119f924c2ee58592f806c9087df45da473685ed</guid>
-      <pubDate>Mon, 02 Nov 2026 09:23:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: drop removed libs/python/computer from Test Models and cold-start installs (#6309)
+      <title>ci(spaces): build and bundle the microVM guest init in the shadow/nig…</title>
+      <link>https://github.com/trycua/cua/commit/22a67eacd15dc71811e330ed88951dd615bb395d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/22a67eacd15dc71811e330ed88951dd615bb395d</guid>
+      <pubDate>Mon, 02 Nov 2026 09:41:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): build and bundle the microVM guest init in the shadow/nightly macOS build (CUA-3090) (#6310)
 
-Refs CUA-3089
-
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt | why kept: trycua, model, claude</description>
+The shadow build (and the nightly that calls it) ran build-release.sh --skip-cargo withou | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>DeepSeek V4.1 Flash 1017 is really golden.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/</link>
+      <guid isPermaLink="false">t3_1xlwrh1</guid>
+      <pubDate>Mon, 02 Nov 2026 09:41:52 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;tl;dr:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;love LLMs to learn things, but only closed-source models were truly reliable for me, until 1017 came up: it&amp;#39;s great and fast for everything&lt;/em&gt;&lt;/p&gt; &lt;p&gt;This is just  | why kept: model</description>
     </item></channel></rss>

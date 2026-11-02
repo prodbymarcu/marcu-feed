@@ -1,1 +1,2 @@
-- ci: drop removed libs/python/computer from Test Models and cold-start… — https://github.com/trycua/cua/commit/3119f924c2ee58592f806c9087df45da473685ed (score 9)
+- ci(spaces): build and bundle the microVM guest init in the shadow/nig… — https://github.com/trycua/cua/commit/22a67eacd15dc71811e330ed88951dd615bb395d (score 7)
+- DeepSeek V4.1 Flash 1017 is really golden. — https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/ (score 2)
