@@ -1,1 +1,4 @@
-- If you are using big model compared to ram try and disable mtp — https://www.reddit.com/r/LocalLLaMA/comments/1xlsd4v/if_you_are_using_big_model_compared_to_ram_try/ (score 2)
+- ui: show interrupted state for tool calls that never returned (#31314) — https://github.com/ggml-org/llama.cpp/commit/64be95b163fe3a80327fad1ab84dc162302cf235 (score 4)
+- ui: don't reload a loading model on select, prefer it in pre-selectio… — https://github.com/ggml-org/llama.cpp/commit/b12b405c171bc2ec98ce7a860a69c073dcac41b3 (score 4)
+- ui: align alert dialog styling with other overlay surfaces (#31312) — https://github.com/ggml-org/llama.cpp/commit/23426d797e4fc3d50a56152fb04acf811966679b (score 2)
+- ui: keep queued steering messages in their own conversation (#31304) — https://github.com/ggml-org/llama.cpp/commit/90080ce094236542470311c484543d507564d549 (score 2)
