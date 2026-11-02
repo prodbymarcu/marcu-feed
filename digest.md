@@ -1,1 +1,1 @@
-- GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1% — https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/ (score 11)
+- Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef — https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/ (score 9)
