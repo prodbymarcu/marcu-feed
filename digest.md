@@ -1,2 +1,3 @@
-- Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4? — https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/ (score 11)
-- fix(cua-spacesd): a file write on the Cua Volume mount no longer fail… — https://github.com/trycua/cua/commit/8c55aa4ca8b998c0198625b4df517c5987ecfb0e (score 4)
+- 😃Made My Own Invoicing Dekstop App With Qwen 3.8 27B+OpenCode+LM Studio On RTX 5090..Saved Me $100 a Year I Was Paying — https://www.reddit.com/r/LocalLLaMA/comments/1xm0i9m/made_my_own_invoicing_dekstop_app_with_qwen_38/ (score 11)
+- ci(macos): PRs reuse main's Rust build cache (CUA-3094) (#6317) — https://github.com/trycua/cua/commit/7371bb14a456ba80a47bb98078e07d8b81435139 (score 7)
+- Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights — https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/ (score 4)
