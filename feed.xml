@@ -1,9 +1,1 @@
-<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(images): build the macOS Space with developer tools on the user&#x27;…</title>
-      <link>https://github.com/trycua/cua/commit/758da89fda958bb40cdc2c34919676a53f73e4f9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/758da89fda958bb40cdc2c34919676a53f73e4f9</guid>
-      <pubDate>Mon, 02 Nov 2026 02:30:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(images): build the macOS Space with developer tools on the user&amp;#39;s own Mac (#6303)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
-    </item></channel></rss>
+<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language></channel></rss>
