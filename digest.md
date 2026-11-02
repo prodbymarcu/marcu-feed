@@ -1,1 +1,1 @@
-- In LLM era, can software startup survive? — https://news.ycombinator.com/item?id=50331001 (score 2)
+- Live-Swap CUDA Workloads: llama.cpp, ComfyUI, Strata & More — https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/ (score 4)
