@@ -153,13 +153,16 @@ def main():
                          f"      <pubDate>{dt.datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')}</pubDate>\n"
                          f"      <description>{esc((it['body'][:240] + ' | why kept: ' + why))}</description>\n"
                          "    </item>")
-    (HERE / "feed.xml").write_text(
-        '<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title>'
-        f"<link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; "
-        f"interest graph from his bookmarks corpus plus local-model judgment.</description>"
-        "<language>en</language>" + "\n".join(items_xml) + "</channel></rss>\n")
-    (HERE / "digest.md").write_text("\n".join(
-        f"- {it['title'][:120]} — {it['link']} (score {it['_score']})" for it in top) + "\n")
+    # A zero-kept tick must not wipe the published snapshot: leave feed.xml/digest.md
+    # untouched so the live feed keeps the last productive tick's items.
+    if top:
+        (HERE / "feed.xml").write_text(
+            '<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title>'
+            f"<link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; "
+            f"interest graph from his bookmarks corpus plus local-model judgment.</description>"
+            "<language>en</language>" + "\n".join(items_xml) + "</channel></rss>\n")
+        (HERE / "digest.md").write_text("\n".join(
+            f"- {it['title'][:120]} — {it['link']} (score {it['_score']})" for it in top) + "\n")
     stats.update({"kept": len(top), "at": now})
     (HERE / "stats.json").write_text(json.dumps(stats, indent=1))
     print(f"tick: fetched={stats['fetched']} new={stats['new']} kept={len(top)} "
