@@ -1,2 +1,1 @@
-- Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench — https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/ (score 9)
-- test(spaces-sdk-swift): fix ToolCoverageTests on main (stopgap allowl… — https://github.com/trycua/cua/commit/50242387d74cf82ccbed20846fc134e7a49ffa7c (score 9)
+- Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM — https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/ (score 4)
