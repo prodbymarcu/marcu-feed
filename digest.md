@@ -1,1 +1,1 @@
-
+- JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/ (score 4)
