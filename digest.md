@@ -1,1 +1,1 @@
-- docs(spaces): say computers instead of machines (CUA-3066) (#6313) — https://github.com/trycua/cua/commit/4074d0dfadeefee29c6a482d0b120456768c0a5e (score 2)
+- We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens — https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/ (score 13)
