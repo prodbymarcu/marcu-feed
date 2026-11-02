@@ -1,1 +1,7 @@
-<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language></channel></rss>
+<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
+      <title>In LLM era, can software startup survive?</title>
+      <link>https://news.ycombinator.com/item?id=50331001</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50331001</guid>
+      <pubDate>Mon, 02 Nov 2026 03:37:16 +0000</pubDate>
+      <description>&lt;p&gt;Nowadays, vibe coding is everywhere. Turning an idea into software is just matter of tokens. I was joking the other day. Creating a tax return softwar is much faster than purchasing Turbotax at Costco.&lt;p&gt;Large companies still have comput | why kept: free</description>
+    </item></channel></rss>

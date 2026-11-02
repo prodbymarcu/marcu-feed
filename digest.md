@@ -1,1 +1,1 @@
-
+- In LLM era, can software startup survive? — https://news.ycombinator.com/item?id=50331001 (score 2)
