@@ -1,1 +1,1 @@
-- We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens — https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/ (score 13)
+- llama : flash_attn_ext_rows - more efficient unified kv for multi-seq… — https://github.com/ggml-org/llama.cpp/commit/1b6935b227b9f9aa89deea8016c0e208f547446f (score 2)

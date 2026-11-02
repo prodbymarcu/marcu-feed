@@ -1,7 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>We released KVARK Sparkle 1.0 – a Qwen3.8-27B-based model with up to 67% fewer thinking tokens</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/</link>
-      <guid isPermaLink="false">t3_1xlxnpc</guid>
-      <pubDate>Mon, 02 Nov 2026 11:10:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlxnpc/we_released_kvark_sparkle_10_a_qwen3827bbased/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eWZpMGRqcGk1N3poMd9btVSoWYtnFIi0AD_IzwmNkhOb2JqT9GC-2aNdGLUg.png?widt | why kept: qwen, model, qwen, local, llama</description>
+      <title>llama : flash_attn_ext_rows - more efficient unified kv for multi-seq…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/1b6935b227b9f9aa89deea8016c0e208f547446f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1b6935b227b9f9aa89deea8016c0e208f547446f</guid>
+      <pubDate>Mon, 02 Nov 2026 11:26:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : flash_attn_ext_rows - more efficient unified kv for multi-seq (#29510)
+
+* llama : use llm_attn_mask and kv_rows for unified attention
+
+Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4-Flas | why kept: llama</description>
     </item></channel></rss>
