@@ -1,3 +1,1 @@
-- LFM3 Omni 2B is INCREDIBLE — https://www.reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible/ (score 8)
-- Sorry Sam, my "quite terrible" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× f — https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/ (score 6)
-- Do we really need all these "speed" posts? — https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/ (score 2)
+
