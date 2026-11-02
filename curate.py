@@ -153,9 +153,7 @@ def main():
                          f"      <pubDate>{dt.datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0000')}</pubDate>\n"
                          f"      <description>{esc((it['body'][:240] + ' | why kept: ' + why))}</description>\n"
                          "    </item>")
-    # A zero-kept tick must not wipe the published snapshot: leave feed.xml/digest.md
-    # untouched so the live feed keeps the last productive tick's items.
-    if top:
+    if top:  # zero-kept ticks must not wipe the published snapshot
         (HERE / "feed.xml").write_text(
             '<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title>'
             f"<link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; "
