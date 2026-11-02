@@ -1,14 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen 3.8 Flash Next NVFP4 on 64gb RAM and 5090, Basalt. Ditched windows for it. Very hyped for qwen 4 model family now.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/</link>
-      <guid isPermaLink="false">t3_1xlicia</guid>
-      <pubDate>Sun, 01 Nov 2026 22:59:12 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/27FvRnANR0jZrwLohZjkk6iEoqkkBhjdBhkGOY2Mdlw.png?width=140&amp;amp;height= | why kept: qwen, model, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>8 agents × 250K context, concurrently, on two 3090s (~600+ tok/s total)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlk43x/8_agents_250k_context_concurrently_on_two_3090s/</link>
-      <guid isPermaLink="false">t3_1xlk43x</guid>
-      <pubDate>Sun, 01 Nov 2026 22:59:12 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am open to the idea that I am misguided, but my findings feel worth sharing:&lt;/p&gt; &lt;p&gt;Short video of my UI with 8 agents each explaining a codebase in parallel long prose: &lt;a href=&quot;https://imgur.com/JSqlXIi | why kept: agent, video, local, llama</description>
+      <title>fix(spaces-macos): bundle cua 0.10.0 in Cua Spaces (#6298)</title>
+      <link>https://github.com/trycua/cua/commit/20281e1f0641abf08afc221e9deccae9b681b6fb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/20281e1f0641abf08afc221e9deccae9b681b6fb</guid>
+      <pubDate>Sun, 01 Nov 2026 23:37:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.10.0 in Cua Spaces (#6298)
+
+cua 0.10.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
