@@ -1,1 +1,1 @@
-- Live-Swap CUDA Workloads: llama.cpp, ComfyUI, Strata & More — https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/ (score 4)
+- List of tiny-to-medium models for web research/coding agents — https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/ (score 11)

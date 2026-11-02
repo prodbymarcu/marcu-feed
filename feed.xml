@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Live-Swap CUDA Workloads: llama.cpp, ComfyUI, Strata &amp; More</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/</link>
-      <guid isPermaLink="false">t3_1xlmu81</guid>
-      <pubDate>Mon, 02 Nov 2026 05:07:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlmu81/liveswap_cuda_workloads_llamacpp_comfyui_strata/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/183ca20qd4zh1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp | why kept: local, llama</description>
+      <title>List of tiny-to-medium models for web research/coding agents</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlpkqv/list_of_tinytomedium_models_for_web/</link>
+      <guid isPermaLink="false">t3_1xlpkqv</guid>
+      <pubDate>Mon, 02 Nov 2026 05:24:52 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am compiling a list of models that I think are potentially worth considering for folks who want to run an LLM on a &amp;quot;normal computer&amp;quot;, specifically for an agent use case, but without having to bu | why kept: qwen, model, agent, qwen</description>
     </item></channel></rss>
