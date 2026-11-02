@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Yet another reason to self host: Anthropic has (again) cut back on reverse engineering tools</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has/</link>
-      <guid isPermaLink="false">t3_1xm33gr</guid>
-      <pubDate>Mon, 02 Nov 2026 13:07:58 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineer | why kept: claude, inference, hardware</description>
+      <title>Builders got MiniMax M3.1 Flash&#x27;s open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/</link>
+      <guid isPermaLink="false">t3_1xm0b7r</guid>
+      <pubDate>Mon, 02 Nov 2026 13:41:00 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/MiniMax_AI/status/2116996123164569606&quot;&gt;MiniMax posted a thank-you yesterday&lt;/a&gt; for everyone quantizing M3.1 Flash (428B, 252.4 GB), and I went through the ones they named. Numbers ar | why kept: minimax, agent, quant, tool call</description>
     </item></channel></rss>
