@@ -1,1 +1,2 @@
-- Kind of enjoying the ISTA (GSQ-RCO) vs Unsloth beef — https://www.reddit.com/r/LocalLLaMA/comments/1xm8xhn/kind_of_enjoying_the_ista_gsqrco_vs_unsloth_beef/ (score 9)
+- New sparse attention method for ultra-long context — https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/ (score 7)
+- style(e2e): black-format cua-sdk python conftest (#6331) — https://github.com/trycua/cua/commit/2ee2069d27421548f2cf09b806377ca128f503af (score 7)
