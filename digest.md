@@ -1,4 +1,3 @@
-- ui: show interrupted state for tool calls that never returned (#31314) — https://github.com/ggml-org/llama.cpp/commit/64be95b163fe3a80327fad1ab84dc162302cf235 (score 4)
-- ui: don't reload a loading model on select, prefer it in pre-selectio… — https://github.com/ggml-org/llama.cpp/commit/b12b405c171bc2ec98ce7a860a69c073dcac41b3 (score 4)
-- ui: align alert dialog styling with other overlay surfaces (#31312) — https://github.com/ggml-org/llama.cpp/commit/23426d797e4fc3d50a56152fb04acf811966679b (score 2)
-- ui: keep queued steering messages in their own conversation (#31304) — https://github.com/ggml-org/llama.cpp/commit/90080ce094236542470311c484543d507564d549 (score 2)
+- Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains — https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/ (score 6)
+- ui: disable model deletion the server would refuse (#31305) — https://github.com/ggml-org/llama.cpp/commit/5c2ea1ab11a17a750dabffe31e8c182ddf4966cc (score 4)
+- sycl: dmmv code cleanup (#31325) — https://github.com/ggml-org/llama.cpp/commit/5e18eb021b021a133cfa4d9ac84dab644bc24318 (score 2)
