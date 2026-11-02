@@ -1,1 +1,1 @@
-- 4" touchscreen for inference engine monitoring — https://www.reddit.com/r/LocalLLaMA/comments/1xlsuwf/4_touchscreen_for_inference_engine_monitoring/ (score 6)
+- jinja : implement map('filter') (#24033) — https://github.com/ggml-org/llama.cpp/commit/59695669f1924c81f421f2044c690ed6373bec79 (score 2)
