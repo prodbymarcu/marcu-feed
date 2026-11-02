@@ -1,1 +1,1 @@
-- vulkan: add tensor-parallel allreduce function (#25051) — https://github.com/ggml-org/llama.cpp/commit/dcbb0916772195bee457d23751edf8c1cbdc707e (score 2)
+- docs: CANN backend supports BF16 on 910B, document GGML_CANN_NO_PINNE… — https://github.com/ggml-org/llama.cpp/commit/458fcfc3400fad3cfddc0923cc41125627eb0844 (score 4)

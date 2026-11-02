@@ -1,15 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>vulkan: add tensor-parallel allreduce function (#25051)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/dcbb0916772195bee457d23751edf8c1cbdc707e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dcbb0916772195bee457d23751edf8c1cbdc707e</guid>
-      <pubDate>Mon, 02 Nov 2026 07:08:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: add tensor-parallel allreduce function (#25051)
+      <title>docs: CANN backend supports BF16 on 910B, document GGML_CANN_NO_PINNE…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/458fcfc3400fad3cfddc0923cc41125627eb0844</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/458fcfc3400fad3cfddc0923cc41125627eb0844</guid>
+      <pubDate>Mon, 02 Nov 2026 07:27:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: CANN backend supports BF16 on 910B, document GGML_CANN_NO_PINNED (#31249)
 
-* vulkan: add tensor-parallel all-reduce communication
-
-* vulkan: require shared semaphores for tensor communication
-
-Assisted-by: Codex
-
- | why kept: codex</description>
+The note under &amp;#39;Run the inference&amp;#39; still said that the CANN backend only
+supports FP16/Q4_0/Q8_0 models, w | why kept: model, inference</description>
     </item></channel></rss>
