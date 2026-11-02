@@ -1,3 +1,1 @@
-- [GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines — https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/ (score 6)
-- fix(cua-sdk): keep no history for a device's presence record in the l… — https://github.com/trycua/cua/commit/173eddfdaabeed0c0dd98966e2119930a62e10b4 (score 4)
-- fix(cua-sdk): a skill installed another way no longer leaves an agent… — https://github.com/trycua/cua/commit/9cad89e24d4fde039c001256286b79ac9592a523 (score 4)
+- fix(agent): surface rejected model keys and silent runs; refuse --wir… — https://github.com/trycua/cua/commit/f595a4fb6f524e555e5e422aab81c3457fe4a713 (score 8)
