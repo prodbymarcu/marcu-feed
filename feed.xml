@@ -1,1 +1,15 @@
-<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language></channel></rss>
+<?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
+      <title>chore(main): release cua-sdk 0.10.0 (#5876)</title>
+      <link>https://github.com/trycua/cua/commit/c1df825cc7ad1257f73eef13f019763ab672bbc7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c1df825cc7ad1257f73eef13f019763ab672bbc7</guid>
+      <pubDate>Sun, 01 Nov 2026 22:27:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.10.0 (#5876)
+
+* chore(main): release cua-sdk 0.10.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item></channel></rss>
