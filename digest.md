@@ -1,1 +1,1 @@
-- Running UNCENSORED DeepSeek-V4.1-Flash-1017 on a 12 Gb VRAM — https://www.reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12/ (score 4)
+- Official Statement: Qwen Models Will Stick to Open Source to the End! — https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/ (score 13)
