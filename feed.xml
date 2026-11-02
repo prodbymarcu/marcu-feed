@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>cua-spaces-macos: faster install-local.sh (sccache, parallel web buil…</title>
-      <link>https://github.com/trycua/cua/commit/b72833f107064b9aa2f0c4f6c05622e2b2d1af35</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b72833f107064b9aa2f0c4f6c05622e2b2d1af35</guid>
-      <pubDate>Mon, 02 Nov 2026 15:36:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cua-spaces-macos: faster install-local.sh (sccache, parallel web build) (#6320)
-
-* cua-spaces-macos: install-local uses sccache when present and builds the web UI alongside cargo
-
-Co-Authored-By: | why kept: claude, local</description>
+      <title>Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/</link>
+      <guid isPermaLink="false">t3_1xm8o8g</guid>
+      <pubDate>Mon, 02 Nov 2026 16:29:38 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/0pSxXzpPcpVtVDtEFzlO-SJcCmpJGKzBbYuPPk_S4v8.jpeg?width=640&amp;amp;crop | why kept: local, llama, hardware</description>
     </item></channel></rss>

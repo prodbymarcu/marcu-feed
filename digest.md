@@ -1,1 +1,1 @@
-- cua-spaces-macos: faster install-local.sh (sccache, parallel web buil… — https://github.com/trycua/cua/commit/b72833f107064b9aa2f0c4f6c05622e2b2d1af35 (score 4)
+- Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sween — https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/ (score 6)
