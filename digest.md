@@ -1,2 +1,3 @@
-- Speedy is shockingly good for qwen3.8 FN — https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/ (score 11)
-- docs(spaces): describe adding a machine from app.cua.ai (CUA-3063) (#… — https://github.com/trycua/cua/commit/c87aee487b5cf67ad6e840681e61324c8f413f88 (score 7)
+- [GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines — https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/ (score 6)
+- fix(cua-sdk): keep no history for a device's presence record in the l… — https://github.com/trycua/cua/commit/173eddfdaabeed0c0dd98966e2119930a62e10b4 (score 4)
+- fix(cua-sdk): a skill installed another way no longer leaves an agent… — https://github.com/trycua/cua/commit/9cad89e24d4fde039c001256286b79ac9592a523 (score 4)

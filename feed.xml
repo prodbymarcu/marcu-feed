@@ -1,17 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Speedy is shockingly good for qwen3.8 FN</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlfhrd/speedy_is_shockingly_good_for_qwen38_fn/</link>
-      <guid isPermaLink="false">t3_1xlfhrd</guid>
-      <pubDate>Sun, 01 Nov 2026 18:35:15 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I had &lt;em&gt;just&lt;/em&gt; finished setting up avalon, then i found speedy, which crushed avalon.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://github.com/freriadoc/Avalon&quot;&gt;https://github.com/freriadoc/Avalon&lt;/a&gt;&lt;br/&gt; &lt;a href=&quot;https:// | why kept: qwen, qwen, quant, hardware</description>
+      <title>[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/</link>
+      <guid isPermaLink="false">t3_1xlh0zw</guid>
+      <pubDate>Sun, 01 Nov 2026 19:01:51 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NjRsN3A4b2d6MnpoMV0qVP_XgqlePklzDMZiKTgJij-ByvoOXjKhkvEECj1E.png? | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>docs(spaces): describe adding a machine from app.cua.ai (CUA-3063) (#…</title>
-      <link>https://github.com/trycua/cua/commit/c87aee487b5cf67ad6e840681e61324c8f413f88</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c87aee487b5cf67ad6e840681e61324c8f413f88</guid>
-      <pubDate>Sun, 01 Nov 2026 18:35:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(spaces): describe adding a machine from app.cua.ai (CUA-3063) (#6288)
+      <title>fix(cua-sdk): keep no history for a device&#x27;s presence record in the l…</title>
+      <link>https://github.com/trycua/cua/commit/173eddfdaabeed0c0dd98966e2119930a62e10b4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/173eddfdaabeed0c0dd98966e2119930a62e10b4</guid>
+      <pubDate>Sun, 01 Nov 2026 19:01:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sdk): keep no history for a device&amp;#39;s presence record in the local Volume store (#6290)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt; | why kept: trycua, claude</description>
+Fixes #6238. Co-Authored-By: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude, local</description>
+    </item>
+    <item>
+      <title>fix(cua-sdk): a skill installed another way no longer leaves an agent…</title>
+      <link>https://github.com/trycua/cua/commit/9cad89e24d4fde039c001256286b79ac9592a523</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9cad89e24d4fde039c001256286b79ac9592a523</guid>
+      <pubDate>Sun, 01 Nov 2026 19:01:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sdk): a skill installed another way no longer leaves an agent &amp;quot;not set up&amp;quot; (#6282)
+
+Fixes the linked issue. Co-Authored-By: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: agent, claude</description>
     </item></channel></rss>
