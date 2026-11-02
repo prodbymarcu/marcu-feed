@@ -1,1 +1,2 @@
-- Builders got MiniMax M3.1 Flash's open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name — https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/ (score 11)
+- Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4? — https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/ (score 11)
+- fix(cua-spacesd): a file write on the Cua Volume mount no longer fail… — https://github.com/trycua/cua/commit/8c55aa4ca8b998c0198625b4df517c5987ecfb0e (score 4)

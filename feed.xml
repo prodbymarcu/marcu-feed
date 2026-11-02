@@ -1,7 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Builders got MiniMax M3.1 Flash&#x27;s open weights from 252.4 GB down to 93 GB in 10 days, and the lab thanked them by name</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm0b7r/builders_got_minimax_m31_flashs_open_weights_from/</link>
-      <guid isPermaLink="false">t3_1xm0b7r</guid>
-      <pubDate>Mon, 02 Nov 2026 13:41:00 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://x.com/MiniMax_AI/status/2116996123164569606&quot;&gt;MiniMax posted a thank-you yesterday&lt;/a&gt; for everyone quantizing M3.1 Flash (428B, 252.4 GB), and I went through the ones they named. Numbers ar | why kept: minimax, agent, quant, tool call</description>
+      <title>Am I the only one who frequently opens this subreddit and stumbles upon announcements about Qwen4?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this/</link>
+      <guid isPermaLink="false">t3_1xm506n</guid>
+      <pubDate>Mon, 02 Nov 2026 14:05:30 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I swear it feels like an addiction... I keep refreshing the page repeatedly, waiting to see the fateful launch announcement or at least a countdown. I hope I’m not the only one cooked with this stuff 😭😭😭&lt;/p | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-spacesd): a file write on the Cua Volume mount no longer fail…</title>
+      <link>https://github.com/trycua/cua/commit/8c55aa4ca8b998c0198625b4df517c5987ecfb0e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8c55aa4ca8b998c0198625b4df517c5987ecfb0e</guid>
+      <pubDate>Mon, 02 Nov 2026 14:05:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spacesd): a file write on the Cua Volume mount no longer fails after the file is in place (#6322)
+
+* fix(cua-driver): a viewer&amp;#39;s Delete key deletes forward on macOS
+
+The interactive i | why kept: agent, claude</description>
     </item></channel></rss>
