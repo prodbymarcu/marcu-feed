@@ -1,2 +1,1 @@
-- Qwen 4 When ? — https://www.reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when/ (score 11)
-- [Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter — https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/ (score 6)
+- docs(spaces): say computers instead of machines (CUA-3066) (#6313) — https://github.com/trycua/cua/commit/4074d0dfadeefee29c6a482d0b120456768c0a5e (score 2)
