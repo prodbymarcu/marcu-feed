@@ -1,30 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/</link>
-      <guid isPermaLink="false">t3_1xlusil</guid>
-      <pubDate>Mon, 02 Nov 2026 06:51:53 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains&lt;/p&gt; &lt;p&gt;honestly we in &lt;a href=&quot;/r/LocalLLaMA&quot;&gt;r/LocalLLaMA&lt;/a&gt; need a revolution of peopl | why kept: local, quant, llama</description>
-    </item>
-    <item>
-      <title>ui: disable model deletion the server would refuse (#31305)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5c2ea1ab11a17a750dabffe31e8c182ddf4966cc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5c2ea1ab11a17a750dabffe31e8c182ddf4966cc</guid>
-      <pubDate>Mon, 02 Nov 2026 06:51:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: disable model deletion the server would refuse (#31305)
+      <title>vulkan: add tensor-parallel allreduce function (#25051)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/dcbb0916772195bee457d23751edf8c1cbdc707e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dcbb0916772195bee457d23751edf8c1cbdc707e</guid>
+      <pubDate>Mon, 02 Nov 2026 07:08:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: add tensor-parallel allreduce function (#25051)
 
-The router only removes models it took from the Hugging Face cache, but
-the models manager offered &amp;quot;Delete from disk&amp;quot; for ev | why kept: model, claude</description>
-    </item>
-    <item>
-      <title>sycl: dmmv code cleanup (#31325)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5e18eb021b021a133cfa4d9ac84dab644bc24318</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5e18eb021b021a133cfa4d9ac84dab644bc24318</guid>
-      <pubDate>Mon, 02 Nov 2026 06:51:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;sycl: dmmv code cleanup (#31325)
+* vulkan: add tensor-parallel all-reduce communication
 
-* sycl: fold q8_0 reorder dmmv into the generic template
+* vulkan: require shared semaphores for tensor communication
 
-* sycl: template the dmmv non-K launchers
+Assisted-by: Codex
 
-* sycl: template the dmmv K-quant launchers&lt;/pre&gt; | why kept: quant</description>
+ | why kept: codex</description>
     </item></channel></rss>

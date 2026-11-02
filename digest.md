@@ -1,3 +1,1 @@
-- Proposal: A community revolution for private quality benchmarks (and why endless chasing tok/s is rotting our brains — https://www.reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private/ (score 6)
-- ui: disable model deletion the server would refuse (#31305) — https://github.com/ggml-org/llama.cpp/commit/5c2ea1ab11a17a750dabffe31e8c182ddf4966cc (score 4)
-- sycl: dmmv code cleanup (#31325) — https://github.com/ggml-org/llama.cpp/commit/5e18eb021b021a133cfa4d9ac84dab644bc24318 (score 2)
+- vulkan: add tensor-parallel allreduce function (#25051) — https://github.com/ggml-org/llama.cpp/commit/dcbb0916772195bee457d23751edf8c1cbdc707e (score 2)
