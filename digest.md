@@ -1,2 +1,2 @@
-- ci(spaces): build and bundle the microVM guest init in the shadow/nig… — https://github.com/trycua/cua/commit/22a67eacd15dc71811e330ed88951dd615bb395d (score 7)
-- DeepSeek V4.1 Flash 1017 is really golden. — https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/ (score 2)
+- Qwen 4 When ? — https://www.reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when/ (score 11)
+- [Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter — https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/ (score 6)

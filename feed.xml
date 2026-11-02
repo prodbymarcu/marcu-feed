@@ -1,16 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(spaces): build and bundle the microVM guest init in the shadow/nig…</title>
-      <link>https://github.com/trycua/cua/commit/22a67eacd15dc71811e330ed88951dd615bb395d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/22a67eacd15dc71811e330ed88951dd615bb395d</guid>
-      <pubDate>Mon, 02 Nov 2026 09:41:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): build and bundle the microVM guest init in the shadow/nightly macOS build (CUA-3090) (#6310)
-
-The shadow build (and the nightly that calls it) ran build-release.sh --skip-cargo withou | why kept: trycua, claude</description>
+      <title>Qwen 4 When ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when/</link>
+      <guid isPermaLink="false">t3_1xlz5dz</guid>
+      <pubDate>Mon, 02 Nov 2026 10:34:44 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Rumors went it was supposed to be out at start of this month...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/BringTea_666&quot;&gt; /u/BringTea_666 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>DeepSeek V4.1 Flash 1017 is really golden.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlwrh1/deepseek_v41_flash_1017_is_really_golden/</link>
-      <guid isPermaLink="false">t3_1xlwrh1</guid>
-      <pubDate>Mon, 02 Nov 2026 09:41:52 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;tl;dr:&lt;/em&gt;&lt;/strong&gt; &lt;em&gt;love LLMs to learn things, but only closed-source models were truly reliable for me, until 1017 came up: it&amp;#39;s great and fast for everything&lt;/em&gt;&lt;/p&gt; &lt;p&gt;This is just  | why kept: model</description>
+      <title>[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/</link>
+      <guid isPermaLink="false">t3_1xlys6k</guid>
+      <pubDate>Mon, 02 Nov 2026 10:34:44 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/g3qx4abmm7zh1.png?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=1c211cc02f7d | why kept: model, local, llama</description>
     </item></channel></rss>
