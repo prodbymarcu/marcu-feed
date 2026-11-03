@@ -1,2 +1,1 @@
-- [AINews] LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop — https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/ (score 9)
-- fix(cua-driver): stop the X11 agent cursor splitting in two while it … — https://github.com/trycua/cua/commit/e2c8e33e51233731ad7525126434853775fa0128 (score 2)
+- opencl: add initial iq4_xs support (#31339) — https://github.com/ggml-org/llama.cpp/commit/e6192de0a62b73f566f825ecb531f7e4fe699eae (score 2)

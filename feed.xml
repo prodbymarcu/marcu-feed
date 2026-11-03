@@ -1,17 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[AINews] LLMs can read &amp; write neural network weights: &quot;Weight Space Programming&quot; cuts Autoresearch out of the RSI loop</title>
-      <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
-      <guid isPermaLink="false">urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f</guid>
-      <pubDate>Tue, 03 Nov 2026 00:41:52 +0000</pubDate>
-      <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark. | why kept: qwen, agent, qwen</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): stop the X11 agent cursor splitting in two while it …</title>
-      <link>https://github.com/trycua/cua/commit/e2c8e33e51233731ad7525126434853775fa0128</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e2c8e33e51233731ad7525126434853775fa0128</guid>
-      <pubDate>Tue, 03 Nov 2026 00:41:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): stop the X11 agent cursor splitting in two while it moves (#6343)
+      <title>opencl: add initial iq4_xs support (#31339)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e6192de0a62b73f566f825ecb531f7e4fe699eae</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e6192de0a62b73f566f825ecb531f7e4fe699eae</guid>
+      <pubDate>Tue, 03 Nov 2026 01:05:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: add initial iq4_xs support (#31339)
 
-The X11 overlay reshaped its full-screen window every frame and uploaded
-the pixels as a separate request. Two  | why kept: agent</description>
+* opencl: add iq4_xs AOS mv
+
+Assisted-by: Codex
+
+* opencl: add iq4_xs SOA mv and tiled mm
+
+Assisted-by: Codex
+
+* opencl: add iq4_xs noshuffle gemm/gem | why kept: codex</description>
     </item></channel></rss>
