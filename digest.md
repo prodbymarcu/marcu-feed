@@ -1,1 +1,1 @@
-- Has anyone done a in-depth comparison between Qwen-3.8 27b @ 8bpw and Qwen-3.8-FN @ 4bpw? — https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between/ (score 11)
+- Tokens/s? "World's biggest PCIe graphics card" discovered, prototype AMD Radeon RX 470 board with four GPUs has been pic — https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/ (score 4)

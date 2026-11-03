@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Has anyone done a in-depth comparison between Qwen-3.8 27b @ 8bpw and Qwen-3.8-FN @ 4bpw?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmv9ju/has_anyone_done_a_indepth_comparison_between/</link>
-      <guid isPermaLink="false">t3_1xmv9ju</guid>
-      <pubDate>Tue, 03 Nov 2026 15:44:45 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Title says it all, I run dual 3090s (check out my post here for my &lt;a href=&quot;https://old.reddit.com/r/LocalLLM/comments/1wtxrrv/sharing_my_qwen3827b_at_8bit_on_2x_rtx_3090_with/&quot;&gt;setup&lt;/a&gt;) at int8A16 and ha | why kept: qwen, qwen, local, context window</description>
+      <title>Tokens/s? &quot;World&#x27;s biggest PCIe graphics card&quot; discovered, prototype AMD Radeon RX 470 board with four GPUs has been pictured</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/</link>
+      <guid isPermaLink="false">t3_1xn40w7</guid>
+      <pubDate>Tue, 03 Nov 2026 16:15:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/B38a_rtrFGqhp-EjUZsGxxRyVH-VfW769T3Mrwbor9c.jpeg?width=640&amp;amp;crop=smart | why kept: local, llama</description>
     </item></channel></rss>
