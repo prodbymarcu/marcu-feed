@@ -1,17 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>New sparse attention method for ultra-long context</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/</link>
-      <guid isPermaLink="false">t3_1xmbj0v</guid>
-      <pubDate>Mon, 02 Nov 2026 18:35:02 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am on the team behind the attached open-source research on novel approaches to attention - specifically we show: &lt;/p&gt; &lt;p&gt;• You can sparsify the attention of Qwen 3.8 27B without observed loss on accuracy  | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>style(e2e): black-format cua-sdk python conftest (#6331)</title>
-      <link>https://github.com/trycua/cua/commit/2ee2069d27421548f2cf09b806377ca128f503af</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2ee2069d27421548f2cf09b806377ca128f503af</guid>
-      <pubDate>Mon, 02 Nov 2026 18:35:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;style(e2e): black-format cua-sdk python conftest (#6331)
-
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
+      <title>Qwen 3.8 27b is sometimes so smart it scares me...</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/</link>
+      <guid isPermaLink="false">t3_1xmbym0</guid>
+      <pubDate>Mon, 02 Nov 2026 19:29:06 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For fun, I gave Qwen 3.8 27b a physics problem involving some heavy math. A little bit into its reasoning, Qwen took a look at its tools, found that it had access to Blender via blender mcp - and that it co | why kept: qwen, model, qwen, local</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- New sparse attention method for ultra-long context — https://www.reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context/ (score 7)
-- style(e2e): black-format cua-sdk python conftest (#6331) — https://github.com/trycua/cua/commit/2ee2069d27421548f2cf09b806377ca128f503af (score 7)
+- Qwen 3.8 27b is sometimes so smart it scares me... — https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/ (score 11)
