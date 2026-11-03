@@ -1,3 +1,2 @@
-- Qwen3.8-Flash-Next (local) vs Claude — https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/ (score 18)
-- fix(cua-relay): the per-token computer limit holds when joins race (#… — https://github.com/trycua/cua/commit/83b94491d637cbb416844e18ee713f8e9959a3cd (score 7)
-- llama + CUDA: flash_attn_ext_rows (fix unified kv for multi-seq) by am17an · Pull Request #29510 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for/ (score 4)
+- What Qwen is thinking when it gets stuck saying "Wait" — https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/ (score 11)
+- feat(telemetry): report which step a Space start failed at (CUA-3139)… — https://github.com/trycua/cua/commit/4d985c120924e3210b9fdcd60907377a74eae579 (score 2)

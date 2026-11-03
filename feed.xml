@@ -1,24 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen3.8-Flash-Next (local) vs Claude</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/</link>
-      <guid isPermaLink="false">t3_1xmolk6</guid>
-      <pubDate>Tue, 03 Nov 2026 09:37:27 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am seriously impressed and want to share my experience.&lt;/p&gt; &lt;p&gt;Qwen3.8-Flash-Next (local) vs Claude in Claude Code: reviewing one real commit&lt;/p&gt; &lt;p&gt;I ran the same code review twice on one commit in my re | why kept: unsloth, qwen, claude, qwen, local, llama</description>
+      <title>What Qwen is thinking when it gets stuck saying &quot;Wait&quot;</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/</link>
+      <guid isPermaLink="false">t3_1xms9ii</guid>
+      <pubDate>Tue, 03 Nov 2026 10:22:23 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/9xp6rgam8ezh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25b05413f0335 | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>fix(cua-relay): the per-token computer limit holds when joins race (#…</title>
-      <link>https://github.com/trycua/cua/commit/83b94491d637cbb416844e18ee713f8e9959a3cd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83b94491d637cbb416844e18ee713f8e9959a3cd</guid>
-      <pubDate>Tue, 03 Nov 2026 09:37:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-relay): the per-token computer limit holds when joins race (#6391)
+      <title>feat(telemetry): report which step a Space start failed at (CUA-3139)…</title>
+      <link>https://github.com/trycua/cua/commit/4d985c120924e3210b9fdcd60907377a74eae579</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d985c120924e3210b9fdcd60907377a74eae579</guid>
+      <pubDate>Tue, 03 Nov 2026 10:22:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(telemetry): report which step a Space start failed at (CUA-3139) (#6377)
 
-The limit was settled after the insert by the join&amp;#39;s generation, so a
-join that upgraded earlier but was inserted l | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>llama + CUDA: flash_attn_ext_rows (fix unified kv for multi-seq) by am17an · Pull Request #29510 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for/</link>
-      <guid isPermaLink="false">t3_1xm27fp</guid>
-      <pubDate>Tue, 03 Nov 2026 09:37:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/qmYv_pH3V9-8sFPre2VaIOhPHtkkIZPFb1UnBzjZCOE.png?width=640&amp;amp;cro | why kept: local, llama</description>
+* telemetry: failed_step and finer runtime subclasses for Space create failures (CUA-3139)
+
+Co-Authored-By: Claude S | why kept: claude</description>
     </item></channel></rss>
