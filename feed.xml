@@ -1,21 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: run local browser tests in installed Chrome with its sandbox on (…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d1c4e5bec1db1aa7feb2ee62a290e16d14b5c85a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d1c4e5bec1db1aa7feb2ee62a290e16d14b5c85a</guid>
-      <pubDate>Tue, 03 Nov 2026 13:09:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: run local browser tests in installed Chrome with its sandbox on (#31596)
-
-Playwright&amp;#39;s bundled Chromium lags behind Chrome security releases
-(1.56.1 ships 141, and even 1.64.1 ships 156.0 | why kept: claude, local</description>
+      <title>Strata is the shit</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit/</link>
+      <guid isPermaLink="false">t3_1xmt6kb</guid>
+      <pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Have been using qwen 3.8 flash next with llamaserver. Was getting 70-80tk/s decode and was happy. Then read about strata and decided to give it a try. Decode shot up to 150 tk/s. Not sure what magic it&amp;#39; | why kept: unsloth, qwen, qwen, quant, llama</description>
     </item>
     <item>
-      <title>fix(cua-driver): scope bounded launch_app to resources.apps launch gr…</title>
-      <link>https://github.com/trycua/cua/commit/6012aa7e47006756dc186ef41a538ada3303f3f8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6012aa7e47006756dc186ef41a538ada3303f3f8</guid>
-      <pubDate>Tue, 03 Nov 2026 13:09:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): scope bounded launch_app to resources.apps launch grants (#5690)
+      <title>[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/</link>
+      <guid isPermaLink="false">t3_1xmzo2s</guid>
+      <pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>ci: drop the stray FSL headers from the verify-cua-spaces skill scrip…</title>
+      <link>https://github.com/trycua/cua/commit/64edd5b536bdceeb89bf5f6dd4dea86296434920</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/64edd5b536bdceeb89bf5f6dd4dea86296434920</guid>
+      <pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: drop the stray FSL headers from the verify-cua-spaces skill scripts (#6404)
 
-* fix(cua-driver): scope bounded launch_app to resources.apps launch grants
-
-In bounded mode, launch_app was aut | why kept: agent</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>

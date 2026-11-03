@@ -1,2 +1,3 @@
-- ui: run local browser tests in installed Chrome with its sandbox on (… — https://github.com/ggml-org/llama.cpp/commit/d1c4e5bec1db1aa7feb2ee62a290e16d14b5c85a (score 4)
-- fix(cua-driver): scope bounded launch_app to resources.apps launch gr… — https://github.com/trycua/cua/commit/6012aa7e47006756dc186ef41a538ada3303f3f8 (score 2)
+- Strata is the shit — https://www.reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit/ (score 16)
+- [2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime — https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/ (score 4)
+- ci: drop the stray FSL headers from the verify-cua-spaces skill scrip… — https://github.com/trycua/cua/commit/64edd5b536bdceeb89bf5f6dd4dea86296434920 (score 2)
