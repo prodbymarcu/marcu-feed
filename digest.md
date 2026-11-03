@@ -1,3 +1,1 @@
-- llama : drop the redundant cnv from llm_attn_mask (#31558) — https://github.com/ggml-org/llama.cpp/commit/ca8daad199a9c12c5b54643b974c640939a0f7bd (score 2)
-- dsv4.1: fix llama-context tests with partial offload (#31292) — https://github.com/ggml-org/llama.cpp/commit/0f663d2471bb470c1979999daf7a05ec8fba5673 (score 2)
-- cuda : prevent premature eviction of graphs about to be used (#30662) — https://github.com/ggml-org/llama.cpp/commit/00f113eceb2758158582d56f98bf476b2fe3ed32 (score 2)
+- Underrated benefit of Local AI: Speed — https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/ (score 4)
