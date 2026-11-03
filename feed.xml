@@ -1,13 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>meta: support GLM-5.3 next sm tensor (#30499)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/259d91709d60945911bedb9bcfb2957c6e153ea7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/259d91709d60945911bedb9bcfb2957c6e153ea7</guid>
-      <pubDate>Tue, 03 Nov 2026 04:05:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;meta: support GLM-5.3 next sm tensor (#30499)
+      <title>fix(spaces): keep prereleases off the Stable Sparkle feed; read Stabl…</title>
+      <link>https://github.com/trycua/cua/commit/53460af030d4bda6bb49e7f85a5012118a19eae4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53460af030d4bda6bb49e7f85a5012118a19eae4</guid>
+      <pubDate>Tue, 03 Nov 2026 04:22:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): keep prereleases off the Stable Sparkle feed; read Stable the way the app does (CUA-3131) (#6362)
 
-* meta: support GLM-5.3 next sm tensor
-
-* glm5-next : cont q_absorbed for -sm tensor with non-unified KV
-
-* meta : keep GGML_OP_ARANGE in ggml.h ord | why kept: model</description>
+The site gate read the first appcast item, so a correctly tagged beta on top
+looked | why kept: trycua, claude</description>
     </item></channel></rss>

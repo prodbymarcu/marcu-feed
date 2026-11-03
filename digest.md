@@ -1,1 +1,1 @@
-- meta: support GLM-5.3 next sm tensor (#30499) — https://github.com/ggml-org/llama.cpp/commit/259d91709d60945911bedb9bcfb2957c6e153ea7 (score 2)
+- fix(spaces): keep prereleases off the Stable Sparkle feed; read Stabl… — https://github.com/trycua/cua/commit/53460af030d4bda6bb49e7f85a5012118a19eae4 (score 7)
