@@ -1,1 +1,1 @@
-- cd-cua-spaces: post-publish gate, cua.ai must serve the new release (… — https://github.com/trycua/cua/commit/060fde4e31c4c39a4b1df49d32bca53c6c4bc590 (score 7)
+- metal : fix cpy kernel for dst non-contiguous in dim 0 (#31581) — https://github.com/ggml-org/llama.cpp/commit/36ee3caf7aa2dcb0210bedab1b61ee9f269765d3 (score 2)

@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>cd-cua-spaces: post-publish gate, cua.ai must serve the new release (…</title>
-      <link>https://github.com/trycua/cua/commit/060fde4e31c4c39a4b1df49d32bca53c6c4bc590</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/060fde4e31c4c39a4b1df49d32bca53c6c4bc590</guid>
-      <pubDate>Tue, 03 Nov 2026 03:32:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cd-cua-spaces: post-publish gate, cua.ai must serve the new release (CUA-3128) (#6356)
+      <title>metal : fix cpy kernel for dst non-contiguous in dim 0 (#31581)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/36ee3caf7aa2dcb0210bedab1b61ee9f269765d3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36ee3caf7aa2dcb0210bedab1b61ee9f269765d3</guid>
+      <pubDate>Tue, 03 Nov 2026 03:49:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal : fix cpy kernel for dst non-contiguous in dim 0 (#31581)
 
-Adds a job that waits up to 15 min after a stable release publishes for cua.ai/download, /download/info, th | why kept: trycua, claude</description>
+kernel_cpy_t_t indexed the dst innermost dim with an implicit element-size
+stride instead of args.nb0, so cpy into a permuted view | why kept: llama</description>
     </item></channel></rss>
