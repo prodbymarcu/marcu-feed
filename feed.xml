@@ -1,16 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I found another niche use case for local LLMs, but need some advice</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/</link>
-      <guid isPermaLink="false">t3_1xmfbam</guid>
-      <pubDate>Mon, 02 Nov 2026 21:36:11 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Kind of a random thing, but I&amp;#39;ve gotten to the age where I&amp;#39;m starting to care about what the city council is doing. &lt;/p&gt; &lt;p&gt;So I downloaded all the available council meeting notes from the last 16 y | why kept: qwen, qwen, local</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): bundle cua 0.10.1 in Cua Spaces (#6336)</title>
-      <link>https://github.com/trycua/cua/commit/546de7b3701cbd4628e308c5f361e774518ae1c4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/546de7b3701cbd4628e308c5f361e774518ae1c4</guid>
-      <pubDate>Mon, 02 Nov 2026 21:36:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.10.1 in Cua Spaces (#6336)
-
-cua 0.10.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/</link>
+      <guid isPermaLink="false">t3_1xmgmd8</guid>
+      <pubDate>Mon, 02 Nov 2026 22:58:57 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;In 2024 i purchased an RTX 8000 48gb for $2400. As the market has changed I’ve kept an eye on prices. Two years later, they are available around $2100.&lt;/p&gt; &lt;p&gt;Its a little slower than 3090 at inference (672 | why kept: model, quant, inference</description>
     </item></channel></rss>

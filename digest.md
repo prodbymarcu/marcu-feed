@@ -1,2 +1,1 @@
-- I found another niche use case for local LLMs, but need some advice — https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/ (score 9)
-- fix(spaces-macos): bundle cua 0.10.1 in Cua Spaces (#6336) — https://github.com/trycua/cua/commit/546de7b3701cbd4628e308c5f361e774518ae1c4 (score 5)
+- Rtx 8000 48gb prices have decreased over the last two years while 3090 doubled. — https://www.reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last/ (score 6)
