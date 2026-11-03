@@ -1,4 +1,2 @@
-- [Paper] Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights — https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/ (score 4)
-- ui: add Playwright harness for recording demo videos (#31318) — https://github.com/ggml-org/llama.cpp/commit/0943ca5472f32774375c1648912357b20f57a1c6 (score 4)
-- model : record layer inputs in LFM3 for spec dec (#31598) — https://github.com/ggml-org/llama.cpp/commit/f9448cddc48c129a4abc7ff9c2a84c2b4c101c61 (score 2)
-- ggml: avoid signed overflow in ggml_roll bounds check (#30375) — https://github.com/ggml-org/llama.cpp/commit/0978a6e9022fb9bd6874b86154ee304e81929b9f (score 2)
+- qwen4exp: write the conv state tail without an intermediate cont (#31… — https://github.com/ggml-org/llama.cpp/commit/749db7f034d43d6de01a01f6d8c872d02afa6c7b (score 7)
+- ci: remove Blacksmith allowlist entries (#6381) — https://github.com/trycua/cua/commit/3b741b409b680eacef2323d4d417a060c7df78ae (score 2)

@@ -1,36 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Paper] Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/</link>
-      <guid isPermaLink="false">t3_1xmo5xu</guid>
-      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/u8p9ipni5dzh1.png?width=140&amp;amp;height=80&amp;amp;auto=webp&amp;amp;s=065c157637cf4 | why kept: local, llama</description>
+      <title>qwen4exp: write the conv state tail without an intermediate cont (#31…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/749db7f034d43d6de01a01f6d8c872d02afa6c7b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/749db7f034d43d6de01a01f6d8c872d02afa6c7b</guid>
+      <pubDate>Tue, 03 Nov 2026 06:51:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen4exp: write the conv state tail without an intermediate cont (#31443)
+
+build_conv_state_at makes a contiguous copy of the conv input tail
+before writing it into the recurrent state, so every  | why kept: qwen, qwen</description>
     </item>
     <item>
-      <title>ui: add Playwright harness for recording demo videos (#31318)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0943ca5472f32774375c1648912357b20f57a1c6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0943ca5472f32774375c1648912357b20f57a1c6</guid>
-      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add Playwright harness for recording demo videos (#31318)
+      <title>ci: remove Blacksmith allowlist entries (#6381)</title>
+      <link>https://github.com/trycua/cua/commit/3b741b409b680eacef2323d4d417a060c7df78ae</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3b741b409b680eacef2323d4d417a060c7df78ae</guid>
+      <pubDate>Tue, 03 Nov 2026 06:51:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: remove Blacksmith allowlist entries (#6381)
 
-* ui: add Playwright harness for recording demo videos
-
-Scripted walkthroughs under tools/ui/demo are recorded with Playwright and
-e | why kept: claude, video</description>
-    </item>
-    <item>
-      <title>model : record layer inputs in LFM3 for spec dec (#31598)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/f9448cddc48c129a4abc7ff9c2a84c2b4c101c61</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f9448cddc48c129a4abc7ff9c2a84c2b4c101c61</guid>
-      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : record layer inputs in LFM3 for spec dec (#31598)&lt;/pre&gt; | why kept: model</description>
-    </item>
-    <item>
-      <title>ggml: avoid signed overflow in ggml_roll bounds check (#30375)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0978a6e9022fb9bd6874b86154ee304e81929b9f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0978a6e9022fb9bd6874b86154ee304e81929b9f</guid>
-      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml: avoid signed overflow in ggml_roll bounds check (#30375)
-
-ggml_roll validated each shift with abs(shift), but abs(INT_MIN) is signed
-integer overflow UB evaluated before the bounds check ru | why kept: runs</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>
