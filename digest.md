@@ -1,3 +1,3 @@
-- LFM3-1.7B quantization report: 3.6 GB VRAM lossless; 2.2 GB with modest degradation — https://www.reddit.com/r/LocalLLaMA/comments/1xme6c5/lfm317b_quantization_report_36_gb_vram_lossless/ (score 8)
-- Stealth "Pulse Alpha" on VoldemortCode, appears to use GLM tokeniser - GLM 5.5 perhaps? — https://www.reddit.com/r/LocalLLaMA/comments/1xmtoir/stealth_pulse_alpha_on_voldemortcode_appears_to/ (score 4)
-- model : Add support for Metis-1.6 models (#31134) — https://github.com/ggml-org/llama.cpp/commit/9309bf1bcfe8d52b0fb7ef906474db94041a5e0c (score 4)
+- Is Qwen 3.8 27B still the king — https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/ (score 13)
+- nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xmorim/nvidianvidianemotronlabsreuse_hugging_face/ (score 6)
+- ci(nix): split Rust unit-test deps from crate builds with crane (CUA-… — https://github.com/trycua/cua/commit/cb49620c787857114e4ef43fd88f7e39a81a2abd (score 2)
