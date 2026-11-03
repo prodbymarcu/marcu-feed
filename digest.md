@@ -1,1 +1,1 @@
-- cuda : gather batched tensor reads into mapped host memory (PR to mas… — https://github.com/ggml-org/llama.cpp/commit/740251a920abf92b7744d9c0518ca157db0db579 (score 2)
+- cuda: potential fix for Q8_1 correction sum (#31247) — https://github.com/ggml-org/llama.cpp/commit/8fc0376721e9662d498a5706d7ee8e7574ce99f4 (score 2)
