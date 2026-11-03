@@ -1,2 +1,2 @@
-- Inconsistencies in Unsloth's LiveCodeBench Results — https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/ (score 11)
-- chore(main): release cua-sdk 0.10.1 (#6305) — https://github.com/trycua/cua/commit/7acc0440e44717686eeef41ad7558efeec7efaa4 (score 5)
+- I found another niche use case for local LLMs, but need some advice — https://www.reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but/ (score 9)
+- fix(spaces-macos): bundle cua 0.10.1 in Cua Spaces (#6336) — https://github.com/trycua/cua/commit/546de7b3701cbd4628e308c5f361e774518ae1c4 (score 5)
