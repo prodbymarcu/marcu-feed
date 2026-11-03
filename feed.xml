@@ -1,10 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): keep prereleases off the Stable Sparkle feed; read Stabl…</title>
-      <link>https://github.com/trycua/cua/commit/53460af030d4bda6bb49e7f85a5012118a19eae4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53460af030d4bda6bb49e7f85a5012118a19eae4</guid>
-      <pubDate>Tue, 03 Nov 2026 04:22:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): keep prereleases off the Stable Sparkle feed; read Stable the way the app does (CUA-3131) (#6362)
+      <title>YSK: Strata and polystrata have this functionality called answer_room</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm8aki/ysk_strata_and_polystrata_have_this_functionality/</link>
+      <guid isPermaLink="false">t3_1xm8aki</guid>
+      <pubDate>Tue, 03 Nov 2026 04:54:53 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;With default settings and thinking on and &lt;em&gt;max_tokens&lt;/em&gt; ≥ 1024, and no explicit &lt;em&gt;reasoning_budget_tokens&lt;/em&gt;, Strata / PolyStrata has a behavior called &lt;em&gt;answer_room&lt;/em&gt; which will silently cap | why kept: model, voice</description>
+    </item>
+    <item>
+      <title>feat(cua-driver): fast path with act-time target guards, behind a def…</title>
+      <link>https://github.com/trycua/cua/commit/a0364e60f721021d4a8aff113257bff49075b727</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a0364e60f721021d4a8aff113257bff49075b727</guid>
+      <pubDate>Tue, 03 Nov 2026 04:54:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): fast path with act-time target guards, behind a default-off flag (CUA-3102) (#6332)
 
-The site gate read the first appcast item, so a correctly tagged beta on top
-looked | why kept: trycua, claude</description>
+* feat(cua-driver): shared fast-path guards behind a default-off flag (CUA-3102)
+
+Platform-f | why kept: free</description>
     </item></channel></rss>
