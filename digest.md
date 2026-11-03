@@ -1,1 +1,1 @@
-- Underrated benefit of Local AI: Speed — https://www.reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed/ (score 4)
+- DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips. — https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/ (score 4)
