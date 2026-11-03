@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Tokens/s? &quot;World&#x27;s biggest PCIe graphics card&quot; discovered, prototype AMD Radeon RX 470 board with four GPUs has been pictured</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/</link>
-      <guid isPermaLink="false">t3_1xn40w7</guid>
-      <pubDate>Tue, 03 Nov 2026 16:15:56 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/B38a_rtrFGqhp-EjUZsGxxRyVH-VfW769T3Mrwbor9c.jpeg?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+      <title>Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RAM</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/</link>
+      <guid isPermaLink="false">t3_1xn4qn1</guid>
+      <pubDate>Tue, 03 Nov 2026 16:45:54 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/nm8ay4jufgzh1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=bfc8f8d731706 | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/</link>
+      <guid isPermaLink="false">t3_1xn568h</guid>
+      <pubDate>Tue, 03 Nov 2026 16:45:54 +0000</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/notheresnolight&quot;&gt; /u/notheresnolight &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out | why kept: claude, local, llama</description>
     </item></channel></rss>

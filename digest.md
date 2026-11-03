@@ -1,1 +1,2 @@
-- Tokens/s? "World's biggest PCIe graphics card" discovered, prototype AMD Radeon RX 470 board with four GPUs has been pic — https://www.reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card/ (score 4)
+- Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RA — https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/ (score 11)
+- British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted — https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/ (score 6)
