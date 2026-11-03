@@ -1,2 +1,3 @@
-- Is there still a point to fine-tuning local LLMs? — https://www.reddit.com/r/LocalLLaMA/comments/1xma1tq/is_there_still_a_point_to_finetuning_local_llms/ (score 10)
-- Qwen 3.8 27B on my laptop can interpret model weights, too — https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ (score 9)
+- Four open coding models, prompted to finish an upload URL - analysis — https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/ (score 6)
+- We’re the product team at Reflection, the lab behind Beam — Ask Us Anything! — https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/ (score 4)
+- fix(cua-driver): record KDE Wayland desktops through the portal Scree… — https://github.com/trycua/cua/commit/776fe70a7a0839630c15ded6ef29ad7359fbe9c2 (score 2)
