@@ -1,3 +1,2 @@
-- Is Qwen 3.8 27B still the king — https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/ (score 13)
-- nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xmorim/nvidianvidianemotronlabsreuse_hugging_face/ (score 6)
-- ci(nix): split Rust unit-test deps from crate builds with crane (CUA-… — https://github.com/trycua/cua/commit/cb49620c787857114e4ef43fd88f7e39a81a2abd (score 2)
+- Is there still a point to fine-tuning local LLMs? — https://www.reddit.com/r/LocalLLaMA/comments/1xma1tq/is_there_still_a_point_to_finetuning_local_llms/ (score 10)
+- Qwen 3.8 27B on my laptop can interpret model weights, too — https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ (score 9)

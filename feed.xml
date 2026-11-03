@@ -1,25 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Is Qwen 3.8 27B still the king</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king/</link>
-      <guid isPermaLink="false">t3_1xms6eq</guid>
-      <pubDate>Tue, 03 Nov 2026 11:29:28 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone, &lt;/p&gt; &lt;p&gt;I&amp;#39;ve been out of the loop for a few weeks, and I was wondering if anything new that replaces Qwen 3.8 27B has come out this time I&amp;#39;ve been in the cave?&lt;/p&gt; &lt;p&gt;I&amp;#39;m talking ab | why kept: qwen, model, qwen, local, llama</description>
+      <title>Is there still a point to fine-tuning local LLMs?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xma1tq/is_there_still_a_point_to_finetuning_local_llms/</link>
+      <guid isPermaLink="false">t3_1xma1tq</guid>
+      <pubDate>Tue, 03 Nov 2026 11:54:14 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been getting more into running LLMs locally, and I&amp;#39;m starting to wonder if fine-tuning is even worth the effort anymore.&lt;/p&gt; &lt;p&gt;Models are getting really good, context windows are huge, and wit | why kept: model, agent, local, fine-tun, context window</description>
     </item>
     <item>
-      <title>nvidia/NVIDIA-NemotronLabs-RE-USE · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmorim/nvidianvidianemotronlabsreuse_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xmorim</guid>
-      <pubDate>Tue, 03 Nov 2026 11:29:28 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmorim/nvidianvidianemotronlabsreuse_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/G99D-OUm2v1MvFezRghYznqaKrJa_54gdMFR2JXjMhc.png?width=640&amp;amp;crop=smart | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>ci(nix): split Rust unit-test deps from crate builds with crane (CUA-…</title>
-      <link>https://github.com/trycua/cua/commit/cb49620c787857114e4ef43fd88f7e39a81a2abd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cb49620c787857114e4ef43fd88f7e39a81a2abd</guid>
-      <pubDate>Tue, 03 Nov 2026 11:29:28 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(nix): split Rust unit-test deps from crate builds with crane (CUA-3134) (#6392)
-
-* ci(nix): build Rust unit-test dependencies as a separate crane derivation (CUA-3134)
-
-Dependencies compile on | why kept: claude</description>
+      <title>Qwen 3.8 27B on my laptop can interpret model weights, too</title>
+      <link>https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/</guid>
+      <pubDate>Tue, 03 Nov 2026 11:54:14 +0000</pubDate>
+      <description>&lt;p&gt;Yesterday&#x27;s hot paper was &lt;a href=&quot;https://rikiyat.github.io/blog/weight-space-programming/&quot;&gt;Sparks of Weight-Space Programming: LLMs can natively read &amp;amp; write neural network weights&lt;/a&gt; by Rikiya Takehi, Jayden Teoh, Alex Zhang, and | why kept: qwen, model, qwen</description>
     </item></channel></rss>
