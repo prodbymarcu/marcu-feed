@@ -1,2 +1,3 @@
-- What Qwen is thinking when it gets stuck saying "Wait" — https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/ (score 11)
-- feat(telemetry): report which step a Space start failed at (CUA-3139)… — https://github.com/trycua/cua/commit/4d985c120924e3210b9fdcd60907377a74eae579 (score 2)
+- LFM3-1.7B quantization report: 3.6 GB VRAM lossless; 2.2 GB with modest degradation — https://www.reddit.com/r/LocalLLaMA/comments/1xme6c5/lfm317b_quantization_report_36_gb_vram_lossless/ (score 8)
+- Stealth "Pulse Alpha" on VoldemortCode, appears to use GLM tokeniser - GLM 5.5 perhaps? — https://www.reddit.com/r/LocalLLaMA/comments/1xmtoir/stealth_pulse_alpha_on_voldemortcode_appears_to/ (score 4)
+- model : Add support for Metis-1.6 models (#31134) — https://github.com/ggml-org/llama.cpp/commit/9309bf1bcfe8d52b0fb7ef906474db94041a5e0c (score 4)

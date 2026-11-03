@@ -1,18 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>What Qwen is thinking when it gets stuck saying &quot;Wait&quot;</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/</link>
-      <guid isPermaLink="false">t3_1xms9ii</guid>
-      <pubDate>Tue, 03 Nov 2026 10:22:23 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/9xp6rgam8ezh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=25b05413f0335 | why kept: qwen, qwen, local, llama</description>
+      <title>LFM3-1.7B quantization report: 3.6 GB VRAM lossless; 2.2 GB with modest degradation</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xme6c5/lfm317b_quantization_report_36_gb_vram_lossless/</link>
+      <guid isPermaLink="false">t3_1xme6c5</guid>
+      <pubDate>Tue, 03 Nov 2026 10:55:25 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xme6c5/lfm317b_quantization_report_36_gb_vram_lossless/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/yo4hmo42hazh1.png?width=140&amp;amp;height=86&amp;amp;auto=webp&amp;amp;s=c55245fb6c37b3 | why kept: model, local, quant, llama</description>
     </item>
     <item>
-      <title>feat(telemetry): report which step a Space start failed at (CUA-3139)…</title>
-      <link>https://github.com/trycua/cua/commit/4d985c120924e3210b9fdcd60907377a74eae579</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d985c120924e3210b9fdcd60907377a74eae579</guid>
-      <pubDate>Tue, 03 Nov 2026 10:22:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(telemetry): report which step a Space start failed at (CUA-3139) (#6377)
+      <title>Stealth &quot;Pulse Alpha&quot; on VoldemortCode, appears to use GLM tokeniser - GLM 5.5 perhaps?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmtoir/stealth_pulse_alpha_on_voldemortcode_appears_to/</link>
+      <guid isPermaLink="false">t3_1xmtoir</guid>
+      <pubDate>Tue, 03 Nov 2026 10:55:25 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Someone please volunteer to test it. Also some people say it feels more like GLM 5.5 Flash&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dany0&quot;&gt; /u/Dany0 &lt;/a&gt; &lt;br/&gt;  | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>model : Add support for Metis-1.6 models (#31134)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9309bf1bcfe8d52b0fb7ef906474db94041a5e0c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9309bf1bcfe8d52b0fb7ef906474db94041a5e0c</guid>
+      <pubDate>Tue, 03 Nov 2026 10:55:25 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : Add support for Metis-1.6 models (#31134)
 
-* telemetry: failed_step and finer runtime subclasses for Space create failures (CUA-3139)
-
-Co-Authored-By: Claude S | why kept: claude</description>
+Assisted-by: Claude&lt;/pre&gt; | why kept: model, claude</description>
     </item></channel></rss>
