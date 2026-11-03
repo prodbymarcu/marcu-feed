@@ -1,10 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Reclaim failed creates&#x27; VMs and say what holds a full host (CUA-3139)…</title>
-      <link>https://github.com/trycua/cua/commit/6ccb4fc9bd59f19719ee6e1f3fdfe3421c7433bd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6ccb4fc9bd59f19719ee6e1f3fdfe3421c7433bd</guid>
-      <pubDate>Tue, 03 Nov 2026 07:57:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Reclaim failed creates&amp;#39; VMs and say what holds a full host (CUA-3139) (#6378)
+      <title>ci: give the macOS Swift binding jobs their own compiler cache family…</title>
+      <link>https://github.com/trycua/cua/commit/ead07bdc43f1680306365196809645089e99a08a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ead07bdc43f1680306365196809645089e99a08a</guid>
+      <pubDate>Tue, 03 Nov 2026 08:39:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: give the macOS Swift binding jobs their own compiler cache family (CUA-3134) (#6390)
 
-A failed local create left its VM running when the Space name was chosen by
-the person, and a start whose probes | why kept: local, runs</description>
+e2b-bindings swift tests (macOS) spent 35 to 46 min in a release cua-sdk
+build at 22% sccache hits: the d | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>mtmd : add Nemotron 3.5 Transcribe support (#31471)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/28b812d6cb9cfe569d368c2774c3886ad4fe10e8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/28b812d6cb9cfe569d368c2774c3886ad4fe10e8</guid>
+      <pubDate>Tue, 03 Nov 2026 08:39:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : add Nemotron 3.5 Transcribe support (#31471)
+
+* mtmd : add Nemotron 3.5 Transcribe support
+
+Assisted-by: Claude
+
+* convert : fix vocab of draft models for Nemotron-H targets
+
+Assisted-by:  | why kept: model, claude, local</description>
     </item></channel></rss>

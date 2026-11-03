@@ -1,1 +1,2 @@
-- Reclaim failed creates' VMs and say what holds a full host (CUA-3139)… — https://github.com/trycua/cua/commit/6ccb4fc9bd59f19719ee6e1f3fdfe3421c7433bd (score 4)
+- ci: give the macOS Swift binding jobs their own compiler cache family… — https://github.com/trycua/cua/commit/ead07bdc43f1680306365196809645089e99a08a (score 7)
+- mtmd : add Nemotron 3.5 Transcribe support (#31471) — https://github.com/ggml-org/llama.cpp/commit/28b812d6cb9cfe569d368c2774c3886ad4fe10e8 (score 6)
