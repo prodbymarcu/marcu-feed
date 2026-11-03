@@ -1,7 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>RTX 5090 with 64GB and 96GB VRAM &#x27;confirmed&#x27; by US GPU repair tech</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/</link>
-      <guid isPermaLink="false">t3_1xmqq2a</guid>
-      <pubDate>Tue, 03 Nov 2026 07:25:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/sUaUIg4gPyi02V5b0NK1rnAVb1ZJ441SQYh5TcgEeNY.png?width=640&amp;amp;crop | why kept: local, llama</description>
+      <title>Reclaim failed creates&#x27; VMs and say what holds a full host (CUA-3139)…</title>
+      <link>https://github.com/trycua/cua/commit/6ccb4fc9bd59f19719ee6e1f3fdfe3421c7433bd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6ccb4fc9bd59f19719ee6e1f3fdfe3421c7433bd</guid>
+      <pubDate>Tue, 03 Nov 2026 07:57:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Reclaim failed creates&amp;#39; VMs and say what holds a full host (CUA-3139) (#6378)
+
+A failed local create left its VM running when the Space name was chosen by
+the person, and a start whose probes | why kept: local, runs</description>
     </item></channel></rss>

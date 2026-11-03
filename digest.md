@@ -1,1 +1,1 @@
-- RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech — https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/ (score 4)
+- Reclaim failed creates' VMs and say what holds a full host (CUA-3139)… — https://github.com/trycua/cua/commit/6ccb4fc9bd59f19719ee6e1f3fdfe3421c7433bd (score 4)
