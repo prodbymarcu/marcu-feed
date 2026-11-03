@@ -1,3 +1,1 @@
-- Four open coding models, prompted to finish an upload URL - analysis — https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/ (score 6)
-- We’re the product team at Reflection, the lab behind Beam — Ask Us Anything! — https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/ (score 4)
-- fix(cua-driver): record KDE Wayland desktops through the portal Scree… — https://github.com/trycua/cua/commit/776fe70a7a0839630c15ded6ef29ad7359fbe9c2 (score 2)
+- ci: blobless or shallow checkouts where history isn't needed; pnpm st… — https://github.com/trycua/cua/commit/13c3725377daa8665d1058dc7e84b3df65d2b52c (score 5)

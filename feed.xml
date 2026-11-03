@@ -1,25 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Four open coding models, prompted to finish an upload URL - analysis</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/</link>
-      <guid isPermaLink="false">t3_1xmvn4q</guid>
-      <pubDate>Tue, 03 Nov 2026 12:16:03 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/jZhPXfTmDbM5tAhtwO3qjuaZ74nUValHPZdr9mCYlSs.png?width=640&amp;amp;crop=sm | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/</link>
-      <guid isPermaLink="false">t3_1xmwryg</guid>
-      <pubDate>Tue, 03 Nov 2026 12:16:03 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/v80paHalalhDb_SYXGJaBny066-dcxVxb1z_KPPJZTE.png?width=140&amp;amp;height=75 | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): record KDE Wayland desktops through the portal Scree…</title>
-      <link>https://github.com/trycua/cua/commit/776fe70a7a0839630c15ded6ef29ad7359fbe9c2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/776fe70a7a0839630c15ded6ef29ad7359fbe9c2</guid>
-      <pubDate>Tue, 03 Nov 2026 12:16:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): record KDE Wayland desktops through the portal ScreenCast (#6361)
+      <title>ci: blobless or shallow checkouts where history isn&#x27;t needed; pnpm st…</title>
+      <link>https://github.com/trycua/cua/commit/13c3725377daa8665d1058dc7e84b3df65d2b52c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/13c3725377daa8665d1058dc7e84b3df65d2b52c</guid>
+      <pubDate>Tue, 03 Nov 2026 12:35:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: blobless or shallow checkouts where history isn&amp;#39;t needed; pnpm store cache (CUA-3134) (#6394)
 
-* feat(cua-driver): record Wayland video through the portal ScreenCast on compositors without wlr-screencopy
-
-K | why kept: video</description>
+- ci-check-docs-links code-block job: shallow checkout, fetch only the base commit&amp;#39;s bas | why kept: trycua</description>
     </item></channel></rss>
