@@ -1,2 +1,1 @@
-- ci: add bin/ci to run the affected CI checks locally before push (CUA… — https://github.com/trycua/cua/commit/5c94c7bc67eb07f81c2db1575c6e80b80309f066 (score 4)
-- feat(spaces): the new setup prepares the first Space while you set up… — https://github.com/trycua/cua/commit/2829e00b180dfb08ca5ff4cbd7c95e0a14ad3409 (score 2)
+- RTX 5090 with 64GB and 96GB VRAM 'confirmed' by US GPU repair tech — https://www.reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us/ (score 4)
