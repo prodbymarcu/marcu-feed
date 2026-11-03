@@ -1,24 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/</link>
-      <guid isPermaLink="false">t3_1xn6mm0</guid>
-      <pubDate>Tue, 03 Nov 2026 17:48:44 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RjgfsmDgPzKbigszPlsO5md7O0FzZxk9NWj1nOBMGx4.png?width=640&amp;amp;crop=s | why kept: local, llama</description>
+      <title>mtmd: accurate support for qwen3-vl video prompt format (#31619)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/149f5641b931aaf33697d70f9abc90c3e5300247</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/149f5641b931aaf33697d70f9abc90c3e5300247</guid>
+      <pubDate>Tue, 03 Nov 2026 18:27:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: accurate support for qwen3-vl video prompt format (#31619)&lt;/pre&gt; | why kept: qwen, qwen, video</description>
     </item>
     <item>
-      <title>model, mtmd: add chatterbox TTS support (#30993)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/b97627967c89a5ef135c2da945a036abe2d22ed3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b97627967c89a5ef135c2da945a036abe2d22ed3</guid>
-      <pubDate>Tue, 03 Nov 2026 17:48:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model, mtmd: add chatterbox TTS support (#30993)
-
-* add chatterbox TTS support
-
-Co-authored-by: Pascal &amp;lt;admin@serveurperso.com&amp;gt;
-
-* add built-in voice support
-
-* rm redundant code
-
-* clean u | why kept: model, voice</description>
+      <title>[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/</link>
+      <guid isPermaLink="false">t3_1xn7rfh</guid>
+      <pubDate>Tue, 03 Nov 2026 18:27:53 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Upvote, now!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ParaboloidalCrest&quot;&gt; /u/ParaboloidalCrest &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/com | why kept: local, quant, llama, hardware</description>
     </item></channel></rss>

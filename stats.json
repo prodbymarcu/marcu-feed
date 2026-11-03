@@ -1,10 +1,9 @@
 {
- "fetched": 185,
- "new": 5,
+ "fetched": 190,
+ "new": 8,
  "dropped_kill": 0,
- "dropped_low": 2,
+ "dropped_low": 5,
  "errors": [
-  "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
@@ -13,5 +12,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 2,
- "at": "2026-11-03T22:48:44Z"
+ "at": "2026-11-03T23:27:53Z"
 }

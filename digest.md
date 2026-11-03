@@ -1,2 +1,2 @@
-- gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/ll — https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/ (score 4)
-- model, mtmd: add chatterbox TTS support (#30993) — https://github.com/ggml-org/llama.cpp/commit/b97627967c89a5ef135c2da945a036abe2d22ed3 (score 4)
+- mtmd: accurate support for qwen3-vl video prompt format (#31619) — https://github.com/ggml-org/llama.cpp/commit/149f5641b931aaf33697d70f9abc90c3e5300247 (score 9)
+- [llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg] — https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/ (score 8)
