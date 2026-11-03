@@ -1,19 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qwen4exp: write the conv state tail without an intermediate cont (#31…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/749db7f034d43d6de01a01f6d8c872d02afa6c7b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/749db7f034d43d6de01a01f6d8c872d02afa6c7b</guid>
-      <pubDate>Tue, 03 Nov 2026 06:51:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen4exp: write the conv state tail without an intermediate cont (#31443)
+      <title>ci: add bin/ci to run the affected CI checks locally before push (CUA…</title>
+      <link>https://github.com/trycua/cua/commit/5c94c7bc67eb07f81c2db1575c6e80b80309f066</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5c94c7bc67eb07f81c2db1575c6e80b80309f066</guid>
+      <pubDate>Tue, 03 Nov 2026 07:08:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: add bin/ci to run the affected CI checks locally before push (CUA-3134) (#6383)
 
-build_conv_state_at makes a contiguous copy of the conv input tail
-before writing it into the recurrent state, so every  | why kept: qwen, qwen</description>
+* ci: add bin/ci, the affected CI checks run locally before push (CUA-3134)
+
+bin/ci reads the diff against the | why kept: local, runs</description>
     </item>
     <item>
-      <title>ci: remove Blacksmith allowlist entries (#6381)</title>
-      <link>https://github.com/trycua/cua/commit/3b741b409b680eacef2323d4d417a060c7df78ae</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3b741b409b680eacef2323d4d417a060c7df78ae</guid>
-      <pubDate>Tue, 03 Nov 2026 06:51:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: remove Blacksmith allowlist entries (#6381)
+      <title>feat(spaces): the new setup prepares the first Space while you set up…</title>
+      <link>https://github.com/trycua/cua/commit/2829e00b180dfb08ca5ff4cbd7c95e0a14ad3409</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2829e00b180dfb08ca5ff4cbd7c95e0a14ad3409</guid>
+      <pubDate>Tue, 03 Nov 2026 07:08:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): the new setup prepares the first Space while you set up, behind Labs (CUA-2851) (#6360)
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+* feat(spaces): core for preparing the first Space during setup, resumable downloads (CUA-28 | why kept: agent</description>
     </item></channel></rss>

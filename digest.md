@@ -1,2 +1,2 @@
-- qwen4exp: write the conv state tail without an intermediate cont (#31… — https://github.com/ggml-org/llama.cpp/commit/749db7f034d43d6de01a01f6d8c872d02afa6c7b (score 7)
-- ci: remove Blacksmith allowlist entries (#6381) — https://github.com/trycua/cua/commit/3b741b409b680eacef2323d4d417a060c7df78ae (score 2)
+- ci: add bin/ci to run the affected CI checks locally before push (CUA… — https://github.com/trycua/cua/commit/5c94c7bc67eb07f81c2db1575c6e80b80309f066 (score 4)
+- feat(spaces): the new setup prepares the first Space while you set up… — https://github.com/trycua/cua/commit/2829e00b180dfb08ca5ff4cbd7c95e0a14ad3409 (score 2)
