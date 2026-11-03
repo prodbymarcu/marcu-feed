@@ -1,20 +1,36 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: shard the slowest jobs (CUA-3134) (#6368)</title>
-      <link>https://github.com/trycua/cua/commit/e167fc44a4c2d5db1e37f16f0544c4f36b1b736c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e167fc44a4c2d5db1e37f16f0544c4f36b1b736c</guid>
-      <pubDate>Tue, 03 Nov 2026 06:19:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: shard the slowest jobs (CUA-3134) (#6368)
-
-Rust (ubuntu) in ci-cua-sdk: 3 nextest shards behind the unchanged check name.
-Rust Windows unit and compile: 3 shards behind the unchanged check na | why kept: trycua, claude</description>
+      <title>[Paper] Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/</link>
+      <guid isPermaLink="false">t3_1xmo5xu</guid>
+      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmo5xu/paper_sparks_of_weightspace_programming_llms_can/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/u8p9ipni5dzh1.png?width=140&amp;amp;height=80&amp;amp;auto=webp&amp;amp;s=065c157637cf4 | why kept: local, llama</description>
     </item>
     <item>
-      <title>fix(spaces): This Mac tasks open the task page, not the unlisted rela…</title>
-      <link>https://github.com/trycua/cua/commit/1e23148bb3374b6e2eac8ca11a2f7f98a33a01a1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1e23148bb3374b6e2eac8ca11a2f7f98a33a01a1</guid>
-      <pubDate>Tue, 03 Nov 2026 06:19:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): This Mac tasks open the task page, not the unlisted relay Space (#6363) (#6371)
+      <title>ui: add Playwright harness for recording demo videos (#31318)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0943ca5472f32774375c1648912357b20f57a1c6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0943ca5472f32774375c1648912357b20f57a1c6</guid>
+      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add Playwright harness for recording demo videos (#31318)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@ | why kept: trycua, claude</description>
+* ui: add Playwright harness for recording demo videos
+
+Scripted walkthroughs under tools/ui/demo are recorded with Playwright and
+e | why kept: claude, video</description>
+    </item>
+    <item>
+      <title>model : record layer inputs in LFM3 for spec dec (#31598)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/f9448cddc48c129a4abc7ff9c2a84c2b4c101c61</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f9448cddc48c129a4abc7ff9c2a84c2b4c101c61</guid>
+      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : record layer inputs in LFM3 for spec dec (#31598)&lt;/pre&gt; | why kept: model</description>
+    </item>
+    <item>
+      <title>ggml: avoid signed overflow in ggml_roll bounds check (#30375)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0978a6e9022fb9bd6874b86154ee304e81929b9f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0978a6e9022fb9bd6874b86154ee304e81929b9f</guid>
+      <pubDate>Tue, 03 Nov 2026 06:35:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml: avoid signed overflow in ggml_roll bounds check (#30375)
+
+ggml_roll validated each shift with abs(shift), but abs(INT_MIN) is signed
+integer overflow UB evaluated before the bounds check ru | why kept: runs</description>
     </item></channel></rss>
