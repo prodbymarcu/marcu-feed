@@ -1,13 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>cuda: potential fix for Q8_1 correction sum (#31247)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8fc0376721e9662d498a5706d7ee8e7574ce99f4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8fc0376721e9662d498a5706d7ee8e7574ce99f4</guid>
-      <pubDate>Tue, 03 Nov 2026 05:28:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda: potential fix for Q8_1 correction sum (#31247)
+      <title>conversion : use original model tensor names in _flush_nvfp4_experts …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0ef27309b78d054832e44a95a6fb9314d4b7363c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0ef27309b78d054832e44a95a6fb9314d4b7363c</guid>
+      <pubDate>Tue, 03 Nov 2026 05:44:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;conversion : use original model tensor names in _flush_nvfp4_experts (#31427)
 
-* cuda: potential fix for Q8_1 correction sum
-
-* Update ggml/src/ggml-cuda/quantize.cu
-
-Co-authored-by: Gaurav Garg &amp;lt;gaugarg@nvidia.com&amp;gt | why kept: quant</description>
+This commit updates the _flush_nvfp4_experts to take a new parameter
+which is a dictionary mapping the key to the or | why kept: model</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- cuda: potential fix for Q8_1 correction sum (#31247) — https://github.com/ggml-org/llama.cpp/commit/8fc0376721e9662d498a5706d7ee8e7574ce99f4 (score 2)
+- conversion : use original model tensor names in _flush_nvfp4_experts … — https://github.com/ggml-org/llama.cpp/commit/0ef27309b78d054832e44a95a6fb9314d4b7363c (score 2)
