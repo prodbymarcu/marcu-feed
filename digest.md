@@ -1,1 +1,2 @@
-- Qwen 3.8 27b is sometimes so smart it scares me... — https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/ (score 11)
+- Inconsistencies in Unsloth's LiveCodeBench Results — https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/ (score 11)
+- chore(main): release cua-sdk 0.10.1 (#6305) — https://github.com/trycua/cua/commit/7acc0440e44717686eeef41ad7558efeec7efaa4 (score 5)

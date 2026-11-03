@@ -1,7 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen 3.8 27b is sometimes so smart it scares me...</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/</link>
-      <guid isPermaLink="false">t3_1xmbym0</guid>
-      <pubDate>Mon, 02 Nov 2026 19:29:06 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;For fun, I gave Qwen 3.8 27b a physics problem involving some heavy math. A little bit into its reasoning, Qwen took a look at its tools, found that it had access to Blender via blender mcp - and that it co | why kept: qwen, model, qwen, local</description>
+      <title>Inconsistencies in Unsloth&#x27;s LiveCodeBench Results</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/</link>
+      <guid isPermaLink="false">t3_1xm9i4x</guid>
+      <pubDate>Mon, 02 Nov 2026 20:18:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm9i4x/inconsistencies_in_unsloths_livecodebench_results/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/00uxd0ikk9zh1.jpeg?width=140&amp;amp;height=64&amp;amp;auto=webp&amp;amp;s=e8a0fa3a3b7 | why kept: unsloth, local, quant, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.10.1 (#6305)</title>
+      <link>https://github.com/trycua/cua/commit/7acc0440e44717686eeef41ad7558efeec7efaa4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7acc0440e44717686eeef41ad7558efeec7efaa4</guid>
+      <pubDate>Mon, 02 Nov 2026 20:18:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.10.1 (#6305)
+
+* chore(main): release cua-sdk 0.10.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
