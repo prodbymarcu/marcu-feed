@@ -1,25 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: give the macOS Swift binding jobs their own compiler cache family…</title>
-      <link>https://github.com/trycua/cua/commit/ead07bdc43f1680306365196809645089e99a08a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ead07bdc43f1680306365196809645089e99a08a</guid>
-      <pubDate>Tue, 03 Nov 2026 08:39:10 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: give the macOS Swift binding jobs their own compiler cache family (CUA-3134) (#6390)
-
-e2b-bindings swift tests (macOS) spent 35 to 46 min in a release cua-sdk
-build at 22% sccache hits: the d | why kept: trycua, claude</description>
+      <title>Qwen3.8-Flash-Next (local) vs Claude</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/</link>
+      <guid isPermaLink="false">t3_1xmolk6</guid>
+      <pubDate>Tue, 03 Nov 2026 09:37:27 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am seriously impressed and want to share my experience.&lt;/p&gt; &lt;p&gt;Qwen3.8-Flash-Next (local) vs Claude in Claude Code: reviewing one real commit&lt;/p&gt; &lt;p&gt;I ran the same code review twice on one commit in my re | why kept: unsloth, qwen, claude, qwen, local, llama</description>
     </item>
     <item>
-      <title>mtmd : add Nemotron 3.5 Transcribe support (#31471)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/28b812d6cb9cfe569d368c2774c3886ad4fe10e8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/28b812d6cb9cfe569d368c2774c3886ad4fe10e8</guid>
-      <pubDate>Tue, 03 Nov 2026 08:39:10 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : add Nemotron 3.5 Transcribe support (#31471)
+      <title>fix(cua-relay): the per-token computer limit holds when joins race (#…</title>
+      <link>https://github.com/trycua/cua/commit/83b94491d637cbb416844e18ee713f8e9959a3cd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83b94491d637cbb416844e18ee713f8e9959a3cd</guid>
+      <pubDate>Tue, 03 Nov 2026 09:37:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-relay): the per-token computer limit holds when joins race (#6391)
 
-* mtmd : add Nemotron 3.5 Transcribe support
-
-Assisted-by: Claude
-
-* convert : fix vocab of draft models for Nemotron-H targets
-
-Assisted-by:  | why kept: model, claude, local</description>
+The limit was settled after the insert by the join&amp;#39;s generation, so a
+join that upgraded earlier but was inserted l | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>llama + CUDA: flash_attn_ext_rows (fix unified kv for multi-seq) by am17an · Pull Request #29510 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for/</link>
+      <guid isPermaLink="false">t3_1xm27fp</guid>
+      <pubDate>Tue, 03 Nov 2026 09:37:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/qmYv_pH3V9-8sFPre2VaIOhPHtkkIZPFb1UnBzjZCOE.png?width=640&amp;amp;cro | why kept: local, llama</description>
     </item></channel></rss>

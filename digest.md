@@ -1,2 +1,3 @@
-- ci: give the macOS Swift binding jobs their own compiler cache family… — https://github.com/trycua/cua/commit/ead07bdc43f1680306365196809645089e99a08a (score 7)
-- mtmd : add Nemotron 3.5 Transcribe support (#31471) — https://github.com/ggml-org/llama.cpp/commit/28b812d6cb9cfe569d368c2774c3886ad4fe10e8 (score 6)
+- Qwen3.8-Flash-Next (local) vs Claude — https://www.reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude/ (score 18)
+- fix(cua-relay): the per-token computer limit holds when joins race (#… — https://github.com/trycua/cua/commit/83b94491d637cbb416844e18ee713f8e9959a3cd (score 7)
+- llama + CUDA: flash_attn_ext_rows (fix unified kv for multi-seq) by am17an · Pull Request #29510 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xm27fp/llama_cuda_flash_attn_ext_rows_fix_unified_kv_for/ (score 4)
