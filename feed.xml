@@ -1,7 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Alibaba&#x27;s Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/</link>
-      <guid isPermaLink="false">t3_1xmitzx</guid>
-      <pubDate>Mon, 02 Nov 2026 23:29:23 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/rZinDhLetYEVHArY_maRo38c3OtJmbJ7LBLdHOON_YE.png?width=640&amp;amp;crop=sma | why kept: qwen, qwen, local, llama</description>
+      <title>cd-cua-spaces: a stable release is published as not-prerelease (#6347)</title>
+      <link>https://github.com/trycua/cua/commit/01a91d7b9698f73210d5698cb5a7c2418a3d2099</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01a91d7b9698f73210d5698cb5a7c2418a3d2099</guid>
+      <pubDate>Mon, 02 Nov 2026 23:49:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cd-cua-spaces: a stable release is published as not-prerelease (#6347)
+
+Release 0.19.4 stayed a prerelease because the Electron job created the draft first with
+--prerelease and the publish step  | why kept: trycua, claude</description>
     </item></channel></rss>
