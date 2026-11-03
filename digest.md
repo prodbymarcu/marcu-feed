@@ -1,1 +1,2 @@
-- ci: blobless or shallow checkouts where history isn't needed; pnpm st… — https://github.com/trycua/cua/commit/13c3725377daa8665d1058dc7e84b3df65d2b52c (score 5)
+- Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights — https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/ (score 13)
+- Railway employee's agent caught hacking competitors — https://twitter.com/ns123abc/status/2117497728737620197 (score 2)

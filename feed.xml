@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: blobless or shallow checkouts where history isn&#x27;t needed; pnpm st…</title>
-      <link>https://github.com/trycua/cua/commit/13c3725377daa8665d1058dc7e84b3df65d2b52c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/13c3725377daa8665d1058dc7e84b3df65d2b52c</guid>
-      <pubDate>Tue, 03 Nov 2026 12:35:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: blobless or shallow checkouts where history isn&amp;#39;t needed; pnpm store cache (CUA-3134) (#6394)
-
-- ci-check-docs-links code-block job: shallow checkout, fetch only the base commit&amp;#39;s bas | why kept: trycua</description>
+      <title>Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/</link>
+      <guid isPermaLink="false">t3_1xmz9ca</guid>
+      <pubDate>Tue, 03 Nov 2026 12:52:20 +0000</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/tarruda&quot;&gt; /u/tarruda &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.c | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Railway employee&#x27;s agent caught hacking competitors</title>
+      <link>https://twitter.com/ns123abc/status/2117497728737620197</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50353257</guid>
+      <pubDate>Tue, 03 Nov 2026 12:52:20 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://twitter.com/ns123abc/status/2117497728737620197&quot;&gt;https://twitter.com/ns123abc/status/2117497728737620197&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50353257&quot;&gt;https://news.ycombina | why kept: agent</description>
     </item></channel></rss>
