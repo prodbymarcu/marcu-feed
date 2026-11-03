@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/</link>
-      <guid isPermaLink="false">t3_1xmmadn</guid>
-      <pubDate>Tue, 03 Nov 2026 03:16:04 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Source: &lt;a href=&quot;https://mp.weixin.qq.com/s/R-1u2exLwZMOu7AITyU5kg&quot;&gt;https://mp.weixin.qq.com/s/R-1u2exLwZMOu7AITyU5kg&lt;/a&gt;&lt;/p&gt; &lt;p&gt;A reporter from &lt;em&gt;STAR Market Daily&lt;/em&gt; has learned from multiple sources  | why kept: model, inference</description>
+      <title>cd-cua-spaces: post-publish gate, cua.ai must serve the new release (…</title>
+      <link>https://github.com/trycua/cua/commit/060fde4e31c4c39a4b1df49d32bca53c6c4bc590</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/060fde4e31c4c39a4b1df49d32bca53c6c4bc590</guid>
+      <pubDate>Tue, 03 Nov 2026 03:32:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cd-cua-spaces: post-publish gate, cua.ai must serve the new release (CUA-3128) (#6356)
+
+Adds a job that waits up to 15 min after a stable release publishes for cua.ai/download, /download/info, th | why kept: trycua, claude</description>
     </item></channel></rss>

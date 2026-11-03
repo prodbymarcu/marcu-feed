@@ -1,1 +1,1 @@
-- DeepSeek V5 is planned to be pre-trained on Huawei Ascend chips. — https://www.reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei/ (score 4)
+- cd-cua-spaces: post-publish gate, cua.ai must serve the new release (… — https://github.com/trycua/cua/commit/060fde4e31c4c39a4b1df49d32bca53c6c4bc590 (score 7)
