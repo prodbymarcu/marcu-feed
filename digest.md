@@ -1,2 +1,1 @@
-- YSK: Strata and polystrata have this functionality called answer_room — https://www.reddit.com/r/LocalLLaMA/comments/1xm8aki/ysk_strata_and_polystrata_have_this_functionality/ (score 4)
-- feat(cua-driver): fast path with act-time target guards, behind a def… — https://github.com/trycua/cua/commit/a0364e60f721021d4a8aff113257bff49075b727 (score 2)
+- cuda : gather batched tensor reads into mapped host memory (PR to mas… — https://github.com/ggml-org/llama.cpp/commit/740251a920abf92b7744d9c0518ca157db0db579 (score 2)
