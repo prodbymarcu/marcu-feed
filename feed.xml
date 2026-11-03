@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I tried MIT&#x27;s &quot;weight-space programming&quot; on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/</link>
-      <guid isPermaLink="false">t3_1xn1gs9</guid>
-      <pubDate>Tue, 03 Nov 2026 14:47:48 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Yesterday MIT CSAIL showed GPT-6 Astra editing the weights of a small model by hand. It changed a few neurons of Qwen3.5-0.8B, the model stopped looping on math problems, and its scores jumped. No training  | why kept: qwen, model, claude, qwen, local</description>
+      <title>What do people with normal hardware : 32GB ram 16GB VRAM run?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/</link>
+      <guid isPermaLink="false">t3_1xn2jyz</guid>
+      <pubDate>Tue, 03 Nov 2026 15:07:22 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just asking because i have been out of the loop for a while and kinda missed everything (strata etc...) a small recap would be appreciated. &lt;/p&gt; &lt;p&gt;Everyone seems to own an RTX 6000 or insanely expensive ri | why kept: model, local, llama, hardware</description>
     </item></channel></rss>

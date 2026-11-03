@@ -1,1 +1,1 @@
-- I tried MIT's "weight-space programming" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it tr — https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/ (score 13)
+- What do people with normal hardware : 32GB ram 16GB VRAM run? — https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/ (score 8)
