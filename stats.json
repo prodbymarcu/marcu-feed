@@ -1,8 +1,8 @@
 {
  "fetched": 190,
- "new": 2,
+ "new": 4,
  "dropped_kill": 0,
- "dropped_low": 0,
+ "dropped_low": 2,
  "errors": [
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -11,5 +11,5 @@
   "kept": 1
  },
  "kept": 2,
- "at": "2026-11-03T17:52:20Z"
+ "at": "2026-11-03T18:09:09Z"
 }

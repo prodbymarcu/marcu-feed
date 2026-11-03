@@ -1,2 +1,2 @@
-- Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights — https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/ (score 13)
-- Railway employee's agent caught hacking competitors — https://twitter.com/ns123abc/status/2117497728737620197 (score 2)
+- ui: run local browser tests in installed Chrome with its sandbox on (… — https://github.com/ggml-org/llama.cpp/commit/d1c4e5bec1db1aa7feb2ee62a290e16d14b5c85a (score 4)
+- fix(cua-driver): scope bounded launch_app to resources.apps launch gr… — https://github.com/trycua/cua/commit/6012aa7e47006756dc186ef41a538ada3303f3f8 (score 2)
