@@ -1,17 +1,28 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>opencl: add initial iq4_xs support (#31339)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e6192de0a62b73f566f825ecb531f7e4fe699eae</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e6192de0a62b73f566f825ecb531f7e4fe699eae</guid>
-      <pubDate>Tue, 03 Nov 2026 01:05:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: add initial iq4_xs support (#31339)
+      <title>llama : drop the redundant cnv from llm_attn_mask (#31558)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/ca8daad199a9c12c5b54643b974c640939a0f7bd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ca8daad199a9c12c5b54643b974c640939a0f7bd</guid>
+      <pubDate>Tue, 03 Nov 2026 01:21:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : drop the redundant cnv from llm_attn_mask (#31558)
 
-* opencl: add iq4_xs AOS mv
+The dspark block mask is now derived at input-fill time: llm_attn_mask::block_uniform
+fills every token of a sequence with the mask row | why kept: llama</description>
+    </item>
+    <item>
+      <title>dsv4.1: fix llama-context tests with partial offload (#31292)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0f663d2471bb470c1979999daf7a05ec8fba5673</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0f663d2471bb470c1979999daf7a05ec8fba5673</guid>
+      <pubDate>Tue, 03 Nov 2026 01:21:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;dsv4.1: fix llama-context tests with partial offload (#31292)&lt;/pre&gt; | why kept: llama</description>
+    </item>
+    <item>
+      <title>cuda : prevent premature eviction of graphs about to be used (#30662)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/00f113eceb2758158582d56f98bf476b2fe3ed32</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/00f113eceb2758158582d56f98bf476b2fe3ed32</guid>
+      <pubDate>Tue, 03 Nov 2026 01:21:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : prevent premature eviction of graphs about to be used (#30662)
 
-Assisted-by: Codex
+* cuda : prevent premature eviction of graphs about to be used
 
-* opencl: add iq4_xs SOA mv and tiled mm
-
-Assisted-by: Codex
-
-* opencl: add iq4_xs noshuffle gemm/gem | why kept: codex</description>
+* add last_graph_use_time for entire cuda graph map and test | why kept: codex</description>
     </item></channel></rss>
