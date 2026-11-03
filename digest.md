@@ -1,3 +1,1 @@
-- Strata is the shit — https://www.reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit/ (score 16)
-- [2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime — https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/ (score 4)
-- ci: drop the stray FSL headers from the verify-cua-spaces skill scrip… — https://github.com/trycua/cua/commit/64edd5b536bdceeb89bf5f6dd4dea86296434920 (score 2)
+- I tried MIT's "weight-space programming" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it tr — https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/ (score 13)

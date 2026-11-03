@@ -1,23 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Strata is the shit</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit/</link>
-      <guid isPermaLink="false">t3_1xmt6kb</guid>
-      <pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Have been using qwen 3.8 flash next with llamaserver. Was getting 70-80tk/s decode and was happy. Then read about strata and decided to give it a try. Decode shot up to 150 tk/s. Not sure what magic it&amp;#39; | why kept: unsloth, qwen, qwen, quant, llama</description>
-    </item>
-    <item>
-      <title>[2611.03526] Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/</link>
-      <guid isPermaLink="false">t3_1xmzo2s</guid>
-      <pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmzo2s/261103526_library_of_layers_lol_adaptively/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>ci: drop the stray FSL headers from the verify-cua-spaces skill scrip…</title>
-      <link>https://github.com/trycua/cua/commit/64edd5b536bdceeb89bf5f6dd4dea86296434920</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/64edd5b536bdceeb89bf5f6dd4dea86296434920</guid>
-      <pubDate>Tue, 03 Nov 2026 14:20:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: drop the stray FSL headers from the verify-cua-spaces skill scripts (#6404)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+      <title>I tried MIT&#x27;s &quot;weight-space programming&quot; on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/</link>
+      <guid isPermaLink="false">t3_1xn1gs9</guid>
+      <pubDate>Tue, 03 Nov 2026 14:47:48 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Yesterday MIT CSAIL showed GPT-6 Astra editing the weights of a small model by hand. It changed a few neurons of Qwen3.5-0.8B, the model stopped looping on math problems, and its scores jumped. No training  | why kept: qwen, model, claude, qwen, local</description>
     </item></channel></rss>
