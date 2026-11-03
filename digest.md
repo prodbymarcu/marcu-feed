@@ -1,2 +1,2 @@
-- Basalt 0.2.0: Qwen 3.8 Flash Next NVFP4, 300 t/s prose, 600 t/s struct, 10K t/s prefill on a 5090 + 5060 Ti and 128GB RA — https://www.reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose/ (score 11)
-- British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted — https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/ (score 6)
+- gemma4: graph optimizations (massive gains on pp for E2B and E4B) by max-krasnyansky · Pull Request #31356 · ggml-org/ll — https://www.reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp/ (score 4)
+- model, mtmd: add chatterbox TTS support (#30993) — https://github.com/ggml-org/llama.cpp/commit/b97627967c89a5ef135c2da945a036abe2d22ed3 (score 4)
