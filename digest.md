@@ -1,1 +1,2 @@
-- cd-cua-spaces: a stable release is published as not-prerelease (#6347) — https://github.com/trycua/cua/commit/01a91d7b9698f73210d5698cb5a7c2418a3d2099 (score 7)
+- [AINews] LLMs can read & write neural network weights: "Weight Space Programming" cuts Autoresearch out of the RSI loop — https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/ (score 9)
+- fix(cua-driver): stop the X11 agent cursor splitting in two while it … — https://github.com/trycua/cua/commit/e2c8e33e51233731ad7525126434853775fa0128 (score 2)

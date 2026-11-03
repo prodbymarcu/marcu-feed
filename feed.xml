@@ -1,10 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>cd-cua-spaces: a stable release is published as not-prerelease (#6347)</title>
-      <link>https://github.com/trycua/cua/commit/01a91d7b9698f73210d5698cb5a7c2418a3d2099</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01a91d7b9698f73210d5698cb5a7c2418a3d2099</guid>
-      <pubDate>Mon, 02 Nov 2026 23:49:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cd-cua-spaces: a stable release is published as not-prerelease (#6347)
+      <title>[AINews] LLMs can read &amp; write neural network weights: &quot;Weight Space Programming&quot; cuts Autoresearch out of the RSI loop</title>
+      <link>https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/</link>
+      <guid isPermaLink="false">urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f</guid>
+      <pubDate>Tue, 03 Nov 2026 00:41:52 +0000</pubDate>
+      <description>Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark. | why kept: qwen, agent, qwen</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): stop the X11 agent cursor splitting in two while it …</title>
+      <link>https://github.com/trycua/cua/commit/e2c8e33e51233731ad7525126434853775fa0128</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e2c8e33e51233731ad7525126434853775fa0128</guid>
+      <pubDate>Tue, 03 Nov 2026 00:41:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): stop the X11 agent cursor splitting in two while it moves (#6343)
 
-Release 0.19.4 stayed a prerelease because the Electron job created the draft first with
---prerelease and the publish step  | why kept: trycua, claude</description>
+The X11 overlay reshaped its full-screen window every frame and uploaded
+the pixels as a separate request. Two  | why kept: agent</description>
     </item></channel></rss>
