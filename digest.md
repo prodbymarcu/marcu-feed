@@ -1,1 +1,1 @@
-- metal : fix cpy kernel for dst non-contiguous in dim 0 (#31581) — https://github.com/ggml-org/llama.cpp/commit/36ee3caf7aa2dcb0210bedab1b61ee9f269765d3 (score 2)
+- meta: support GLM-5.3 next sm tensor (#30499) — https://github.com/ggml-org/llama.cpp/commit/259d91709d60945911bedb9bcfb2957c6e153ea7 (score 2)

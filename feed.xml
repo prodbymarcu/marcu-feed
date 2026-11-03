@@ -1,10 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>metal : fix cpy kernel for dst non-contiguous in dim 0 (#31581)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/36ee3caf7aa2dcb0210bedab1b61ee9f269765d3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36ee3caf7aa2dcb0210bedab1b61ee9f269765d3</guid>
-      <pubDate>Tue, 03 Nov 2026 03:49:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal : fix cpy kernel for dst non-contiguous in dim 0 (#31581)
+      <title>meta: support GLM-5.3 next sm tensor (#30499)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/259d91709d60945911bedb9bcfb2957c6e153ea7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/259d91709d60945911bedb9bcfb2957c6e153ea7</guid>
+      <pubDate>Tue, 03 Nov 2026 04:05:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;meta: support GLM-5.3 next sm tensor (#30499)
 
-kernel_cpy_t_t indexed the dst innermost dim with an implicit element-size
-stride instead of args.nb0, so cpy into a permuted view | why kept: llama</description>
+* meta: support GLM-5.3 next sm tensor
+
+* glm5-next : cont q_absorbed for -sm tensor with non-unified KV
+
+* meta : keep GGML_OP_ARANGE in ggml.h ord | why kept: model</description>
     </item></channel></rss>
