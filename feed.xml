@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama.cpp : bump version to 0.9.0 (#31646)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/cd959bae99ff4bed22bef2604f45241c09bbb8c8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd959bae99ff4bed22bef2604f45241c09bbb8c8</guid>
-      <pubDate>Wed, 04 Nov 2026 07:11:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama.cpp : bump version to 0.9.0 (#31646)
-
-* llama.cpp : bump version to 0.9.0
-
-* authors : update&lt;/pre&gt; | why kept: llama</description>
+      <title>Using Strata IQ4 Qwen Flash to edit Qwen 3.5 0.6B weight based on MIT CSAIL</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/</link>
+      <guid isPermaLink="false">t3_1xnjwte</guid>
+      <pubDate>Wed, 04 Nov 2026 07:43:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/pj1mklt9ckzh1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7da3732be0dfc | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>

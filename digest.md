@@ -1,1 +1,1 @@
-- llama.cpp : bump version to 0.9.0 (#31646) — https://github.com/ggml-org/llama.cpp/commit/cd959bae99ff4bed22bef2604f45241c09bbb8c8 (score 2)
+- Using Strata IQ4 Qwen Flash to edit Qwen 3.5 0.6B weight based on MIT CSAIL — https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/ (score 11)
