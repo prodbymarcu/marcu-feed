@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-compat): name root to a guest agent that switches users itsel…</title>
-      <link>https://github.com/trycua/cua/commit/c2b7a906cac682aaa67a0ed0334f2c670641db45</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c2b7a906cac682aaa67a0ed0334f2c670641db45</guid>
-      <pubDate>Wed, 04 Nov 2026 05:28:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-compat): name root to a guest agent that switches users itself (#6459)
-
-* test(cua-compat): a root command names root to an agent that switches users
-
-The gateway&amp;#39;s mock agent switche | why kept: agent, runs</description>
+      <title>British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/</link>
+      <guid isPermaLink="false">t3_1xnkt87</guid>
+      <pubDate>Wed, 04 Nov 2026 06:19:51 +0000</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/beasthunterr69&quot;&gt; /u/beasthunterr69 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-c | why kept: claude, local, llama</description>
     </item></channel></rss>

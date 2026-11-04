@@ -1,1 +1,1 @@
-- fix(cua-compat): name root to a guest agent that switches users itsel… — https://github.com/trycua/cua/commit/c2b7a906cac682aaa67a0ed0334f2c670641db45 (score 4)
+- British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted — https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/ (score 6)
