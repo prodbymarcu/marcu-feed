@@ -1,1 +1,1 @@
-- fix(ci): the macOS release build installs Go for the network gateway … — https://github.com/trycua/cua/commit/96dd3838ecd3084a7c7274cf83309188d4e4c94d (score 4)
+- Keeping up with new inference engines — https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/ (score 4)
