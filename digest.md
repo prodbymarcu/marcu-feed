@@ -1,3 +1,1 @@
-- AI Agent Task performance of small LLM models (4B and below) in self-assessment set — https://www.reddit.com/r/LocalLLaMA/comments/1xng029/ai_agent_task_performance_of_small_llm_models_4b/ (score 8)
-- Deepseek V4.1 flash 1017 on 4rtx3090 + 256ddr4 ( Maya - engine ) — https://www.reddit.com/r/LocalLLaMA/comments/1xnkr5q/deepseek_v41_flash_1017_on_4rtx3090_256ddr4_maya/ (score 6)
-- feat(spaces): the new first run, phase 1, behind Labs "Try the new se… — https://github.com/trycua/cua/commit/166726686a8a8ca17fab122ed8ffb9a67235d5b8 (score 2)
+- bin/ci: disk guard, lean cargo, per-run target dir (CUA-3134) (#6396) — https://github.com/trycua/cua/commit/a3bcdb9b9c7c0713fb1f443e12870b40eb764ade (score 4)
