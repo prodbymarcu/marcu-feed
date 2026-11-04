@@ -1,36 +1,36 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>oMLX 0.7.4 can pair a fast mac as prefill accelerator</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/</link>
-      <guid isPermaLink="false">t3_1xnnl57</guid>
-      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/j2fWX_UlfelUnZDFk5olvHJbFSRl27d4O9Fbc-rtJKs.png?width=640&amp;amp;crop=smart&amp;am | why kept: mlx, local, mlx, llama</description>
+      <title>ci: quick stage first in Actions, local-ci gate for agent PRs (#6465)</title>
+      <link>https://github.com/trycua/cua/commit/b3e6f95021b67d931a17cdf1c3353abdc5934453</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b3e6f95021b67d931a17cdf1c3353abdc5934453</guid>
+      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: quick stage first in Actions, local-ci gate for agent PRs (#6465)
+
+* ci: quick stage first in Actions, local-ci gate for agent PRs (CUA-3338)
+
+Add ci-quick.yml (bin/ci --quick) and make the h | why kept: agent, claude, local</description>
     </item>
     <item>
-      <title>ui: open actions on right-click for chats, tabs, messages and models …</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c6a0ff11a0fe16ac1a2eb569190934593a2b3670</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c6a0ff11a0fe16ac1a2eb569190934593a2b3670</guid>
-      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: open actions on right-click for chats, tabs, messages and models (#31545)
-
-* ui : share directory resolution and the cwd row
-
-Move the lookup of a browser-picked folder to ToolsService.resolv | why kept: model, claude</description>
+      <title>LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/</link>
+      <guid isPermaLink="false">t3_1xntou1</guid>
+      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Y2RvZHg0aXVubXpoMTgK8tJqlYMFaCeHoZ0JTWlWuSCLZ3eHNF1TkS9sPWWs.png?w | why kept: local, llama</description>
     </item>
     <item>
-      <title>fix(ci): cua-auth tests never ran on GitHub; fix the broken flows tes…</title>
-      <link>https://github.com/trycua/cua/commit/1d18983a470ca5e31f9b2de2b2faaf015e83deee</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1d18983a470ca5e31f9b2de2b2faaf015e83deee</guid>
-      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): cua-auth tests never ran on GitHub; fix the broken flows tests (CUA-3363) (#6478)
+      <title>docs(spaces): reinforcement learning and evals: what Cua offers and i…</title>
+      <link>https://github.com/trycua/cua/commit/90c7bd9263a27d6d618d2500a4410be75c8abef4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/90c7bd9263a27d6d618d2500a4410be75c8abef4</guid>
+      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(spaces): reinforcement learning and evals: what Cua offers and its limits (#6481)
 
-* test(cua-auth): send the code the fake issuer accepts; keep each attempt&amp;#39;s PKCE challenge (CUA-31 | why kept: claude</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item>
     <item>
-      <title>fix(cua-mesh): a client that hangs up mid-dial, a connection burst an…</title>
-      <link>https://github.com/trycua/cua/commit/2cac516f93eb5eeb9a5734f87bc8b978782a7e33</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2cac516f93eb5eeb9a5734f87bc8b978782a7e33</guid>
-      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-mesh): a client that hangs up mid-dial, a connection burst and a forward&amp;#39;s UDP flows no longer hold descriptors (CUA-2159) (#6475)
+      <title>feat(spaces): warm pools, a prepared Linux Space and agent harnesses …</title>
+      <link>https://github.com/trycua/cua/commit/d592250ea79f607f948b13de8fa557f8299d673b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d592250ea79f607f948b13de8fa557f8299d673b</guid>
+      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): warm pools, a prepared Linux Space and agent harnesses ready in about one second (behind the warm-pools experiment) (#6472)
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthr | why kept: claude</description>
+* feat(spaces): the warm-pools experiment, off by defaul | why kept: agent</description>
     </item></channel></rss>

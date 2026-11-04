@@ -1,4 +1,4 @@
-- oMLX 0.7.4 can pair a fast mac as prefill accelerator — https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/ (score 11)
-- ui: open actions on right-click for chats, tabs, messages and models … — https://github.com/ggml-org/llama.cpp/commit/c6a0ff11a0fe16ac1a2eb569190934593a2b3670 (score 4)
-- fix(ci): cua-auth tests never ran on GitHub; fix the broken flows tes… — https://github.com/trycua/cua/commit/1d18983a470ca5e31f9b2de2b2faaf015e83deee (score 2)
-- fix(cua-mesh): a client that hangs up mid-dial, a connection burst an… — https://github.com/trycua/cua/commit/2cac516f93eb5eeb9a5734f87bc8b978782a7e33 (score 2)
+- ci: quick stage first in Actions, local-ci gate for agent PRs (#6465) — https://github.com/trycua/cua/commit/b3e6f95021b67d931a17cdf1c3353abdc5934453 (score 6)
+- LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Nat — https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/ (score 4)
+- docs(spaces): reinforcement learning and evals: what Cua offers and i… — https://github.com/trycua/cua/commit/90c7bd9263a27d6d618d2500a4410be75c8abef4 (score 2)
+- feat(spaces): warm pools, a prepared Linux Space and agent harnesses … — https://github.com/trycua/cua/commit/d592250ea79f607f948b13de8fa557f8299d673b (score 2)
