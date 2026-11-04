@@ -1,17 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Axion1-0/Axion-1.0-35B · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xnjiu4</guid>
-      <pubDate>Wed, 04 Nov 2026 05:12:02 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/pivgD2twh2o9eCkI8UdEVsSTCOYpFUld9fEn2IS39b0.png?width=640&amp;amp;crop=smart&amp;amp;auto=we | why kept: model, agent, local, llama</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): keep browser attestation off the renderer while a di…</title>
-      <link>https://github.com/trycua/cua/commit/c29740b37ea561b790dcdbfb49b5e2c7883c4866</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c29740b37ea561b790dcdbfb49b5e2c7883c4866</guid>
-      <pubDate>Wed, 04 Nov 2026 05:12:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): keep browser attestation off the renderer while a dialog is open (#5524)
+      <title>fix(cua-compat): name root to a guest agent that switches users itsel…</title>
+      <link>https://github.com/trycua/cua/commit/c2b7a906cac682aaa67a0ed0334f2c670641db45</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c2b7a906cac682aaa67a0ed0334f2c670641db45</guid>
+      <pubDate>Wed, 04 Nov 2026 05:28:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-compat): name root to a guest agent that switches users itself (#6459)
 
-Every browser tool proves the tab&amp;#39;s live top-level origin before it runs,
-and `browser_dialog` is no | why kept: runs</description>
+* test(cua-compat): a root command names root to an agent that switches users
+
+The gateway&amp;#39;s mock agent switche | why kept: agent, runs</description>
     </item></channel></rss>

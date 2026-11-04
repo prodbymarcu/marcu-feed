@@ -1,2 +1,1 @@
-- Axion1-0/Axion-1.0-35B · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/ (score 8)
-- fix(cua-driver): keep browser attestation off the renderer while a di… — https://github.com/trycua/cua/commit/c29740b37ea561b790dcdbfb49b5e2c7883c4866 (score 2)
+- fix(cua-compat): name root to a guest agent that switches users itsel… — https://github.com/trycua/cua/commit/c2b7a906cac682aaa67a0ed0334f2c670641db45 (score 4)
