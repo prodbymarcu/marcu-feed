@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Introducing Hy4 (open weights soon)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/</link>
-      <guid isPermaLink="false">t3_1xnhzbz</guid>
-      <pubDate>Wed, 04 Nov 2026 02:57:03 +0000</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/heatOverflower&quot;&gt; /u/heatOverflower &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://hy.tencent.ai/research/hy4?langVersion=en&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Lo | why kept: local, llama</description>
+      <title>opencl: improve q2_0 GEMV for Adreno (#31577)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/6900fb5ac8344afd4103b136cfd631ca6707e038</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6900fb5ac8344afd4103b136cfd631ca6707e038</guid>
+      <pubDate>Wed, 04 Nov 2026 03:13:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: improve q2_0 GEMV for Adreno (#31577)
+
+* opencl: improve q2_0 decoding and small f32 matmuls
+
+Assisted-by: Codex
+
+* opencl: optimize small f32 matmuls on Adreno 8xx
+
+Assisted-by: Codex&lt;/p | why kept: codex</description>
     </item></channel></rss>

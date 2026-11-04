@@ -1,1 +1,1 @@
-- Introducing Hy4 (open weights soon) — https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/ (score 4)
+- opencl: improve q2_0 GEMV for Adreno (#31577) — https://github.com/ggml-org/llama.cpp/commit/6900fb5ac8344afd4103b136cfd631ca6707e038 (score 2)
