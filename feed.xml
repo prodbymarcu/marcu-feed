@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>How well can we measure open model inference share?</title>
-      <link>https://www.interconnects.ai/p/how-well-can-we-measure-open-model</link>
-      <guid isPermaLink="false">https://www.interconnects.ai/p/how-well-can-we-measure-open-model</guid>
-      <pubDate>Wed, 04 Nov 2026 11:43:21 +0000</pubDate>
-      <description>Our first open model economy research note for paid subscribers. | why kept: model, inference</description>
+      <title>Slow is smart and smart is fast</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnsckx/slow_is_smart_and_smart_is_fast/</link>
+      <guid isPermaLink="false">t3_1xnsckx</guid>
+      <pubDate>Wed, 04 Nov 2026 12:16:28 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Maybe this is obvious to many people, but when I started getting into Qwen 3.8 27B or Flash-Next for coding, I initially looked into all the ways to boost performance in terms of tok/sec. I&amp;#39;m using a 50 | why kept: qwen, model, agent, qwen</description>
+    </item>
+    <item>
+      <title>Pocket-sized Linux AI box runs on 256-TOPS Axera chip</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnpuv7/pocketsized_linux_ai_box_runs_on_256tops_axera/</link>
+      <guid isPermaLink="false">t3_1xnpuv7</guid>
+      <pubDate>Wed, 04 Nov 2026 12:16:28 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Sipeed has recently shared additional details about the MaixStation, a Linux AI workstation powered by Axera’s AX8860P processor, which combines a 16-core Arm CPU with an NPU rated at 256 TOPS FP4. The syst | why kept: local, runs, inference</description>
     </item></channel></rss>

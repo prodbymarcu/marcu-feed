@@ -1,1 +1,2 @@
-- How well can we measure open model inference share? — https://www.interconnects.ai/p/how-well-can-we-measure-open-model (score 4)
+- Slow is smart and smart is fast — https://www.reddit.com/r/LocalLLaMA/comments/1xnsckx/slow_is_smart_and_smart_is_fast/ (score 11)
+- Pocket-sized Linux AI box runs on 256-TOPS Axera chip — https://www.reddit.com/r/LocalLLaMA/comments/1xnpuv7/pocketsized_linux_ai_box_runs_on_256tops_axera/ (score 6)
