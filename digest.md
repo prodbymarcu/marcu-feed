@@ -1,2 +1,2 @@
-- B70 Price Increase Incoming --> Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards — https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/ (score 4)
-- common : fix -hf tag matching inside longer quant names (#31620) — https://github.com/ggml-org/llama.cpp/commit/4b29d02629b76160350ded907c64b733d98a54d1 (score 4)
+- Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less — https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/ (score 8)
+- ggml : write host-buffer tensor data directly in gguf writer (#31144) — https://github.com/ggml-org/llama.cpp/commit/960b1d51b73176ac970be51ef8ef22c9e2b9113c (score 2)

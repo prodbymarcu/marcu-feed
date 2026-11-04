@@ -1,16 +1,12 @@
 {
- "fetched": 190,
+ "fetched": 197,
  "new": 2,
  "dropped_kill": 0,
  "dropped_low": 0,
- "errors": [
-  "ml-community: <HTTPError 429: 'Too Many Requests'>"
- ],
  "brain": {
-  "sent": 0,
-  "kept": 0,
-  "note": "gate busy or judge skipped"
+  "sent": 1,
+  "kept": 1
  },
  "kept": 2,
- "at": "2026-11-04T07:23:04Z"
+ "at": "2026-11-04T07:41:05Z"
 }
