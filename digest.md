@@ -1,1 +1,1 @@
-- NorthCUA :Turbocharging Computer-Use Agents through Experience at Scale — https://www.reddit.com/r/LocalLLaMA/comments/1xmlwjv/northcua_turbocharging_computeruse_agents_through/ (score 6)
+- deep-principle/Hydrogen-1.0 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/ (score 6)
