@@ -1,1 +1,1 @@
-- test(desktop): the CI Runners methods are driven by ci.test.ts, not t… — https://github.com/trycua/cua/commit/e58d2eddd68402991afaf2f3fad357adf9fb31f7 (score 4)
+- NorthCUA :Turbocharging Computer-Use Agents through Experience at Scale — https://www.reddit.com/r/LocalLLaMA/comments/1xmlwjv/northcua_turbocharging_computeruse_agents_through/ (score 6)
