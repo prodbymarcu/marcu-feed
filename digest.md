@@ -1,2 +1,2 @@
-- Qwhen ? — https://www.reddit.com/r/LocalLLaMA/comments/1xnjbjq/qwhen/ (score 11)
-- fix(cua-driver): stamp the window-local point on macOS 27 background … — https://github.com/trycua/cua/commit/b743c33a4d8e91bb89b8f64c457aa2badcd021fa (score 2)
+- Axion1-0/Axion-1.0-35B · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/ (score 8)
+- fix(cua-driver): keep browser attestation off the renderer while a di… — https://github.com/trycua/cua/commit/c29740b37ea561b790dcdbfb49b5e2c7883c4866 (score 2)

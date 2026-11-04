@@ -1,17 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwhen ?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjbjq/qwhen/</link>
-      <guid isPermaLink="false">t3_1xnjbjq</guid>
-      <pubDate>Wed, 04 Nov 2026 04:35:08 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When qwen 4 would release ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/anubhav_200&quot;&gt; /u/anubhav_200 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/ | why kept: qwen, qwen, local, llama</description>
+      <title>Axion1-0/Axion-1.0-35B · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xnjiu4</guid>
+      <pubDate>Wed, 04 Nov 2026 05:12:02 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/pivgD2twh2o9eCkI8UdEVsSTCOYpFUld9fEn2IS39b0.png?width=640&amp;amp;crop=smart&amp;amp;auto=we | why kept: model, agent, local, llama</description>
     </item>
     <item>
-      <title>fix(cua-driver): stamp the window-local point on macOS 27 background …</title>
-      <link>https://github.com/trycua/cua/commit/b743c33a4d8e91bb89b8f64c457aa2badcd021fa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b743c33a4d8e91bb89b8f64c457aa2badcd021fa</guid>
-      <pubDate>Wed, 04 Nov 2026 04:35:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): stamp the window-local point on macOS 27 background clicks (#5492)
+      <title>fix(cua-driver): keep browser attestation off the renderer while a di…</title>
+      <link>https://github.com/trycua/cua/commit/c29740b37ea561b790dcdbfb49b5e2c7883c4866</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c29740b37ea561b790dcdbfb49b5e2c7883c4866</guid>
+      <pubDate>Wed, 04 Nov 2026 05:12:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): keep browser attestation off the renderer while a dialog is open (#5524)
 
-macOS 27 hands the CGEventSetWindowLocation stamp of a pid-routed click
-to the target as its window-local poin | why kept: local</description>
+Every browser tool proves the tab&amp;#39;s live top-level origin before it runs,
+and `browser_dialog` is no | why kept: runs</description>
     </item></channel></rss>
