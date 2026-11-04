@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>“Can Qwen directly control the robot as well as GPT-6 Astra?”</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as/</link>
-      <guid isPermaLink="false">t3_1xmyji8</guid>
-      <pubDate>Tue, 03 Nov 2026 21:39:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Es1wRRJqLMukNVAGPo-cuhd6q4Ofbx3YauWcOTz5HSA.png?width=640&amp;amp;crop=s | why kept: qwen, qwen, local, llama, robot</description>
+      <title>fix(ci): the macOS release build installs Go for the network gateway …</title>
+      <link>https://github.com/trycua/cua/commit/96dd3838ecd3084a7c7274cf83309188d4e4c94d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/96dd3838ecd3084a7c7274cf83309188d4e4c94d</guid>
+      <pubDate>Tue, 03 Nov 2026 22:09:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): the macOS release build installs Go for the network gateway (#6422)
+
+The release build now runs libs/cua/netgw/build.sh (cua-netgw is bundled in the app). GitHub&amp;#39;s macOS runners have | why kept: claude, runs</description>
     </item></channel></rss>

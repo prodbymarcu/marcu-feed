@@ -1,1 +1,1 @@
-- “Can Qwen directly control the robot as well as GPT-6 Astra?” — https://www.reddit.com/r/LocalLLaMA/comments/1xmyji8/can_qwen_directly_control_the_robot_as_well_as/ (score 13)
+- fix(ci): the macOS release build installs Go for the network gateway … — https://github.com/trycua/cua/commit/96dd3838ecd3084a7c7274cf83309188d4e4c94d (score 4)
