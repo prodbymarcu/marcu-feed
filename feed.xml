@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-spacesd): keep the doctor&#x27;s token out of the probes it spawns…</title>
-      <link>https://github.com/trycua/cua/commit/effe7a5ab279cc6d02404cebd42806a7bc81c699</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/effe7a5ab279cc6d02404cebd42806a7bc81c699</guid>
-      <pubDate>Wed, 04 Nov 2026 16:57:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spacesd): keep the doctor&amp;#39;s token out of the probes it spawns (#6488)
-
-* fix(cua-spacesd): keep the doctor&amp;#39;s token out of the probes it spawns
-
-The doctor runs cua-driver doctor a | why kept: local, runs</description>
+      <title>Qwen3.8 27B Q4 on my low-end Laptop, and it became my main Model usage for coding</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/</link>
+      <guid isPermaLink="false">t3_1xnzo38</guid>
+      <pubDate>Wed, 04 Nov 2026 17:44:20 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;my laptop is very old, like&lt;br/&gt; 20G of ram&lt;br/&gt; 4G Vram&lt;br/&gt; 256G NVMe Gen3 From samsung&lt;br/&gt; i7 8th gen&lt;/p&gt; &lt;p&gt;on these specs i got around 0.67 - 0.77 token per second&lt;br/&gt; yes, extremely slow, most of yo | why kept: qwen, model, claude, qwen, local, free</description>
     </item></channel></rss>

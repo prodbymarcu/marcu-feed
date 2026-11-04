@@ -1,1 +1,1 @@
-- fix(cua-spacesd): keep the doctor's token out of the probes it spawns… — https://github.com/trycua/cua/commit/effe7a5ab279cc6d02404cebd42806a7bc81c699 (score 4)
+- Qwen3.8 27B Q4 on my low-end Laptop, and it became my main Model usage for coding — https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/ (score 15)
