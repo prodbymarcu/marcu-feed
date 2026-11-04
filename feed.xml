@@ -1,18 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(spaces): pick up where you left off in the first run (CUA-3319) …</title>
-      <link>https://github.com/trycua/cua/commit/a79ecf8dddf225d11367360cc2dfcf6a9c135340</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a79ecf8dddf225d11367360cc2dfcf6a9c135340</guid>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): pick up where you left off in the first run (CUA-3319) (#6463)
-
-* feat(spaces): pick up where you left off, continue a Claude Code, Codex or Hermes chat in Cua (CUA-3319)
-
-The new s | why kept: hermes, agent, hermes, claude, codex, runs</description>
-    </item>
-    <item>
-      <title>Kimi K3.1 is likely benchmaxxed (with some proof)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/</link>
-      <guid isPermaLink="false">t3_1xnu6y1</guid>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/24084yfbrmzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=35a2a37a7ff14e | why kept: local, llama</description>
+      <title>ricursiveAI/Ripple-65B-Preview · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xnx3cs</guid>
+      <pubDate>Wed, 04 Nov 2026 14:45:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/nPRXa50Rrj7qDtMKbtHAdYhz0ZRzwREQWzYRM3zJ1uY.png?width=640&amp;amp;crop=smart&amp;a | why kept: local, llama</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- feat(spaces): pick up where you left off in the first run (CUA-3319) … — https://github.com/trycua/cua/commit/a79ecf8dddf225d11367360cc2dfcf6a9c135340 (score 15)
-- Kimi K3.1 is likely benchmaxxed (with some proof) — https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/ (score 4)
+- ricursiveAI/Ripple-65B-Preview · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/ (score 4)
