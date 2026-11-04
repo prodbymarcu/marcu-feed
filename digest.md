@@ -1,2 +1,2 @@
-- I removed 85% of gemma's weights (and it is mostly fine) — https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/ (score 6)
-- model, mtmd: drama-3 tts support (#31613) — https://github.com/ggml-org/llama.cpp/commit/5851a8e505f4d5fbb183f2847698eb6155d176b7 (score 2)
+- TinyWebUI - Lightweight Open WebUI alternative, just npx and go — https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/ (score 4)
+- Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P] — https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/ (score 2)

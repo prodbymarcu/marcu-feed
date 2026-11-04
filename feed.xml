@@ -1,24 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I removed 85% of gemma&#x27;s weights (and it is mostly fine)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/</link>
-      <guid isPermaLink="false">t3_1xnoqyy</guid>
-      <pubDate>Wed, 04 Nov 2026 09:24:22 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/moelxv5iplzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fb560db17d4a8 | why kept: model, local, llama</description>
+      <title>TinyWebUI - Lightweight Open WebUI alternative, just npx and go</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/</link>
+      <guid isPermaLink="false">t3_1xnmre2</guid>
+      <pubDate>Wed, 04 Nov 2026 09:43:14 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dXA3NnkwY2c4bHpoMenzgqnp5pf0CqIC9t7OVcZzp1DAzT6djvsA6ETaJfrJ.png? | why kept: local, llama</description>
     </item>
     <item>
-      <title>model, mtmd: drama-3 tts support (#31613)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5851a8e505f4d5fbb183f2847698eb6155d176b7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5851a8e505f4d5fbb183f2847698eb6155d176b7</guid>
-      <pubDate>Wed, 04 Nov 2026 09:24:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model, mtmd: drama-3 tts support (#31613)
-
-* model, mtmd: drama-3 tts support
-
-* clean up
-
-* mtmd: drama3 helper stops at the codebook tower limit
-
----------
-
-Co-authored-by: Pascal &amp;lt;admin@ser | why kept: model</description>
+      <title>Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/</link>
+      <guid isPermaLink="false">t3_1xnjhdd</guid>
+      <pubDate>Wed, 04 Nov 2026 09:43:14 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ykjgz5i39kzh1.png?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=aa9661 | why kept: model</description>
     </item></channel></rss>
