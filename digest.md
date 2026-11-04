@@ -1,3 +1,2 @@
-- Qwen 3.8 Flash Next GSQ RCO quant as good as BF16 — https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/ (score 18)
-- datasette-apps 0.3a0 — https://simonwillison.net/2026/Nov/4/datasette-apps/ (score 2)
-- datasette-agent 0.5a0 — https://simonwillison.net/2026/Nov/3/datasette-agent/ (score 2)
+- feat(spaces): pick up where you left off in the first run (CUA-3319) … — https://github.com/trycua/cua/commit/a79ecf8dddf225d11367360cc2dfcf6a9c135340 (score 15)
+- Kimi K3.1 is likely benchmaxxed (with some proof) — https://www.reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof/ (score 4)
