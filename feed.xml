@@ -1,36 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: quick stage first in Actions, local-ci gate for agent PRs (#6465)</title>
-      <link>https://github.com/trycua/cua/commit/b3e6f95021b67d931a17cdf1c3353abdc5934453</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b3e6f95021b67d931a17cdf1c3353abdc5934453</guid>
-      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: quick stage first in Actions, local-ci gate for agent PRs (#6465)
-
-* ci: quick stage first in Actions, local-ci gate for agent PRs (CUA-3338)
-
-Add ci-quick.yml (bin/ci --quick) and make the h | why kept: agent, claude, local</description>
+      <title>Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/</link>
+      <guid isPermaLink="false">t3_1xnuva2</guid>
+      <pubDate>Wed, 04 Nov 2026 13:40:48 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/F7RBM81mF7OXU68H7cPpY7zffjkck087qaO2cxTrhto.png?width=640&amp;amp;cro | why kept: unsloth, qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Native app.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/</link>
-      <guid isPermaLink="false">t3_1xntou1</guid>
-      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Y2RvZHg0aXVubXpoMTgK8tJqlYMFaCeHoZ0JTWlWuSCLZ3eHNF1TkS9sPWWs.png?w | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>docs(spaces): reinforcement learning and evals: what Cua offers and i…</title>
-      <link>https://github.com/trycua/cua/commit/90c7bd9263a27d6d618d2500a4410be75c8abef4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/90c7bd9263a27d6d618d2500a4410be75c8abef4</guid>
-      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(spaces): reinforcement learning and evals: what Cua offers and its limits (#6481)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
-    </item>
-    <item>
-      <title>feat(spaces): warm pools, a prepared Linux Space and agent harnesses …</title>
-      <link>https://github.com/trycua/cua/commit/d592250ea79f607f948b13de8fa557f8299d673b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d592250ea79f607f948b13de8fa557f8299d673b</guid>
-      <pubDate>Wed, 04 Nov 2026 13:06:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): warm pools, a prepared Linux Space and agent harnesses ready in about one second (behind the warm-pools experiment) (#6472)
-
-* feat(spaces): the warm-pools experiment, off by defaul | why kept: agent</description>
+      <title>New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/</link>
+      <guid isPermaLink="false">t3_1xnvbxn</guid>
+      <pubDate>Wed, 04 Nov 2026 13:40:48 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/m6soixxrymzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0ca455ec4f0ca84 | why kept: unsloth, qwen, qwen, local, llama</description>
     </item></channel></rss>

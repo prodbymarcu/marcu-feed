@@ -1,4 +1,2 @@
-- ci: quick stage first in Actions, local-ci gate for agent PRs (#6465) — https://github.com/trycua/cua/commit/b3e6f95021b67d931a17cdf1c3353abdc5934453 (score 6)
-- LFM3-Omni-2B running fully offline on my iPhone 18 Pro Max at ~80 tok/s, powered by custom WebGPU kernels in a React Nat — https://www.reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18/ (score 4)
-- docs(spaces): reinforcement learning and evals: what Cua offers and i… — https://github.com/trycua/cua/commit/90c7bd9263a27d6d618d2500a4410be75c8abef4 (score 2)
-- feat(spaces): warm pools, a prepared Linux Space and agent harnesses … — https://github.com/trycua/cua/commit/d592250ea79f607f948b13de8fa557f8299d673b (score 2)
+- Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026) — https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/ (score 16)
+- New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs — https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/ (score 16)
