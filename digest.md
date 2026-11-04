@@ -1,2 +1,1 @@
-- Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75 — https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/ (score 4)
-- feat(spaces): every running Space of a signed-in computer shows on yo… — https://github.com/trycua/cua/commit/1ca3a30cfebfc6fde6910bb2412f19e2ab44454c (score 2)
+- fix(cua-spacesd): keep the doctor's token out of the probes it spawns… — https://github.com/trycua/cua/commit/effe7a5ab279cc6d02404cebd42806a7bc81c699 (score 4)
