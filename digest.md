@@ -1,1 +1,2 @@
-- opencl: improve q2_0 GEMV for Adreno (#31577) — https://github.com/ggml-org/llama.cpp/commit/6900fb5ac8344afd4103b136cfd631ca6707e038 (score 2)
+- Qwhen ? — https://www.reddit.com/r/LocalLLaMA/comments/1xnjbjq/qwhen/ (score 11)
+- fix(cua-driver): stamp the window-local point on macOS 27 background … — https://github.com/trycua/cua/commit/b743c33a4d8e91bb89b8f64c457aa2badcd021fa (score 2)

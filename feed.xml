@@ -1,15 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>opencl: improve q2_0 GEMV for Adreno (#31577)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/6900fb5ac8344afd4103b136cfd631ca6707e038</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6900fb5ac8344afd4103b136cfd631ca6707e038</guid>
-      <pubDate>Wed, 04 Nov 2026 03:13:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: improve q2_0 GEMV for Adreno (#31577)
+      <title>Qwhen ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjbjq/qwhen/</link>
+      <guid isPermaLink="false">t3_1xnjbjq</guid>
+      <pubDate>Wed, 04 Nov 2026 04:35:08 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When qwen 4 would release ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/anubhav_200&quot;&gt; /u/anubhav_200 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/ | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): stamp the window-local point on macOS 27 background …</title>
+      <link>https://github.com/trycua/cua/commit/b743c33a4d8e91bb89b8f64c457aa2badcd021fa</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b743c33a4d8e91bb89b8f64c457aa2badcd021fa</guid>
+      <pubDate>Wed, 04 Nov 2026 04:35:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): stamp the window-local point on macOS 27 background clicks (#5492)
 
-* opencl: improve q2_0 decoding and small f32 matmuls
-
-Assisted-by: Codex
-
-* opencl: optimize small f32 matmuls on Adreno 8xx
-
-Assisted-by: Codex&lt;/p | why kept: codex</description>
+macOS 27 hands the CGEventSetWindowLocation stamp of a pid-routed click
+to the target as its window-local poin | why kept: local</description>
     </item></channel></rss>
