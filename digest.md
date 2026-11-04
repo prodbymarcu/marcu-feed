@@ -1,1 +1,1 @@
-- Keeping up with new inference engines — https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/ (score 4)
+- test(desktop): the CI Runners methods are driven by ci.test.ts, not t… — https://github.com/trycua/cua/commit/e58d2eddd68402991afaf2f3fad357adf9fb31f7 (score 4)

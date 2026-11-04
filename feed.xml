@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Keeping up with new inference engines</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnanyh/keeping_up_with_new_inference_engines/</link>
-      <guid isPermaLink="false">t3_1xnanyh</guid>
-      <pubDate>Tue, 03 Nov 2026 23:05:30 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;Not a native speaker, happy to be corrected! Can only learn from it.&lt;/p&gt; &lt;p&gt;Back when I started out in march 2025, you had:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;llama.cpp&lt;/li&gt; &lt;li&gt;ollama (repackaged llama.cpp  | why kept: inference, llama</description>
+      <title>test(desktop): the CI Runners methods are driven by ci.test.ts, not t…</title>
+      <link>https://github.com/trycua/cua/commit/e58d2eddd68402991afaf2f3fad357adf9fb31f7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e58d2eddd68402991afaf2f3fad357adf9fb31f7</guid>
+      <pubDate>Tue, 03 Nov 2026 23:22:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(desktop): the CI Runners methods are driven by ci.test.ts, not the core-only bridge test (#6435)
+
+The release build runs the native bridge tests on the built app core, where the seven ci.* m | why kept: claude, runs</description>
     </item></channel></rss>
