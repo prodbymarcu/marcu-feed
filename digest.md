@@ -1,1 +1,1 @@
-- feat(cua-driver): capture embedded startup diagnostics (#3281) — https://github.com/trycua/cua/commit/ccc478a8b2d2fee55a6c0c14252a46bd9f9d94a1 (score 5)
+- Show HN: Uncracked City, detective game where you question LLM suspects that lie — https://uncracked.city (score 4)

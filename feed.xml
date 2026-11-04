@@ -1,13 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver): capture embedded startup diagnostics (#3281)</title>
-      <link>https://github.com/trycua/cua/commit/ccc478a8b2d2fee55a6c0c14252a46bd9f9d94a1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ccc478a8b2d2fee55a6c0c14252a46bd9f9d94a1</guid>
-      <pubDate>Wed, 04 Nov 2026 00:29:25 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): capture embedded startup diagnostics (#3281)
-
-* feat(cua-driver): capture embedded startup diagnostics
-
-* test(cua-driver): preserve stderr capture default
-
-* fix(cua-driver): m | why kept: trycua</description>
+      <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
+      <link>https://uncracked.city</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50358352</guid>
+      <pubDate>Wed, 04 Nov 2026 01:50:21 +0000</pubDate>
+      <description>&lt;p&gt;To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public place | why kept: model, free</description>
     </item></channel></rss>
