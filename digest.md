@@ -1,1 +1,1 @@
-- Where's my Qwen 4? — https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4/ (score 11)
+- balbal-v2: Turkish speech recognition that runs on CPU, 2nd on Mu-Bench TR after Google Chirp 3 — https://www.reddit.com/r/LocalLLaMA/comments/1xmtlm7/balbalv2_turkish_speech_recognition_that_runs_on/ (score 6)
