@@ -1,2 +1,1 @@
-- ComfyUI v0.44.0 released — https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released/ (score 4)
-- ui: show text and page thumbnails for PDF attachments, stop endless c… — https://github.com/ggml-org/llama.cpp/commit/efbf6e80a5c121584736b5face7cfced9da707dd (score 2)
+- Tencent says Hy4 ranks among the best open models. Its weights aren't out yet — https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models/ (score 8)
