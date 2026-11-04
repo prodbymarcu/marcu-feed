@@ -1,2 +1,1 @@
-- mtmd: accurate support for qwen3-vl video prompt format (#31619) — https://github.com/ggml-org/llama.cpp/commit/149f5641b931aaf33697d70f9abc90c3e5300247 (score 9)
-- [llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg] — https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/ (score 8)
+- Where's my Qwen 4? — https://www.reddit.com/r/LocalLLaMA/comments/1xnajcu/wheres_my_qwen_4/ (score 11)
