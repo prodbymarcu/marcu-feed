@@ -1,14 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/</link>
-      <guid isPermaLink="false">t3_1xnuva2</guid>
-      <pubDate>Wed, 04 Nov 2026 13:40:48 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/F7RBM81mF7OXU68H7cPpY7zffjkck087qaO2cxTrhto.png?width=640&amp;amp;cro | why kept: unsloth, qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/</link>
-      <guid isPermaLink="false">t3_1xnvbxn</guid>
-      <pubDate>Wed, 04 Nov 2026 13:40:48 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/m6soixxrymzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0ca455ec4f0ca84 | why kept: unsloth, qwen, qwen, local, llama</description>
+      <title>datasette-llm 0.1a10</title>
+      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
+      <pubDate>Wed, 04 Nov 2026 13:56:51 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-llm/releases/tag/0.1a10&quot;&gt;datasette-llm 0.1a10&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Fixes a &lt;a href=&quot;https://github.com/datasette/datasette-llm/pull/11&quot;&gt;bug&lt;/a&gt; that affected my &lt;a h | why kept: model, agent</description>
     </item></channel></rss>

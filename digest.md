@@ -1,2 +1,1 @@
-- Unsloth Qwen3.8-Flash-Next GGUFs V3.1 Update (November 4th 2026) — https://www.reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november/ (score 16)
-- New Qwen3.8-Flash-Next Unsloth Dynamic V3.1 GGUFs — https://www.reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs/ (score 16)
+- datasette-llm 0.1a10 — https://simonwillison.net/2026/Nov/4/datasette-llm/ (score 4)
