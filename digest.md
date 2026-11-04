@@ -1,1 +1,2 @@
-- Show HN: Uncracked City, detective game where you question LLM suspects that lie — https://uncracked.city (score 4)
+- B70 Price Increase Incoming --> Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards — https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/ (score 4)
+- common : fix -hf tag matching inside longer quant names (#31620) — https://github.com/ggml-org/llama.cpp/commit/4b29d02629b76160350ded907c64b733d98a54d1 (score 4)

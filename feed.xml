@@ -1,7 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Show HN: Uncracked City, detective game where you question LLM suspects that lie</title>
-      <link>https://uncracked.city</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50358352</guid>
-      <pubDate>Wed, 04 Nov 2026 01:50:21 +0000</pubDate>
-      <description>&lt;p&gt;To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public place | why kept: model, free</description>
+      <title>B70 Price Increase Incoming --&gt; Intel Might Discontinue the Arc B580 to Prioritize Higher-Margin Arc Pro Cards</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/</link>
+      <guid isPermaLink="false">t3_1xnfzky</guid>
+      <pubDate>Wed, 04 Nov 2026 02:23:04 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZZDnFtgnI5lcqOjLFSiDkTL6ZN2-vj5GVgxfG43k5Ug.jpeg?width=640&amp;amp;crop=smart&amp;a | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>common : fix -hf tag matching inside longer quant names (#31620)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4b29d02629b76160350ded907c64b733d98a54d1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4b29d02629b76160350ded907c64b733d98a54d1</guid>
+      <pubDate>Wed, 04 Nov 2026 02:23:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;common : fix -hf tag matching inside longer quant names (#31620)
+
+* common : fix -hf tag matching inside longer quant names
+
+&amp;quot;:F16&amp;quot; picked a BF16 file when the repo had both, since &amp;quo | why kept: quant, llama</description>
     </item></channel></rss>

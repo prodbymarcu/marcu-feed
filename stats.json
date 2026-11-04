@@ -1,6 +1,6 @@
 {
  "fetched": 190,
- "new": 1,
+ "new": 2,
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
@@ -11,6 +11,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 1,
- "at": "2026-11-04T06:50:21Z"
+ "kept": 2,
+ "at": "2026-11-04T07:23:04Z"
 }
