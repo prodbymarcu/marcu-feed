@@ -1,2 +1,1 @@
-- Slow is smart and smart is fast — https://www.reddit.com/r/LocalLLaMA/comments/1xnsckx/slow_is_smart_and_smart_is_fast/ (score 11)
-- Pocket-sized Linux AI box runs on 256-TOPS Axera chip — https://www.reddit.com/r/LocalLLaMA/comments/1xnpuv7/pocketsized_linux_ai_box_runs_on_256tops_axera/ (score 6)
+- fix(spaces-web): let the dialog's focus frame pass before checking a … — https://github.com/trycua/cua/commit/3248e4dea8b45e46d3a0f4a268e0d630f13b4646 (score 2)
