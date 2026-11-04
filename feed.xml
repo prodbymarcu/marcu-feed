@@ -1,17 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/</link>
-      <guid isPermaLink="false">t3_1xnhq66</guid>
-      <pubDate>Wed, 04 Nov 2026 02:41:05 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/04JASRLO94j8OAV-s_Um9eQHT33BQ2cITqGYXZuTlro.jpeg?width=640&amp;amp;crop= | why kept: model, claude, local, llama</description>
-    </item>
-    <item>
-      <title>ggml : write host-buffer tensor data directly in gguf writer (#31144)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/960b1d51b73176ac970be51ef8ef22c9e2b9113c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/960b1d51b73176ac970be51ef8ef22c9e2b9113c</guid>
-      <pubDate>Wed, 04 Nov 2026 02:41:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : write host-buffer tensor data directly in gguf writer (#31144)
-
-The gguf writer staged each tensor into a temporary vector before
-writing it. For host-buffer tensors the data pointer is di | why kept: llama</description>
+      <title>Introducing Hy4 (open weights soon)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/</link>
+      <guid isPermaLink="false">t3_1xnhzbz</guid>
+      <pubDate>Wed, 04 Nov 2026 02:57:03 +0000</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/heatOverflower&quot;&gt; /u/heatOverflower &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://hy.tencent.ai/research/hy4?langVersion=en&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/Lo | why kept: local, llama</description>
     </item></channel></rss>

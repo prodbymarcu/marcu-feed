@@ -1,2 +1,1 @@
-- Revolut sidelines Claude Code for a self-hosted Chinese model, says it pays 90% less — https://www.reddit.com/r/LocalLLaMA/comments/1xnhq66/revolut_sidelines_claude_code_for_a_selfhosted/ (score 8)
-- ggml : write host-buffer tensor data directly in gguf writer (#31144) — https://github.com/ggml-org/llama.cpp/commit/960b1d51b73176ac970be51ef8ef22c9e2b9113c (score 2)
+- Introducing Hy4 (open weights soon) — https://www.reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon/ (score 4)
