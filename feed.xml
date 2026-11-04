@@ -1,27 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>spaces-desktop: catch handled update-download failures, log their rea…</title>
-      <link>https://github.com/trycua/cua/commit/a6451506496155a9631b53c8afc7379c1b560cb3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a6451506496155a9631b53c8afc7379c1b560cb3</guid>
-      <pubDate>Wed, 04 Nov 2026 06:38:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;spaces-desktop: catch handled update-download failures, log their real reason (CUA-3304) (#6460)
+      <title>llama.cpp : bump version to 0.9.0 (#31646)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/cd959bae99ff4bed22bef2604f45241c09bbb8c8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd959bae99ff4bed22bef2604f45241c09bbb8c8</guid>
+      <pubDate>Wed, 04 Nov 2026 07:11:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama.cpp : bump version to 0.9.0 (#31646)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Opus 5.5 &amp;lt;norepl | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>spaces-desktop: catch handled update-download failures, log their rea…</title>
-      <link>https://github.com/trycua/cua/commit/5a40f48905993e3f26010e3acf6c1d04bf85c409</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a40f48905993e3f26010e3acf6c1d04bf85c409</guid>
-      <pubDate>Wed, 04 Nov 2026 06:38:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;spaces-desktop: catch handled update-download failures, log their real reason (CUA-3304) (#6460)
+* llama.cpp : bump version to 0.9.0
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Opus 5.5 &amp;lt;norepl | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>[Paper] SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding 🚀🚀🚀</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjrgj/paper_specpilot_autonomous_algorithm_discovery/</link>
-      <guid isPermaLink="false">t3_1xnjrgj</guid>
-      <pubDate>Wed, 04 Nov 2026 06:38:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnjrgj/paper_specpilot_autonomous_algorithm_discovery/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/lum688meckzh1.png?width=140&amp;amp;height=51&amp;amp;auto=webp&amp;amp;s=f06ef0113550488 | why kept: local, llama</description>
+* authors : update&lt;/pre&gt; | why kept: llama</description>
     </item></channel></rss>

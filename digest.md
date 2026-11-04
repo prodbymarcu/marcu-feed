@@ -1,3 +1,1 @@
-- spaces-desktop: catch handled update-download failures, log their rea… — https://github.com/trycua/cua/commit/a6451506496155a9631b53c8afc7379c1b560cb3 (score 7)
-- spaces-desktop: catch handled update-download failures, log their rea… — https://github.com/trycua/cua/commit/5a40f48905993e3f26010e3acf6c1d04bf85c409 (score 7)
-- [Paper] SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding 🚀🚀🚀 — https://www.reddit.com/r/LocalLLaMA/comments/1xnjrgj/paper_specpilot_autonomous_algorithm_discovery/ (score 4)
+- llama.cpp : bump version to 0.9.0 (#31646) — https://github.com/ggml-org/llama.cpp/commit/cd959bae99ff4bed22bef2604f45241c09bbb8c8 (score 2)
