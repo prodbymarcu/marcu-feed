@@ -1,2 +1,1 @@
-- TinyWebUI - Lightweight Open WebUI alternative, just npx and go — https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/ (score 4)
-- Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P] — https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/ (score 2)
+- ci: fail workflows that use paid GitHub larger runners (CUA-3351) (#6… — https://github.com/trycua/cua/commit/ecaf10b1973f304e2e6088adc063069031a5e6ab (score 9)

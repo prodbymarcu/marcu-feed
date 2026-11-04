@@ -1,14 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>TinyWebUI - Lightweight Open WebUI alternative, just npx and go</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/</link>
-      <guid isPermaLink="false">t3_1xnmre2</guid>
-      <pubDate>Wed, 04 Nov 2026 09:43:14 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnmre2/tinywebui_lightweight_open_webui_alternative_just/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dXA3NnkwY2c4bHpoMenzgqnp5pf0CqIC9t7OVcZzp1DAzT6djvsA6ETaJfrJ.png? | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/</link>
-      <guid isPermaLink="false">t3_1xnjhdd</guid>
-      <pubDate>Wed, 04 Nov 2026 09:43:14 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ykjgz5i39kzh1.png?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=aa9661 | why kept: model</description>
+      <title>ci: fail workflows that use paid GitHub larger runners (CUA-3351) (#6…</title>
+      <link>https://github.com/trycua/cua/commit/ecaf10b1973f304e2e6088adc063069031a5e6ab</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ecaf10b1973f304e2e6088adc063069031a5e6ab</guid>
+      <pubDate>Wed, 04 Nov 2026 10:34:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: fail workflows that use paid GitHub larger runners (CUA-3351) (#6471)
+
+Larger runners are billed even on public repos ($3.4k on trycua/cua in
+October). Add a check that fails any runs-on nami | why kept: trycua, claude, runs</description>
     </item></channel></rss>
