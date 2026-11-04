@@ -1,21 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>My gift to the mods:</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/</link>
-      <guid isPermaLink="false">t3_1xnr6zd</guid>
-      <pubDate>Wed, 04 Nov 2026 10:53:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/wakheug77mzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2e2be64ce8150772558c0a6b35ef5d9639e30758 | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>I am big enough to admit that this is me</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnqxlq/i_am_big_enough_to_admit_that_this_is_me/</link>
-      <guid isPermaLink="false">t3_1xnqxlq</guid>
-      <pubDate>Wed, 04 Nov 2026 10:53:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnqxlq/i_am_big_enough_to_admit_that_this_is_me/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/lqr4hd2s4mzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=412d3ea2490615aad5a | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>Kimi-K3.1-Pro is now open-weights</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/</link>
-      <guid isPermaLink="false">t3_1xnrhvb</guid>
-      <pubDate>Wed, 04 Nov 2026 10:53:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/8pxJ_mZEono8vgcxu6JFglJpS83CRqtH6-eQevQ6o4k.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: local, llama</description>
+      <title>How well can we measure open model inference share?</title>
+      <link>https://www.interconnects.ai/p/how-well-can-we-measure-open-model</link>
+      <guid isPermaLink="false">https://www.interconnects.ai/p/how-well-can-we-measure-open-model</guid>
+      <pubDate>Wed, 04 Nov 2026 11:43:21 +0000</pubDate>
+      <description>Our first open model economy research note for paid subscribers. | why kept: model, inference</description>
     </item></channel></rss>
