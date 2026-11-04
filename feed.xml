@@ -1,8 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>datasette-llm 0.1a10</title>
-      <link>https://simonwillison.net/2026/Nov/4/datasette-llm/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/4/datasette-llm/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:56:51 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-llm/releases/tag/0.1a10&quot;&gt;datasette-llm 0.1a10&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Fixes a &lt;a href=&quot;https://github.com/datasette/datasette-llm/pull/11&quot;&gt;bug&lt;/a&gt; that affected my &lt;a h | why kept: model, agent</description>
+      <title>Qwen 3.8 Flash Next GSQ RCO quant as good as BF16</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/</link>
+      <guid isPermaLink="false">t3_1xnutr6</guid>
+      <pubDate>Wed, 04 Nov 2026 14:13:18 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ql6whxx4umzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=80f4380c0be | why kept: unsloth, qwen, qwen, local, quant, llama</description>
+    </item>
+    <item>
+      <title>datasette-apps 0.3a0</title>
+      <link>https://simonwillison.net/2026/Nov/4/datasette-apps/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/4/datasette-apps/</guid>
+      <pubDate>Wed, 04 Nov 2026 14:13:18 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-apps/releases/tag/0.3a0&quot;&gt;datasette-apps 0.3a0&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette.&lt; | why kept: agent</description>
+    </item>
+    <item>
+      <title>datasette-agent 0.5a0</title>
+      <link>https://simonwillison.net/2026/Nov/3/datasette-agent/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/3/datasette-agent/</guid>
+      <pubDate>Wed, 04 Nov 2026 14:13:18 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-agent/releases/tag/0.5a0&quot;&gt;datasette-agent 0.5a0&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;This is a significant release of &lt;a href=&quot;https://agent.datasette.io/&quot;&gt;Datasette Agent&lt;/a&gt;. The  | why kept: agent</description>
     </item></channel></rss>

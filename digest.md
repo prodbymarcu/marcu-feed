@@ -1,1 +1,3 @@
-- datasette-llm 0.1a10 — https://simonwillison.net/2026/Nov/4/datasette-llm/ (score 4)
+- Qwen 3.8 Flash Next GSQ RCO quant as good as BF16 — https://www.reddit.com/r/LocalLLaMA/comments/1xnutr6/qwen_38_flash_next_gsq_rco_quant_as_good_as_bf16/ (score 18)
+- datasette-apps 0.3a0 — https://simonwillison.net/2026/Nov/4/datasette-apps/ (score 2)
+- datasette-agent 0.5a0 — https://simonwillison.net/2026/Nov/3/datasette-agent/ (score 2)
