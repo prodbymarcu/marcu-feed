@@ -1,7 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ricursiveAI/Ripple-65B-Preview · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xnx3cs</guid>
-      <pubDate>Wed, 04 Nov 2026 14:45:57 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/nPRXa50Rrj7qDtMKbtHAdYhz0ZRzwREQWzYRM3zJ1uY.png?width=640&amp;amp;crop=smart&amp;a | why kept: local, llama</description>
+      <title>Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/</link>
+      <guid isPermaLink="false">t3_1xnz8ct</guid>
+      <pubDate>Wed, 04 Nov 2026 16:25:07 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/b9gkyw2jpnzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba935ec9aa006f7266f | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>feat(spaces): every running Space of a signed-in computer shows on yo…</title>
+      <link>https://github.com/trycua/cua/commit/1ca3a30cfebfc6fde6910bb2412f19e2ab44454c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1ca3a30cfebfc6fde6910bb2412f19e2ab44454c</guid>
+      <pubDate>Wed, 04 Nov 2026 16:25:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): every running Space of a signed-in computer shows on your account and phone (#6487)
+
+* feat(spaces): list every running Space of a signed-in computer on the owner&amp;#39;s account
+
+A S | why kept: local</description>
     </item></channel></rss>
