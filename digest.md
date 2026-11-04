@@ -1,1 +1,4 @@
-- fix(spaces-web): let the dialog's focus frame pass before checking a … — https://github.com/trycua/cua/commit/3248e4dea8b45e46d3a0f4a268e0d630f13b4646 (score 2)
+- oMLX 0.7.4 can pair a fast mac as prefill accelerator — https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/ (score 11)
+- ui: open actions on right-click for chats, tabs, messages and models … — https://github.com/ggml-org/llama.cpp/commit/c6a0ff11a0fe16ac1a2eb569190934593a2b3670 (score 4)
+- fix(ci): cua-auth tests never ran on GitHub; fix the broken flows tes… — https://github.com/trycua/cua/commit/1d18983a470ca5e31f9b2de2b2faaf015e83deee (score 2)
+- fix(cua-mesh): a client that hangs up mid-dial, a connection burst an… — https://github.com/trycua/cua/commit/2cac516f93eb5eeb9a5734f87bc8b978782a7e33 (score 2)

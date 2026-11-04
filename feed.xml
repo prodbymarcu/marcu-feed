@@ -1,9 +1,36 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-web): let the dialog&#x27;s focus frame pass before checking a …</title>
-      <link>https://github.com/trycua/cua/commit/3248e4dea8b45e46d3a0f4a268e0d630f13b4646</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3248e4dea8b45e46d3a0f4a268e0d630f13b4646</guid>
-      <pubDate>Wed, 04 Nov 2026 12:33:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-web): let the dialog&amp;#39;s focus frame pass before checking a typed resource value (#6477)
+      <title>oMLX 0.7.4 can pair a fast mac as prefill accelerator</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/</link>
+      <guid isPermaLink="false">t3_1xnnl57</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnnl57/omlx_074_can_pair_a_fast_mac_as_prefill/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/j2fWX_UlfelUnZDFk5olvHJbFSRl27d4O9Fbc-rtJKs.png?width=640&amp;amp;crop=smart&amp;am | why kept: mlx, local, mlx, llama</description>
+    </item>
+    <item>
+      <title>ui: open actions on right-click for chats, tabs, messages and models …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/c6a0ff11a0fe16ac1a2eb569190934593a2b3670</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c6a0ff11a0fe16ac1a2eb569190934593a2b3670</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: open actions on right-click for chats, tabs, messages and models (#31545)
 
-* fix(spaces-web): let the dialog&amp;#39;s focus frame pass before checking a typed resource va | why kept: runs</description>
+* ui : share directory resolution and the cwd row
+
+Move the lookup of a browser-picked folder to ToolsService.resolv | why kept: model, claude</description>
+    </item>
+    <item>
+      <title>fix(ci): cua-auth tests never ran on GitHub; fix the broken flows tes…</title>
+      <link>https://github.com/trycua/cua/commit/1d18983a470ca5e31f9b2de2b2faaf015e83deee</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1d18983a470ca5e31f9b2de2b2faaf015e83deee</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): cua-auth tests never ran on GitHub; fix the broken flows tests (CUA-3363) (#6478)
+
+* test(cua-auth): send the code the fake issuer accepts; keep each attempt&amp;#39;s PKCE challenge (CUA-31 | why kept: claude</description>
+    </item>
+    <item>
+      <title>fix(cua-mesh): a client that hangs up mid-dial, a connection burst an…</title>
+      <link>https://github.com/trycua/cua/commit/2cac516f93eb5eeb9a5734f87bc8b978782a7e33</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2cac516f93eb5eeb9a5734f87bc8b978782a7e33</guid>
+      <pubDate>Wed, 04 Nov 2026 12:49:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-mesh): a client that hangs up mid-dial, a connection burst and a forward&amp;#39;s UDP flows no longer hold descriptors (CUA-2159) (#6475)
+
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthr | why kept: claude</description>
     </item></channel></rss>
