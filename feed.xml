@@ -1,11 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>bin/ci: disk guard, lean cargo, per-run target dir (CUA-3134) (#6396)</title>
-      <link>https://github.com/trycua/cua/commit/a3bcdb9b9c7c0713fb1f443e12870b40eb764ade</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a3bcdb9b9c7c0713fb1f443e12870b40eb764ade</guid>
-      <pubDate>Wed, 04 Nov 2026 08:32:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;bin/ci: disk guard, lean cargo, per-run target dir (CUA-3134) (#6396)
+      <title>ComfyUI v0.44.0 released</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released/</link>
+      <guid isPermaLink="false">t3_1xngb2i</guid>
+      <pubDate>Wed, 04 Nov 2026 08:50:41 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/VeFuTKQmrzmJ8j0vaFFd5-gT_7re6WJSv22K5QZq2Rc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>ui: show text and page thumbnails for PDF attachments, stop endless c…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/efbf6e80a5c121584736b5face7cfced9da707dd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/efbf6e80a5c121584736b5face7cfced9da707dd</guid>
+      <pubDate>Wed, 04 Nov 2026 08:50:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show text and page thumbnails for PDF attachments, stop endless conversion retries (#31468)
 
-* bin/ci: disk guard, lean cargo, per-run target dir (CUA-3134)
+* fix(ui): show extracted text in PDF attachment preview
 
-Heavy checks skip below CUA_CI_MIN_FREE_GB, are stopped by  | why kept: claude, free</description>
+Assisted-by: Claude (Opus 5.5 Medium)
+
+* | why kept: claude</description>
     </item></channel></rss>

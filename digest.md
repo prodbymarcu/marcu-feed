@@ -1,1 +1,2 @@
-- bin/ci: disk guard, lean cargo, per-run target dir (CUA-3134) (#6396) — https://github.com/trycua/cua/commit/a3bcdb9b9c7c0713fb1f443e12870b40eb764ade (score 4)
+- ComfyUI v0.44.0 released — https://www.reddit.com/r/LocalLLaMA/comments/1xngb2i/comfyui_v0440_released/ (score 4)
+- ui: show text and page thumbnails for PDF attachments, stop endless c… — https://github.com/ggml-org/llama.cpp/commit/efbf6e80a5c121584736b5face7cfced9da707dd (score 2)
