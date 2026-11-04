@@ -1,7 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Ricursive Intelligence Ripple-65B-Preview: New Dense Model!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/</link>
-      <guid isPermaLink="false">t3_1xo2arv</guid>
-      <pubDate>Wed, 04 Nov 2026 18:09:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/nPRXa50Rrj7qDtMKbtHAdYhz0ZRzwREQWzYRM3zJ1uY.png?width=640&amp;amp;cro | why kept: model, local, llama</description>
+      <title>Rust inference engine for Qwen models on a 12 GB GPU, and it runs Qwen3.8-Flash-Next faster than the original Strata</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb/</link>
+      <guid isPermaLink="false">t3_1xnu9iv</guid>
+      <pubDate>Wed, 04 Nov 2026 18:40:40 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been working on this for a while: RustingStrata. It&amp;#39;s an inference engine for Qwen GGUF models, written in pure Rust, no ggml. The CUDA kernels get compiled at startup with NVRTC, and the same  | why kept: qwen, model, qwen, runs, quant, inference</description>
+    </item>
+    <item>
+      <title>fix(spaces-desktop): the native bridge test leaves agents.recentThrea…</title>
+      <link>https://github.com/trycua/cua/commit/11457e4235f2b5e1aa6216bb65455d805922a030</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/11457e4235f2b5e1aa6216bb65455d805922a030</guid>
+      <pubDate>Wed, 04 Nov 2026 18:40:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-desktop): the native bridge test leaves agents.recentThreads and agents.threadHistory to their own test (#6494)
+
+They were added with &amp;#39;pick up where you left off&amp;#39; (CUA-3319) an | why kept: agent, claude, runs</description>
     </item></channel></rss>
