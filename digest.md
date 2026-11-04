@@ -1,1 +1,3 @@
-- ci: fail workflows that use paid GitHub larger runners (CUA-3351) (#6… — https://github.com/trycua/cua/commit/ecaf10b1973f304e2e6088adc063069031a5e6ab (score 9)
+- My gift to the mods: — https://www.reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods/ (score 4)
+- I am big enough to admit that this is me — https://www.reddit.com/r/LocalLLaMA/comments/1xnqxlq/i_am_big_enough_to_admit_that_this_is_me/ (score 4)
+- Kimi-K3.1-Pro is now open-weights — https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/ (score 4)
