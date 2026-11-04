@@ -1,7 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Using Strata IQ4 Qwen Flash to edit Qwen 3.5 0.6B weight based on MIT CSAIL</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/</link>
-      <guid isPermaLink="false">t3_1xnjwte</guid>
-      <pubDate>Wed, 04 Nov 2026 07:43:57 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/pj1mklt9ckzh1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7da3732be0dfc | why kept: qwen, qwen, local, llama</description>
+      <title>AI Agent Task performance of small LLM models (4B and below) in self-assessment set</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xng029/ai_agent_task_performance_of_small_llm_models_4b/</link>
+      <guid isPermaLink="false">t3_1xng029</guid>
+      <pubDate>Wed, 04 Nov 2026 07:59:53 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xng029/ai_agent_task_performance_of_small_llm_models_4b/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/1upg1g127jzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=767b014ae4c1 | why kept: model, agent, local, llama</description>
+    </item>
+    <item>
+      <title>Deepseek V4.1 flash 1017 on 4rtx3090 + 256ddr4 ( Maya - engine )</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnkr5q/deepseek_v41_flash_1017_on_4rtx3090_256ddr4_maya/</link>
+      <guid isPermaLink="false">t3_1xnkr5q</guid>
+      <pubDate>Wed, 04 Nov 2026 07:59:53 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnkr5q/deepseek_v41_flash_1017_on_4rtx3090_256ddr4_maya/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cDJ0eTMzY2Vsa3poMX3lbSbikRJVn_ege8IXa_HowoKRQ5BX-WqdWT4bWq5-.png?w | why kept: local, llama, hardware</description>
+    </item>
+    <item>
+      <title>feat(spaces): the new first run, phase 1, behind Labs &quot;Try the new se…</title>
+      <link>https://github.com/trycua/cua/commit/166726686a8a8ca17fab122ed8ffb9a67235d5b8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/166726686a8a8ca17fab122ed8ffb9a67235d5b8</guid>
+      <pubDate>Wed, 04 Nov 2026 07:59:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): the new first run, phase 1, behind Labs &amp;quot;Try the new setup&amp;quot; (CUA-3318) (#6462)
+
+For users: with Settings &amp;gt; Advanced &amp;gt; Labs &amp;gt; &amp;quot;Try the new setup&amp;quot; on, a n | why kept: agent</description>
     </item></channel></rss>
