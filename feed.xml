@@ -1,7 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>deep-principle/Hydrogen-1.0 · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xnervh</guid>
-      <pubDate>Tue, 03 Nov 2026 23:54:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/-HBPNgxYsE1qeFE9_3tLxb8Y1nYU43IvnLdPvWeNyrg.png?width=640&amp;amp;crop=smart&amp;amp;a | why kept: model, local, llama</description>
+      <title>feat(cua-driver): capture embedded startup diagnostics (#3281)</title>
+      <link>https://github.com/trycua/cua/commit/ccc478a8b2d2fee55a6c0c14252a46bd9f9d94a1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ccc478a8b2d2fee55a6c0c14252a46bd9f9d94a1</guid>
+      <pubDate>Wed, 04 Nov 2026 00:29:25 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): capture embedded startup diagnostics (#3281)
+
+* feat(cua-driver): capture embedded startup diagnostics
+
+* test(cua-driver): preserve stderr capture default
+
+* fix(cua-driver): m | why kept: trycua</description>
     </item></channel></rss>

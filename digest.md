@@ -1,1 +1,1 @@
-- deep-principle/Hydrogen-1.0 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face/ (score 6)
+- feat(cua-driver): capture embedded startup diagnostics (#3281) — https://github.com/trycua/cua/commit/ccc478a8b2d2fee55a6c0c14252a46bd9f9d94a1 (score 5)
