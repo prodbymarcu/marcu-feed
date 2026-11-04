@@ -1,7 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Tencent says Hy4 ranks among the best open models. Its weights aren&#x27;t out yet</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models/</link>
-      <guid isPermaLink="false">t3_1xnnr3k</guid>
-      <pubDate>Wed, 04 Nov 2026 09:07:28 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bMTSgiIB14FzRPcGNRaU0cXOIJqgRfSz8m3rxtTb8TA.jpeg?width=640&amp;amp;cr | why kept: model, local, llama, computer use</description>
+      <title>I removed 85% of gemma&#x27;s weights (and it is mostly fine)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/</link>
+      <guid isPermaLink="false">t3_1xnoqyy</guid>
+      <pubDate>Wed, 04 Nov 2026 09:24:22 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/moelxv5iplzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fb560db17d4a8 | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>model, mtmd: drama-3 tts support (#31613)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/5851a8e505f4d5fbb183f2847698eb6155d176b7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5851a8e505f4d5fbb183f2847698eb6155d176b7</guid>
+      <pubDate>Wed, 04 Nov 2026 09:24:22 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model, mtmd: drama-3 tts support (#31613)
+
+* model, mtmd: drama-3 tts support
+
+* clean up
+
+* mtmd: drama3 helper stops at the codebook tower limit
+
+---------
+
+Co-authored-by: Pascal &amp;lt;admin@ser | why kept: model</description>
     </item></channel></rss>

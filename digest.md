@@ -1,1 +1,2 @@
-- Tencent says Hy4 ranks among the best open models. Its weights aren't out yet — https://www.reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models/ (score 8)
+- I removed 85% of gemma's weights (and it is mostly fine) — https://www.reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly/ (score 6)
+- model, mtmd: drama-3 tts support (#31613) — https://github.com/ggml-org/llama.cpp/commit/5851a8e505f4d5fbb183f2847698eb6155d176b7 (score 2)
