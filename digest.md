@@ -1,1 +1,3 @@
-- British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted — https://www.reddit.com/r/LocalLLaMA/comments/1xnkt87/british_fintech_revolut_slashes_ai_coding_costs/ (score 6)
+- spaces-desktop: catch handled update-download failures, log their rea… — https://github.com/trycua/cua/commit/a6451506496155a9631b53c8afc7379c1b560cb3 (score 7)
+- spaces-desktop: catch handled update-download failures, log their rea… — https://github.com/trycua/cua/commit/5a40f48905993e3f26010e3acf6c1d04bf85c409 (score 7)
+- [Paper] SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding 🚀🚀🚀 — https://www.reddit.com/r/LocalLLaMA/comments/1xnjrgj/paper_specpilot_autonomous_algorithm_discovery/ (score 4)
