@@ -1,1 +1,1 @@
-- Qwen3.8 27B Q4 on my low-end Laptop, and it became my main Model usage for coding — https://www.reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became/ (score 15)
+- Ricursive Intelligence Ripple-65B-Preview: New Dense Model! — https://www.reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense/ (score 6)
