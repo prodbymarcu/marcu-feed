@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(spaces-macos): Cua Driver built into Cua Spaces (CUA-2771, CUA-2…</title>
-      <link>https://github.com/trycua/cua/commit/b5125d2eaf2463b7bbac219b19fd281420213e1a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b5125d2eaf2463b7bbac219b19fd281420213e1a</guid>
-      <pubDate>Wed, 04 Nov 2026 23:33:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces-macos): Cua Driver built into Cua Spaces (CUA-2771, CUA-2775) (#6505)
-
-* fix(spaces): Set up installs and checks cua-driver before saying done (CUA-1797)
-
-Settings &amp;gt; Background com | why kept: agent, computer use</description>
+      <title>Anyone else tired of how expensive agent evaluations are? [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/</link>
+      <guid isPermaLink="false">t3_1xo8hlk</guid>
+      <pubDate>Thu, 05 Nov 2026 00:06:05 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes so mu | why kept: model, agent</description>
     </item></channel></rss>
