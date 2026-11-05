@@ -1,2 +1,1 @@
-- Qwen be like — https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/ (score 11)
-- ci(spacesd): bullseye build deps fall back to archive.debian.org, not… — https://github.com/trycua/cua/commit/55e1f5d7388fcfb8fd5376aadfd2824790e808c2 (score 2)
+- feat(images): the slim Linux image carries the cua CLI and a spawn-ca… — https://github.com/trycua/cua/commit/a1d98e8ba0510b6decc63b0840f51345adae00c1 (score 11)
