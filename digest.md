@@ -1,1 +1,1 @@
-- Anyone else tired of how expensive agent evaluations are? [D] — https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/ (score 4)
+- opencl: enable f32 and q5_k multi column GEMV by default for Adreno X… — https://github.com/ggml-org/llama.cpp/commit/7d516e25ead4653169236b3f90d13f7bd8629724 (score 2)

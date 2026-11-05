@@ -1,7 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Anyone else tired of how expensive agent evaluations are? [D]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xo8hlk/anyone_else_tired_of_how_expensive_agent/</link>
-      <guid isPermaLink="false">t3_1xo8hlk</guid>
-      <pubDate>Thu, 05 Nov 2026 00:06:05 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So I have been working on some general use agents that work with different domains but these require online simulations to test for some of the domains. And running agents in actual environments takes so mu | why kept: model, agent</description>
+      <title>opencl: enable f32 and q5_k multi column GEMV by default for Adreno X…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/7d516e25ead4653169236b3f90d13f7bd8629724</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7d516e25ead4653169236b3f90d13f7bd8629724</guid>
+      <pubDate>Thu, 05 Nov 2026 00:24:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: enable f32 and q5_k multi column GEMV by default for Adreno X2 (#31694)
+
+* opencl: use the small-N f32 GEMV by default on X2E
+
+Assisted-by: Claude Opus 5.5
+Co-authored-by: Shaofei Qi &amp;lt; | why kept: claude</description>
     </item></channel></rss>
