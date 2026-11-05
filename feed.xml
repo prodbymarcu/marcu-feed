@@ -1,7 +1,27 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Maybe we&#x27;ll get cheap RAM for Christmas after all!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/</link>
-      <guid isPermaLink="false">t3_1xovnaa</guid>
-      <pubDate>Thu, 05 Nov 2026 18:10:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/8efln1489vzh1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fcc55a9b2d12 | why kept: local, llama</description>
+      <title>Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight </title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/</link>
+      <guid isPermaLink="false">t3_1xoubyo</guid>
+      <pubDate>Thu, 05 Nov 2026 18:28:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/WoF4CQPEpVgoUYkXGBX8MoAhYa0kX-4Ctujg9LQQ_Lo.png?width=140&amp;amp;hei | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver-bench): count the Windows cua-driver process as a tool…</title>
+      <link>https://github.com/trycua/cua/commit/42d2892804cba7ecd8ef0a0ce9271f334798b207</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/42d2892804cba7ecd8ef0a0ce9271f334798b207</guid>
+      <pubDate>Thu, 05 Nov 2026 18:28:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver-bench): count the Windows cua-driver process as a tool overlay, not a raise (#6623)
+
+METHOD.md says the driver&amp;#39;s own windows are logged but not counted against the user-undistu | why kept: agent, claude</description>
+    </item>
+    <item>
+      <title>perf(pool): a warm member is prepared for every harness the app offer…</title>
+      <link>https://github.com/trycua/cua/commit/6dd499f5561df29c901e4255bff1377be8c171f4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6dd499f5561df29c901e4255bff1377be8c171f4</guid>
+      <pubDate>Thu, 05 Nov 2026 18:28:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(pool): a warm member is prepared for every harness the app offers (#6611)
+
+* perf(pool): a warm member is prepared for every harness the app offers
+
+The warm-pools member was prepared for fo | why kept: agent, openclaw</description>
     </item></channel></rss>

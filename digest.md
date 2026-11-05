@@ -1,1 +1,3 @@
-- Maybe we'll get cheap RAM for Christmas after all! — https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/ (score 4)
+- Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writi — https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/ (score 4)
+- fix(cua-driver-bench): count the Windows cua-driver process as a tool… — https://github.com/trycua/cua/commit/42d2892804cba7ecd8ef0a0ce9271f334798b207 (score 4)
+- perf(pool): a warm member is prepared for every harness the app offer… — https://github.com/trycua/cua/commit/6dd499f5561df29c901e4255bff1377be8c171f4 (score 4)
