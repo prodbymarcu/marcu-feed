@@ -1,37 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: retry apt with backoff and fall back to archive.debian.org when s…</title>
-      <link>https://github.com/trycua/cua/commit/9a9f975eb03e6cfc20b3ff5cc16cb552605ff601</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a9f975eb03e6cfc20b3ff5cc16cb552605ff601</guid>
-      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: retry apt with backoff and fall back to archive.debian.org when snapshot.debian.org fails (#6582)
-
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>Appreciation post for OrcaCyber-Nano-1.0</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/</link>
-      <guid isPermaLink="false">t3_1xosw1w</guid>
-      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/0tP33dXBTN-sjhs0my61JyiZT2ypzNixGYT1rV4YcL8.png?width=640&amp;amp;crop=smart&amp;amp; | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>ci: delete 7 workflows that CI: Quick already runs (CUA-3558, cut #10…</title>
-      <link>https://github.com/trycua/cua/commit/63d8ad7f60d1d0b08f5be3121eeee9b6c4c53210</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/63d8ad7f60d1d0b08f5be3121eeee9b6c4c53210</guid>
-      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: delete 7 workflows that CI: Quick already runs (CUA-3558, cut #10) (#6592)
-
-Delete ci-spdx-headers, ci-lockfiles, ci-lint-workflows, ci-block-larger-runners,
-ci-check-image-refs, ci-lint-pyth | why kept: runs</description>
-    </item>
-    <item>
-      <title>ci(spaces): retry SwiftPM binary downloads and wait for the cua-space…</title>
-      <link>https://github.com/trycua/cua/commit/0b3878bbadb7227dde9149d4e6f89db57c3c76f3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b3878bbadb7227dde9149d4e6f89db57c3c76f3</guid>
-      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): retry SwiftPM binary downloads and wait for the cua-spacesd pin on main builds (#6594)
-
-The two red-main causes of CD: Cua Spaces build (shadow) on 5 Nov 2026:
-Sparkle/Sentry binary t | why kept: claude</description>
+      <title>27B vs Flash next</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo3gwa/27b_vs_flash_next/</link>
+      <guid isPermaLink="false">t3_1xo3gwa</guid>
+      <pubDate>Thu, 05 Nov 2026 16:25:04 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, I need some advice.&lt;br/&gt; My actual setup is this:&lt;/p&gt; &lt;p&gt;ryzen 5600 / 32GB RAM / 128GB SSD / 32GB VRAM (2x16GB 5060ti)&lt;br/&gt; Running vLLM with Qwen 27B NVFP4 with 250k context.&lt;/p&gt; &lt;p&gt;But now I can | why kept: qwen, qwen</description>
     </item></channel></rss>

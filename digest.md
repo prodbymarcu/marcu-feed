@@ -1,4 +1,1 @@
-- ci: retry apt with backoff and fall back to archive.debian.org when s… — https://github.com/trycua/cua/commit/9a9f975eb03e6cfc20b3ff5cc16cb552605ff601 (score 7)
-- Appreciation post for OrcaCyber-Nano-1.0 — https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/ (score 4)
-- ci: delete 7 workflows that CI: Quick already runs (CUA-3558, cut #10… — https://github.com/trycua/cua/commit/63d8ad7f60d1d0b08f5be3121eeee9b6c4c53210 (score 2)
-- ci(spaces): retry SwiftPM binary downloads and wait for the cua-space… — https://github.com/trycua/cua/commit/0b3878bbadb7227dde9149d4e6f89db57c3c76f3 (score 2)
+- 27B vs Flash next — https://www.reddit.com/r/LocalLLaMA/comments/1xo3gwa/27b_vs_flash_next/ (score 7)
