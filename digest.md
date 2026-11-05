@@ -1,1 +1,1 @@
-- fix(spaces): say why a running Space is not on your account (#6536) — https://github.com/trycua/cua/commit/84a1353ca5ee43c5c3f1ab8ef9b9b827453d5480 (score 2)
+- bin/ci: raise the open-file limit so parallel cargo builds do not fai… — https://github.com/trycua/cua/commit/814ee18f14f0607341690c8fa2a49814a9fc3fbd (score 2)

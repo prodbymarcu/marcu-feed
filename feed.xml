@@ -1,10 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): say why a running Space is not on your account (#6536)</title>
-      <link>https://github.com/trycua/cua/commit/84a1353ca5ee43c5c3f1ab8ef9b9b827453d5480</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/84a1353ca5ee43c5c3f1ab8ef9b9b827453d5480</guid>
-      <pubDate>Thu, 05 Nov 2026 05:54:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): say why a running Space is not on your account (#6536)
+      <title>bin/ci: raise the open-file limit so parallel cargo builds do not fai…</title>
+      <link>https://github.com/trycua/cua/commit/814ee18f14f0607341690c8fa2a49814a9fc3fbd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/814ee18f14f0607341690c8fa2a49814a9fc3fbd</guid>
+      <pubDate>Thu, 05 Nov 2026 06:51:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;bin/ci: raise the open-file limit so parallel cargo builds do not fail on macOS (#6542)
 
-cua spaces ls and cua host status now tell how many running Spaces are
-not listed on the account and why (signed out, switch o | why kept: claude</description>
+Shells on macOS default to 256 open files; sccache under parallel rustc hit
+&amp;#39;Too many open files&amp;#39;  | why kept: claude</description>
     </item></channel></rss>
