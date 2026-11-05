@@ -1,1 +1,1 @@
-- feat(relay): default Space settings and detach-not-delete for removed… — https://github.com/trycua/cua/commit/7e86b3ea54412dace87954a67312dc3f0dcd399b (score 7)
+- feat(spaces): the new prompt box with a model and an optional repo (#… — https://github.com/trycua/cua/commit/2ea6cf34dde37afd37913566ce47ea92413c1cb3 (score 4)

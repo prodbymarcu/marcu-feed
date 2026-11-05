@@ -1,11 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(relay): default Space settings and detach-not-delete for removed…</title>
-      <link>https://github.com/trycua/cua/commit/7e86b3ea54412dace87954a67312dc3f0dcd399b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7e86b3ea54412dace87954a67312dc3f0dcd399b</guid>
-      <pubDate>Wed, 04 Nov 2026 20:35:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(relay): default Space settings and detach-not-delete for removed computers (CUA-3413) (#6504)
+      <title>feat(spaces): the new prompt box with a model and an optional repo (#…</title>
+      <link>https://github.com/trycua/cua/commit/2ea6cf34dde37afd37913566ce47ea92413c1cb3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2ea6cf34dde37afd37913566ce47ea92413c1cb3</guid>
+      <pubDate>Wed, 04 Nov 2026 21:07:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): the new prompt box with a model and an optional repo (#6490)
 
-* feat(relay): default Space settings and detach-not-delete for removed computers (CUA-3413)
+* feat(spaces): the new prompt box with a model and an optional repo
 
-C | why kept: trycua, claude</description>
+Home&amp;#39;s box is now the first prompt of a chat  | why kept: model, runs</description>
     </item></channel></rss>
