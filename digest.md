@@ -1,1 +1,3 @@
-- bin/ci: raise the open-file limit so parallel cargo builds do not fai… — https://github.com/trycua/cua/commit/814ee18f14f0607341690c8fa2a49814a9fc3fbd (score 2)
+- fix(spaces): Cua Driver runs after the new first run, whatever the Ma… — https://github.com/trycua/cua/commit/97eabde88dd1fdf4548dbe2d12af8396211ff4ff (score 6)
+- baidu/ERNIE-5.5-Flash-Base · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xobtwx/baiduernie55flashbase_hugging_face/ (score 4)
+- metal : fuse DeepSeek-V4/V4.1 and GLM MoE routing (#31615) — https://github.com/ggml-org/llama.cpp/commit/ea40a3a1e1774534b7fe605caa1e85558175e3e8 (score 2)
