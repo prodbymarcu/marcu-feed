@@ -1,1 +1,2 @@
-- conversion : resolve quantized_layers from source tensor names (#31611) — https://github.com/ggml-org/llama.cpp/commit/9c9074e14e029a16fc3298e6bc6a3ef00a0b9c11 (score 2)
+- AuroraIMG2-100M Releases! — https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases/ (score 6)
+- What are vector embeddings? An interactive guide — https://www.reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide/ (score 4)

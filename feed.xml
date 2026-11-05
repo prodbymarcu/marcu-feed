@@ -1,11 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>conversion : resolve quantized_layers from source tensor names (#31611)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9c9074e14e029a16fc3298e6bc6a3ef00a0b9c11</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c9074e14e029a16fc3298e6bc6a3ef00a0b9c11</guid>
-      <pubDate>Thu, 05 Nov 2026 04:16:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;conversion : resolve quantized_layers from source tensor names (#31611)
-
-* conversion : resolve quantized_layers from source tensor names
-
-This commit changes how the per layer NVFP4 quant_algo a | why kept: quant</description>
+      <title>AuroraIMG2-100M Releases!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases/</link>
+      <guid isPermaLink="false">t3_1xnzynf</guid>
+      <pubDate>Thu, 05 Nov 2026 04:33:59 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/KalSi81xJYACJcRazjOOtSnUhGLbz4WPh9lveAj_9fk.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp; | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>What are vector embeddings? An interactive guide</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide/</link>
+      <guid isPermaLink="false">t3_1xo9vl3</guid>
+      <pubDate>Thu, 05 Nov 2026 04:33:59 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/5SYP9CqSGavqH0cYvp-L_bsGwcx65KKWD9vchiIwYXw.jpeg?width=640&amp;amp;crop | why kept: local, llama</description>
     </item></channel></rss>
