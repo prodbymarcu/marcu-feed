@@ -1,2 +1,3 @@
-- ci : remove unused model generation (#31412) — https://github.com/ggml-org/llama.cpp/commit/d4c345d6c4c0396be18b5878fbf78359124a68bf (score 4)
-- ci(spacesd): cua-spacesd releases never take the repository's Latest … — https://github.com/trycua/cua/commit/96b18ccd495b7a314592be982dd0d1b713049e40 (score 2)
+- fit : account for skipped NextN layers when setting n_gpu_layers (#31… — https://github.com/ggml-org/llama.cpp/commit/2c192444c968dab466b778724d3fd2ae6019482c (score 9)
+- graph: store the MTP conv snapshots of every recurrent model in one s… — https://github.com/ggml-org/llama.cpp/commit/040ce199a156eea0da7618be1bd1ae9e0dca6b8d (score 9)
+- webgpu : add MEAN support (#31591) — https://github.com/ggml-org/llama.cpp/commit/553d2c2e7ec67307b44d6264ded5e3d6fce5b1b9 (score 2)
