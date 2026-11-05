@@ -1,32 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qwen2 : add nvfp4 scales to build_ffn (#31657)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/330f0189c9fc71ef631f40211660a87d99251cc1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/330f0189c9fc71ef631f40211660a87d99251cc1</guid>
-      <pubDate>Thu, 05 Nov 2026 00:41:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen2 : add nvfp4 scales to build_ffn (#31657)
-
-This commit adds nvfp4 scales to qwen2&amp;#39;s build_ffn call which are
-currently passed as NULL.
-
-The motivation for this is that a model converted  | why kept: qwen, model, qwen, llama</description>
+      <title>LFM3 1.7b - Rather good</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xno8d8/lfm3_17b_rather_good/</link>
+      <guid isPermaLink="false">t3_1xno8d8</guid>
+      <pubDate>Thu, 05 Nov 2026 00:59:34 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I finally got around to trying it. This tiny model is surprisingly capable it seems. Also tried the 2b VL - also very good but it has half the context of 1.7b.&lt;/p&gt; &lt;p&gt;It&amp;#39;s also quite fast:&lt;/p&gt; &lt;pre&gt;&lt;cod | why kept: model, llama</description>
     </item>
     <item>
-      <title>Space mesh nodes no longer probe the local network their network refu…</title>
-      <link>https://github.com/trycua/cua/commit/d327deb3f3732d3386fe5bccdc88d447574af3b4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d327deb3f3732d3386fe5bccdc88d447574af3b4</guid>
-      <pubDate>Thu, 05 Nov 2026 00:41:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Space mesh nodes no longer probe the local network their network refuses (#6518)
+      <title>An @mention by the host&#x27;s agent name wakes the Space&#x27;s agent (#6517)</title>
+      <link>https://github.com/trycua/cua/commit/83a40652f7eba7826fa6259ff6cd8928482af3d8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83a40652f7eba7826fa6259ff6cd8928482af3d8</guid>
+      <pubDate>Thu, 05 Nov 2026 00:59:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;An @mention by the host&amp;#39;s agent name wakes the Space&amp;#39;s agent (#6517)
 
-A Space&amp;#39;s own mesh node pinged peers&amp;#39; local-network endpoints every
-discovery round. The default Space ne | why kept: local</description>
+The Home flow built the summon input from the host&amp;#39;s unique member key
+(claude-8) instead of the Space&amp;#39;s hand | why kept: agent, claude</description>
     </item>
     <item>
-      <title>fix(spaces-sdk-swift): count the person-only thread tools in the cont…</title>
-      <link>https://github.com/trycua/cua/commit/c7e57f8638a6e46d84f53c2ec7b1685cebdf24e3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c7e57f8638a6e46d84f53c2ec7b1685cebdf24e3</guid>
-      <pubDate>Thu, 05 Nov 2026 00:41:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-sdk-swift): count the person-only thread tools in the contract tests (CUA-3399) (#6493)
-
-agent_threads and agent_thread_read joined the contract (121 tools) as
-person-only tools whose  | why kept: agent</description>
+      <title>As of November 2026, what is the best harness for doing long autonomous coding tasks, ones that have full loop of dev/test/update etc cycles, things that might take days+ to comple</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnw1s5/as_of_november_2026_what_is_the_best_harness_for/</link>
+      <guid isPermaLink="false">t3_1xnw1s5</guid>
+      <pubDate>Thu, 05 Nov 2026 00:59:34 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;As of November 2026, what is the best harness for doing long autonomous coding tasks, ones that have full loop of dev/test/update etc cycles, things that might take days+ to complete?&lt;/p&gt; &lt;p&gt;So for example, | why kept: local</description>
     </item></channel></rss>

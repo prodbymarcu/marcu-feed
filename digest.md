@@ -1,3 +1,3 @@
-- qwen2 : add nvfp4 scales to build_ffn (#31657) — https://github.com/ggml-org/llama.cpp/commit/330f0189c9fc71ef631f40211660a87d99251cc1 (score 11)
-- Space mesh nodes no longer probe the local network their network refu… — https://github.com/trycua/cua/commit/d327deb3f3732d3386fe5bccdc88d447574af3b4 (score 2)
-- fix(spaces-sdk-swift): count the person-only thread tools in the cont… — https://github.com/trycua/cua/commit/c7e57f8638a6e46d84f53c2ec7b1685cebdf24e3 (score 2)
+- LFM3 1.7b - Rather good — https://www.reddit.com/r/LocalLLaMA/comments/1xno8d8/lfm3_17b_rather_good/ (score 4)
+- An @mention by the host's agent name wakes the Space's agent (#6517) — https://github.com/trycua/cua/commit/83a40652f7eba7826fa6259ff6cd8928482af3d8 (score 4)
+- As of November 2026, what is the best harness for doing long autonomous coding tasks, ones that have full loop of dev/te — https://www.reddit.com/r/LocalLLaMA/comments/1xnw1s5/as_of_november_2026_what_is_the_best_harness_for/ (score 2)
