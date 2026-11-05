@@ -1,16 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I added local TTS and STT to apple-llm using what&#x27;s already on your Mac. 30 minutes of narration renders in under 20 seconds on an M4 Air</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/</link>
-      <guid isPermaLink="false">t3_1xoowb4</guid>
-      <pubDate>Thu, 05 Nov 2026 17:20:36 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/b3Jhcmd1eHN2dHpoMddtMWTgp48TOFwmKICjASqwAnX1MaWRmw3OklgySYhl.png? | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>feat(spaces): permissions step in the new first run, one permission f…</title>
-      <link>https://github.com/trycua/cua/commit/0f7a3846b190e31a71ce03a0d7274cfa5e67c8f8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0f7a3846b190e31a71ce03a0d7274cfa5e67c8f8</guid>
-      <pubDate>Thu, 05 Nov 2026 17:20:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): permissions step in the new first run, one permission flow with the Cua Driver page (CUA-3550) (#6579)
+      <title>fix(spaces): signing in to Claude Code, Codex and Hermes from the cha…</title>
+      <link>https://github.com/trycua/cua/commit/0c5e26f86e16809afee3c5d5c9ddd0e8925f0585</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c5e26f86e16809afee3c5d5c9ddd0e8925f0585</guid>
+      <pubDate>Thu, 05 Nov 2026 17:36:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): signing in to Claude Code, Codex and Hermes from the chat says what happened (#6576)
 
-* feat(spaces): one permission flow for Cua Spaces, with a permissions step i | why kept: agent</description>
+* fix(spaces): sign-in for Claude Code, Codex and Hermes says what happened (CUA-3549)
+
+Co-Autho | why kept: hermes, hermes, claude, codex</description>
     </item></channel></rss>
