@@ -1,2 +1,2 @@
-- llama : fix on-device state copy sizes for quantized KV caches (#30541) — https://github.com/ggml-org/llama.cpp/commit/e56f006ed6b416ae8b7ccb5243b204743f09df1e (score 4)
-- fix(cua-driver): refuse with 'did not verify' when cosign cannot star… — https://github.com/trycua/cua/commit/23404c7f51ed6b9f15e5fc953ddc8ae555bae0bb (score 2)
+- docs-mcp-server CD: no AWS role on pull_request (CUA-3355) (#6507) — https://github.com/trycua/cua/commit/c63f8880866d5c9f6f1fe0dc81bd39947bfd2561 (score 6)
+- test(spacesd): poll for the registered gang port instead of asserting… — https://github.com/trycua/cua/commit/d38ff7e2f8880aabbf0b9c6a8b7b09af35c1ad5f (score 2)

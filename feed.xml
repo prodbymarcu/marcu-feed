@@ -1,22 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : fix on-device state copy sizes for quantized KV caches (#30541)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e56f006ed6b416ae8b7ccb5243b204743f09df1e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e56f006ed6b416ae8b7ccb5243b204743f09df1e</guid>
-      <pubDate>Wed, 04 Nov 2026 21:40:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : fix on-device state copy sizes for quantized KV caches (#30541)
+      <title>docs-mcp-server CD: no AWS role on pull_request (CUA-3355) (#6507)</title>
+      <link>https://github.com/trycua/cua/commit/c63f8880866d5c9f6f1fe0dc81bd39947bfd2561</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c63f8880866d5c9f6f1fe0dc81bd39947bfd2561</guid>
+      <pubDate>Wed, 04 Nov 2026 22:44:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs-mcp-server CD: no AWS role on pull_request (CUA-3355) (#6507)
 
-* llama : fix on-device state copy sizes for quantized KV caches
+* docs-mcp-server CD: never assume the ECR push role on pull_request
 
-The on-device sequence state copies (LLAMA_STATE_SEQ_FLA | why kept: quant, llama</description>
+PR runs still build without pushing; AWS credentials and  | why kept: agent, claude, runs</description>
     </item>
     <item>
-      <title>fix(cua-driver): refuse with &#x27;did not verify&#x27; when cosign cannot star…</title>
-      <link>https://github.com/trycua/cua/commit/23404c7f51ed6b9f15e5fc953ddc8ae555bae0bb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/23404c7f51ed6b9f15e5fc953ddc8ae555bae0bb</guid>
-      <pubDate>Wed, 04 Nov 2026 21:40:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse with &amp;#39;did not verify&amp;#39; when cosign cannot start in install.ps1 (#6483)
+      <title>test(spacesd): poll for the registered gang port instead of asserting…</title>
+      <link>https://github.com/trycua/cua/commit/d38ff7e2f8880aabbf0b9c6a8b7b09af35c1ad5f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d38ff7e2f8880aabbf0b9c6a8b7b09af35c1ad5f</guid>
+      <pubDate>Wed, 04 Nov 2026 22:44:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spacesd): poll for the registered gang port instead of asserting on the first stream (#6511)
 
-* fix(cua-driver): keep install.ps1 from aborting after a successful cosign check
-
-cosign pr | why kept: runs</description>
+The first stream after registration can fail while the mesh path settles,
+which flaked relay e2e | why kept: claude</description>
     </item></channel></rss>
