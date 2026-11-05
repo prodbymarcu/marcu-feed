@@ -1,1 +1,1 @@
-- metal: keep fusable node groups inside one command buffer (#31688) — https://github.com/ggml-org/llama.cpp/commit/44f91a02b2dfea240610851cdc2fd691e8e8205c (score 2)
+- CCORE GLB-3D-Coder 4B final model and full weights are out — https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/ (score 6)
