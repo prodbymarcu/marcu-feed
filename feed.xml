@@ -1,7 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>What are you looking forward to in Qwen 4?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/</link>
-      <guid isPermaLink="false">t3_1xo3ikc</guid>
-      <pubDate>Wed, 04 Nov 2026 19:25:32 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Qwen 4 will be upon us soon. What are you most excited about?&lt;/p&gt; &lt;p&gt;I hope to see:&lt;/p&gt; &lt;p&gt;27B with more efficient KV, so 128k doesn&amp;#39;t need 8 GiB or whatever.&lt;/p&gt; &lt;p&gt;Flash the same architecture as Q38FN | why kept: qwen, qwen, local, llama</description>
+      <title>feat(relay): default Space settings and detach-not-delete for removed…</title>
+      <link>https://github.com/trycua/cua/commit/7e86b3ea54412dace87954a67312dc3f0dcd399b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7e86b3ea54412dace87954a67312dc3f0dcd399b</guid>
+      <pubDate>Wed, 04 Nov 2026 20:35:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(relay): default Space settings and detach-not-delete for removed computers (CUA-3413) (#6504)
+
+* feat(relay): default Space settings and detach-not-delete for removed computers (CUA-3413)
+
+C | why kept: trycua, claude</description>
     </item></channel></rss>
