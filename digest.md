@@ -1,1 +1,1 @@
-- ci(bench-streaming): re-baseline the runsc avsync skew budget for slo… — https://github.com/trycua/cua/commit/002454a2d61ca6278445f9cb5b07790aaae58c44 (score 2)
+- metal: keep fusable node groups inside one command buffer (#31688) — https://github.com/ggml-org/llama.cpp/commit/44f91a02b2dfea240610851cdc2fd691e8e8205c (score 2)

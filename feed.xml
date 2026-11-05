@@ -1,10 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(bench-streaming): re-baseline the runsc avsync skew budget for slo…</title>
-      <link>https://github.com/trycua/cua/commit/002454a2d61ca6278445f9cb5b07790aaae58c44</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/002454a2d61ca6278445f9cb5b07790aaae58c44</guid>
-      <pubDate>Thu, 05 Nov 2026 01:15:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(bench-streaming): re-baseline the runsc avsync skew budget for slower hosted runners (#6491)
+      <title>metal: keep fusable node groups inside one command buffer (#31688)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/44f91a02b2dfea240610851cdc2fd691e8e8205c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/44f91a02b2dfea240610851cdc2fd691e8e8205c</guid>
+      <pubDate>Thu, 05 Nov 2026 01:32:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal: keep fusable node groups inside one command buffer (#31688)
 
-The nightly streaming bench fails on runsc avsync av_skew_abs_ms_p50 on
-some hosted runners with n | why kept: runs</description>
+The first command buffer takes the first 10% of the graph nodes and the
+rest is split evenly between the extra command buffers. | why kept: runs</description>
     </item></channel></rss>
