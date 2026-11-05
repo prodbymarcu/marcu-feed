@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>27B vs Flash next</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo3gwa/27b_vs_flash_next/</link>
-      <guid isPermaLink="false">t3_1xo3gwa</guid>
-      <pubDate>Thu, 05 Nov 2026 16:25:04 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, I need some advice.&lt;br/&gt; My actual setup is this:&lt;/p&gt; &lt;p&gt;ryzen 5600 / 32GB RAM / 128GB SSD / 32GB VRAM (2x16GB 5060ti)&lt;br/&gt; Running vLLM with Qwen 27B NVFP4 with 250k context.&lt;/p&gt; &lt;p&gt;But now I can | why kept: qwen, qwen</description>
+      <title>Strata for all Qwen models from little to big</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/</link>
+      <guid isPermaLink="false">t3_1xottw2</guid>
+      <pubDate>Thu, 05 Nov 2026 16:43:21 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Ran every Qwen GGUF on my disk through RustingStrata and llama.cpp, same PC, same file, back to back.&lt;/p&gt; &lt;p&gt;PC: RTX 3060 12 GB, Ryzen 5 7600X, 32 GB RAM. CUDA. Normal desktop open (browser, Discord), no tu | why kept: qwen, model, qwen, quant, llama</description>
     </item></channel></rss>

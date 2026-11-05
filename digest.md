@@ -1,1 +1,1 @@
-- 27B vs Flash next — https://www.reddit.com/r/LocalLLaMA/comments/1xo3gwa/27b_vs_flash_next/ (score 7)
+- Strata for all Qwen models from little to big — https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/ (score 13)
