@@ -1,31 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fit : account for skipped NextN layers when setting n_gpu_layers (#31…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/2c192444c968dab466b778724d3fd2ae6019482c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2c192444c968dab466b778724d3fd2ae6019482c</guid>
-      <pubDate>Thu, 05 Nov 2026 03:42:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fit : account for skipped NextN layers when setting n_gpu_layers (#31569)
+      <title>conversion : resolve quantized_layers from source tensor names (#31611)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9c9074e14e029a16fc3298e6bc6a3ef00a0b9c11</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c9074e14e029a16fc3298e6bc6a3ef00a0b9c11</guid>
+      <pubDate>Thu, 05 Nov 2026 04:16:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;conversion : resolve quantized_layers from source tensor names (#31611)
 
-* fit : account for skipped NextN layers when setting n_gpu_layers
+* conversion : resolve quantized_layers from source tensor names
 
-Without MTP, fit counts n_layer + 1 layers while the | why kept: qwen, model, qwen</description>
-    </item>
-    <item>
-      <title>graph: store the MTP conv snapshots of every recurrent model in one s…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/040ce199a156eea0da7618be1bd1ae9e0dca6b8d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/040ce199a156eea0da7618be1bd1ae9e0dca6b8d</guid>
-      <pubDate>Thu, 05 Nov 2026 03:42:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;graph: store the MTP conv snapshots of every recurrent model in one set_rows (#31660)
-
-* graph: store the conv state of every rollback arch in one set_rows
-
-The rollback slots of the causal conv  | why kept: qwen, model, qwen</description>
-    </item>
-    <item>
-      <title>webgpu : add MEAN support (#31591)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/553d2c2e7ec67307b44d6264ded5e3d6fce5b1b9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/553d2c2e7ec67307b44d6264ded5e3d6fce5b1b9</guid>
-      <pubDate>Thu, 05 Nov 2026 03:42:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;webgpu : add MEAN support (#31591)
-
-Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
+This commit changes how the per layer NVFP4 quant_algo a | why kept: quant</description>
     </item></channel></rss>

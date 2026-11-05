@@ -1,3 +1,1 @@
-- fit : account for skipped NextN layers when setting n_gpu_layers (#31… — https://github.com/ggml-org/llama.cpp/commit/2c192444c968dab466b778724d3fd2ae6019482c (score 9)
-- graph: store the MTP conv snapshots of every recurrent model in one s… — https://github.com/ggml-org/llama.cpp/commit/040ce199a156eea0da7618be1bd1ae9e0dca6b8d (score 9)
-- webgpu : add MEAN support (#31591) — https://github.com/ggml-org/llama.cpp/commit/553d2c2e7ec67307b44d6264ded5e3d6fce5b1b9 (score 2)
+- conversion : resolve quantized_layers from source tensor names (#31611) — https://github.com/ggml-org/llama.cpp/commit/9c9074e14e029a16fc3298e6bc6a3ef00a0b9c11 (score 2)
