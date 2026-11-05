@@ -1,21 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs-mcp-server CD: no AWS role on pull_request (CUA-3355) (#6507)</title>
-      <link>https://github.com/trycua/cua/commit/c63f8880866d5c9f6f1fe0dc81bd39947bfd2561</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c63f8880866d5c9f6f1fe0dc81bd39947bfd2561</guid>
-      <pubDate>Wed, 04 Nov 2026 22:44:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs-mcp-server CD: no AWS role on pull_request (CUA-3355) (#6507)
+      <title>feat(spaces-macos): Cua Driver built into Cua Spaces (CUA-2771, CUA-2…</title>
+      <link>https://github.com/trycua/cua/commit/b5125d2eaf2463b7bbac219b19fd281420213e1a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b5125d2eaf2463b7bbac219b19fd281420213e1a</guid>
+      <pubDate>Wed, 04 Nov 2026 23:33:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces-macos): Cua Driver built into Cua Spaces (CUA-2771, CUA-2775) (#6505)
 
-* docs-mcp-server CD: never assume the ECR push role on pull_request
+* fix(spaces): Set up installs and checks cua-driver before saying done (CUA-1797)
 
-PR runs still build without pushing; AWS credentials and  | why kept: agent, claude, runs</description>
-    </item>
-    <item>
-      <title>test(spacesd): poll for the registered gang port instead of asserting…</title>
-      <link>https://github.com/trycua/cua/commit/d38ff7e2f8880aabbf0b9c6a8b7b09af35c1ad5f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d38ff7e2f8880aabbf0b9c6a8b7b09af35c1ad5f</guid>
-      <pubDate>Wed, 04 Nov 2026 22:44:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spacesd): poll for the registered gang port instead of asserting on the first stream (#6511)
-
-The first stream after registration can fail while the mesh path settles,
-which flaked relay e2e | why kept: claude</description>
+Settings &amp;gt; Background com | why kept: agent, computer use</description>
     </item></channel></rss>

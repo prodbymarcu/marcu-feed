@@ -1,2 +1,1 @@
-- docs-mcp-server CD: no AWS role on pull_request (CUA-3355) (#6507) — https://github.com/trycua/cua/commit/c63f8880866d5c9f6f1fe0dc81bd39947bfd2561 (score 6)
-- test(spacesd): poll for the registered gang port instead of asserting… — https://github.com/trycua/cua/commit/d38ff7e2f8880aabbf0b9c6a8b7b09af35c1ad5f (score 2)
+- feat(spaces-macos): Cua Driver built into Cua Spaces (CUA-2771, CUA-2… — https://github.com/trycua/cua/commit/b5125d2eaf2463b7bbac219b19fd281420213e1a (score 4)
