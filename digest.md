@@ -1,4 +1,1 @@
-- Qwen3.8-27B has become unuseable recently — https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/ (score 11)
-- llama-server: Use reference-counted checkpoints instead of deep-copie… — https://github.com/ggml-org/llama.cpp/commit/e152332a15986f4b15f79396df1980276b984001 (score 8)
-- vulkan : check combined K+V f16 scratch size in FA dequant path (#30487) — https://github.com/ggml-org/llama.cpp/commit/3b83d12b0876f2eaef38c708ac40b15c6e1c7b3f (score 4)
-- ggml : support `truncate=false` for YaRN (#30206) — https://github.com/ggml-org/llama.cpp/commit/1fa7f1c488cc92b8028ae780d12cff56b5113239 (score 2)
+- fix(cua-compat): name the user on file calls to an agent that switche… — https://github.com/trycua/cua/commit/1e1b9489f736d00a7f841db0ea4127dd75dc682c (score 2)

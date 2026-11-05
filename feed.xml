@@ -1,45 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen3.8-27B has become unuseable recently</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/</link>
-      <guid isPermaLink="false">t3_1xoeeyf</guid>
-      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When it came out, I downloaded a Q4 quant of qwen3.8-27b and ran it using llama.cpp on my RTX 4090 and it was incredible. It could handle practically anything I threw at it, the most complex tasks and bugfi | why kept: qwen, qwen, quant, llama</description>
-    </item>
-    <item>
-      <title>llama-server: Use reference-counted checkpoints instead of deep-copie…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e152332a15986f4b15f79396df1980276b984001</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e152332a15986f4b15f79396df1980276b984001</guid>
-      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama-server: Use reference-counted checkpoints instead of deep-copies (#30137)
+      <title>fix(cua-compat): name the user on file calls to an agent that switche…</title>
+      <link>https://github.com/trycua/cua/commit/1e1b9489f736d00a7f841db0ea4127dd75dc682c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1e1b9489f736d00a7f841db0ea4127dd75dc682c</guid>
+      <pubDate>Thu, 05 Nov 2026 05:38:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-compat): name the user on file calls to an agent that switches users (#6523)
 
-* checkpoints: reduce overhead
+* test(cua-compat): file calls name their user to an agent that switches users
 
-Assisted-by: Codex
-
-* rebase
-
-Adapt the slot save/restore checkpoint appendix from | why kept: claude, codex, local, llama</description>
-    </item>
-    <item>
-      <title>vulkan : check combined K+V f16 scratch size in FA dequant path (#30487)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/3b83d12b0876f2eaef38c708ac40b15c6e1c7b3f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3b83d12b0876f2eaef38c708ac40b15c6e1c7b3f</guid>
-      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan : check combined K+V f16 scratch size in FA dequant path (#30487)
-
-Fixes #30048
-
-Assisted-by: Claude&lt;/pre&gt; | why kept: claude, quant</description>
-    </item>
-    <item>
-      <title>ggml : support `truncate=false` for YaRN (#30206)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/1fa7f1c488cc92b8028ae780d12cff56b5113239</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1fa7f1c488cc92b8028ae780d12cff56b5113239</guid>
-      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : support `truncate=false` for YaRN (#30206)
-
-* ggml : support `truncate=false` for YaRN
-
-YaRN calculates correction intervals to switch frequency interpolation
-methods, but the setting to n | why kept: model</description>
+The spacesd mock records the  | why kept: agent</description>
     </item></channel></rss>
