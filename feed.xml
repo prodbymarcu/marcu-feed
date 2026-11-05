@@ -1,10 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(spaces-desktop): the native bridge test leaves the Cua Driver me…</title>
-      <link>https://github.com/trycua/cua/commit/ade0801e2d3ff9ed01479d79e68012cb31490857</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ade0801e2d3ff9ed01479d79e68012cb31490857</guid>
-      <pubDate>Thu, 05 Nov 2026 03:09:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces-desktop): the native bridge test leaves the Cua Driver methods to the Electron refusal (#6528)
+      <title>ci : remove unused model generation (#31412)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d4c345d6c4c0396be18b5878fbf78359124a68bf</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d4c345d6c4c0396be18b5878fbf78359124a68bf</guid>
+      <pubDate>Thu, 05 Nov 2026 03:26:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci : remove unused model generation (#31412)
 
-The Electron app has no driver: driver.* refuse with &amp;#39;comes with the Mac app&amp;#39;.
- | why kept: claude</description>
+* ci : re-enable test-llama-archs on Windows
+
+* cont : remove unused test&lt;/pre&gt; | why kept: model, llama</description>
+    </item>
+    <item>
+      <title>ci(spacesd): cua-spacesd releases never take the repository&#x27;s Latest …</title>
+      <link>https://github.com/trycua/cua/commit/96b18ccd495b7a314592be982dd0d1b713049e40</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/96b18ccd495b7a314592be982dd0d1b713049e40</guid>
+      <pubDate>Thu, 05 Nov 2026 03:26:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spacesd): cua-spacesd releases never take the repository&amp;#39;s Latest (#6529)
+
+A stable cua-spacesd 0.11.0 became Latest on 5 Nov and pushed cua-spaces
+v0.20.0 off it. The publish step now alw | why kept: claude</description>
     </item></channel></rss>

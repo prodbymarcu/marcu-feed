@@ -1,1 +1,2 @@
-- test(spaces-desktop): the native bridge test leaves the Cua Driver me… — https://github.com/trycua/cua/commit/ade0801e2d3ff9ed01479d79e68012cb31490857 (score 2)
+- ci : remove unused model generation (#31412) — https://github.com/ggml-org/llama.cpp/commit/d4c345d6c4c0396be18b5878fbf78359124a68bf (score 4)
+- ci(spacesd): cua-spacesd releases never take the repository's Latest … — https://github.com/trycua/cua/commit/96b18ccd495b7a314592be982dd0d1b713049e40 (score 2)
