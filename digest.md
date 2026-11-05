@@ -1,1 +1,2 @@
-- feat(spaces): the new prompt box with a model and an optional repo (#… — https://github.com/trycua/cua/commit/2ea6cf34dde37afd37913566ce47ea92413c1cb3 (score 4)
+- Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval [R] — https://www.reddit.com/r/MachineLearning/comments/1xnzzgn/length_is_cheap_competition_is_not_attention/ (score 11)
+- [P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P] — https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/ (score 4)

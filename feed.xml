@@ -1,11 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(spaces): the new prompt box with a model and an optional repo (#…</title>
-      <link>https://github.com/trycua/cua/commit/2ea6cf34dde37afd37913566ce47ea92413c1cb3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2ea6cf34dde37afd37913566ce47ea92413c1cb3</guid>
-      <pubDate>Wed, 04 Nov 2026 21:07:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): the new prompt box with a model and an optional repo (#6490)
-
-* feat(spaces): the new prompt box with a model and an optional repo
-
-Home&amp;#39;s box is now the first prompt of a chat  | why kept: model, runs</description>
+      <title>Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xnzzgn/length_is_cheap_competition_is_not_attention/</link>
+      <guid isPermaLink="false">t3_1xnzzgn</guid>
+      <pubDate>Wed, 04 Nov 2026 21:24:03 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Author here. A short summary, since the title is a claim.&lt;/p&gt; &lt;p&gt;Setup: key-value retrieval, 512 to 32K tokens, five open models (0.5B to 3B, four families). At equal length and equal evidence position, we  | why kept: qwen, model, qwen, free</description>
+    </item>
+    <item>
+      <title>[P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step&#x27;s time went, and what we changed [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/</link>
+      <guid isPermaLink="false">t3_1xo0yuq</guid>
+      <pubDate>Wed, 04 Nov 2026 21:24:03 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We wrote an inference engine for AWS Trainium2 that serves GLM-5.3-Flash (320B MoE, 1M-token context) on one trn2.48xlarge, and open-sourced it. Most of the work went into decode, and the part I found most  | why kept: model, inference</description>
     </item></channel></rss>
