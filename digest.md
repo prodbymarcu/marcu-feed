@@ -1,1 +1,1 @@
-- fix(cua-spacesd-client): mock runs commands and files as the user the… — https://github.com/trycua/cua/commit/f2947748770bc9e3215b8417965d6193dddfbfe1 (score 4)
+- test(spaces-desktop): the native bridge test leaves the Cua Driver me… — https://github.com/trycua/cua/commit/ade0801e2d3ff9ed01479d79e68012cb31490857 (score 2)
