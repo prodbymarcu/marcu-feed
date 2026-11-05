@@ -1,7 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Strata for all Qwen models from little to big</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/</link>
-      <guid isPermaLink="false">t3_1xottw2</guid>
-      <pubDate>Thu, 05 Nov 2026 16:43:21 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Ran every Qwen GGUF on my disk through RustingStrata and llama.cpp, same PC, same file, back to back.&lt;/p&gt; &lt;p&gt;PC: RTX 3060 12 GB, Ryzen 5 7600X, 32 GB RAM. CUDA. Normal desktop open (browser, Discord), no tu | why kept: qwen, model, qwen, quant, llama</description>
+      <title>I added local TTS and STT to apple-llm using what&#x27;s already on your Mac. 30 minutes of narration renders in under 20 seconds on an M4 Air</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/</link>
+      <guid isPermaLink="false">t3_1xoowb4</guid>
+      <pubDate>Thu, 05 Nov 2026 17:20:36 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/b3Jhcmd1eHN2dHpoMddtMWTgp48TOFwmKICjASqwAnX1MaWRmw3OklgySYhl.png? | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>feat(spaces): permissions step in the new first run, one permission f…</title>
+      <link>https://github.com/trycua/cua/commit/0f7a3846b190e31a71ce03a0d7274cfa5e67c8f8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0f7a3846b190e31a71ce03a0d7274cfa5e67c8f8</guid>
+      <pubDate>Thu, 05 Nov 2026 17:20:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): permissions step in the new first run, one permission flow with the Cua Driver page (CUA-3550) (#6579)
+
+* feat(spaces): one permission flow for Cua Spaces, with a permissions step i | why kept: agent</description>
     </item></channel></rss>

@@ -1,1 +1,2 @@
-- Strata for all Qwen models from little to big — https://www.reddit.com/r/LocalLLaMA/comments/1xottw2/strata_for_all_qwen_models_from_little_to_big/ (score 13)
+- I added local TTS and STT to apple-llm using what's already on your Mac. 30 minutes of narration renders in under 20 sec — https://www.reddit.com/r/LocalLLaMA/comments/1xoowb4/i_added_local_tts_and_stt_to_applellm_using_whats/ (score 4)
+- feat(spaces): permissions step in the new first run, one permission f… — https://github.com/trycua/cua/commit/0f7a3846b190e31a71ce03a0d7274cfa5e67c8f8 (score 2)
