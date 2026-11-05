@@ -1,9 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(images): the slim Linux image carries the cua CLI and a spawn-ca…</title>
-      <link>https://github.com/trycua/cua/commit/a1d98e8ba0510b6decc63b0840f51345adae00c1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a1d98e8ba0510b6decc63b0840f51345adae00c1</guid>
-      <pubDate>Thu, 05 Nov 2026 02:37:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(images): the slim Linux image carries the cua CLI and a spawn-capable cua-spacesd; drop agent-home (#6515)
+      <title>fix(cua-spacesd-client): mock runs commands and files as the user the…</title>
+      <link>https://github.com/trycua/cua/commit/f2947748770bc9e3215b8417965d6193dddfbfe1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f2947748770bc9e3215b8417965d6193dddfbfe1</guid>
+      <pubDate>Thu, 05 Nov 2026 02:53:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spacesd-client): mock runs commands and files as the user they name (#6527)
 
-* feat(images): the slim Linux image carries the cua CLI and a spawn-capable cua-s | why kept: trycua, agent, local, runs</description>
+* test(spacesd-client): mock runs processes and files as the user they name
+
+The mock agent is cua, not root,  | why kept: agent, runs</description>
     </item></channel></rss>

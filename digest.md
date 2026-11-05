@@ -1,1 +1,1 @@
-- feat(images): the slim Linux image carries the cua CLI and a spawn-ca… — https://github.com/trycua/cua/commit/a1d98e8ba0510b6decc63b0840f51345adae00c1 (score 11)
+- fix(cua-spacesd-client): mock runs commands and files as the user the… — https://github.com/trycua/cua/commit/f2947748770bc9e3215b8417965d6193dddfbfe1 (score 4)
