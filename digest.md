@@ -1,1 +1,3 @@
-- opencl: enable f32 and q5_k multi column GEMV by default for Adreno X… — https://github.com/ggml-org/llama.cpp/commit/7d516e25ead4653169236b3f90d13f7bd8629724 (score 2)
+- qwen2 : add nvfp4 scales to build_ffn (#31657) — https://github.com/ggml-org/llama.cpp/commit/330f0189c9fc71ef631f40211660a87d99251cc1 (score 11)
+- Space mesh nodes no longer probe the local network their network refu… — https://github.com/trycua/cua/commit/d327deb3f3732d3386fe5bccdc88d447574af3b4 (score 2)
+- fix(spaces-sdk-swift): count the person-only thread tools in the cont… — https://github.com/trycua/cua/commit/c7e57f8638a6e46d84f53c2ec7b1685cebdf24e3 (score 2)

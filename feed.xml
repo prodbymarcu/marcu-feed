@@ -1,12 +1,32 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>opencl: enable f32 and q5_k multi column GEMV by default for Adreno X…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/7d516e25ead4653169236b3f90d13f7bd8629724</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7d516e25ead4653169236b3f90d13f7bd8629724</guid>
-      <pubDate>Thu, 05 Nov 2026 00:24:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: enable f32 and q5_k multi column GEMV by default for Adreno X2 (#31694)
+      <title>qwen2 : add nvfp4 scales to build_ffn (#31657)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/330f0189c9fc71ef631f40211660a87d99251cc1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/330f0189c9fc71ef631f40211660a87d99251cc1</guid>
+      <pubDate>Thu, 05 Nov 2026 00:41:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen2 : add nvfp4 scales to build_ffn (#31657)
 
-* opencl: use the small-N f32 GEMV by default on X2E
+This commit adds nvfp4 scales to qwen2&amp;#39;s build_ffn call which are
+currently passed as NULL.
 
-Assisted-by: Claude Opus 5.5
-Co-authored-by: Shaofei Qi &amp;lt; | why kept: claude</description>
+The motivation for this is that a model converted  | why kept: qwen, model, qwen, llama</description>
+    </item>
+    <item>
+      <title>Space mesh nodes no longer probe the local network their network refu…</title>
+      <link>https://github.com/trycua/cua/commit/d327deb3f3732d3386fe5bccdc88d447574af3b4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d327deb3f3732d3386fe5bccdc88d447574af3b4</guid>
+      <pubDate>Thu, 05 Nov 2026 00:41:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Space mesh nodes no longer probe the local network their network refuses (#6518)
+
+A Space&amp;#39;s own mesh node pinged peers&amp;#39; local-network endpoints every
+discovery round. The default Space ne | why kept: local</description>
+    </item>
+    <item>
+      <title>fix(spaces-sdk-swift): count the person-only thread tools in the cont…</title>
+      <link>https://github.com/trycua/cua/commit/c7e57f8638a6e46d84f53c2ec7b1685cebdf24e3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c7e57f8638a6e46d84f53c2ec7b1685cebdf24e3</guid>
+      <pubDate>Thu, 05 Nov 2026 00:41:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-sdk-swift): count the person-only thread tools in the contract tests (CUA-3399) (#6493)
+
+agent_threads and agent_thread_read joined the contract (121 tools) as
+person-only tools whose  | why kept: agent</description>
     </item></channel></rss>
