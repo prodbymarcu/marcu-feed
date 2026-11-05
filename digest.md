@@ -1,3 +1,1 @@
-- LFM3 1.7b - Rather good — https://www.reddit.com/r/LocalLLaMA/comments/1xno8d8/lfm3_17b_rather_good/ (score 4)
-- An @mention by the host's agent name wakes the Space's agent (#6517) — https://github.com/trycua/cua/commit/83a40652f7eba7826fa6259ff6cd8928482af3d8 (score 4)
-- As of November 2026, what is the best harness for doing long autonomous coding tasks, ones that have full loop of dev/te — https://www.reddit.com/r/LocalLLaMA/comments/1xnw1s5/as_of_november_2026_what_is_the_best_harness_for/ (score 2)
+- ci(bench-streaming): re-baseline the runsc avsync skew budget for slo… — https://github.com/trycua/cua/commit/002454a2d61ca6278445f9cb5b07790aaae58c44 (score 2)
