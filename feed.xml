@@ -1,282 +1,37 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>My first experience with agentic AI</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xohbd3/my_first_experience_with_agentic_ai/</link>
-      <guid isPermaLink="false">t3_1xohbd3</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Strata, Hermes, Kitten TTS with Rosie voice and Whisper on RTX 3060 with 48 gb dram running Qwen3.8-Flash-Next Q2_0. I am blown away. I&amp;#39;ve been following the AI scene since GPT3 and I was still unprepar | why kept: qwen, hermes, agent, hermes, qwen, voice</description>
-    </item>
-    <item>
-      <title>[GUIDE] Qwen3.8 Flash-Next on a single RTX 5080 + 64GB RAM: &gt;250 tok/s tg and 5700 tok/s prefill in real agent coding sessions (Basalt + new Unsloth UD-IQ3_XXS + Lamina drafter),+ </title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xomy0i/guide_qwen38_flashnext_on_a_single_rtx_5080_64gb/</link>
-      <guid isPermaLink="false">t3_1xomy0i</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Basalt&lt;/strong&gt; is the engine and it&amp;#39;s doing the heavy lifting. Same model file, same box: about &lt;strong&gt;3.5x llama.cpp&amp;#39;s decode without drafting and ~5x  | why kept: unsloth, qwen, model, agent, qwen, llama</description>
-    </item>
-    <item>
-      <title>[Paper] SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding - By Qwen</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/</link>
-      <guid isPermaLink="false">t3_1xoo0pp</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/nrft41x6stzh1.jpeg?width=140&amp;amp;height=41&amp;amp;auto=webp&amp;amp;s=a7b04a821389f8cb8f0bd53 | why kept: qwen, model, qwen, local, inference, llama</description>
-    </item>
-    <item>
-      <title>DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% soo</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/</link>
-      <guid isPermaLink="false">t3_1xoq4vq</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/3lwJBRV1SW6bKKW-Bme3QrrSta5zz0W2LUyP3fDpDk8.png?width=640&amp;amp;crop | why kept: unsloth, local, quant, inference, llama</description>
-    </item>
-    <item>
-      <title>Can Opus weight-space-edit Qwen3.8-27B to refuse less? Yes</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less/</link>
-      <guid isPermaLink="false">t3_1xoo730</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoo730/can_opus_weightspaceedit_qwen3827b_to_refuse_less/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/HMd3isJAK7_fUuRfA9r6rOBFQlJAKZu3KR23mNJ0biQ.png?width=140&amp;amp;hei | why kept: qwen, model, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>Deepseek fixed my HDMI display show case</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoql51/deepseek_fixed_my_hdmi_display_show_case/</link>
-      <guid isPermaLink="false">t3_1xoql51</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoql51/deepseek_fixed_my_hdmi_display_show_case/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NjMxc3ltamk5dXpoMSsGuonCZeBZOfz9YPTZhe9D7Sic3pOyahCamKT1vdfp.png?width=640 | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>ci-gate: every pull request needs a sign-off, forks get a GitHub quic…</title>
-      <link>https://github.com/trycua/cua/commit/8563c3b0c5143c40988040950ba2c8423c36a7cb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8563c3b0c5143c40988040950ba2c8423c36a7cb</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci-gate: every pull request needs a sign-off, forks get a GitHub quick run (#6584)
-
-The agent heuristics (author, label, branch, trailer) missed most agent PRs.
-Drop them. A PR from a branch of t | why kept: trycua, agent, claude, local</description>
-    </item>
-    <item>
-      <title>Qwen 35B-A3B has better reasoning than gemma 4 26B A4B. Is there anything better (with that speed ans size and activated parameters)?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo18bg/qwen_35ba3b_has_better_reasoning_than_gemma_4_26b/</link>
-      <guid isPermaLink="false">t3_1xo18bg</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have my own way to test models for their pure reasoning. I have a series of unpublished and original logic puzzles and I use them to rank models.&lt;/p&gt; &lt;p&gt;After thorough testing, in my opinion, Qwen 35B-A3B | why kept: qwen, model, qwen</description>
-    </item>
-    <item>
-      <title>CI: cut bot noise (Codecov, CLA pass comments, per-run flaky comments…</title>
-      <link>https://github.com/trycua/cua/commit/810bc90f2fac6009db05de02b96129837cf0c352</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/810bc90f2fac6009db05de02b96129837cf0c352</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CI: cut bot noise (Codecov, CLA pass comments, per-run flaky comments) (#6586)
-
-Remove the Codecov upload; CLA bot only runs for community authors; flaky
-results go to job summaries and one weekl | why kept: trycua, claude, runs</description>
-    </item>
-    <item>
-      <title>cua-agent-setup tests: write fake agent binaries atomically to avoid …</title>
-      <link>https://github.com/trycua/cua/commit/9d34ea8e231d0b3c726d24277c0230c578e1c0fc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d34ea8e231d0b3c726d24277c0230c578e1c0fc</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cua-agent-setup tests: write fake agent binaries atomically to avoid ETXTBSY (#6575)
+      <title>ci: retry apt with backoff and fall back to archive.debian.org when s…</title>
+      <link>https://github.com/trycua/cua/commit/9a9f975eb03e6cfc20b3ff5cc16cb552605ff601</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a9f975eb03e6cfc20b3ff5cc16cb552605ff601</guid>
+      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: retry apt with backoff and fall back to archive.debian.org when snapshot.debian.org fails (#6582)
 
 Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropi | why kept: trycua, agent, claude</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>ci-gate: wait for a late local-ci sign-off, fail fast on a failed one…</title>
-      <link>https://github.com/trycua/cua/commit/cd3a365251219dcd6095a796fca750b5f4500e50</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd3a365251219dcd6095a796fca750b5f4500e50</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci-gate: wait for a late local-ci sign-off, fail fast on a failed one (#6569)
-
-* ci-gate: wait for a late local-ci sign-off, fail fast on a failed one
-
-Co-Authored-By: Claude Sonnet 5.5 &amp;lt;norep | why kept: trycua, claude, local</description>
+      <title>Appreciation post for OrcaCyber-Nano-1.0</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/</link>
+      <guid isPermaLink="false">t3_1xosw1w</guid>
+      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/0tP33dXBTN-sjhs0my61JyiZT2ypzNixGYT1rV4YcL8.png?width=640&amp;amp;crop=smart&amp;amp; | why kept: local, llama</description>
     </item>
     <item>
-      <title>ci: retry tool downloads so GitHub 5xx doesn&#x27;t fail the gate (#6567)</title>
-      <link>https://github.com/trycua/cua/commit/b432b196cbc40c783a7555c98e01b4edc4635edf</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b432b196cbc40c783a7555c98e01b4edc4635edf</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: retry tool downloads so GitHub 5xx doesn&amp;#39;t fail the gate (#6567)
+      <title>ci: delete 7 workflows that CI: Quick already runs (CUA-3558, cut #10…</title>
+      <link>https://github.com/trycua/cua/commit/63d8ad7f60d1d0b08f5be3121eeee9b6c4c53210</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/63d8ad7f60d1d0b08f5be3121eeee9b6c4c53210</guid>
+      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: delete 7 workflows that CI: Quick already runs (CUA-3558, cut #10) (#6592)
 
-Adds an install-actionlint composite action (curl with retries) used by the
-three workflows that each downloaded actionli | why kept: trycua, claude</description>
+Delete ci-spdx-headers, ci-lockfiles, ci-lint-workflows, ci-block-larger-runners,
+ci-check-image-refs, ci-lint-pyth | why kept: runs</description>
     </item>
     <item>
-      <title>Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/</link>
-      <guid isPermaLink="false">t3_1xossr5</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Smaller GLM models are coming! GLM 5.5 will have a 32B model!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/wapswaps&quot;&gt; /u/wapswaps &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https:// | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>[Paper] FireFlash : An Open Recipe for Long-Horizon Agentic RL Achieving the Performance-Cost Pareto Frontier</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/</link>
-      <guid isPermaLink="false">t3_1xomst7</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/orkgrqsqjtzh1.jpeg?width=140&amp;amp;height=117&amp;amp;auto=webp&amp;amp;s=543c65a917919 | why kept: agent, local, llama</description>
-    </item>
-    <item>
-      <title>The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/</link>
-      <guid isPermaLink="false">t3_1xor5nr</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xor5nr/the_ultimate_moe_training_handbook_training/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/DEP00xD88zTeRBQfe6_9jl4yBw_qK2LoVsy_qz66XfA.jpeg?width=640&amp;amp;crop=sma | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>Tiiny AI Performance tests. I just got my Tiiny, and here&#x27;s what it can do.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny/</link>
-      <guid isPermaLink="false">t3_1xoib84</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoib84/tiiny_ai_performance_tests_i_just_got_my_tiiny/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fcl01pkkmszh1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;a | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>ci: macOS clippy on every cua PR; larger-runner guard works without s…</title>
-      <link>https://github.com/trycua/cua/commit/044f528265234d255f0792d4929b434b5e9adf8e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/044f528265234d255f0792d4929b434b5e9adf8e</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: macOS clippy on every cua PR; larger-runner guard works without system PyYAML (#6541)
+      <title>ci(spaces): retry SwiftPM binary downloads and wait for the cua-space…</title>
+      <link>https://github.com/trycua/cua/commit/0b3878bbadb7227dde9149d4e6f89db57c3c76f3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b3878bbadb7227dde9149d4e6f89db57c3c76f3</guid>
+      <pubDate>Thu, 05 Nov 2026 16:04:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): retry SwiftPM binary downloads and wait for the cua-spacesd pin on main builds (#6594)
 
-* ci: macOS clippy on every cua pull request; larger-runner guard no longer needs system PyYAML
-
-rust li | why kept: claude, runs, free</description>
-    </item>
-    <item>
-      <title>feat(cua-driver-bench): fairness checks, runner support and a task ma…</title>
-      <link>https://github.com/trycua/cua/commit/60ed3eb5f038e090629f39687ec8b937724548f9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/60ed3eb5f038e090629f39687ec8b937724548f9</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): fairness checks, runner support and a task manifest for the public core tasks (#6574)
-
-Runner-agnostic fairness and health checks (fairness/), native-app and export-step
-s | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.39.0 (#5661)</title>
-      <link>https://github.com/trycua/cua/commit/81f3e1bbc0d113c1a33a71b4150fb6ece6a5e9cd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81f3e1bbc0d113c1a33a71b4150fb6ece6a5e9cd</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.39.0 (#5661)
-
-* chore(main): release cua-driver-rs 0.39.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Show HN: Stroq – a local audit of what your coding agent did and why</title>
-      <link>https://github.com/AGGIB/Stroq</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380704</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/AGGIB/Stroq&quot;&gt;https://github.com/AGGIB/Stroq&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50380704&quot;&gt;https://news.ycombinator.com/item?id=50380704&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 45&lt;/p&gt; | why kept: agent, local</description>
-    </item>
-    <item>
-      <title>llama: fix kv shifting, add tests, add per-model build_rope (#31683)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/6023692b1e13a6d4ee6b93f989c4713e474e6165</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6023692b1e13a6d4ee6b93f989c4713e474e6165</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama: fix kv shifting, add tests, add per-model build_rope (#31683)
-
-* llama: fix kv shifting and add tests
-
-* llama: add graph build_rope (#31693)
-
-* llama: add graph build_rope
-
-* improve
-
-* m | why kept: model, llama</description>
-    </item>
-    <item>
-      <title>llama, mtmd: (chatterbox) add use_classifier_free_guidance as gguf me…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/b1c902f026d32535b5e8eae55e5e47b379e57672</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b1c902f026d32535b5e8eae55e5e47b379e57672</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama, mtmd: (chatterbox) add use_classifier_free_guidance as gguf metadata (#31698)
-
-* llama, mtmd: add use_cfg as gguf metadata
-
-* use_classifier_free_guidance&lt;/pre&gt; | why kept: free, llama</description>
-    </item>
-    <item>
-      <title>fix(spaces): open picked-up agent chats from the end of their file, n…</title>
-      <link>https://github.com/trycua/cua/commit/d152839d00991547e59fa8b63cd77f3a6858cf7a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d152839d00991547e59fa8b63cd77f3a6858cf7a</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): open picked-up agent chats from the end of their file, never read them whole (CUA-3548) (#6577)
-
-Chat history was read line by line from the start of the agent&amp;#39;s file, keeping ev | why kept: agent, claude</description>
-    </item>
-    <item>
-      <title>Building a Multi-Agent System from Scratch: Architecture Patterns</title>
-      <link>https://kadhar.dev/blog/multi-agent-systems-from-scratch</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380658</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://kadhar.dev/blog/multi-agent-systems-from-scratch&quot;&gt;https://kadhar.dev/blog/multi-agent-systems-from-scratch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50380658&quot;&gt;https://news.ycombi | why kept: agent</description>
-    </item>
-    <item>
-      <title>An open-source project just ranked #1 on EnterpriseRAG-Bench, ahead of the listed systems from OpenAI, Google, Microsoft and Amazon</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on/</link>
-      <guid isPermaLink="false">t3_1xoiaye</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Some of you might remember our post comparing 18 RAG pipelines against our agent loop on FRAMES. The best pipeline scored 78.9%; the loop scored 92.7%.&lt;/p&gt; &lt;p&gt;A follow-up: PipesHub has now reached &lt;strong&gt;# | why kept: agent</description>
-    </item>
-    <item>
-      <title>models : recursive fix (#31749)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e8df20d238853b2f4fa460ad4c0757116a271400</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e8df20d238853b2f4fa460ad4c0757116a271400</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;models : recursive fix (#31749)&lt;/pre&gt; | why kept: model</description>
-    </item>
-    <item>
-      <title>model : add Ripple (ricursiveai) (#31692)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fecdc81eec0922b229e7e6f4069cea603e10d6a7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fecdc81eec0922b229e7e6f4069cea603e10d6a7</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : add Ripple (ricursiveai) (#31692)
-
-* feat : added ricursiveai ripple support
-
-* fix : mandatiry SWA, scale through helper, comments back
-
-* fix : metal
-
-* model : make ricursive RoPE/NoPE | why kept: model</description>
-    </item>
-    <item>
-      <title>model: Add support for the xing4_0  (#31589)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/45b6604b20f17b7d7638042306c0cd1b6af5999c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/45b6604b20f17b7d7638042306c0cd1b6af5999c</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model: Add support for the xing4_0  (#31589)
-
-* model: add support for Xing4.0
-
-* Update src/models/xing4_0.cpp
-
-Co-authored-by: Sigbjørn Skjæret &amp;lt;sigbjorn.skjaeret@huggingface.co&amp;gt;
-
-* Updat | why kept: model</description>
-    </item>
-    <item>
-      <title>Spaces: delete the dead experiments and the upsell_cards flag (CUA-35…</title>
-      <link>https://github.com/trycua/cua/commit/c5584a2b414e9a06e7cf224106f2ee5228b85009</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c5584a2b414e9a06e7cf224106f2ee5228b85009</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Spaces: delete the dead experiments and the upsell_cards flag (CUA-3508) (#6547)
-
-* Spaces: delete the dead experiments and the upsell_cards flag (CUA-3508)
-
-Removes the your_cloud, sharing and w | why kept: claude</description>
-    </item>
-    <item>
-      <title>fix(cua-host): keep staging and production host services apart; Windo…</title>
-      <link>https://github.com/trycua/cua/commit/126b01ec330951195b7275cd2b5936d4a707e2fb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/126b01ec330951195b7275cd2b5936d4a707e2fb</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-host): keep staging and production host services apart; Windows host online right after setup (#6557)
-
-* fix(cua-host): name each home&amp;#39;s host service apart and confirm it is online af | why kept: runs</description>
+The two red-main causes of CD: Cua Spaces build (shadow) on 5 Nov 2026:
+Sparkle/Sentry binary t | why kept: claude</description>
     </item></channel></rss>
