@@ -1,10 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(ci): run the release-gate lanes when the PR-only quick job is ski…</title>
-      <link>https://github.com/trycua/cua/commit/e358a8236de33fd5f8b43f908ca2572d72ee89b7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e358a8236de33fd5f8b43f908ca2572d72ee89b7</guid>
-      <pubDate>Thu, 05 Nov 2026 07:28:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): run the release-gate lanes when the PR-only quick job is skipped (#6540)
-
-The quick stage only runs on pull_request. Jobs behind it without a status
-function in their if: were skipped on | why kept: runs</description>
+      <title>Quantization livestream with goats of inference</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/</link>
+      <guid isPermaLink="false">t3_1xoglot</guid>
+      <pubDate>Thu, 05 Nov 2026 08:08:44 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/igiy33di7szh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2e2809e03ec87 | why kept: local, quant, inference, llama</description>
     </item></channel></rss>
