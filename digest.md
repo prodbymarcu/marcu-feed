@@ -1,1 +1,1 @@
-- [Paper] Think Less, Locally: Local Preference Learning for Reasoning Compression — https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/ (score 6)
+- Rather Qwen4-27b at 1M ctx than a big MOE at 128k — https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/ (score 11)

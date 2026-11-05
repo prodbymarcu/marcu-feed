@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Paper] Think Less, Locally: Local Preference Learning for Reasoning Compression</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/</link>
-      <guid isPermaLink="false">t3_1xnrcfw</guid>
-      <pubDate>Thu, 05 Nov 2026 08:52:28 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/sc06pdt88mzh1.png?width=140&amp;amp;height=99&amp;amp;auto=webp&amp;amp;s=884837757a7dd63df9f3 | why kept: model, local, llama</description>
+      <title>Rather Qwen4-27b at 1M ctx than a big MOE at 128k</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/</link>
+      <guid isPermaLink="false">t3_1xoh2s7</guid>
+      <pubDate>Thu, 05 Nov 2026 09:37:09 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Larger context just gets more work done rather than having to re-read files ETC id much rather use my extra resources on context window. Instead of more params.&lt;br/&gt; i get my 400k ctx qwen3.8-27b + web sear | why kept: qwen, model, qwen, context window</description>
     </item></channel></rss>

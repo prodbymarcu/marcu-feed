@@ -1,12 +1,12 @@
 {
  "fetched": 165,
- "new": 2,
+ "new": 3,
  "dropped_kill": 0,
- "dropped_low": 1,
+ "dropped_low": 2,
  "errors": [
-  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
-  "ml-community: <HTTPError 429: 'Too Many Requests'>"
+  "ml-community: <HTTPError 429: 'Too Many Requests'>",
+  "cua-commits: <HTTPError 504: 'Gateway Time-out'>"
  ],
  "brain": {
   "sent": 0,
@@ -14,5 +14,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 1,
- "at": "2026-11-05T13:52:28Z"
+ "at": "2026-11-05T14:37:09Z"
 }
