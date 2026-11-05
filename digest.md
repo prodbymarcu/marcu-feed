@@ -1,1 +1,1 @@
-- fix(cua-compat): name the user on file calls to an agent that switche… — https://github.com/trycua/cua/commit/1e1b9489f736d00a7f841db0ea4127dd75dc682c (score 2)
+- fix(spaces): say why a running Space is not on your account (#6536) — https://github.com/trycua/cua/commit/84a1353ca5ee43c5c3f1ab8ef9b9b827453d5480 (score 2)

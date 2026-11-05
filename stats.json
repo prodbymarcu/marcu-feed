@@ -1,8 +1,8 @@
 {
  "fetched": 185,
- "new": 3,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 2,
+ "dropped_low": 1,
  "errors": [
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
@@ -12,5 +12,5 @@
   "kept": 1
  },
  "kept": 1,
- "at": "2026-11-05T10:38:34Z"
+ "at": "2026-11-05T10:54:54Z"
 }
