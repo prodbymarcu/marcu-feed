@@ -1,7 +1,31 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Rather Qwen4-27b at 1M ctx than a big MOE at 128k</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/</link>
-      <guid isPermaLink="false">t3_1xoh2s7</guid>
-      <pubDate>Thu, 05 Nov 2026 09:37:09 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Larger context just gets more work done rather than having to re-read files ETC id much rather use my extra resources on context window. Instead of more params.&lt;br/&gt; i get my 400k ctx qwen3.8-27b + web sear | why kept: qwen, model, qwen, context window</description>
+      <title>Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source) Kokon</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/</link>
+      <guid isPermaLink="false">t3_1xoji3b</guid>
+      <pubDate>Thu, 05 Nov 2026 10:08:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZHZlejMyN213c3poMbhqWEyBmwZ9GRrQJ8AvgN153PrD05k9GMdbWSAhKx0I.png?widt | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>ci(spaces): retry GitHub CDN 5xx in the nightly link check and the cu…</title>
+      <link>https://github.com/trycua/cua/commit/d00a5bc003bd1b8c165a9f0171b42ca492f4e28d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d00a5bc003bd1b8c165a9f0171b42ca492f4e28d</guid>
+      <pubDate>Thu, 05 Nov 2026 10:08:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): retry GitHub CDN 5xx in the nightly link check and the cua-spacesd pin check (CUA-3503) (#6554)
+
+The first all-platform nightly (run 42040860874) published Windows and
+Linux, but GitH | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by NVIDIA - VideoCardz</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/</link>
+      <guid isPermaLink="false">t3_1xojryw</guid>
+      <pubDate>Thu, 05 Nov 2026 10:08:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/xyeZJvCM1pmzXkm8Uj8iV__TvSvGPyuJGEK06MB7Xdg.jpeg?width=640&amp;amp;crop= | why kept: video, local, llama</description>
+    </item>
+    <item>
+      <title>llama: refactoring: move model to class member of llm_graph_context (…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e0f96a1a12217d1fab1f281ebc34faca2550c6b9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e0f96a1a12217d1fab1f281ebc34faca2550c6b9</guid>
+      <pubDate>Thu, 05 Nov 2026 10:08:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama: refactoring: move model to class member of llm_graph_context (#31733)&lt;/pre&gt; | why kept: model, llama</description>
     </item></channel></rss>

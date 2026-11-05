@@ -1,1 +1,4 @@
-- Rather Qwen4-27b at 1M ctx than a big MOE at 128k — https://www.reddit.com/r/LocalLLaMA/comments/1xoh2s7/rather_qwen427b_at_1m_ctx_than_a_big_moe_at_128k/ (score 11)
+- Getting editable layers out of Qwen-Image 2.1, a model that only edits: what works, what still fails (local, open source — https://www.reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a/ (score 13)
+- ci(spaces): retry GitHub CDN 5xx in the nightly link check and the cu… — https://github.com/trycua/cua/commit/d00a5bc003bd1b8c165a9f0171b42ca492f4e28d (score 7)
+- NVIDIA RTX PRO 5500 Blackwell appears at $17,999 MSRP, higher than RTX PRO 6000 at $16,000 MSRP set some months ago by N — https://www.reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999/ (score 6)
+- llama: refactoring: move model to class member of llm_graph_context (… — https://github.com/ggml-org/llama.cpp/commit/e0f96a1a12217d1fab1f281ebc34faca2550c6b9 (score 4)
