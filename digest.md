@@ -1,1 +1,2 @@
-- fix(spaces): signing in to Claude Code, Codex and Hermes from the cha… — https://github.com/trycua/cua/commit/0c5e26f86e16809afee3c5d5c9ddd0e8925f0585 (score 11)
+- fix(spaces-web): a message from Home starts a new Home Space (#6612) — https://github.com/trycua/cua/commit/5101142e8e45b95e2aef3056da87d3b86aa74989 (score 4)
+- fix(cua-spaces): publish running Spaces on the relay after a late cua… — https://github.com/trycua/cua/commit/2ee22216370dafd161436e18364dd4c5cf26b2d7 (score 2)
