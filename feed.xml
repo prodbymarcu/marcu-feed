@@ -1,14 +1,45 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>AuroraIMG2-100M Releases!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases/</link>
-      <guid isPermaLink="false">t3_1xnzynf</guid>
-      <pubDate>Thu, 05 Nov 2026 04:33:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnzynf/auroraimg2100m_releases/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/KalSi81xJYACJcRazjOOtSnUhGLbz4WPh9lveAj_9fk.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp; | why kept: model, local, llama</description>
+      <title>Qwen3.8-27B has become unuseable recently</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/</link>
+      <guid isPermaLink="false">t3_1xoeeyf</guid>
+      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;When it came out, I downloaded a Q4 quant of qwen3.8-27b and ran it using llama.cpp on my RTX 4090 and it was incredible. It could handle practically anything I threw at it, the most complex tasks and bugfi | why kept: qwen, qwen, quant, llama</description>
     </item>
     <item>
-      <title>What are vector embeddings? An interactive guide</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide/</link>
-      <guid isPermaLink="false">t3_1xo9vl3</guid>
-      <pubDate>Thu, 05 Nov 2026 04:33:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/5SYP9CqSGavqH0cYvp-L_bsGwcx65KKWD9vchiIwYXw.jpeg?width=640&amp;amp;crop | why kept: local, llama</description>
+      <title>llama-server: Use reference-counted checkpoints instead of deep-copie…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e152332a15986f4b15f79396df1980276b984001</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e152332a15986f4b15f79396df1980276b984001</guid>
+      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama-server: Use reference-counted checkpoints instead of deep-copies (#30137)
+
+* checkpoints: reduce overhead
+
+Assisted-by: Codex
+
+* rebase
+
+Adapt the slot save/restore checkpoint appendix from | why kept: claude, codex, local, llama</description>
+    </item>
+    <item>
+      <title>vulkan : check combined K+V f16 scratch size in FA dequant path (#30487)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/3b83d12b0876f2eaef38c708ac40b15c6e1c7b3f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3b83d12b0876f2eaef38c708ac40b15c6e1c7b3f</guid>
+      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan : check combined K+V f16 scratch size in FA dequant path (#30487)
+
+Fixes #30048
+
+Assisted-by: Claude&lt;/pre&gt; | why kept: claude, quant</description>
+    </item>
+    <item>
+      <title>ggml : support `truncate=false` for YaRN (#30206)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/1fa7f1c488cc92b8028ae780d12cff56b5113239</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1fa7f1c488cc92b8028ae780d12cff56b5113239</guid>
+      <pubDate>Thu, 05 Nov 2026 05:06:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : support `truncate=false` for YaRN (#30206)
+
+* ggml : support `truncate=false` for YaRN
+
+YaRN calculates correction intervals to switch frequency interpolation
+methods, but the setting to n | why kept: model</description>
     </item></channel></rss>
