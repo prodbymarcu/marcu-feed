@@ -1,7 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>CCORE GLB-3D-Coder 4B final model and full weights are out</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/</link>
-      <guid isPermaLink="false">t3_1xobe4h</guid>
-      <pubDate>Thu, 05 Nov 2026 01:48:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dDhwdndidjVmcXpoMdATf-8Xp_s2kD-hsn5Tl7S0Um_KuQ6TsHijxPwKMHWz.png?w | why kept: model, local, llama</description>
+      <title>Qwen be like</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/</link>
+      <guid isPermaLink="false">t3_1xobzg3</guid>
+      <pubDate>Thu, 05 Nov 2026 02:21:03 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Paraphrasing the thinking I saw from Qwen3.8-27B&lt;/p&gt; &lt;p&gt;&amp;gt;Hmm, I can take the screenshot, there&amp;#39;s a tool for that. But wait, I&amp;#39;m an LLM, I can only read text.&lt;/p&gt; &lt;p&gt;&amp;gt;Whatever, let&amp;#39;s try ca | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>ci(spacesd): bullseye build deps fall back to archive.debian.org, not…</title>
+      <link>https://github.com/trycua/cua/commit/55e1f5d7388fcfb8fd5376aadfd2824790e808c2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55e1f5d7388fcfb8fd5376aadfd2824790e808c2</guid>
+      <pubDate>Thu, 05 Nov 2026 02:21:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spacesd): bullseye build deps fall back to archive.debian.org, not snapshot.debian.org (#6522)
+
+snapshot.debian.org answered 503 for every package on 5 Nov and failed the
+cua-spacesd 0.11.0 re | why kept: claude</description>
     </item></channel></rss>

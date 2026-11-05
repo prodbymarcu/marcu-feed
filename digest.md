@@ -1,1 +1,2 @@
-- CCORE GLB-3D-Coder 4B final model and full weights are out — https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/ (score 6)
+- Qwen be like — https://www.reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like/ (score 11)
+- ci(spacesd): bullseye build deps fall back to archive.debian.org, not… — https://github.com/trycua/cua/commit/55e1f5d7388fcfb8fd5376aadfd2824790e808c2 (score 2)
