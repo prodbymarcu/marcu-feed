@@ -1,2 +1,2 @@
-- Length Is Cheap, Competition Is Not: Attention Predicts Context Rot in Retrieval [R] — https://www.reddit.com/r/MachineLearning/comments/1xnzzgn/length_is_cheap_competition_is_not_attention/ (score 11)
-- [P] NKI layer megakernels for GLM-5.3-Flash on AWS Trainium2: where a decode step's time went, and what we changed [P] — https://www.reddit.com/r/MachineLearning/comments/1xo0yuq/p_nki_layer_megakernels_for_glm53flash_on_aws/ (score 4)
+- llama : fix on-device state copy sizes for quantized KV caches (#30541) — https://github.com/ggml-org/llama.cpp/commit/e56f006ed6b416ae8b7ccb5243b204743f09df1e (score 4)
+- fix(cua-driver): refuse with 'did not verify' when cosign cannot star… — https://github.com/trycua/cua/commit/23404c7f51ed6b9f15e5fc953ddc8ae555bae0bb (score 2)
