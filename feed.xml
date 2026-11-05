@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-web): a message from Home starts a new Home Space (#6612)</title>
-      <link>https://github.com/trycua/cua/commit/5101142e8e45b95e2aef3056da87d3b86aa74989</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5101142e8e45b95e2aef3056da87d3b86aa74989</guid>
-      <pubDate>Thu, 05 Nov 2026 17:52:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-web): a message from Home starts a new Home Space (#6612)
-
-* fix(spaces-web): a message from Home starts a new Home Space
-
-Home used to send every message to the agent&amp;#39;s one rememb | why kept: agent, claude</description>
-    </item>
-    <item>
-      <title>fix(cua-spaces): publish running Spaces on the relay after a late cua…</title>
-      <link>https://github.com/trycua/cua/commit/2ee22216370dafd161436e18364dd4c5cf26b2d7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2ee22216370dafd161436e18364dd4c5cf26b2d7</guid>
-      <pubDate>Thu, 05 Nov 2026 17:52:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spaces): publish running Spaces on the relay after a late cua-spacesd (#6581)
-
-* fix(spaces): list running Spaces on the relay after a late cua-spacesd, host-attributed
-
-A Space whose cua | why kept: claude</description>
+      <title>Maybe we&#x27;ll get cheap RAM for Christmas after all!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/</link>
+      <guid isPermaLink="false">t3_1xovnaa</guid>
+      <pubDate>Thu, 05 Nov 2026 18:10:00 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/8efln1489vzh1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=fcc55a9b2d12 | why kept: local, llama</description>
     </item></channel></rss>

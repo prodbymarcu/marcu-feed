@@ -1,2 +1,1 @@
-- fix(spaces-web): a message from Home starts a new Home Space (#6612) — https://github.com/trycua/cua/commit/5101142e8e45b95e2aef3056da87d3b86aa74989 (score 4)
-- fix(cua-spaces): publish running Spaces on the relay after a late cua… — https://github.com/trycua/cua/commit/2ee22216370dafd161436e18364dd4c5cf26b2d7 (score 2)
+- Maybe we'll get cheap RAM for Christmas after all! — https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/ (score 4)
