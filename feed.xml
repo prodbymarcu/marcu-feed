@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Quantization livestream with goats of inference</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/</link>
-      <guid isPermaLink="false">t3_1xoglot</guid>
-      <pubDate>Thu, 05 Nov 2026 08:08:44 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/igiy33di7szh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2e2809e03ec87 | why kept: local, quant, inference, llama</description>
+      <title>[Paper] Think Less, Locally: Local Preference Learning for Reasoning Compression</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/</link>
+      <guid isPermaLink="false">t3_1xnrcfw</guid>
+      <pubDate>Thu, 05 Nov 2026 08:52:28 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/sc06pdt88mzh1.png?width=140&amp;amp;height=99&amp;amp;auto=webp&amp;amp;s=884837757a7dd63df9f3 | why kept: model, local, llama</description>
     </item></channel></rss>

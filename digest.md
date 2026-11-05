@@ -1,1 +1,1 @@
-- Quantization livestream with goats of inference — https://www.reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference/ (score 8)
+- [Paper] Think Less, Locally: Local Preference Learning for Reasoning Compression — https://www.reddit.com/r/LocalLLaMA/comments/1xnrcfw/paper_think_less_locally_local_preference/ (score 6)
