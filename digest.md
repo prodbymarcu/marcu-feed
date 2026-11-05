@@ -1,2 +1,1 @@
-- Rust inference engine for Qwen models on a 12 GB GPU, and it runs Qwen3.8-Flash-Next faster than the original Strata — https://www.reddit.com/r/LocalLLaMA/comments/1xnu9iv/rust_inference_engine_for_qwen_models_on_a_12_gb/ (score 15)
-- fix(spaces-desktop): the native bridge test leaves agents.recentThrea… — https://github.com/trycua/cua/commit/11457e4235f2b5e1aa6216bb65455d805922a030 (score 6)
+- What are you looking forward to in Qwen 4? — https://www.reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4/ (score 11)
