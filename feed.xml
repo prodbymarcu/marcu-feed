@@ -1,14 +1,37 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen Developers on X: &quot;Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/</link>
-      <guid isPermaLink="false">t3_1xpf8qy</guid>
-      <pubDate>Fri, 06 Nov 2026 10:26:26 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Qwhen? Qsoon!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Nota_ReAlperson&quot;&gt; /u/Nota_ReAlperson &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://x.com/QwenDevs/status/211871674537 | why kept: qwen, qwen, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.40.2 (#6703)</title>
+      <link>https://github.com/trycua/cua/commit/dd0f673f2ea6352e767d89800d4636d73cf82a3c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd0f673f2ea6352e767d89800d4636d73cf82a3c</guid>
+      <pubDate>Fri, 06 Nov 2026 10:55:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.2 (#6703)
+
+* chore(main): release cua-driver-rs 0.40.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item>
     <item>
-      <title>[R] First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, training, evaluation, inference</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpeevv/r_first_paper_on_how_to_train_actual_sota/</link>
-      <guid isPermaLink="false">t3_1xpeevv</guid>
-      <pubDate>Fri, 06 Nov 2026 10:26:26 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpeevv/r_first_paper_on_how_to_train_actual_sota/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/pb8s3hpj600i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=410f5b457f0decc5197 | why kept: model, local, inference, llama</description>
+      <title>blog: Cua Driver Bench: Can an Agent Use Your Apps Without Disturbing…</title>
+      <link>https://github.com/trycua/cua/commit/fb0fa62384d6a13f399cf3559a0013fd934f223a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fb0fa62384d6a13f399cf3559a0013fd934f223a</guid>
+      <pubDate>Fri, 06 Nov 2026 10:55:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;blog: Cua Driver Bench: Can an Agent Use Your Apps Without Disturbing You? (#6689)
+
+* blog: Cua Driver Bench post (dated 2026-11-07)
+
+Co-Authored-By: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;g | why kept: agent, claude</description>
+    </item>
+    <item>
+      <title>fix(ci): don&#x27;t fail the release-gate report when a post-merge push ru…</title>
+      <link>https://github.com/trycua/cua/commit/509bbb00153030d689cd9d805ad5bbf001571b4d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/509bbb00153030d689cd9d805ad5bbf001571b4d</guid>
+      <pubDate>Fri, 06 Nov 2026 10:55:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): don&amp;#39;t fail the release-gate report when a post-merge push runs no lanes (#6690)
+
+* fix(ci): don&amp;#39;t fail the release-gate report when a post-merge push runs no lanes
+
+A push to mai | why kept: claude, runs</description>
     </item></channel></rss>

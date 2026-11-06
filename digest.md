@@ -1,2 +1,3 @@
-- Qwen Developers on X: "Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from — https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/ (score 11)
-- [R] First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, training, eval — https://www.reddit.com/r/LocalLLaMA/comments/1xpeevv/r_first_paper_on_how_to_train_actual_sota/ (score 8)
+- chore(main): release cua-driver-rs 0.40.2 (#6703) — https://github.com/trycua/cua/commit/dd0f673f2ea6352e767d89800d4636d73cf82a3c (score 5)
+- blog: Cua Driver Bench: Can an Agent Use Your Apps Without Disturbing… — https://github.com/trycua/cua/commit/fb0fa62384d6a13f399cf3559a0013fd934f223a (score 4)
+- fix(ci): don't fail the release-gate report when a post-merge push ru… — https://github.com/trycua/cua/commit/509bbb00153030d689cd9d805ad5bbf001571b4d (score 4)
