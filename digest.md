@@ -1,5 +1,1 @@
-- I animated how a language model picks the next token, with real probabilities from Qwen2.5-0.5B: softmax, greedy vs samp — https://www.reddit.com/r/MachineLearning/comments/1xopogt/i_animated_how_a_language_model_picks_the_next/ (score 11)
-- feat(cua-driver-bench): run all ten Bench v2 tasks on Linux XFCE (X11… — https://github.com/trycua/cua/commit/486e31316569ab99fcad7fadf3d60e33a936a8aa (score 9)
-- chore(main): release cua-driver-rs 0.40.0 (#6626) — https://github.com/trycua/cua/commit/29d66a3ea2477c8ae65623358953bd959221bc8f (score 5)
-- The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P] — https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/ (score 4)
-- Empirical Evaluation of Sparse Predictive Hierarchies (SPH) & Non-Backprop Learning on Chess (Lc0 Baseline) Negative Res — https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/ (score 2)
+- Good news bad news… — https://www.reddit.com/r/LocalLLaMA/comments/1xpcl6w/good_news_bad_news/ (score 11)
