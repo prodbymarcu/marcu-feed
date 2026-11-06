@@ -1,3 +1,1 @@
-- Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial rel — https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/ (score 8)
-- feat(spaces): Local dev builds keep agent keys in a private file with… — https://github.com/trycua/cua/commit/ffa4c068ac246b015c13b30982b1f57086443b5c (score 4)
-- fix(spaces): New Space Continue did nothing for a Windows image on a … — https://github.com/trycua/cua/commit/2f2af6925c21eb372b0a2a90a3b0f1fb09d1222c (score 2)
+- ci(spaces): wait for cua.ai's release snapshot instead of failing eve… — https://github.com/trycua/cua/commit/95234264a1bac5ae3ad55cf8a57a47db9d31c759 (score 5)

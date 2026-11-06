@@ -1,25 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/</link>
-      <guid isPermaLink="false">t3_1xpm8mw</guid>
-      <pubDate>Fri, 06 Nov 2026 15:21:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/yeo2x908i10i1.png?width=140&amp;amp;height=110&amp;amp;auto=webp&amp;amp;s=94897cf505e279f | why kept: model, local, runs, llama</description>
-    </item>
-    <item>
-      <title>feat(spaces): Local dev builds keep agent keys in a private file with…</title>
-      <link>https://github.com/trycua/cua/commit/ffa4c068ac246b015c13b30982b1f57086443b5c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ffa4c068ac246b015c13b30982b1f57086443b5c</guid>
-      <pubDate>Fri, 06 Nov 2026 15:21:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Local dev builds keep agent keys in a private file without the Keychain; install-local.sh signs with its own Keychain (#6587)
+      <title>ci(spaces): wait for cua.ai&#x27;s release snapshot instead of failing eve…</title>
+      <link>https://github.com/trycua/cua/commit/95234264a1bac5ae3ad55cf8a57a47db9d31c759</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/95234264a1bac5ae3ad55cf8a57a47db9d31c759</guid>
+      <pubDate>Fri, 06 Nov 2026 15:40:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): wait for cua.ai&amp;#39;s release snapshot instead of failing every release (CUA-3128) (#6750)
 
-* feat(spaces): Local dev builds keep agent keys in a  | why kept: agent, local</description>
-    </item>
-    <item>
-      <title>fix(spaces): New Space Continue did nothing for a Windows image on a …</title>
-      <link>https://github.com/trycua/cua/commit/2f2af6925c21eb372b0a2a90a3b0f1fb09d1222c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2f2af6925c21eb372b0a2a90a3b0f1fb09d1222c</guid>
-      <pubDate>Fri, 06 Nov 2026 15:21:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): New Space Continue did nothing for a Windows image on a Windows PC (#6724)
-
-* spaces wizard: Continue is judged for the shell&amp;#39;s own system (Windows image advanced nothing on a Wi | why kept: claude</description>
+The &amp;quot;cua.ai serves the new release&amp;quot; job failed for 0.21.0 and 0.21.1. The
+downloa | why kept: trycua</description>
     </item></channel></rss>
