@@ -1,3 +1,2 @@
-- End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step — https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/ (score 15)
-- Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next — https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/ (score 7)
-- Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K — https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/ (score 6)
+- moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/ (score 4)
+- fix(cua-driver): admit any native Wayland app to Hyprland background … — https://github.com/trycua/cua/commit/895aec7e51b0409b2b22c958920d52c22b0d2b03 (score 2)

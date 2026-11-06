@@ -1,21 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step guided Conversions to GGUF, MLX, and ONNX, and Visualize Mo</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/</link>
-      <guid isPermaLink="false">t3_1xp01ck</guid>
-      <pubDate>Fri, 06 Nov 2026 13:39:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NnZubmNvNW1wdnpoMSruneSvClMEo8TIJzjdUT3sLIUQk4ZtpTlVWH_HMDgO.png? | why kept: mlx, model, local, quant, mlx, llama</description>
+      <title>moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/</link>
+      <guid isPermaLink="false">t3_1xpfvfz</guid>
+      <pubDate>Fri, 06 Nov 2026 13:57:32 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/7Q7Gfoc-MiNukJnB13oyanVLAeY3TKAinxruiswZQhk.png?width=640&amp;amp;crop=sma | why kept: local, llama</description>
     </item>
     <item>
-      <title>Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/</link>
-      <guid isPermaLink="false">t3_1xphi5w</guid>
-      <pubDate>Fri, 06 Nov 2026 13:39:45 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;table&gt;&lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;Benchmark&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Ripple 65B&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Qwen 3.8 27B&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Qwen 3.8 FN&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;&lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;Terminal Be | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/</link>
-      <guid isPermaLink="false">t3_1xpcpws</guid>
-      <pubDate>Fri, 06 Nov 2026 13:39:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/xzClsJ1OcThPXOQ6-E63WnY9j0AC0Fs7BH4UHZsyBrE.png?width=640&amp;amp;crop= | why kept: model, local, llama</description>
+      <title>fix(cua-driver): admit any native Wayland app to Hyprland background …</title>
+      <link>https://github.com/trycua/cua/commit/895aec7e51b0409b2b22c958920d52c22b0d2b03</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/895aec7e51b0409b2b22c958920d52c22b0d2b03</guid>
+      <pubDate>Fri, 06 Nov 2026 13:57:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): admit any native Wayland app to Hyprland background input (#6706)
+
+* fix(cua-driver): admit any native Wayland app to Hyprland background input (CUA-3583)
+
+Background pointer and | why kept: agent</description>
     </item></channel></rss>
