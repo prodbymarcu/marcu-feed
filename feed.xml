@@ -1,32 +1,38 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen 4 is stealth announced</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/</link>
-      <guid isPermaLink="false">t3_1xpbjku</guid>
-      <pubDate>Fri, 06 Nov 2026 07:50:52 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/032i612tjzzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=386a84ad0b0f9f5f712bfc8e7ffc7d3b | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>Qwen - the becoming begins</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/</link>
-      <guid isPermaLink="false">t3_1xpbjzi</guid>
-      <pubDate>Fri, 06 Nov 2026 07:50:52 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/k36bnqtvjzzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad73959394fb0898020b31be06c6772d7769 | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>ci: remove 26 dead workflows and two unused libs (CUA-3571) (#6616)</title>
-      <link>https://github.com/trycua/cua/commit/fd1655f824a06f52b87cb948a13b4d5372356cf5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd1655f824a06f52b87cb948a13b4d5372356cf5</guid>
-      <pubDate>Fri, 06 Nov 2026 07:50:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: remove 26 dead workflows and two unused libs (CUA-3571) (#6616)
+      <title>tests : override hardware_concurrency in CI (#31797)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9a1d03c7ca2ca279feca8afd29d40c8e0fff9b6d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a1d03c7ca2ca279feca8afd29d40c8e0fff9b6d</guid>
+      <pubDate>Fri, 06 Nov 2026 08:07:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : override hardware_concurrency in CI (#31797)
 
-* ci: remove 26 dead workflows and two unused libs (CUA-3571)
-
-Compat/E2B lanes that never passed, end-of-life package CI/CD ( | why kept: trycua, agent, claude</description>
+The self-hosted CPU runners are containers with 8 CPUs, but
+std::thread::hardware_concurrency reports the cores of the host. The
+table mode o | why kept: qwen, model, qwen, runs, llama, hardware</description>
     </item>
     <item>
-      <title>CPython 0-Day Vulnerabilities Threaten the AI Supply Chain</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai/</link>
-      <guid isPermaLink="false">t3_1xoyr90</guid>
-      <pubDate>Fri, 06 Nov 2026 07:50:52 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Vulnerability in cpython that neither cpython guys, jinja guys, or huggingface has fixed despite being informed.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Thrump | why kept: local, runs, llama</description>
+      <title>tests : qualify isnan and signbit with std:: (#31791)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/8820b088de2580a6466aa575264394ca1d541904</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8820b088de2580a6466aa575264394ca1d541904</guid>
+      <pubDate>Fri, 06 Nov 2026 08:07:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : qualify isnan and signbit with std:: (#31791)
+
+* tests : qualify isnan and signbit with std::
+
+The unqualified calls rely on the C math.h names also being present in the
+global namespace, | why kept: qwen, qwen, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-perception 0.2.2 (#6521)</title>
+      <link>https://github.com/trycua/cua/commit/81f6686297fdafb0adcf06c43d883f9a77cc4167</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81f6686297fdafb0adcf06c43d883f9a77cc4167</guid>
+      <pubDate>Fri, 06 Nov 2026 08:07:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-perception 0.2.2 (#6521)
+
+* chore(main): release cua-perception 0.2.2
+
+* chore(cua-perception): synchronize release lockfile
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
