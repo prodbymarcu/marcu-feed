@@ -1,2 +1,1 @@
-- Qwen3.8-27B Benchmark: 6 Inference Engines, GGUF vs NInfer, 256K Context — Comparing Both Speed AND Quality — https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs/ (score 13)
-- ci(cua-driver-bench): stop Linux headless contracts job timing out on… — https://github.com/trycua/cua/commit/7fd33832b5aa43c2865f7d38f6a37d5a3565b38c (score 2)
+- Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/ (score 4)

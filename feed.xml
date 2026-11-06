@@ -1,16 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen3.8-27B Benchmark: 6 Inference Engines, GGUF vs NInfer, 256K Context — Comparing Both Speed AND Quality</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs/</link>
-      <guid isPermaLink="false">t3_1xoxx4a</guid>
-      <pubDate>Fri, 06 Nov 2026 02:31:22 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/AAxYQHDCBuXiB6tSFvnuERlr1aoJ_tu1BHmeHIUgglk.png?width=140&amp;amp;heigh | why kept: qwen, qwen, local, inference, llama</description>
-    </item>
-    <item>
-      <title>ci(cua-driver-bench): stop Linux headless contracts job timing out on…</title>
-      <link>https://github.com/trycua/cua/commit/7fd33832b5aa43c2865f7d38f6a37d5a3565b38c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7fd33832b5aa43c2865f7d38f6a37d5a3565b38c</guid>
-      <pubDate>Fri, 06 Nov 2026 02:31:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver-bench): stop Linux headless contracts job timing out on slow apt mirror (#6656)
-
-The job&amp;#39;s 10 min budget was consumed by a throttled apt mirror during dependency install (tests  | why kept: claude</description>
+      <title>Add support for the xing4_0 by shuxiaoqiong · Pull Request #31589 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/</link>
+      <guid isPermaLink="false">t3_1xoqc59</guid>
+      <pubDate>Fri, 06 Nov 2026 03:03:40 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoqc59/add_support_for_the_xing4_0_by_shuxiaoqiong_pull/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/SMDvYKNXoIUofvcPsk-f1AN3sHH01PK5alY-XXHxMKA.png?width=640&amp;amp;crop | why kept: local, llama</description>
     </item></channel></rss>
