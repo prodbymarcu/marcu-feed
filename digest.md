@@ -1,3 +1,2 @@
-- chore(main): release cua-driver-rs 0.40.2 (#6703) — https://github.com/trycua/cua/commit/dd0f673f2ea6352e767d89800d4636d73cf82a3c (score 5)
-- blog: Cua Driver Bench: Can an Agent Use Your Apps Without Disturbing… — https://github.com/trycua/cua/commit/fb0fa62384d6a13f399cf3559a0013fd934f223a (score 4)
-- fix(ci): don't fail the release-gate report when a post-merge push ru… — https://github.com/trycua/cua/commit/509bbb00153030d689cd9d805ad5bbf001571b4d (score 4)
+- Oc-e-Non-v1: A language model that gets to the f*cking point — https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/ (score 6)
+- chore(cua-driver): advance published installer version to 0.39.0 (#6686) — https://github.com/trycua/cua/commit/b3db94d01eb13f5e542f6c0de9c04e038f923f09 (score 2)
