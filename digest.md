@@ -1,6 +1,2 @@
-- Qwen3.8 27b hitting 6,645 tok/s on prefill and 316 tok/s decode peak on Saber — https://www.reddit.com/r/LocalLLaMA/comments/1xpicjz/qwen38_27b_hitting_6645_toks_on_prefill_and_316/ (score 13)
-- ci(cua-driver): label the post-publish installer bump PR no-release (… — https://github.com/trycua/cua/commit/cb314070f1e0fd4d0d13d2b0dd446811d626e529 (score 7)
-- ci(release): stop Release Please for deprecated and archived packages… — https://github.com/trycua/cua/commit/a043b584b2c19a4a5b14f5aafbc7d125464a688e (score 7)
-- chore(main): release cua-sdk 0.11.0 (#6351) — https://github.com/trycua/cua/commit/9a0a9777ea825ae6da11d3271d3e233a17f4ad23 (score 5)
-- chore(main): release cua-driver-rs 0.40.4 (#6730) — https://github.com/trycua/cua/commit/cacf611bd197089dc370607c05491ce7637a4f3f (score 5)
-- ci: stop skipping jobs behind PR-only quick; fail a skipped desktop s… — https://github.com/trycua/cua/commit/fcf5accfcbeed980c5f9c1c38e107937aed651f7 (score 2)
+- bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/ (score 4)
+- bin/ci: run on Windows (Git for Windows' bash, never WSL's) (#6719) — https://github.com/trycua/cua/commit/3d05b19523fb9582779c802bfa395f2982627229 (score 2)

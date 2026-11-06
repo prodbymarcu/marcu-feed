@@ -1,69 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen3.8 27b hitting 6,645 tok/s on prefill and 316 tok/s decode peak on Saber</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpicjz/qwen38_27b_hitting_6645_toks_on_prefill_and_316/</link>
-      <guid isPermaLink="false">t3_1xpicjz</guid>
-      <pubDate>Fri, 06 Nov 2026 14:48:58 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpicjz/qwen38_27b_hitting_6645_toks_on_prefill_and_316/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/jqp4n2gwx00i1.png?width=140&amp;amp;height=90&amp;amp;auto=webp&amp;amp;s=9269f55133c191 | why kept: qwen, qwen, local, inference, llama</description>
+      <title>bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xplkdu</guid>
+      <pubDate>Fri, 06 Nov 2026 15:04:48 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ycTBloCpy5IVsnT-Gi8mxvMr1moO288VpYNdj9ythkI.png?width=640&amp;amp;cr | why kept: local, llama</description>
     </item>
     <item>
-      <title>ci(cua-driver): label the post-publish installer bump PR no-release (…</title>
-      <link>https://github.com/trycua/cua/commit/cb314070f1e0fd4d0d13d2b0dd446811d626e529</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cb314070f1e0fd4d0d13d2b0dd446811d626e529</guid>
-      <pubDate>Fri, 06 Nov 2026 14:48:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): label the post-publish installer bump PR no-release (#6746)
+      <title>bin/ci: run on Windows (Git for Windows&#x27; bash, never WSL&#x27;s) (#6719)</title>
+      <link>https://github.com/trycua/cua/commit/3d05b19523fb9582779c802bfa395f2982627229</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3d05b19523fb9582779c802bfa395f2982627229</guid>
+      <pubDate>Fri, 06 Nov 2026 15:04:48 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;bin/ci: run on Windows (Git for Windows&amp;#39; bash, never WSL&amp;#39;s) (#6719)
 
-The release metadata check rejects a chore title that touches release-tracked
-files unless the PR carries no-release,  | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>ci(release): stop Release Please for deprecated and archived packages…</title>
-      <link>https://github.com/trycua/cua/commit/a043b584b2c19a4a5b14f5aafbc7d125464a688e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a043b584b2c19a4a5b14f5aafbc7d125464a688e</guid>
-      <pubDate>Fri, 06 Nov 2026 14:48:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): stop Release Please for deprecated and archived packages (CUA-3571) (#6665)
+* bin/ci: runs on Windows (Git for Windows&amp;#39; bash, never WSL&amp;#39;s; UTF-8; python3 shim; taskkill)
 
-* ci(release): stop Release Please for the deprecated and archived packages (CUA-3571)
-
-Remove som, cua-a | why kept: trycua, agent</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.11.0 (#6351)</title>
-      <link>https://github.com/trycua/cua/commit/9a0a9777ea825ae6da11d3271d3e233a17f4ad23</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a0a9777ea825ae6da11d3271d3e233a17f4ad23</guid>
-      <pubDate>Fri, 06 Nov 2026 14:48:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.11.0 (#6351)
-
-* chore(main): release cua-sdk 0.11.0
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.40.4 (#6730)</title>
-      <link>https://github.com/trycua/cua/commit/cacf611bd197089dc370607c05491ce7637a4f3f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cacf611bd197089dc370607c05491ce7637a4f3f</guid>
-      <pubDate>Fri, 06 Nov 2026 14:48:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.4 (#6730)
-
-* chore(main): release cua-driver-rs 0.40.4
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>ci: stop skipping jobs behind PR-only quick; fail a skipped desktop s…</title>
-      <link>https://github.com/trycua/cua/commit/fcf5accfcbeed980c5f9c1c38e107937aed651f7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fcf5accfcbeed980c5f9c1c38e107937aed651f7</guid>
-      <pubDate>Fri, 06 Nov 2026 14:48:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: stop skipping jobs behind PR-only quick; fail a skipped desktop smoke (#6693)
-
-* ci: run jobs behind a PR-only quick job on dispatch and push, and fail a skipped desktop smoke
-
-Windows and Li | why kept: claude</description>
+The checks are  | why kept: runs</description>
     </item></channel></rss>
