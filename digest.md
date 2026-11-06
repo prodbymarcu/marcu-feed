@@ -1,1 +1,4 @@
-- pi + strata + qwen 3.8 flash next q4 k xl --> funny stuff in logs — https://www.reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff/ (score 13)
+- Qwen 4 is stealth announced — https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/ (score 11)
+- Qwen - the becoming begins — https://www.reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins/ (score 11)
+- ci: remove 26 dead workflows and two unused libs (CUA-3571) (#6616) — https://github.com/trycua/cua/commit/fd1655f824a06f52b87cb948a13b4d5372356cf5 (score 9)
+- CPython 0-Day Vulnerabilities Threaten the AI Supply Chain — https://www.reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai/ (score 6)
