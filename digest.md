@@ -1,5 +1,1 @@
-- NousResearch/Arete-27B · Hugging Face (Qwen finetune) — https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/ (score 16)
-- We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17 — https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/ (score 6)
-- fix(spaces-macos): bundle cua 0.11.0 in Cua Spaces (#6747) — https://github.com/trycua/cua/commit/36be76831b8f373642c996898546478c5ea0215e (score 5)
-- fix(spaces): stop the video reporter when the host removes its handle… — https://github.com/trycua/cua/commit/440c87f150b207466a2d90a233c5bda84d82679a (score 2)
-- fix(cua-driver): refuse MCP requests before initialize on HTTP and en… — https://github.com/trycua/cua/commit/989941fde8a993f286dfbbd72f2a3030b2562983 (score 2)
+- chore(main): release cua-driver-rs 0.40.5 (#6753) — https://github.com/trycua/cua/commit/5f0e672b2917d41d7fe18e2d2e0c6d31c14f4571 (score 5)
