@@ -1,1 +1,1 @@
-- opencl:  support repeat for f16, i32, i16, bf16 (#31782) — https://github.com/ggml-org/llama.cpp/commit/52c9bad94678485e82362331cb62b4f71fd3f0e6 (score 2)
+- Asking questions to a 0.5b model is hillarious — https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/ (score 13)
