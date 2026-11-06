@@ -1,1 +1,1 @@
-- maritaca-ai/S5-nano 4B · the best open-weights model in Brazil — https://www.reddit.com/r/LocalLLaMA/comments/1xpibxn/maritacaais5nano_4b_the_best_openweights_model_in/ (score 6)
+- Lamplight - Lessons Learned from Building a Local-First Harness — https://www.reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a/ (score 4)
