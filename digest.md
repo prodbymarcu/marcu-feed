@@ -1,1 +1,3 @@
-- Harness Adapters: LoRA adapter for your model per task per harness — https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/ (score 6)
+- End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step — https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/ (score 15)
+- Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next — https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/ (score 7)
+- Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K — https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/ (score 6)

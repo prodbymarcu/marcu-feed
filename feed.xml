@@ -1,7 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Harness Adapters: LoRA adapter for your model per task per harness</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/</link>
-      <guid isPermaLink="false">t3_1xpeee1</guid>
-      <pubDate>Fri, 06 Nov 2026 13:23:46 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cmR6YWd2dWYzMDBpMXlC3p1_CeeamoqTsPD3e61IfjpeovuKSGXSuMdcs-bY.png?w | why kept: model, local, llama</description>
+      <title>End-to-End Desktop Quantization workspace for Large Language Models: Load local Safetensors or Huggingface, Step-by-Step guided Conversions to GGUF, MLX, and ONNX, and Visualize Mo</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/</link>
+      <guid isPermaLink="false">t3_1xp01ck</guid>
+      <pubDate>Fri, 06 Nov 2026 13:39:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp01ck/endtoend_desktop_quantization_workspace_for_large/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NnZubmNvNW1wdnpoMSruneSvClMEo8TIJzjdUT3sLIUQk4ZtpTlVWH_HMDgO.png? | why kept: mlx, model, local, quant, mlx, llama</description>
+    </item>
+    <item>
+      <title>Ripple 65B Preview vs Qwen 3.8 27B vs Qwen 3.8 Flash Next</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xphi5w/ripple_65b_preview_vs_qwen_38_27b_vs_qwen_38/</link>
+      <guid isPermaLink="false">t3_1xphi5w</guid>
+      <pubDate>Fri, 06 Nov 2026 13:39:45 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;table&gt;&lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;Benchmark&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Ripple 65B&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Qwen 3.8 27B&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Qwen 3.8 FN&lt;/th&gt; &lt;/tr&gt; &lt;/thead&gt;&lt;tbody&gt; &lt;tr&gt; &lt;td align=&quot;left&quot;&gt;Terminal Be | why kept: qwen, qwen</description>
+    </item>
+    <item>
+      <title>Linum-AI/pjit-21k · Hugging Face - A Text-to-Image Model Trained for $21K</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/</link>
+      <guid isPermaLink="false">t3_1xpcpws</guid>
+      <pubDate>Fri, 06 Nov 2026 13:39:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpcpws/linumaipjit21k_hugging_face_a_texttoimage_model/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/xzClsJ1OcThPXOQ6-E63WnY9j0AC0Fs7BH4UHZsyBrE.png?width=640&amp;amp;crop= | why kept: model, local, llama</description>
     </item></channel></rss>
