@@ -1,25 +1,45 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: deprecate cua-agent, cua-core, cua-bench-ui and the xfce, kasm an…</title>
-      <link>https://github.com/trycua/cua/commit/7d85fa85b3219fbdc1e2537a1a08f0c1e6767b86</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7d85fa85b3219fbdc1e2537a1a08f0c1e6767b86</guid>
-      <pubDate>Fri, 06 Nov 2026 08:24:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: deprecate cua-agent, cua-core, cua-bench-ui and the xfce, kasm and qemu images (CUA-3571) (#6620)
-
-Stop their test, build and publish workflows, add deprecation notices to the
-READMEs, PyPI c | why kept: trycua, agent, claude</description>
+      <title>I animated how a language model picks the next token, with real probabilities from Qwen2.5-0.5B: softmax, greedy vs sampling, temperature, top-k, top-p (7 min video) [D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xopogt/i_animated_how_a_language_model_picks_the_next/</link>
+      <guid isPermaLink="false">t3_1xopogt</guid>
+      <pubDate>Fri, 06 Nov 2026 08:40:04 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I made this explainer for my small channel and would like feedback from people learning this, especially if anything is wrong.&lt;/p&gt; &lt;p&gt;It follows one real example the whole way. I gave Qwen2.5-0.5B-Instruct  | why kept: qwen, model, qwen, video</description>
     </item>
     <item>
-      <title>chore(main): release lume 0.7.0 (#4664)</title>
-      <link>https://github.com/trycua/cua/commit/666c196f42dc9c83dbe075e20318f16c3e3a6d84</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/666c196f42dc9c83dbe075e20318f16c3e3a6d84</guid>
-      <pubDate>Fri, 06 Nov 2026 08:24:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release lume 0.7.0 (#4664)
+      <title>feat(cua-driver-bench): run all ten Bench v2 tasks on Linux XFCE (X11…</title>
+      <link>https://github.com/trycua/cua/commit/486e31316569ab99fcad7fadf3d60e33a936a8aa</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/486e31316569ab99fcad7fadf3d60e33a936a8aa</guid>
+      <pubDate>Fri, 06 Nov 2026 08:40:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): run all ten Bench v2 tasks on Linux XFCE (X11 launcher, desktop setup, agent invocation) (#6688)
 
-* chore(main): release lume 0.7.0
+Adds launch/xfce_session.py (BenchLab and pack tasks on an X11 desktop wi | why kept: trycua, agent, claude</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.40.0 (#6626)</title>
+      <link>https://github.com/trycua/cua/commit/29d66a3ea2477c8ae65623358953bd959221bc8f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/29d66a3ea2477c8ae65623358953bd959221bc8f</guid>
+      <pubDate>Fri, 06 Nov 2026 08:40:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.0 (#6626)
 
-* chore(lume): synchronize release documentation
+* chore(main): release cua-driver-rs 0.40.0
+
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rel | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>The Ultimate MoE Training Handbook: training Mixture-of-Experts models with Megatron-LM, setting by setting [P]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xorgq0/the_ultimate_moe_training_handbook_training/</link>
+      <guid isPermaLink="false">t3_1xorgq0</guid>
+      <pubDate>Fri, 06 Nov 2026 08:40:04 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Handbook: &lt;a href=&quot;https://huggingface.co/spaces/huggingface/moe-blogpost&quot;&gt;https://huggingface.co/spaces/huggingface/moe-blogpost&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hello, I&amp;#39;m Nouamane, one of the authors. I&amp;#39;m at Hugging F | why kept: model, hardware</description>
+    </item>
+    <item>
+      <title>Empirical Evaluation of Sparse Predictive Hierarchies (SPH) &amp; Non-Backprop Learning on Chess (Lc0 Baseline) Negative Result [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xov58r/empirical_evaluation_of_sparse_predictive/</link>
+      <guid isPermaLink="false">t3_1xov58r</guid>
+      <pubDate>Fri, 06 Nov 2026 08:40:04 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I wanted to share an empirical study testing whether biologically inspired architectures with local learning rules, specifically &lt;strong&gt;Sparse Predictive Hierarchies (SPH)&lt;/strong&gt; base | why kept: local</description>
     </item></channel></rss>
