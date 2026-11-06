@@ -1,2 +1,2 @@
-- A 0.1B model just killed 8B embedding models... I tried it out. — https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/ (score 13)
-- ci(cua-driver): queue auto-merge on installer bump PRs instead of clo… — https://github.com/trycua/cua/commit/5fce016f4e26811cfbfa0987b1a8433c58722db3 (score 7)
+- Qwen Developers on X: "Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from — https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/ (score 11)
+- [R] First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, training, eval — https://www.reddit.com/r/LocalLLaMA/comments/1xpeevv/r_first_paper_on_how_to_train_actual_sota/ (score 8)

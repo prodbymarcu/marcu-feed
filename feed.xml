@@ -1,16 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>A 0.1B model just killed 8B embedding models... I tried it out.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/</link>
-      <guid isPermaLink="false">t3_1xpdk0i</guid>
-      <pubDate>Fri, 06 Nov 2026 10:03:57 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qaye3fas000i1.png?width=140&amp;amp;height=98&amp;amp;auto=webp&amp;amp;s=d2bbde1361eea74f | why kept: qwen, model, qwen, local, llama</description>
+      <title>Qwen Developers on X: &quot;Qwhen? Qsoon! For our friends outside China, the Chinese text in the poster comes from</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpf8qy/qwen_developers_on_x_qwhen_qsoon_for_our_friends/</link>
+      <guid isPermaLink="false">t3_1xpf8qy</guid>
+      <pubDate>Fri, 06 Nov 2026 10:26:26 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Qwhen? Qsoon!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Nota_ReAlperson&quot;&gt; /u/Nota_ReAlperson &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://x.com/QwenDevs/status/211871674537 | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>ci(cua-driver): queue auto-merge on installer bump PRs instead of clo…</title>
-      <link>https://github.com/trycua/cua/commit/5fce016f4e26811cfbfa0987b1a8433c58722db3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5fce016f4e26811cfbfa0987b1a8433c58722db3</guid>
-      <pubDate>Fri, 06 Nov 2026 10:03:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): queue auto-merge on installer bump PRs instead of closing them (#6694)
-
-The bump job closed each PR within a second: gh pr checks --required failed with &amp;#39;no checks reported&amp;#3 | why kept: trycua, claude</description>
+      <title>[R] First paper on how to train actual SOTA Decision Models ever: full playbook - architecture, datasets, training, evaluation, inference</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpeevv/r_first_paper_on_how_to_train_actual_sota/</link>
+      <guid isPermaLink="false">t3_1xpeevv</guid>
+      <pubDate>Fri, 06 Nov 2026 10:26:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpeevv/r_first_paper_on_how_to_train_actual_sota/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/pb8s3hpj600i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=410f5b457f0decc5197 | why kept: model, local, inference, llama</description>
     </item></channel></rss>
