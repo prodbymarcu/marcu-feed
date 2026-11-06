@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs(blog): Cua Driver Bench: all 42+ tasks next week, link Edgar and…</title>
-      <link>https://github.com/trycua/cua/commit/0757beeb0b45f0b886628ba30a04f0dfbc0ca1c2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0757beeb0b45f0b886628ba30a04f0dfbc0ca1c2</guid>
-      <pubDate>Fri, 06 Nov 2026 12:01:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(blog): Cua Driver Bench: all 42+ tasks next week, link Edgar and the AgentEnv Space (#6718)
+      <title>test(cua-driver): align Hyprland release-contract tests with the rebu…</title>
+      <link>https://github.com/trycua/cua/commit/8e8dd248ba05470a4fa226c62491d36437f941e8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8e8dd248ba05470a4fa226c62491d36437f941e8</guid>
+      <pubDate>Fri, 06 Nov 2026 12:17:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-driver): align Hyprland release-contract tests with the rebuild_tag workflow (#6713)
 
-Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: agent, claude</description>
+The plugin-source job now reads RELEASE_REF (workflow-level env) and gates on
+push-or-rebuild dispat | why kept: trycua, claude</description>
     </item></channel></rss>

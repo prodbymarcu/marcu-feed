@@ -1,1 +1,1 @@
-- docs(blog): Cua Driver Bench: all 42+ tasks next week, link Edgar and… — https://github.com/trycua/cua/commit/0757beeb0b45f0b886628ba30a04f0dfbc0ca1c2 (score 4)
+- test(cua-driver): align Hyprland release-contract tests with the rebu… — https://github.com/trycua/cua/commit/8e8dd248ba05470a4fa226c62491d36437f941e8 (score 7)
