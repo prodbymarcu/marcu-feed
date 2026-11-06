@@ -1,18 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>bartowski/XingChen-AGI_Xing4.0-29B-A4B-GGUF · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xplkdu</guid>
-      <pubDate>Fri, 06 Nov 2026 15:04:48 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ycTBloCpy5IVsnT-Gi8mxvMr1moO288VpYNdj9ythkI.png?width=640&amp;amp;cr | why kept: local, llama</description>
+      <title>Mirage: A 22 MB visual-language model that runs scene descriptions + object detection + OCR + segmentation + spatial relations analysis + extractions + decisions, in a single pass.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/</link>
+      <guid isPermaLink="false">t3_1xpm8mw</guid>
+      <pubDate>Fri, 06 Nov 2026 15:21:21 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/yeo2x908i10i1.png?width=140&amp;amp;height=110&amp;amp;auto=webp&amp;amp;s=94897cf505e279f | why kept: model, local, runs, llama</description>
     </item>
     <item>
-      <title>bin/ci: run on Windows (Git for Windows&#x27; bash, never WSL&#x27;s) (#6719)</title>
-      <link>https://github.com/trycua/cua/commit/3d05b19523fb9582779c802bfa395f2982627229</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3d05b19523fb9582779c802bfa395f2982627229</guid>
-      <pubDate>Fri, 06 Nov 2026 15:04:48 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;bin/ci: run on Windows (Git for Windows&amp;#39; bash, never WSL&amp;#39;s) (#6719)
+      <title>feat(spaces): Local dev builds keep agent keys in a private file with…</title>
+      <link>https://github.com/trycua/cua/commit/ffa4c068ac246b015c13b30982b1f57086443b5c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ffa4c068ac246b015c13b30982b1f57086443b5c</guid>
+      <pubDate>Fri, 06 Nov 2026 15:21:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Local dev builds keep agent keys in a private file without the Keychain; install-local.sh signs with its own Keychain (#6587)
 
-* bin/ci: runs on Windows (Git for Windows&amp;#39; bash, never WSL&amp;#39;s; UTF-8; python3 shim; taskkill)
+* feat(spaces): Local dev builds keep agent keys in a  | why kept: agent, local</description>
+    </item>
+    <item>
+      <title>fix(spaces): New Space Continue did nothing for a Windows image on a …</title>
+      <link>https://github.com/trycua/cua/commit/2f2af6925c21eb372b0a2a90a3b0f1fb09d1222c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2f2af6925c21eb372b0a2a90a3b0f1fb09d1222c</guid>
+      <pubDate>Fri, 06 Nov 2026 15:21:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): New Space Continue did nothing for a Windows image on a Windows PC (#6724)
 
-The checks are  | why kept: runs</description>
+* spaces wizard: Continue is judged for the shell&amp;#39;s own system (Windows image advanced nothing on a Wi | why kept: claude</description>
     </item></channel></rss>
