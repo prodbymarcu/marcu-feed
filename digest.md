@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.40.5 (#6753) — https://github.com/trycua/cua/commit/5f0e672b2917d41d7fe18e2d2e0c6d31c14f4571 (score 5)
+- Tried the weight editing thing from the MIT post: Some cool applications, but nothing crazy — https://www.reddit.com/r/LocalLLaMA/comments/1xpls17/tried_the_weight_editing_thing_from_the_mit_post/ (score 6)
+- chore(main): release cua-driver-rs 0.40.6 (#6756) — https://github.com/trycua/cua/commit/6d840c54da418192fc2f4fd61b7140893da24a2d (score 5)
