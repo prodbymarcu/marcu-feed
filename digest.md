@@ -1,1 +1,2 @@
-- test(cua-driver): align Hyprland release-contract tests with the rebu… — https://github.com/trycua/cua/commit/8e8dd248ba05470a4fa226c62491d36437f941e8 (score 7)
+- AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, d — https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/ (score 8)
+- Quoting Nilay Patel — https://simonwillison.net/2026/Nov/6/nilay-patel/ (score 2)

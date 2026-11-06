@@ -1,10 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(cua-driver): align Hyprland release-contract tests with the rebu…</title>
-      <link>https://github.com/trycua/cua/commit/8e8dd248ba05470a4fa226c62491d36437f941e8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8e8dd248ba05470a4fa226c62491d36437f941e8</guid>
-      <pubDate>Fri, 06 Nov 2026 12:17:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-driver): align Hyprland release-contract tests with the rebuild_tag workflow (#6713)
-
-The plugin-source job now reads RELEASE_REF (workflow-level env) and gates on
-push-or-rebuild dispat | why kept: trycua, claude</description>
+      <title>AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter &amp; top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/</link>
+      <guid isPermaLink="false">t3_1xphq4u</guid>
+      <pubDate>Fri, 06 Nov 2026 12:35:50 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fez7h4dxu00i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cd68e783637b | why kept: model, local, inference, llama</description>
+    </item>
+    <item>
+      <title>Quoting Nilay Patel</title>
+      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/6/nilay-patel/</guid>
+      <pubDate>Fri, 06 Nov 2026 12:35:50 +0000</pubDate>
+      <description>&lt;blockquote cite=&quot;https://www.youtube.com/watch?v=-U4thshDTL8&amp;amp;t=422s&quot;&gt;&lt;p&gt;The products aren&#x27;t good enough to sell people on the costs.&lt;/p&gt;
+&lt;p&gt;You cannot tell people that you have to listen to the whine of a data center in their backyard  | why kept: agent</description>
     </item></channel></rss>
