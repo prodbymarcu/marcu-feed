@@ -1,33 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>blog(cua-driver-bench): apply Scale review notes on naming and sourci…</title>
-      <link>https://github.com/trycua/cua/commit/5863940f818054fb620cb30c832b51e6e7cbd98a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5863940f818054fb620cb30c832b51e6e7cbd98a</guid>
-      <pubDate>Fri, 06 Nov 2026 11:44:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;blog(cua-driver-bench): apply Scale review notes on naming and sourcing (#6709)
+      <title>docs(blog): Cua Driver Bench: all 42+ tasks next week, link Edgar and…</title>
+      <link>https://github.com/trycua/cua/commit/0757beeb0b45f0b886628ba30a04f0dfbc0ca1c2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0757beeb0b45f0b886628ba30a04f0dfbc0ca1c2</guid>
+      <pubDate>Fri, 06 Nov 2026 12:01:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(blog): Cua Driver Bench: all 42+ tasks next week, link Edgar and the AgentEnv Space (#6718)
 
-* blog(cua-driver-bench): apply Scale&amp;#39;s review notes on sourcing and naming
-
-Name Vercel Labs&amp;#39; agent-deskt | why kept: agent, claude, codex, runs, computer use</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.40.3 (#6708)</title>
-      <link>https://github.com/trycua/cua/commit/db122d50ce2969045ac0c483a6c9a834537e6dfd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/db122d50ce2969045ac0c483a6c9a834537e6dfd</guid>
-      <pubDate>Fri, 06 Nov 2026 11:44:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.3 (#6708)
-
-* chore(main): release cua-driver-rs 0.40.3
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Coincidence, right?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/</link>
-      <guid isPermaLink="false">t3_1xpgsb3</guid>
-      <pubDate>Fri, 06 Nov 2026 11:44:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/zh5mhy5jo00i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e866ed51629258c275df89884c97ef02cd941bd7&quot;  | why kept: local, llama</description>
+Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: agent, claude</description>
     </item></channel></rss>

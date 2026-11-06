@@ -1,3 +1,1 @@
-- blog(cua-driver-bench): apply Scale review notes on naming and sourci… — https://github.com/trycua/cua/commit/5863940f818054fb620cb30c832b51e6e7cbd98a (score 10)
-- chore(main): release cua-driver-rs 0.40.3 (#6708) — https://github.com/trycua/cua/commit/db122d50ce2969045ac0c483a6c9a834537e6dfd (score 5)
-- Coincidence, right? — https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/ (score 4)
+- docs(blog): Cua Driver Bench: all 42+ tasks next week, link Edgar and… — https://github.com/trycua/cua/commit/0757beeb0b45f0b886628ba30a04f0dfbc0ca1c2 (score 4)
