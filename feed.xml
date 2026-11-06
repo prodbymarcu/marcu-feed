@@ -1,16 +1,33 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Oc-e-Non-v1: A language model that gets to the f*cking point</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/</link>
-      <guid isPermaLink="false">t3_1xpfhpm</guid>
-      <pubDate>Fri, 06 Nov 2026 11:28:23 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/rJ6SiiGC0OQSFBHF10NaT6wxn_TwTlUK39r9wYNTRVU.png?width=640&amp;amp;cro | why kept: model, local, llama</description>
+      <title>blog(cua-driver-bench): apply Scale review notes on naming and sourci…</title>
+      <link>https://github.com/trycua/cua/commit/5863940f818054fb620cb30c832b51e6e7cbd98a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5863940f818054fb620cb30c832b51e6e7cbd98a</guid>
+      <pubDate>Fri, 06 Nov 2026 11:44:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;blog(cua-driver-bench): apply Scale review notes on naming and sourcing (#6709)
+
+* blog(cua-driver-bench): apply Scale&amp;#39;s review notes on sourcing and naming
+
+Name Vercel Labs&amp;#39; agent-deskt | why kept: agent, claude, codex, runs, computer use</description>
     </item>
     <item>
-      <title>chore(cua-driver): advance published installer version to 0.39.0 (#6686)</title>
-      <link>https://github.com/trycua/cua/commit/b3db94d01eb13f5e542f6c0de9c04e038f923f09</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b3db94d01eb13f5e542f6c0de9c04e038f923f09</guid>
-      <pubDate>Fri, 06 Nov 2026 11:28:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.39.0 (#6686)
+      <title>chore(main): release cua-driver-rs 0.40.3 (#6708)</title>
+      <link>https://github.com/trycua/cua/commit/db122d50ce2969045ac0c483a6c9a834537e6dfd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/db122d50ce2969045ac0c483a6c9a834537e6dfd</guid>
+      <pubDate>Fri, 06 Nov 2026 11:44:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.3 (#6708)
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+* chore(main): release cua-driver-rs 0.40.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Coincidence, right?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/</link>
+      <guid isPermaLink="false">t3_1xpgsb3</guid>
+      <pubDate>Fri, 06 Nov 2026 11:44:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/zh5mhy5jo00i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e866ed51629258c275df89884c97ef02cd941bd7&quot;  | why kept: local, llama</description>
     </item></channel></rss>

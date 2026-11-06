@@ -1,2 +1,3 @@
-- Oc-e-Non-v1: A language model that gets to the f*cking point — https://www.reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking/ (score 6)
-- chore(cua-driver): advance published installer version to 0.39.0 (#6686) — https://github.com/trycua/cua/commit/b3db94d01eb13f5e542f6c0de9c04e038f923f09 (score 2)
+- blog(cua-driver-bench): apply Scale review notes on naming and sourci… — https://github.com/trycua/cua/commit/5863940f818054fb620cb30c832b51e6e7cbd98a (score 10)
+- chore(main): release cua-driver-rs 0.40.3 (#6708) — https://github.com/trycua/cua/commit/db122d50ce2969045ac0c483a6c9a834537e6dfd (score 5)
+- Coincidence, right? — https://www.reddit.com/r/LocalLLaMA/comments/1xpgsb3/coincidence_right/ (score 4)
