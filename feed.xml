@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docker: add explicit /usr/local/nvidia search path (#31806)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/954de248ac6907dd05dc19f0f511ab18f2807a54</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/954de248ac6907dd05dc19f0f511ab18f2807a54</guid>
-      <pubDate>Fri, 06 Nov 2026 13:07:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docker: add explicit /usr/local/nvidia search path (#31806)&lt;/pre&gt; | why kept: local</description>
+      <title>Harness Adapters: LoRA adapter for your model per task per harness</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/</link>
+      <guid isPermaLink="false">t3_1xpeee1</guid>
+      <pubDate>Fri, 06 Nov 2026 13:23:46 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cmR6YWd2dWYzMDBpMXlC3p1_CeeamoqTsPD3e61IfjpeovuKSGXSuMdcs-bY.png?w | why kept: model, local, llama</description>
     </item></channel></rss>

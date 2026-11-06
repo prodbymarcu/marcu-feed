@@ -1,1 +1,1 @@
-- docker: add explicit /usr/local/nvidia search path (#31806) — https://github.com/ggml-org/llama.cpp/commit/954de248ac6907dd05dc19f0f511ab18f2807a54 (score 2)
+- Harness Adapters: LoRA adapter for your model per task per harness — https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/ (score 6)
