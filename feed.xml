@@ -1,20 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver-bench): publish the agent-desktop, Browser Use harnes…</title>
-      <link>https://github.com/trycua/cua/commit/67b86c9b22f4dc06a1d2c938a36df324de5464c3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/67b86c9b22f4dc06a1d2c938a36df324de5464c3</guid>
-      <pubDate>Thu, 05 Nov 2026 19:27:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): publish the agent-desktop, Browser Use harness and Codex computer-use arm adapters (#6629)
-
-Adds the small MCP adapters used to drive Vercel agent-desktop 1.2.0, the Brows | why kept: agent, claude, codex</description>
+      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
+      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380273</guid>
+      <pubDate>Thu, 05 Nov 2026 20:00:34 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md&quot;&gt;https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id | why kept: local, runs</description>
     </item>
     <item>
-      <title>feat(spaces): Network picker with an &quot;Also allow&quot; list (localhost and…</title>
-      <link>https://github.com/trycua/cua/commit/dff4d01d8e4fce3fa65c1c20264ea8b06605a599</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dff4d01d8e4fce3fa65c1c20264ea8b06605a599</guid>
-      <pubDate>Thu, 05 Nov 2026 19:27:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Network picker with an &amp;quot;Also allow&amp;quot; list (localhost and local network are siblings) (#6610)
-
-* fix(spaces-web): Internet only is not labelled (default)
-
-The Network settin | why kept: claude, local</description>
+      <title>Inkling 2 Small released</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/</link>
+      <guid isPermaLink="false">t3_1xoz01k</guid>
+      <pubDate>Thu, 05 Nov 2026 20:00:34 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/27JH1RiMGKdxY-v2Ar-xCScxoVemeeFjOD9gEl1ht_w.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp | why kept: local, llama</description>
     </item></channel></rss>

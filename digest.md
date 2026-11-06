@@ -1,2 +1,2 @@
-- feat(cua-driver-bench): publish the agent-desktop, Browser Use harnes… — https://github.com/trycua/cua/commit/67b86c9b22f4dc06a1d2c938a36df324de5464c3 (score 6)
-- feat(spaces): Network picker with an "Also allow" list (localhost and… — https://github.com/trycua/cua/commit/dff4d01d8e4fce3fa65c1c20264ea8b06605a599 (score 4)
+- Offline survival assistant – local LLM and Kiwix, runs from a USB stick — https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md (score 4)
+- Inkling 2 Small released — https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/ (score 4)
