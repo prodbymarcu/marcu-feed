@@ -1,2 +1,2 @@
-- ci: nothing in trycua/cua depends on GitHub's repo-wide Latest releas… — https://github.com/trycua/cua/commit/b4fe9c16a853e5ccc1cb689a4182b971b006ae5a (score 7)
-- ci(cua-spaces): add rebuild_tag dispatch to publish an existing tag w… — https://github.com/trycua/cua/commit/c858746ac78aebf5d360522089164dc4d11085be (score 2)
+- feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups… — https://github.com/trycua/cua/commit/bb42e3ec01e0d6a5047b0f48e358b82d1e9e41e1 (score 6)
+- fix(cua-driver): move the skill version under metadata.version (#6647) — https://github.com/trycua/cua/commit/0402233c44647f16e5af1bef23af5bc89e64d2ab (score 2)

@@ -1,19 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: nothing in trycua/cua depends on GitHub&#x27;s repo-wide Latest releas…</title>
-      <link>https://github.com/trycua/cua/commit/b4fe9c16a853e5ccc1cb689a4182b971b006ae5a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b4fe9c16a853e5ccc1cb689a4182b971b006ae5a</guid>
-      <pubDate>Thu, 05 Nov 2026 22:30:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: nothing in trycua/cua depends on GitHub&amp;#39;s repo-wide Latest release (CUA-3552) (#6578)
+      <title>feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups…</title>
+      <link>https://github.com/trycua/cua/commit/bb42e3ec01e0d6a5047b0f48e358b82d1e9e41e1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bb42e3ec01e0d6a5047b0f48e358b82d1e9e41e1</guid>
+      <pubDate>Thu, 05 Nov 2026 22:47:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups (#6642)
 
-Drop the last Latest lookups (nightly channel check, release publisher verify, lume unused URL), poi | why kept: trycua, claude</description>
+* feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups
+
+Each pi-* arm reuses its cc-* twin&amp;#39;s dr | why kept: model, claude, runs</description>
     </item>
     <item>
-      <title>ci(cua-spaces): add rebuild_tag dispatch to publish an existing tag w…</title>
-      <link>https://github.com/trycua/cua/commit/c858746ac78aebf5d360522089164dc4d11085be</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c858746ac78aebf5d360522089164dc4d11085be</guid>
-      <pubDate>Thu, 05 Nov 2026 22:30:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-spaces): add rebuild_tag dispatch to publish an existing tag with main&amp;#39;s workflow files (#6649)
+      <title>fix(cua-driver): move the skill version under metadata.version (#6647)</title>
+      <link>https://github.com/trycua/cua/commit/0402233c44647f16e5af1bef23af5bc89e64d2ab</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0402233c44647f16e5af1bef23af5bc89e64d2ab</guid>
+      <pubDate>Thu, 05 Nov 2026 22:47:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): move the skill version under metadata.version (#6647)
 
-Mirrors cd-rust-cua-driver.yml (#6606, #6613): rebuild_tag and rebuild_sha
-build the ta | why kept: claude</description>
+* fix(cua-driver): validate skill frontmatter across agents
+
+(cherry picked from commit 34f75b3ed780af313cb8986bbfd5f80f855 | why kept: agent</description>
     </item></channel></rss>
