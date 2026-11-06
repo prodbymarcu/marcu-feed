@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I fixed my tiny TTS by editing the weights directly, no retraining</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/</link>
-      <guid isPermaLink="false">t3_1xou096</guid>
-      <pubDate>Thu, 05 Nov 2026 23:03:42 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m building Silencio-2, a small finetune of Kyutai&amp;#39;s Pocket TTS. It adds inline tags for emotions (&lt;code&gt;&amp;lt;happy&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;sad&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;angry&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;fear&amp;g | why kept: kyutai</description>
+      <title>Introducing Inkling 2 Small</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/</link>
+      <guid isPermaLink="false">t3_1xp32od</guid>
+      <pubDate>Thu, 05 Nov 2026 23:39:39 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/27JH1RiMGKdxY-v2Ar-xCScxoVemeeFjOD9gEl1ht_w.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp; | why kept: model, local, llama</description>
     </item></channel></rss>

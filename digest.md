@@ -1,1 +1,1 @@
-- I fixed my tiny TTS by editing the weights directly, no retraining — https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/ (score 5)
+- Introducing Inkling 2 Small — https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/ (score 6)
