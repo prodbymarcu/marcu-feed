@@ -1,1 +1,1 @@
-- perf(spaces): a new home is warm as soon as the person's agents are p… — https://github.com/trycua/cua/commit/397c66c05e97bb8d4b85918d66e600b11079e313 (score 6)
+- opencl:  support repeat for f16, i32, i16, bf16 (#31782) — https://github.com/ggml-org/llama.cpp/commit/52c9bad94678485e82362331cb62b4f71fd3f0e6 (score 2)

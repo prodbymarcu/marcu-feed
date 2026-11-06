@@ -1,11 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>perf(spaces): a new home is warm as soon as the person&#x27;s agents are p…</title>
-      <link>https://github.com/trycua/cua/commit/397c66c05e97bb8d4b85918d66e600b11079e313</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/397c66c05e97bb8d4b85918d66e600b11079e313</guid>
-      <pubDate>Fri, 06 Nov 2026 04:23:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(spaces): a new home is warm as soon as the person&amp;#39;s agents are prepared (#6645)
+      <title>opencl:  support repeat for f16, i32, i16, bf16 (#31782)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/52c9bad94678485e82362331cb62b4f71fd3f0e6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/52c9bad94678485e82362331cb62b4f71fd3f0e6</guid>
+      <pubDate>Fri, 06 Nov 2026 04:39:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl:  support repeat for f16, i32, i16, bf16 (#31782)
 
-* feat(spaces): a new home is warm as soon as the person&amp;#39;s agents are prepared
+* opencl: add f16 repeat
 
-The warm member waits | why kept: agent, claude, runs</description>
+Assisted-by: Codex
+
+* opencl: support repeat for i32, i16, bf16
+
+Assisted-by: Codex
+
+* opencl: update ops
+
+Assi | why kept: codex</description>
     </item></channel></rss>
