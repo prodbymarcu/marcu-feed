@@ -1,1 +1,1 @@
-- fix(spaces): never make a hidden Linux Space after the first run (CUA… — https://github.com/trycua/cua/commit/cd1d6c2ce65dcb9f2ee15318761e80cf1324ed3f (score 2)
+- pi + strata + qwen 3.8 flash next q4 k xl --> funny stuff in logs — https://www.reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff/ (score 13)

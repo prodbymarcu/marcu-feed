@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): never make a hidden Linux Space after the first run (CUA…</title>
-      <link>https://github.com/trycua/cua/commit/cd1d6c2ce65dcb9f2ee15318761e80cf1324ed3f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd1d6c2ce65dcb9f2ee15318761e80cf1324ed3f</guid>
-      <pubDate>Fri, 06 Nov 2026 07:01:10 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): never make a hidden Linux Space after the first run (CUA-3622) (#6662)
-
-The preparing driver started a hidden home once the first run was over, resumed saved records on update, and r | why kept: claude</description>
+      <title>pi + strata + qwen 3.8 flash next q4 k xl --&gt; funny stuff in logs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff/</link>
+      <guid isPermaLink="false">t3_1xp8ys0</guid>
+      <pubDate>Fri, 06 Nov 2026 07:17:53 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/0ukxpj8fryzh1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=024d75831116c | why kept: qwen, agent, qwen, local, llama</description>
     </item></channel></rss>
