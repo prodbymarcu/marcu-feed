@@ -1,18 +1,41 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Inkling 2 Small (594B-A17B) Announcement; Open Weights Releasing Next Week</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/</link>
-      <guid isPermaLink="false">t3_1xoz0w4</guid>
-      <pubDate>Thu, 05 Nov 2026 20:51:35 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/27JH1RiMGKdxY-v2Ar-xCScxoVemeeFjOD9gEl1ht_w.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+      <title>ci(cua-driver): quick desktop E2E lane on PRs, full suite after merge…</title>
+      <link>https://github.com/trycua/cua/commit/78b0911204d7f76fb58fa30fb9cf0a84dbb012fc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78b0911204d7f76fb58fa30fb9cf0a84dbb012fc</guid>
+      <pubDate>Thu, 05 Nov 2026 21:07:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): quick desktop E2E lane on PRs, full suite after merge and at release (#6600)
+
+PRs that touch the gated paths run the shared Electron lane on each OS. The full
+Windows, macOS, Linu | why kept: claude, runs</description>
     </item>
     <item>
-      <title>ci(cua-driver): let rebuild dispatches pass the macOS hosted gate (#6…</title>
-      <link>https://github.com/trycua/cua/commit/d78af6e3efc6d531fd0d8751977b19afe2b71b67</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d78af6e3efc6d531fd0d8751977b19afe2b71b67</guid>
-      <pubDate>Thu, 05 Nov 2026 20:51:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): let rebuild dispatches pass the macOS hosted gate (#6613)
+      <title>fix(spaces): say why a warm-pool refill waits, and end the agents of …</title>
+      <link>https://github.com/trycua/cua/commit/1c4cfba90f013998e983a64dbaeaa5244c707977</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1c4cfba90f013998e983a64dbaeaa5244c707977</guid>
+      <pubDate>Thu, 05 Nov 2026 21:07:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): say why a warm-pool refill waits, and end the agents of a deleted Space (#6632)
 
-* ci(cua-driver): let rebuild dispatches pass the macOS hosted gate
+* fix(spaces): say why a warm-pool refill waits, retry after failures, and end the agents of a delete | why kept: agent, free</description>
+    </item>
+    <item>
+      <title>fix(spaces): a new message and an agent&#x27;s tool calls no longer wait o…</title>
+      <link>https://github.com/trycua/cua/commit/b2e8df864277ec93098acf429eafbab3560a2794</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b2e8df864277ec93098acf429eafbab3560a2794</guid>
+      <pubDate>Thu, 05 Nov 2026 21:07:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): a new message and an agent&amp;#39;s tool calls no longer wait on a slow Space (#6619)
 
-The hosted probe and matrix required source_sha to  | why kept: claude</description>
+* fix(spaces): a new message and an agent&amp;#39;s tool calls no longer wait on a slow Space
+
+The sup | why kept: agent, tool call</description>
+    </item>
+    <item>
+      <title>ci(rust): build Linux tests once, run in 3 shards (CUA-3560, audit cu…</title>
+      <link>https://github.com/trycua/cua/commit/2393194bd5bb95ff8fa3e0441d95607a55030327</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2393194bd5bb95ff8fa3e0441d95607a55030327</guid>
+      <pubDate>Thu, 05 Nov 2026 21:07:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(rust): build Linux tests once, run in 3 shards (CUA-3560, audit cut 5) (#6595)
+
+* ci(rust): build the Linux tests once, run them in 3 shards, pool_model off PRs (CUA-3560)
+
+- rust linux build: | why kept: model</description>
     </item></channel></rss>
