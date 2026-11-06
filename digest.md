@@ -1,2 +1,1 @@
-- ci(spaces): stop the signed shadow build on pushes to main (CUA-3571)… — https://github.com/trycua/cua/commit/af1880f6280d59ec9a64e9c3509d1628c5731b0a (score 7)
-- fix(installers): accept a rebuilt Cua Spaces release only with a sign… — https://github.com/trycua/cua/commit/7b83fa29c4089b5822b5907f3f93daa9f1d2d03b (score 2)
+- fix(spaces): never make a hidden Linux Space after the first run (CUA… — https://github.com/trycua/cua/commit/cd1d6c2ce65dcb9f2ee15318761e80cf1324ed3f (score 2)

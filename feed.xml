@@ -1,20 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(spaces): stop the signed shadow build on pushes to main (CUA-3571)…</title>
-      <link>https://github.com/trycua/cua/commit/af1880f6280d59ec9a64e9c3509d1628c5731b0a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/af1880f6280d59ec9a64e9c3509d1628c5731b0a</guid>
-      <pubDate>Fri, 06 Nov 2026 06:44:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): stop the signed shadow build on pushes to main (CUA-3571) (#6618)
+      <title>fix(spaces): never make a hidden Linux Space after the first run (CUA…</title>
+      <link>https://github.com/trycua/cua/commit/cd1d6c2ce65dcb9f2ee15318761e80cf1324ed3f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd1d6c2ce65dcb9f2ee15318761e80cf1324ed3f</guid>
+      <pubDate>Fri, 06 Nov 2026 07:01:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): never make a hidden Linux Space after the first run (CUA-3622) (#6662)
 
-A push keeps only the producer stages that fill the caches the tag run restores.
-
-Co-authored-by: Francesco Bonacci  | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>fix(installers): accept a rebuilt Cua Spaces release only with a sign…</title>
-      <link>https://github.com/trycua/cua/commit/7b83fa29c4089b5822b5907f3f93daa9f1d2d03b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b83fa29c4089b5822b5907f3f93daa9f1d2d03b</guid>
-      <pubDate>Fri, 06 Nov 2026 06:44:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(installers): accept a rebuilt Cua Spaces release only with a signed claim for its tag (#6663)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+The preparing driver started a hidden home once the first run was over, resumed saved records on update, and r | why kept: claude</description>
     </item></channel></rss>
