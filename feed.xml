@@ -1,10 +1,44 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(spaces): wait for cua.ai&#x27;s release snapshot instead of failing eve…</title>
-      <link>https://github.com/trycua/cua/commit/95234264a1bac5ae3ad55cf8a57a47db9d31c759</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/95234264a1bac5ae3ad55cf8a57a47db9d31c759</guid>
-      <pubDate>Fri, 06 Nov 2026 15:40:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): wait for cua.ai&amp;#39;s release snapshot instead of failing every release (CUA-3128) (#6750)
+      <title>NousResearch/Arete-27B · Hugging Face (Qwen finetune)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/</link>
+      <guid isPermaLink="false">t3_1xpmj33</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/WOL_2MiLWeCANel2ZAc33_kBKh24AfOCR3a1QNud8IQ.png?width=640&amp;amp;crop= | why kept: qwen, nousresearch, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/</link>
+      <guid isPermaLink="false">t3_1xpmvf2</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qqc2oz7yu10i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bdb33cd959d011 | why kept: local, free, llama</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.11.0 in Cua Spaces (#6747)</title>
+      <link>https://github.com/trycua/cua/commit/36be76831b8f373642c996898546478c5ea0215e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36be76831b8f373642c996898546478c5ea0215e</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.11.0 in Cua Spaces (#6747)
 
-The &amp;quot;cua.ai serves the new release&amp;quot; job failed for 0.21.0 and 0.21.1. The
-downloa | why kept: trycua</description>
+cua 0.11.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces): stop the video reporter when the host removes its handle…</title>
+      <link>https://github.com/trycua/cua/commit/440c87f150b207466a2d90a233c5bda84d82679a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/440c87f150b207466a2d90a233c5bda84d82679a</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): stop the video reporter when the host removes its handler (#6751)
+
+WebKit&amp;#39;s postMessage returns a promise that rejects with InvalidAccessError
+once the host removed the script me | why kept: video</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): refuse MCP requests before initialize on HTTP and en…</title>
+      <link>https://github.com/trycua/cua/commit/989941fde8a993f286dfbbd72f2a3030b2562983</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/989941fde8a993f286dfbbd72f2a3030b2562983</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse MCP requests before initialize on HTTP and envelope transports (#6743)
+
+* fix(cua-driver): refuse envelope-stream MCP requests before initialize
+
+The stream now holds a Pr | why kept: free</description>
     </item></channel></rss>
