@@ -1,1 +1,2 @@
-- Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities — https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/ (score 4)
+- ci(spaces): stop the signed shadow build on pushes to main (CUA-3571)… — https://github.com/trycua/cua/commit/af1880f6280d59ec9a64e9c3509d1628c5731b0a (score 7)
+- fix(installers): accept a rebuilt Cua Spaces release only with a sign… — https://github.com/trycua/cua/commit/7b83fa29c4089b5822b5907f3f93daa9f1d2d03b (score 2)

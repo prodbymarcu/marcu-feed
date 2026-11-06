@@ -1,7 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/</link>
-      <guid isPermaLink="false">t3_1xp9jt1</guid>
-      <pubDate>Fri, 06 Nov 2026 06:02:48 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/e9368ci3yyzh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=98da40af15cc3ec8998fa | why kept: local, llama</description>
+      <title>ci(spaces): stop the signed shadow build on pushes to main (CUA-3571)…</title>
+      <link>https://github.com/trycua/cua/commit/af1880f6280d59ec9a64e9c3509d1628c5731b0a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/af1880f6280d59ec9a64e9c3509d1628c5731b0a</guid>
+      <pubDate>Fri, 06 Nov 2026 06:44:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): stop the signed shadow build on pushes to main (CUA-3571) (#6618)
+
+A push keeps only the producer stages that fill the caches the tag run restores.
+
+Co-authored-by: Francesco Bonacci  | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>fix(installers): accept a rebuilt Cua Spaces release only with a sign…</title>
+      <link>https://github.com/trycua/cua/commit/7b83fa29c4089b5822b5907f3f93daa9f1d2d03b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b83fa29c4089b5822b5907f3f93daa9f1d2d03b</guid>
+      <pubDate>Fri, 06 Nov 2026 06:44:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(installers): accept a rebuilt Cua Spaces release only with a signed claim for its tag (#6663)
+
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>
