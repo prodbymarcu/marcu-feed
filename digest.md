@@ -1,1 +1,1 @@
-- Good news bad news… — https://www.reddit.com/r/LocalLLaMA/comments/1xpcl6w/good_news_bad_news/ (score 11)
+- chore(main): release cua-driver-rs 0.40.1 (#6691) — https://github.com/trycua/cua/commit/2407dbf1c48f8b59a6c8978c1382af3003bfd694 (score 5)
