@@ -1,1 +1,2 @@
-- fix(cua-spaces-web): Machines page trusts the relay's online answer a… — https://github.com/trycua/cua/commit/b42bb2c7781aa14cbbe9a3e63c7b87618011d8a0 (score 2)
+- Inkling 2 Small (594B-A17B) Announcement; Open Weights Releasing Next Week — https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/ (score 4)
+- ci(cua-driver): let rebuild dispatches pass the macOS hosted gate (#6… — https://github.com/trycua/cua/commit/d78af6e3efc6d531fd0d8751977b19afe2b71b67 (score 2)

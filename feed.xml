@@ -1,9 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-spaces-web): Machines page trusts the relay&#x27;s online answer a…</title>
-      <link>https://github.com/trycua/cua/commit/b42bb2c7781aa14cbbe9a3e63c7b87618011d8a0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b42bb2c7781aa14cbbe9a3e63c7b87618011d8a0</guid>
-      <pubDate>Thu, 05 Nov 2026 20:34:48 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spaces-web): Machines page trusts the relay&amp;#39;s online answer and refreshes every 30 s (CUA-3581) (#6637)
+      <title>Inkling 2 Small (594B-A17B) Announcement; Open Weights Releasing Next Week</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/</link>
+      <guid isPermaLink="false">t3_1xoz0w4</guid>
+      <pubDate>Thu, 05 Nov 2026 20:51:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoz0w4/inkling_2_small_594ba17b_announcement_open/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/27JH1RiMGKdxY-v2Ar-xCScxoVemeeFjOD9gEl1ht_w.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>ci(cua-driver): let rebuild dispatches pass the macOS hosted gate (#6…</title>
+      <link>https://github.com/trycua/cua/commit/d78af6e3efc6d531fd0d8751977b19afe2b71b67</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d78af6e3efc6d531fd0d8751977b19afe2b71b67</guid>
+      <pubDate>Thu, 05 Nov 2026 20:51:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): let rebuild dispatches pass the macOS hosted gate (#6613)
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+* ci(cua-driver): let rebuild dispatches pass the macOS hosted gate
+
+The hosted probe and matrix required source_sha to  | why kept: claude</description>
     </item></channel></rss>
