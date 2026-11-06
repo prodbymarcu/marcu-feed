@@ -1,1 +1,2 @@
-- Introducing Inkling 2 Small — https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/ (score 6)
+- Qwen3.8-27B Benchmark: 6 Inference Engines, GGUF vs NInfer, 256K Context — Comparing Both Speed AND Quality — https://www.reddit.com/r/LocalLLaMA/comments/1xoxx4a/qwen3827b_benchmark_6_inference_engines_gguf_vs/ (score 13)
+- ci(cua-driver-bench): stop Linux headless contracts job timing out on… — https://github.com/trycua/cua/commit/7fd33832b5aa43c2865f7d38f6a37d5a3565b38c (score 2)
