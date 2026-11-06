@@ -1,38 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>tests : override hardware_concurrency in CI (#31797)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9a1d03c7ca2ca279feca8afd29d40c8e0fff9b6d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a1d03c7ca2ca279feca8afd29d40c8e0fff9b6d</guid>
-      <pubDate>Fri, 06 Nov 2026 08:07:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : override hardware_concurrency in CI (#31797)
+      <title>ci: deprecate cua-agent, cua-core, cua-bench-ui and the xfce, kasm an…</title>
+      <link>https://github.com/trycua/cua/commit/7d85fa85b3219fbdc1e2537a1a08f0c1e6767b86</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7d85fa85b3219fbdc1e2537a1a08f0c1e6767b86</guid>
+      <pubDate>Fri, 06 Nov 2026 08:24:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: deprecate cua-agent, cua-core, cua-bench-ui and the xfce, kasm and qemu images (CUA-3571) (#6620)
 
-The self-hosted CPU runners are containers with 8 CPUs, but
-std::thread::hardware_concurrency reports the cores of the host. The
-table mode o | why kept: qwen, model, qwen, runs, llama, hardware</description>
+Stop their test, build and publish workflows, add deprecation notices to the
+READMEs, PyPI c | why kept: trycua, agent, claude</description>
     </item>
     <item>
-      <title>tests : qualify isnan and signbit with std:: (#31791)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8820b088de2580a6466aa575264394ca1d541904</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8820b088de2580a6466aa575264394ca1d541904</guid>
-      <pubDate>Fri, 06 Nov 2026 08:07:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : qualify isnan and signbit with std:: (#31791)
+      <title>chore(main): release lume 0.7.0 (#4664)</title>
+      <link>https://github.com/trycua/cua/commit/666c196f42dc9c83dbe075e20318f16c3e3a6d84</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/666c196f42dc9c83dbe075e20318f16c3e3a6d84</guid>
+      <pubDate>Fri, 06 Nov 2026 08:24:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release lume 0.7.0 (#4664)
 
-* tests : qualify isnan and signbit with std::
+* chore(main): release lume 0.7.0
 
-The unqualified calls rely on the C math.h names also being present in the
-global namespace, | why kept: qwen, qwen, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-perception 0.2.2 (#6521)</title>
-      <link>https://github.com/trycua/cua/commit/81f6686297fdafb0adcf06c43d883f9a77cc4167</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81f6686297fdafb0adcf06c43d883f9a77cc4167</guid>
-      <pubDate>Fri, 06 Nov 2026 08:07:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-perception 0.2.2 (#6521)
-
-* chore(main): release cua-perception 0.2.2
-
-* chore(cua-perception): synchronize release lockfile
+* chore(lume): synchronize release documentation
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rel | why kept: trycua</description>
     </item></channel></rss>

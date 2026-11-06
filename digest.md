@@ -1,3 +1,2 @@
-- tests : override hardware_concurrency in CI (#31797) — https://github.com/ggml-org/llama.cpp/commit/9a1d03c7ca2ca279feca8afd29d40c8e0fff9b6d (score 15)
-- tests : qualify isnan and signbit with std:: (#31791) — https://github.com/ggml-org/llama.cpp/commit/8820b088de2580a6466aa575264394ca1d541904 (score 9)
-- chore(main): release cua-perception 0.2.2 (#6521) — https://github.com/trycua/cua/commit/81f6686297fdafb0adcf06c43d883f9a77cc4167 (score 5)
+- ci: deprecate cua-agent, cua-core, cua-bench-ui and the xfce, kasm an… — https://github.com/trycua/cua/commit/7d85fa85b3219fbdc1e2537a1a08f0c1e6767b86 (score 9)
+- chore(main): release lume 0.7.0 (#4664) — https://github.com/trycua/cua/commit/666c196f42dc9c83dbe075e20318f16c3e3a6d84 (score 5)
