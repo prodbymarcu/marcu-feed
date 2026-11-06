@@ -1,15 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Offline survival assistant – local LLM and Kiwix, runs from a USB stick</title>
-      <link>https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50380273</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:34 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md&quot;&gt;https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id | why kept: local, runs</description>
+      <title>ci(spaces): the beta refusal job runs in the repo root, so stable Cua…</title>
+      <link>https://github.com/trycua/cua/commit/5fbe392504f061536e314b0314c41b67fec17bbd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5fbe392504f061536e314b0314c41b67fec17bbd</guid>
+      <pubDate>Thu, 05 Nov 2026 20:18:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): the beta refusal job runs in the repo root, so stable Cua Spaces tags can start (#6635)
+
+#6545 set the workflow-wide working directory to apps/cua-spaces, but the
+first job has no che | why kept: claude, runs</description>
     </item>
     <item>
-      <title>Inkling 2 Small released</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/</link>
-      <guid isPermaLink="false">t3_1xoz01k</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:34 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/27JH1RiMGKdxY-v2Ar-xCScxoVemeeFjOD9gEl1ht_w.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp | why kept: local, llama</description>
+      <title>feat(cua-driver-bench): run the multi-app tasks CDB-G02 to CDB-G04 on…</title>
+      <link>https://github.com/trycua/cua/commit/98a8ea1fdf926629ac9170119c0368231db35b5a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/98a8ea1fdf926629ac9170119c0368231db35b5a</guid>
+      <pubDate>Thu, 05 Nov 2026 20:18:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): run the multi-app tasks CDB-G02 to CDB-G04 on Windows (#6633)
+
+* feat(cua-driver-bench): run the multi-app tasks CDB-G02 to CDB-G04 on Windows (CUA-3563)
+
+The Windows laun | why kept: agent, runs</description>
     </item></channel></rss>

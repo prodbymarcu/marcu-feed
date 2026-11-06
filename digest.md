@@ -1,2 +1,2 @@
-- Offline survival assistant – local LLM and Kiwix, runs from a USB stick — https://github.com/sdalberto/ia-da-sobrevivencia/blob/main/README.en.md (score 4)
-- Inkling 2 Small released — https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/ (score 4)
+- ci(spaces): the beta refusal job runs in the repo root, so stable Cua… — https://github.com/trycua/cua/commit/5fbe392504f061536e314b0314c41b67fec17bbd (score 4)
+- feat(cua-driver-bench): run the multi-app tasks CDB-G02 to CDB-G04 on… — https://github.com/trycua/cua/commit/98a8ea1fdf926629ac9170119c0368231db35b5a (score 4)
