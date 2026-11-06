@@ -1,1 +1,2 @@
-- ci: Latest is cosmetic; pin it to Cua Spaces, others opt out (CUA-312… — https://github.com/trycua/cua/commit/2ea88d4e594db231f75e0d9d35814b9c5c5576fe (score 7)
+- A 0.1B model just killed 8B embedding models... I tried it out. — https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/ (score 13)
+- ci(cua-driver): queue auto-merge on installer bump PRs instead of clo… — https://github.com/trycua/cua/commit/5fce016f4e26811cfbfa0987b1a8433c58722db3 (score 7)

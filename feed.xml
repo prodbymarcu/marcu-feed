@@ -1,11 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: Latest is cosmetic; pin it to Cua Spaces, others opt out (CUA-312…</title>
-      <link>https://github.com/trycua/cua/commit/2ea88d4e594db231f75e0d9d35814b9c5c5576fe</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2ea88d4e594db231f75e0d9d35814b9c5c5576fe</guid>
-      <pubDate>Fri, 06 Nov 2026 09:35:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: Latest is cosmetic; pin it to Cua Spaces, others opt out (CUA-3128) (#6357)
+      <title>A 0.1B model just killed 8B embedding models... I tried it out.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/</link>
+      <guid isPermaLink="false">t3_1xpdk0i</guid>
+      <pubDate>Fri, 06 Nov 2026 10:03:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qaye3fas000i1.png?width=140&amp;amp;height=98&amp;amp;auto=webp&amp;amp;s=d2bbde1361eea74f | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>ci(cua-driver): queue auto-merge on installer bump PRs instead of clo…</title>
+      <link>https://github.com/trycua/cua/commit/5fce016f4e26811cfbfa0987b1a8433c58722db3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5fce016f4e26811cfbfa0987b1a8433c58722db3</guid>
+      <pubDate>Fri, 06 Nov 2026 10:03:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): queue auto-merge on installer bump PRs instead of closing them (#6694)
 
-* ci: only Cua Spaces may be the repo-wide GitHub Latest release (CUA-3128)
-
-Every other publishing workflow now p | why kept: trycua, claude</description>
+The bump job closed each PR within a second: gh pr checks --required failed with &amp;#39;no checks reported&amp;#3 | why kept: trycua, claude</description>
     </item></channel></rss>
