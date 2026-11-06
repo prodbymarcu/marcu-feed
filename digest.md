@@ -1,2 +1,1 @@
-- moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/ (score 4)
-- fix(cua-driver): admit any native Wayland app to Hyprland background … — https://github.com/trycua/cua/commit/895aec7e51b0409b2b22c958920d52c22b0d2b03 (score 2)
+- maritaca-ai/S5-nano 4B · the best open-weights model in Brazil — https://www.reddit.com/r/LocalLLaMA/comments/1xpibxn/maritacaais5nano_4b_the_best_openweights_model_in/ (score 6)

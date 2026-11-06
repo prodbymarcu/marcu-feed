@@ -1,18 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/</link>
-      <guid isPermaLink="false">t3_1xpfvfz</guid>
-      <pubDate>Fri, 06 Nov 2026 13:57:32 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/7Q7Gfoc-MiNukJnB13oyanVLAeY3TKAinxruiswZQhk.png?width=640&amp;amp;crop=sma | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): admit any native Wayland app to Hyprland background …</title>
-      <link>https://github.com/trycua/cua/commit/895aec7e51b0409b2b22c958920d52c22b0d2b03</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/895aec7e51b0409b2b22c958920d52c22b0d2b03</guid>
-      <pubDate>Fri, 06 Nov 2026 13:57:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): admit any native Wayland app to Hyprland background input (#6706)
-
-* fix(cua-driver): admit any native Wayland app to Hyprland background input (CUA-3583)
-
-Background pointer and | why kept: agent</description>
+      <title>maritaca-ai/S5-nano 4B · the best open-weights model in Brazil</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpibxn/maritacaais5nano_4b_the_best_openweights_model_in/</link>
+      <guid isPermaLink="false">t3_1xpibxn</guid>
+      <pubDate>Fri, 06 Nov 2026 14:13:46 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpibxn/maritacaais5nano_4b_the_best_openweights_model_in/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/HUxa4ZKK3mivzwb57vsafY5zM_1gBMJEFLhdQeAaB3g.png?width=640&amp;amp;cro | why kept: model, local, llama</description>
     </item></channel></rss>
