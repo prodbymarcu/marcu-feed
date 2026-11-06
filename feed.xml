@@ -1,15 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter &amp; top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/</link>
-      <guid isPermaLink="false">t3_1xphq4u</guid>
-      <pubDate>Fri, 06 Nov 2026 12:35:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fez7h4dxu00i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cd68e783637b | why kept: model, local, inference, llama</description>
+      <title>CyberTiel35BA3B working on Blender Rigging via MCP. 8GB VRAM, 16GB RAM. llama.cpp.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/</link>
+      <guid isPermaLink="false">t3_1xp8sjd</guid>
+      <pubDate>Fri, 06 Nov 2026 12:51:44 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/28bct5ricyzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=33abc972dca01 | why kept: local, llama</description>
     </item>
     <item>
-      <title>Quoting Nilay Patel</title>
-      <link>https://simonwillison.net/2026/Nov/6/nilay-patel/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/6/nilay-patel/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:35:50 +0000</pubDate>
-      <description>&lt;blockquote cite=&quot;https://www.youtube.com/watch?v=-U4thshDTL8&amp;amp;t=422s&quot;&gt;&lt;p&gt;The products aren&#x27;t good enough to sell people on the costs.&lt;/p&gt;
-&lt;p&gt;You cannot tell people that you have to listen to the whine of a data center in their backyard  | why kept: agent</description>
+      <title>fix(spaces-macos): Cua Driver runs on every Mac, not only one set up …</title>
+      <link>https://github.com/trycua/cua/commit/8b780ae694c1276933c4088bc366e810d418cac8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8b780ae694c1276933c4088bc366e810d418cac8</guid>
+      <pubDate>Fri, 06 Nov 2026 12:51:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): Cua Driver runs on every Mac, not only one set up for sharing (CUA-3638) (#6704)
+
+* fix(spaces-macos): Cua Driver runs on every Mac, not only one set up for sharing (CUA-3638)
+ | why kept: agent, runs</description>
     </item></channel></rss>
