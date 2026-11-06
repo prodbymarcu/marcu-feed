@@ -1,1 +1,1 @@
-- ci: move e2b-bindings, desktop readiness, Nix Linux off PRs (CUA-3560… — https://github.com/trycua/cua/commit/1f1f0c01b039f0cc18e85952768fdf611346a105 (score 4)
+- CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains — https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/ (score 4)

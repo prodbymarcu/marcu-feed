@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: move e2b-bindings, desktop readiness, Nix Linux off PRs (CUA-3560…</title>
-      <link>https://github.com/trycua/cua/commit/1f1f0c01b039f0cc18e85952768fdf611346a105</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1f1f0c01b039f0cc18e85952768fdf611346a105</guid>
-      <pubDate>Thu, 05 Nov 2026 21:23:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: move e2b-bindings, desktop readiness, Nix Linux off PRs (CUA-3560, audit cut 11) (#6598)
-
-* ci: move e2b-bindings, desktop readiness and Nix Linux Rust source off PRs (CUA-3560)
-
-- pull reque | why kept: claude, runs</description>
+      <title>CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/</link>
+      <guid isPermaLink="false">t3_1xozbe6</guid>
+      <pubDate>Thu, 05 Nov 2026 21:39:42 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ulne0ine2wzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f0f631e225cb9 | why kept: local, llama</description>
     </item></channel></rss>
