@@ -1,1 +1,1 @@
-- CCORE GLB-3D-Coder dataset is here: 3,918 rendered and tested examples across 40 domains — https://www.reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered/ (score 4)
+- ci: SwiftUI app bundle and XCUITest after merge, post-merge failure a… — https://github.com/trycua/cua/commit/f47bfd3d1c54272804b097e947a381d6903d797c (score 4)
