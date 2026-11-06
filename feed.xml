@@ -1,10 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: scope sample builds on push to main, switch off two always-red sc…</title>
-      <link>https://github.com/trycua/cua/commit/d1feb2242ca79d8261016836a2479931663c3082</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d1feb2242ca79d8261016836a2479931663c3082</guid>
-      <pubDate>Thu, 05 Nov 2026 18:46:25 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: scope sample builds on push to main, switch off two always-red schedules (CUA-3571) (#6617)
+      <title>feat(cua-driver-bench): publish the agent-desktop, Browser Use harnes…</title>
+      <link>https://github.com/trycua/cua/commit/67b86c9b22f4dc06a1d2c938a36df324de5464c3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/67b86c9b22f4dc06a1d2c938a36df324de5464c3</guid>
+      <pubDate>Thu, 05 Nov 2026 19:27:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): publish the agent-desktop, Browser Use harness and Codex computer-use arm adapters (#6629)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;norep | why kept: trycua, claude</description>
+Adds the small MCP adapters used to drive Vercel agent-desktop 1.2.0, the Brows | why kept: agent, claude, codex</description>
+    </item>
+    <item>
+      <title>feat(spaces): Network picker with an &quot;Also allow&quot; list (localhost and…</title>
+      <link>https://github.com/trycua/cua/commit/dff4d01d8e4fce3fa65c1c20264ea8b06605a599</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dff4d01d8e4fce3fa65c1c20264ea8b06605a599</guid>
+      <pubDate>Thu, 05 Nov 2026 19:27:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Network picker with an &amp;quot;Also allow&amp;quot; list (localhost and local network are siblings) (#6610)
+
+* fix(spaces-web): Internet only is not labelled (default)
+
+The Network settin | why kept: claude, local</description>
     </item></channel></rss>

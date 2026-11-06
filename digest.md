@@ -1,1 +1,2 @@
-- ci: scope sample builds on push to main, switch off two always-red sc… — https://github.com/trycua/cua/commit/d1feb2242ca79d8261016836a2479931663c3082 (score 7)
+- feat(cua-driver-bench): publish the agent-desktop, Browser Use harnes… — https://github.com/trycua/cua/commit/67b86c9b22f4dc06a1d2c938a36df324de5464c3 (score 6)
+- feat(spaces): Network picker with an "Also allow" list (localhost and… — https://github.com/trycua/cua/commit/dff4d01d8e4fce3fa65c1c20264ea8b06605a599 (score 4)
