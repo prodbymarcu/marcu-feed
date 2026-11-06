@@ -1,15 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.40.1 (#6691)</title>
-      <link>https://github.com/trycua/cua/commit/2407dbf1c48f8b59a6c8978c1382af3003bfd694</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2407dbf1c48f8b59a6c8978c1382af3003bfd694</guid>
-      <pubDate>Fri, 06 Nov 2026 09:15:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.1 (#6691)
+      <title>ci: Latest is cosmetic; pin it to Cua Spaces, others opt out (CUA-312…</title>
+      <link>https://github.com/trycua/cua/commit/2ea88d4e594db231f75e0d9d35814b9c5c5576fe</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2ea88d4e594db231f75e0d9d35814b9c5c5576fe</guid>
+      <pubDate>Fri, 06 Nov 2026 09:35:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: Latest is cosmetic; pin it to Cua Spaces, others opt out (CUA-3128) (#6357)
 
-* chore(main): release cua-driver-rs 0.40.1
+* ci: only Cua Spaces may be the repo-wide GitHub Latest release (CUA-3128)
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Every other publishing workflow now p | why kept: trycua, claude</description>
     </item></channel></rss>
