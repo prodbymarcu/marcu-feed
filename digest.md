@@ -1,4 +1,1 @@
-- ci(cua-driver): quick desktop E2E lane on PRs, full suite after merge… — https://github.com/trycua/cua/commit/78b0911204d7f76fb58fa30fb9cf0a84dbb012fc (score 4)
-- fix(spaces): say why a warm-pool refill waits, and end the agents of … — https://github.com/trycua/cua/commit/1c4cfba90f013998e983a64dbaeaa5244c707977 (score 4)
-- fix(spaces): a new message and an agent's tool calls no longer wait o… — https://github.com/trycua/cua/commit/b2e8df864277ec93098acf429eafbab3560a2794 (score 4)
-- ci(rust): build Linux tests once, run in 3 shards (CUA-3560, audit cu… — https://github.com/trycua/cua/commit/2393194bd5bb95ff8fa3e0441d95607a55030327 (score 2)
+- ci: move e2b-bindings, desktop readiness, Nix Linux off PRs (CUA-3560… — https://github.com/trycua/cua/commit/1f1f0c01b039f0cc18e85952768fdf611346a105 (score 4)
