@@ -1,2 +1,1 @@
-- CyberTiel35BA3B working on Blender Rigging via MCP. 8GB VRAM, 16GB RAM. llama.cpp. — https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/ (score 4)
-- fix(spaces-macos): Cua Driver runs on every Mac, not only one set up … — https://github.com/trycua/cua/commit/8b780ae694c1276933c4088bc366e810d418cac8 (score 4)
+- docker: add explicit /usr/local/nvidia search path (#31806) — https://github.com/ggml-org/llama.cpp/commit/954de248ac6907dd05dc19f0f511ab18f2807a54 (score 2)

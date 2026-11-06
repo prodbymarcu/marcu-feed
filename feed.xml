@@ -1,17 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>CyberTiel35BA3B working on Blender Rigging via MCP. 8GB VRAM, 16GB RAM. llama.cpp.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/</link>
-      <guid isPermaLink="false">t3_1xp8sjd</guid>
-      <pubDate>Fri, 06 Nov 2026 12:51:44 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xp8sjd/cybertiel35ba3b_working_on_blender_rigging_via/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/28bct5ricyzh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=33abc972dca01 | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): Cua Driver runs on every Mac, not only one set up …</title>
-      <link>https://github.com/trycua/cua/commit/8b780ae694c1276933c4088bc366e810d418cac8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8b780ae694c1276933c4088bc366e810d418cac8</guid>
-      <pubDate>Fri, 06 Nov 2026 12:51:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): Cua Driver runs on every Mac, not only one set up for sharing (CUA-3638) (#6704)
-
-* fix(spaces-macos): Cua Driver runs on every Mac, not only one set up for sharing (CUA-3638)
- | why kept: agent, runs</description>
+      <title>docker: add explicit /usr/local/nvidia search path (#31806)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/954de248ac6907dd05dc19f0f511ab18f2807a54</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/954de248ac6907dd05dc19f0f511ab18f2807a54</guid>
+      <pubDate>Fri, 06 Nov 2026 13:07:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docker: add explicit /usr/local/nvidia search path (#31806)&lt;/pre&gt; | why kept: local</description>
     </item></channel></rss>
