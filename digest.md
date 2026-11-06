@@ -1,2 +1,1 @@
-- feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups… — https://github.com/trycua/cua/commit/bb42e3ec01e0d6a5047b0f48e358b82d1e9e41e1 (score 6)
-- fix(cua-driver): move the skill version under metadata.version (#6647) — https://github.com/trycua/cua/commit/0402233c44647f16e5af1bef23af5bc89e64d2ab (score 2)
+- I fixed my tiny TTS by editing the weights directly, no retraining — https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/ (score 5)

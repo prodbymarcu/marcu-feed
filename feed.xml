@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups…</title>
-      <link>https://github.com/trycua/cua/commit/bb42e3ec01e0d6a5047b0f48e358b82d1e9e41e1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bb42e3ec01e0d6a5047b0f48e358b82d1e9e41e1</guid>
-      <pubDate>Thu, 05 Nov 2026 22:47:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups (#6642)
-
-* feat(cua-driver-bench): pi-hosted arms for the four Cua Driver setups
-
-Each pi-* arm reuses its cc-* twin&amp;#39;s dr | why kept: model, claude, runs</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): move the skill version under metadata.version (#6647)</title>
-      <link>https://github.com/trycua/cua/commit/0402233c44647f16e5af1bef23af5bc89e64d2ab</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0402233c44647f16e5af1bef23af5bc89e64d2ab</guid>
-      <pubDate>Thu, 05 Nov 2026 22:47:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): move the skill version under metadata.version (#6647)
-
-* fix(cua-driver): validate skill frontmatter across agents
-
-(cherry picked from commit 34f75b3ed780af313cb8986bbfd5f80f855 | why kept: agent</description>
+      <title>I fixed my tiny TTS by editing the weights directly, no retraining</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xou096/i_fixed_my_tiny_tts_by_editing_the_weights/</link>
+      <guid isPermaLink="false">t3_1xou096</guid>
+      <pubDate>Thu, 05 Nov 2026 23:03:42 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m building Silencio-2, a small finetune of Kyutai&amp;#39;s Pocket TTS. It adds inline tags for emotions (&lt;code&gt;&amp;lt;happy&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;sad&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;angry&amp;gt;&lt;/code&gt;, &lt;code&gt;&amp;lt;fear&amp;g | why kept: kyutai</description>
     </item></channel></rss>
