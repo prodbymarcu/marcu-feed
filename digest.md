@@ -1,1 +1,1 @@
-- Asking questions to a 0.5b model is hillarious — https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/ (score 13)
+- Latest Open-Source Labs are gutting away cybersecurity and reverse-engineering capabilities — https://www.reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away/ (score 4)
