@@ -1,1 +1,2 @@
-- Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode & 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM — https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/ (score 4)
+- test(spaces): hold the 7 Nov setup decisions on chat pickup, always-o… — https://github.com/trycua/cua/commit/49c157040f2d45bd22e760f31a28581358b6cac0 (score 11)
+- chore(main): release cua-driver-rs 0.42.4 (#6891) — https://github.com/trycua/cua/commit/6abf752e2ba3647aa83bc8fb287f60ce77fbdbe0 (score 5)
