@@ -1,27 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Effects of KV Cache Quantization on Qwen3.8 27B</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/</link>
-      <guid isPermaLink="false">t3_1xqbesv</guid>
-      <pubDate>Sat, 07 Nov 2026 13:02:31 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ngifk5jz180i1.png?width=140&amp;amp;height=75&amp;amp;auto=webp&amp;amp;s=777060fd98ede32 | why kept: qwen, qwen, local, quant, llama</description>
-    </item>
-    <item>
-      <title>Windows runtime: Ubuntu base, iproute2 and egress without the bridge/…</title>
-      <link>https://github.com/trycua/cua/commit/96f2b7fedadb1bd5e9924f2e9a04df4b702d4929</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/96f2b7fedadb1bd5e9924f2e9a04df4b702d4929</guid>
-      <pubDate>Sat, 07 Nov 2026 13:02:31 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Windows runtime: Ubuntu base, iproute2 and egress without the bridge/fib kernel features (fixes &amp;quot;stat /usr/bin/sleep&amp;quot; on Linux Spaces) (#6791)
+      <title>fix(spaces-macos): bundle cua 0.13.0 in Cua Spaces (#6856)</title>
+      <link>https://github.com/trycua/cua/commit/0c778e2d6b790acbda635c1b43b338314a48ef26</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c778e2d6b790acbda635c1b43b338314a48ef26</guid>
+      <pubDate>Sat, 07 Nov 2026 13:19:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.13.0 in Cua Spaces (#6856)
 
-* Windows runtime: an Ubuntu base for the | why kept: runs</description>
-    </item>
-    <item>
-      <title>ci: Spaces web wasm built once; swift steps split (CUA-3134) (#6395)</title>
-      <link>https://github.com/trycua/cua/commit/4ff83a357f8e52a63274887a95e54019d6ae86c9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4ff83a357f8e52a63274887a95e54019d6ae86c9</guid>
-      <pubDate>Sat, 07 Nov 2026 13:02:31 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: Spaces web wasm built once; swift steps split (CUA-3134) (#6395)
-
-* ci: build Spaces web wasm once; split swift build/test steps for timing (CUA-3134) [no-release]
-
-Co-Authored-By: Claude Son | why kept: claude</description>
+cua 0.13.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

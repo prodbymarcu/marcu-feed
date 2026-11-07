@@ -1,3 +1,1 @@
-- Effects of KV Cache Quantization on Qwen3.8 27B — https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/ (score 13)
-- Windows runtime: Ubuntu base, iproute2 and egress without the bridge/… — https://github.com/trycua/cua/commit/96f2b7fedadb1bd5e9924f2e9a04df4b702d4929 (score 2)
-- ci: Spaces web wasm built once; swift steps split (CUA-3134) (#6395) — https://github.com/trycua/cua/commit/4ff83a357f8e52a63274887a95e54019d6ae86c9 (score 2)
+- fix(spaces-macos): bundle cua 0.13.0 in Cua Spaces (#6856) — https://github.com/trycua/cua/commit/0c778e2d6b790acbda635c1b43b338314a48ef26 (score 5)
