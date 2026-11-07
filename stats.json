@@ -1,8 +1,8 @@
 {
  "fetched": 165,
- "new": 2,
+ "new": 3,
  "dropped_kill": 0,
- "dropped_low": 0,
+ "dropped_low": 2,
  "errors": [
   "hn-agent: <HTTPError 502: 'Bad Gateway'>",
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
@@ -13,6 +13,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 2,
- "at": "2026-11-07T11:01:43Z"
+ "kept": 1,
+ "at": "2026-11-07T11:21:23Z"
 }

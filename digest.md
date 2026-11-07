@@ -1,2 +1,1 @@
-- fix(spaces): one cargo job per 4 GB when staging the cua sidecar on L… — https://github.com/trycua/cua/commit/d529073a2bce3672ff6908f0f841e5118f2c50b1 (score 7)
-- ci(release): adopt the untagged Release Please draft instead of creat… — https://github.com/trycua/cua/commit/206e291162aee583780378410e0b2943c4ca0616 (score 7)
+- chore(main): release cua-driver-rs 0.41.3 (#6811) — https://github.com/trycua/cua/commit/bd0e299c67dec6397b3d41a259452b2ea13a1cd5 (score 5)

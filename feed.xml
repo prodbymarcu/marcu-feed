@@ -1,19 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): one cargo job per 4 GB when staging the cua sidecar on L…</title>
-      <link>https://github.com/trycua/cua/commit/d529073a2bce3672ff6908f0f841e5118f2c50b1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d529073a2bce3672ff6908f0f841e5118f2c50b1</guid>
-      <pubDate>Sat, 07 Nov 2026 06:01:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): one cargo job per 4 GB when staging the cua sidecar on Linux (#6814) (#6826)
+      <title>chore(main): release cua-driver-rs 0.41.3 (#6811)</title>
+      <link>https://github.com/trycua/cua/commit/bd0e299c67dec6397b3d41a259452b2ea13a1cd5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bd0e299c67dec6397b3d41a259452b2ea13a1cd5</guid>
+      <pubDate>Sat, 07 Nov 2026 06:21:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.3 (#6811)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@ant | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>ci(release): adopt the untagged Release Please draft instead of creat…</title>
-      <link>https://github.com/trycua/cua/commit/206e291162aee583780378410e0b2943c4ca0616</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/206e291162aee583780378410e0b2943c4ca0616</guid>
-      <pubDate>Sat, 07 Nov 2026 06:01:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): adopt the untagged Release Please draft instead of creating a second release (#6825)
+* chore(main): release cua-driver-rs 0.41.3
 
-When the tag does not exist yet, GitHub lists Release Please&amp;#39;s draft as untagged-&amp;lt;hash&amp;gt | why kept: trycua, claude</description>
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
