@@ -1,3 +1,1 @@
-- fix(spaces-macos): bundle cua 0.12.1 in Cua Spaces (#6801) — https://github.com/trycua/cua/commit/d9665a631f8537b4dbb58230827512208bf7e58d (score 5)
-- Good Luck Getting a Cheap GPU. AMD Is a 'Data Center First Company,' CEO Says — https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/ (score 4)
-- Show HN: Tmux-restore saves tmux windows and agent sessions across reboots — https://github.com/andrewboldi/tmux-restore (score 2)
+- fix(cua-driver): hold every tool route on runtime admission while per… — https://github.com/trycua/cua/commit/62806db62d1886787f7b4133d64d33b641fc26f1 (score 2)

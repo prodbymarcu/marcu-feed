@@ -1,24 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.12.1 in Cua Spaces (#6801)</title>
-      <link>https://github.com/trycua/cua/commit/d9665a631f8537b4dbb58230827512208bf7e58d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d9665a631f8537b4dbb58230827512208bf7e58d</guid>
-      <pubDate>Fri, 06 Nov 2026 23:44:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.12.1 in Cua Spaces (#6801)
+      <title>fix(cua-driver): hold every tool route on runtime admission while per…</title>
+      <link>https://github.com/trycua/cua/commit/62806db62d1886787f7b4133d64d33b641fc26f1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/62806db62d1886787f7b4133d64d33b641fc26f1</guid>
+      <pubDate>Sat, 07 Nov 2026 00:19:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): hold every tool route on runtime admission while permissions are pending (#6802)
 
-cua 0.12.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Good Luck Getting a Cheap GPU. AMD Is a &#x27;Data Center First Company,&#x27; CEO Says</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/</link>
-      <guid isPermaLink="false">t3_1xpx0on</guid>
-      <pubDate>Fri, 06 Nov 2026 23:44:09 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/8n-nDFxANjy5BaLX9eEAHycVZLMkWRAu4m1--DkhA-A.jpeg?width=640&amp;amp;crop=sma | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>Show HN: Tmux-restore saves tmux windows and agent sessions across reboots</title>
-      <link>https://github.com/andrewboldi/tmux-restore</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50355009</guid>
-      <pubDate>Fri, 06 Nov 2026 23:44:09 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/andrewboldi/tmux-restore&quot;&gt;https://github.com/andrewboldi/tmux-restore&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50355009&quot;&gt;https://news.ycombinator.com/item?id=50355009 | why kept: agent</description>
+* fix(cua-driver): hold tool calls on runtime admission while permissions are pending
+
+DriverRun | why kept: tool call</description>
     </item></channel></rss>
