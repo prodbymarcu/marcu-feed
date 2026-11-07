@@ -1,2 +1,6 @@
-- Tried the weight editing thing from the MIT post: Some cool applications, but nothing crazy — https://www.reddit.com/r/LocalLLaMA/comments/1xpls17/tried_the_weight_editing_thing_from_the_mit_post/ (score 6)
-- chore(main): release cua-driver-rs 0.40.6 (#6756) — https://github.com/trycua/cua/commit/6d840c54da418192fc2f4fd61b7140893da24a2d (score 5)
+- Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas — https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/ (score 6)
+- chore(main): release cua-driver-rs 0.41.0 (#6772) — https://github.com/trycua/cua/commit/f3e4c43b8a3bc13c5bdb9b6e248801d79af44346 (score 5)
+- fix(cua-vmm): macOS Spaces run on Lume 0.7.0, the first release that … — https://github.com/trycua/cua/commit/b7b1ae20b78ba27ecfb7cc08779db4ceffa97f92 (score 4)
+- fix(spaces): Ready only once Cua Driver runs with its permissions (CU… — https://github.com/trycua/cua/commit/1945040338f6c5d4f8786265ec9f98bcfa0c6d8f (score 4)
+- feat(cua-driver): add cua-driver test to check a new install end to e… — https://github.com/trycua/cua/commit/afffae21a76a7ffb56e5c536cdfa2e062d58caa8 (score 4)
+- Windows: Cua Spaces manages its own container runtime (WSL 2 distribu… — https://github.com/trycua/cua/commit/ca8673efa0eb720c76a7fdbc343241b035b87bc2 (score 2)

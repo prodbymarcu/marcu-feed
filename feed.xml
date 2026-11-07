@@ -1,22 +1,65 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Tried the weight editing thing from the MIT post: Some cool applications, but nothing crazy</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpls17/tried_the_weight_editing_thing_from_the_mit_post/</link>
-      <guid isPermaLink="false">t3_1xpls17</guid>
-      <pubDate>Fri, 06 Nov 2026 17:04:57 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpls17/tried_the_weight_editing_thing_from_the_mit_post/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/6f5qu2d5m10i1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=web | why kept: model, local, llama</description>
+      <title>Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/</link>
+      <guid isPermaLink="false">t3_1xpqx1p</guid>
+      <pubDate>Fri, 06 Nov 2026 19:05:55 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/BphV6XaPimf0Q_pAJPPONfXwBzqmYZXgWHmc7PFUPUQ.jpeg?width=640&amp;amp;cro | why kept: local, llama, hardware</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.40.6 (#6756)</title>
-      <link>https://github.com/trycua/cua/commit/6d840c54da418192fc2f4fd61b7140893da24a2d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6d840c54da418192fc2f4fd61b7140893da24a2d</guid>
-      <pubDate>Fri, 06 Nov 2026 17:04:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.40.6 (#6756)
+      <title>chore(main): release cua-driver-rs 0.41.0 (#6772)</title>
+      <link>https://github.com/trycua/cua/commit/f3e4c43b8a3bc13c5bdb9b6e248801d79af44346</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f3e4c43b8a3bc13c5bdb9b6e248801d79af44346</guid>
+      <pubDate>Fri, 06 Nov 2026 19:05:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.0 (#6772)
 
-* chore(main): release cua-driver-rs 0.40.6
+* chore(main): release cua-driver-rs 0.41.0
 
 * chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
 Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(cua-vmm): macOS Spaces run on Lume 0.7.0, the first release that …</title>
+      <link>https://github.com/trycua/cua/commit/b7b1ae20b78ba27ecfb7cc08779db4ceffa97f92</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b7b1ae20b78ba27ecfb7cc08779db4ceffa97f92</guid>
+      <pubDate>Fri, 06 Nov 2026 19:05:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-vmm): macOS Spaces run on Lume 0.7.0, the first release that takes a network gateway (#6767)
+
+The secure network default for macOS Spaces runs the VM behind a gateway
+(lume --network gate | why kept: agent, runs</description>
+    </item>
+    <item>
+      <title>fix(spaces): Ready only once Cua Driver runs with its permissions (CU…</title>
+      <link>https://github.com/trycua/cua/commit/1945040338f6c5d4f8786265ec9f98bcfa0c6d8f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1945040338f6c5d4f8786265ec9f98bcfa0c6d8f</guid>
+      <pubDate>Fri, 06 Nov 2026 19:05:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Ready only once Cua Driver runs with its permissions (CUA-3660) (#6761)
+
+* fix(spaces): Ready only once Cua Driver runs with its permissions (CUA-3660)
+
+Co-Authored-By: Claude Opus 5 | why kept: claude, runs</description>
+    </item>
+    <item>
+      <title>feat(cua-driver): add cua-driver test to check a new install end to e…</title>
+      <link>https://github.com/trycua/cua/commit/afffae21a76a7ffb56e5c536cdfa2e062d58caa8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/afffae21a76a7ffb56e5c536cdfa2e062d58caa8</guid>
+      <pubDate>Fri, 06 Nov 2026 19:05:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): add cua-driver test to check a new install end to end (CUA-3660) (#6765)
+
+* feat(cua-driver): add cua-driver test to check a new install end to end (CUA-3660)
+
+Runs permissions, | why kept: claude, runs</description>
+    </item>
+    <item>
+      <title>Windows: Cua Spaces manages its own container runtime (WSL 2 distribu…</title>
+      <link>https://github.com/trycua/cua/commit/ca8673efa0eb720c76a7fdbc343241b035b87bc2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ca8673efa0eb720c76a7fdbc343241b035b87bc2</guid>
+      <pubDate>Fri, 06 Nov 2026 19:05:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Windows: Cua Spaces manages its own container runtime (WSL 2 distribution with Docker) (#6740)
+
+* cua-vmm: built-in Linux runtime on Windows (a Cua-owned WSL 2 distribution with Docker)
+
+Windows  | why kept: runs</description>
     </item></channel></rss>
