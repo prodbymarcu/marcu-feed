@@ -1,3 +1,1 @@
-- fix(cua-spaces): the relay-turned-off mesh test no longer waits out t… — https://github.com/trycua/cua/commit/6c52391390d721a22e53073176edabf010cc7db9 (score 9)
-- chore(main): release cua-driver-rs 0.41.2 (#6796) — https://github.com/trycua/cua/commit/86b5ea2d403017d224bb7a1057f1841668b0a68c (score 5)
-- Scylla's Band v4, open source TTS with code to run everywhere — https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/ (score 4)
+- meta : raise the compute view limit for buffers with few tensors (#31… — https://github.com/ggml-org/llama.cpp/commit/fd27b2034905f8dadd8bd6d2cc44595f4929d391 (score 4)
