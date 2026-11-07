@@ -1,1 +1,2 @@
-- opencl: add arange (#31829) — https://github.com/ggml-org/llama.cpp/commit/31424b7cf14604ca65a9195123da1413f31c4472 (score 2)
+- Feeling like Xmas — https://www.reddit.com/r/LocalLLaMA/comments/1xpzfjv/feeling_like_xmas/ (score 4)
+- llama : add missing link to pthread (#31785) — https://github.com/ggml-org/llama.cpp/commit/c0ab6e5c0bab3fb21e6cb9d2371f3c41d85ea775 (score 2)
