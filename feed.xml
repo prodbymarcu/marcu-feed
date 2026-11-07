@@ -1,22 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen Flash Next on Strata is unreal.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpqa3e/qwen_flash_next_on_strata_is_unreal/</link>
-      <guid isPermaLink="false">t3_1xpqa3e</guid>
-      <pubDate>Sat, 07 Nov 2026 04:55:37 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have been looking for a local model to do some of the typical work I used AI subscriptions for.&lt;/p&gt; &lt;p&gt;I’ve tested almost every popular model. I have an M1 Max 64gb MacBook Pro as the inference machine an | why kept: qwen, model, qwen, local, inference, hardware</description>
+      <title>fix(spaces): one cargo job per 4 GB when staging the cua sidecar on L…</title>
+      <link>https://github.com/trycua/cua/commit/d529073a2bce3672ff6908f0f841e5118f2c50b1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d529073a2bce3672ff6908f0f841e5118f2c50b1</guid>
+      <pubDate>Sat, 07 Nov 2026 06:01:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): one cargo job per 4 GB when staging the cua sidecar on Linux (#6814) (#6826)
+
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@ant | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>Just picked up M5U 64c 96G. 10 days earlier than Apple’s initial estimate</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpoz4y/just_picked_up_m5u_64c_96g_10_days_earlier_than/</link>
-      <guid isPermaLink="false">t3_1xpoz4y</guid>
-      <pubDate>Sat, 07 Nov 2026 04:55:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpoz4y/just_picked_up_m5u_64c_96g_10_days_earlier_than/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ke87gxsca20i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3ff9edbdc266 | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>AI coding agent setups from 663 Hacker News comments</title>
-      <link>https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50394444</guid>
-      <pubDate>Sat, 07 Nov 2026 04:55:37 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html&quot;&gt;https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=503 | why kept: agent</description>
+      <title>ci(release): adopt the untagged Release Please draft instead of creat…</title>
+      <link>https://github.com/trycua/cua/commit/206e291162aee583780378410e0b2943c4ca0616</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/206e291162aee583780378410e0b2943c4ca0616</guid>
+      <pubDate>Sat, 07 Nov 2026 06:01:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): adopt the untagged Release Please draft instead of creating a second release (#6825)
+
+When the tag does not exist yet, GitHub lists Release Please&amp;#39;s draft as untagged-&amp;lt;hash&amp;gt | why kept: trycua, claude</description>
     </item></channel></rss>

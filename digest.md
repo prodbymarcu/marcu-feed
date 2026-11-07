@@ -1,3 +1,2 @@
-- Qwen Flash Next on Strata is unreal. — https://www.reddit.com/r/LocalLLaMA/comments/1xpqa3e/qwen_flash_next_on_strata_is_unreal/ (score 15)
-- Just picked up M5U 64c 96G. 10 days earlier than Apple’s initial estimate — https://www.reddit.com/r/LocalLLaMA/comments/1xpoz4y/just_picked_up_m5u_64c_96g_10_days_earlier_than/ (score 4)
-- AI coding agent setups from 663 Hacker News comments — https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html (score 2)
+- fix(spaces): one cargo job per 4 GB when staging the cua sidecar on L… — https://github.com/trycua/cua/commit/d529073a2bce3672ff6908f0f841e5118f2c50b1 (score 7)
+- ci(release): adopt the untagged Release Please draft instead of creat… — https://github.com/trycua/cua/commit/206e291162aee583780378410e0b2943c4ca0616 (score 7)
