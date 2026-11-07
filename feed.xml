@@ -1,26 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.12.1 (#6798)</title>
-      <link>https://github.com/trycua/cua/commit/4a5bb4bcf2d6bb62e27fb49c60335851880faf11</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a5bb4bcf2d6bb62e27fb49c60335851880faf11</guid>
-      <pubDate>Fri, 06 Nov 2026 22:22:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.12.1 (#6798)
-
-* chore(main): release cua-sdk 0.12.1
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(spaces): say computers in use at once for the plan limit (CUA-369…</title>
-      <link>https://github.com/trycua/cua/commit/891ccb7153dde86f6219da719c583d2de0b88b14</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/891ccb7153dde86f6219da719c583d2de0b88b14</guid>
-      <pubDate>Fri, 06 Nov 2026 22:22:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): say computers in use at once for the plan limit (CUA-3690) (#6790)
-
-* fix(spaces): say &amp;quot;computers in use at once&amp;quot; for the plan limit (CUA-3690)
-
-The plan limit now reads &amp;q | why kept: claude</description>
+      <title>Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 &amp; Deep SWE 1.1</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/</link>
+      <guid isPermaLink="false">t3_1xpvfx8</guid>
+      <pubDate>Fri, 06 Nov 2026 22:38:38 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/xPOF1aFwBC1Brdq6Vhn9v7wYUMIveOws3ZXY4sjD7k8.png?width=640&amp;amp;crop=s | why kept: hermes, hermes, claude, codex, local, llama</description>
     </item></channel></rss>
