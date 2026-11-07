@@ -1,15 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.41.3 (#6811)</title>
-      <link>https://github.com/trycua/cua/commit/bd0e299c67dec6397b3d41a259452b2ea13a1cd5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bd0e299c67dec6397b3d41a259452b2ea13a1cd5</guid>
-      <pubDate>Sat, 07 Nov 2026 06:21:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.3 (#6811)
+      <title>fix(cua-driver): find a pid&#x27;s window on Wayland and name NO_AT_BRIDGE…</title>
+      <link>https://github.com/trycua/cua/commit/83a60bd1dd9165f822f89a2ec6a8847832ac0a10</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83a60bd1dd9165f822f89a2ec6a8847832ac0a10</guid>
+      <pubDate>Sat, 07 Nov 2026 06:37:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): find a pid&amp;#39;s window on Wayland and name NO_AT_BRIDGE when it hides one (#6822)
 
-* chore(main): release cua-driver-rs 0.41.3
+* fix(cua-driver): name NO_AT_BRIDGE when it hides an app from AT-SPI
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+* fix(cua-driver): name | why kept: runs</description>
     </item></channel></rss>

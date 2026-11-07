@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.41.3 (#6811) — https://github.com/trycua/cua/commit/bd0e299c67dec6397b3d41a259452b2ea13a1cd5 (score 5)
+- fix(cua-driver): find a pid's window on Wayland and name NO_AT_BRIDGE… — https://github.com/trycua/cua/commit/83a60bd1dd9165f822f89a2ec6a8847832ac0a10 (score 2)
