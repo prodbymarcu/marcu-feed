@@ -1,1 +1,3 @@
-- cua-driver: gate macOS-only bundle identity items and Windows-unused … — https://github.com/trycua/cua/commit/f14cc8ab2a796e8aa19adefdc3938b0b86fe0aca (score 2)
+- model: add Kimi-K3.1-Pro text model by usrlocalben · Pull Request #31779 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/ (score 6)
+- Any tools for managing long-term memory beyond the context window? — https://www.reddit.com/r/LocalLLaMA/comments/1xprpm3/any_tools_for_managing_longterm_memory_beyond_the/ (score 6)
+- chore(main): release cua-driver-rs 0.42.2 (#6850) — https://github.com/trycua/cua/commit/9c1754987d670cc1864d2d5974f1b2032bc72fb2 (score 5)
