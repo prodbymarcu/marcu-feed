@@ -1,9 +1,45 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): Home&#x27;s apps row opens again after a relaunch and shows e…</title>
-      <link>https://github.com/trycua/cua/commit/26858cd5050728f64aaa1ef78a9bf3a248fdccc8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/26858cd5050728f64aaa1ef78a9bf3a248fdccc8</guid>
-      <pubDate>Sat, 07 Nov 2026 16:52:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Home&amp;#39;s apps row opens again after a relaunch and shows each switch live (CUA-3551) (#6872)
+      <title>Weight Space Programming on my Production Qwen 3.8 4-Bit</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpuexr/weight_space_programming_on_my_production_qwen_38/</link>
+      <guid isPermaLink="false">t3_1xpuexr</guid>
+      <pubDate>Sat, 07 Nov 2026 17:08:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpuexr/weight_space_programming_on_my_production_qwen_38/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/rsds9kpei30i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cc2c29ea88b | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Crowd-v1 - The collaborative LLM</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/</link>
+      <guid isPermaLink="false">t3_1xqh8hk</guid>
+      <pubDate>Sat, 07 Nov 2026 17:08:35 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;em&gt;Processing img 0ybf7gn4c90i1...&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Hello &lt;a href=&quot;/r/LocalLLaMA&quot;&gt;r/LocalLLaMA&lt;/a&gt; :D&lt;/p&gt; &lt;p&gt;This is yet another follow-up post on the project &lt;strong&gt;CrowdGPT&lt;/strong&gt;, which aims at creating t | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>Change in number of parameters in models over time</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpyr1k/change_in_number_of_parameters_in_models_over_time/</link>
+      <guid isPermaLink="false">t3_1xpyr1k</guid>
+      <pubDate>Sat, 07 Nov 2026 17:08:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpyr1k/change_in_number_of_parameters_in_models_over_time/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/29048sybn40i1.png?width=140&amp;amp;height=106&amp;amp;auto=webp&amp;amp;s=fcebadb62e | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.14.0 (#6903)</title>
+      <link>https://github.com/trycua/cua/commit/f92ce98b450ec855205e38391d99917be8e2a280</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f92ce98b450ec855205e38391d99917be8e2a280</guid>
+      <pubDate>Sat, 07 Nov 2026 17:08:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.14.0 (#6903)
 
-* fix(spaces): Home&amp;#39;s &amp;quot;Let agents use apps on this Mac&amp;quot; opens again afte | why kept: agent</description>
+* chore(main): release cua-sdk 0.14.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>test(spaces-web): expect the new first-run headline in the onboarding…</title>
+      <link>https://github.com/trycua/cua/commit/d302c199b15c7644df722bf98235597494a8163f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d302c199b15c7644df722bf98235597494a8163f</guid>
+      <pubDate>Sat, 07 Nov 2026 17:08:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces-web): expect the new first-run headline in the onboarding decisions test (#6905)
+
+#6786 and #6787 merged minutes apart: #6787 changed the first-run headline and #6786 added a test tha | why kept: claude</description>
     </item></channel></rss>
