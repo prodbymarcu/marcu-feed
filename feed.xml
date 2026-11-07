@@ -1,29 +1,32 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model: add Kimi-K3.1-Pro text model by usrlocalben · Pull Request #31779 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/</link>
-      <guid isPermaLink="false">t3_1xpqm0b</guid>
-      <pubDate>Sat, 07 Nov 2026 11:56:22 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/1uQuN4LbATjfaKnwIlrqeufYvF8V08cEGHFtXYA26-g.png?width=640&amp;amp;crop=s | why kept: model, local, llama</description>
+      <title>test(cua-spacesd): make cursor coalescing coverage deterministic (#6442)</title>
+      <link>https://github.com/trycua/cua/commit/3eb1115503387942a976c435ca973208993ab65e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3eb1115503387942a976c435ca973208993ab65e</guid>
+      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-spacesd): make cursor coalescing coverage deterministic (#6442)
+
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item>
     <item>
-      <title>Any tools for managing long-term memory beyond the context window?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xprpm3/any_tools_for_managing_longterm_memory_beyond_the/</link>
-      <guid isPermaLink="false">t3_1xprpm3</guid>
-      <pubDate>Sat, 07 Nov 2026 11:56:22 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I am relatively new to local LLMs, and recently I have been trying to understand how people handle long conversations that eventually exceed the model&amp;#39;s context window.&lt;/p&gt; &lt;p&gt;For ex | why kept: model, local, context window</description>
+      <title>llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/</link>
+      <guid isPermaLink="false">t3_1xqacka</guid>
+      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/gWxcQlTgQBsDYl_TgL_7AP9RdCiV1zKUUXncQZMyVos.png?width=640&amp;amp;crop=sm | why kept: local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.42.2 (#6850)</title>
-      <link>https://github.com/trycua/cua/commit/9c1754987d670cc1864d2d5974f1b2032bc72fb2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c1754987d670cc1864d2d5974f1b2032bc72fb2</guid>
-      <pubDate>Sat, 07 Nov 2026 11:56:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.42.2 (#6850)
+      <title>Valet: use local LLMs to manage your homelab (open source)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/</link>
+      <guid isPermaLink="false">t3_1xq7qi4</guid>
+      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bGtwOHhmbWc3NzBpMVga1gzuYCekorVjFmXudqH75-ll_60Xphou6SqVe1uG.png?w | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>ci: run each package&#x27;s pinned pnpm through corepack in bin/ci (#6846)</title>
+      <link>https://github.com/trycua/cua/commit/0400975f5ea9e0034c61a8a52fdecef62b21aeef</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0400975f5ea9e0034c61a8a52fdecef62b21aeef</guid>
+      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: run each package&amp;#39;s pinned pnpm through corepack in bin/ci (#6846)
 
-* chore(main): release cua-driver-rs 0.42.2
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+bin/ci and check-lockfiles.sh put a pnpm shim first on PATH. It reads the nearest packageManager pin and runs exactly th | why kept: runs</description>
     </item></channel></rss>

@@ -1,3 +1,4 @@
-- model: add Kimi-K3.1-Pro text model by usrlocalben · Pull Request #31779 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xpqm0b/model_add_kimik31pro_text_model_by_usrlocalben/ (score 6)
-- Any tools for managing long-term memory beyond the context window? — https://www.reddit.com/r/LocalLLaMA/comments/1xprpm3/any_tools_for_managing_longterm_memory_beyond_the/ (score 6)
-- chore(main): release cua-driver-rs 0.42.2 (#6850) — https://github.com/trycua/cua/commit/9c1754987d670cc1864d2d5974f1b2032bc72fb2 (score 5)
+- test(cua-spacesd): make cursor coalescing coverage deterministic (#6442) — https://github.com/trycua/cua/commit/3eb1115503387942a976c435ca973208993ab65e (score 5)
+- llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/ (score 4)
+- Valet: use local LLMs to manage your homelab (open source) — https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/ (score 4)
+- ci: run each package's pinned pnpm through corepack in bin/ci (#6846) — https://github.com/trycua/cua/commit/0400975f5ea9e0034c61a8a52fdecef62b21aeef (score 2)
