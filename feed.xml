@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs(spaces): README and docs intro lead with &quot;Combine your existing …</title>
-      <link>https://github.com/trycua/cua/commit/1f3fbb203fcd2e7cb6670e3f3333366f11844d81</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1f3fbb203fcd2e7cb6670e3f3333366f11844d81</guid>
-      <pubDate>Sat, 07 Nov 2026 13:36:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(spaces): README and docs intro lead with &amp;quot;Combine your existing computers into one supercomputer.&amp;quot; (CUA-3753) (#6869)
-
-Replaces the README headline &amp;quot;Give AI agents computers t | why kept: trycua, agent, claude</description>
-    </item>
-    <item>
-      <title>mtmd: support MageVL-Cowork model (#31819)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9f0e5098a5d5d8adb8dd5c59036ae2a38ab07db9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9f0e5098a5d5d8adb8dd5c59036ae2a38ab07db9</guid>
-      <pubDate>Sat, 07 Nov 2026 13:36:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support MageVL-Cowork model (#31819)
-
-* mtmd: support MageVL-Cowork model
-
-* mtmd: keep magevl rope_freqs at model level and check its shape
-
-The rope factors are shared by every layer, so  | why kept: model</description>
+      <title>Also experienced the Qwen3.8-Flash-Next URL issue</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/</link>
+      <guid isPermaLink="false">t3_1xqbjbf</guid>
+      <pubDate>Sat, 07 Nov 2026 13:53:16 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/rig3aps5480i1.png?width=140&amp;amp;height=75&amp;amp;auto=webp&amp;amp;s=6daa10e68c93c5e | why kept: qwen, qwen, local, quant, llama</description>
     </item></channel></rss>

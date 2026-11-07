@@ -1,2 +1,1 @@
-- docs(spaces): README and docs intro lead with "Combine your existing … — https://github.com/trycua/cua/commit/1f3fbb203fcd2e7cb6670e3f3333366f11844d81 (score 9)
-- mtmd: support MageVL-Cowork model (#31819) — https://github.com/ggml-org/llama.cpp/commit/9f0e5098a5d5d8adb8dd5c59036ae2a38ab07db9 (score 2)
+- Also experienced the Qwen3.8-Flash-Next URL issue — https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/ (score 13)
