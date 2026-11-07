@@ -1,3 +1,1 @@
-- fix(ci): let the post-merge release-gate run seed hosted macOS on mai… — https://github.com/trycua/cua/commit/5dae41bf8bd7c2350f2268474cb1511d2647fd20 (score 7)
-- They'll replace him with someone who opposes open source AI, won't they? ‌ — https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/ (score 4)
-- ci: cache and bound apt installs in verification skill proof (#6774) — https://github.com/trycua/cua/commit/92791d23762307d46d3fbcad15809f3168375088 (score 2)
+- Does anyone use None reasoning level for anything ever? — https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/ (score 6)

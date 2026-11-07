@@ -1,27 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(ci): let the post-merge release-gate run seed hosted macOS on mai…</title>
-      <link>https://github.com/trycua/cua/commit/5dae41bf8bd7c2350f2268474cb1511d2647fd20</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5dae41bf8bd7c2350f2268474cb1511d2647fd20</guid>
-      <pubDate>Sat, 07 Nov 2026 09:27:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): let the post-merge release-gate run seed hosted macOS on main pushes (#6837)
-
-The post-merge full run (#6600) calls the hosted macOS lane on push to main, but the probe and runner only a | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>They&#x27;ll replace him with someone who opposes open source AI, won&#x27;t they? ‌</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/</link>
-      <guid isPermaLink="false">t3_1xq66uy</guid>
-      <pubDate>Sat, 07 Nov 2026 09:27:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/3g6tk1k7y60i1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=web | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>ci: cache and bound apt installs in verification skill proof (#6774)</title>
-      <link>https://github.com/trycua/cua/commit/92791d23762307d46d3fbcad15809f3168375088</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/92791d23762307d46d3fbcad15809f3168375088</guid>
-      <pubDate>Sat, 07 Nov 2026 09:27:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: cache and bound apt installs in verification skill proof (#6774)
-
-* ci: cache and bound apt installs in the Linux verification skill proof
-
-The job hung in &amp;#39;Install GUI and Rust build dep | why kept: claude</description>
+      <title>Does anyone use None reasoning level for anything ever?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything/</link>
+      <guid isPermaLink="false">t3_1xq4pb6</guid>
+      <pubDate>Sat, 07 Nov 2026 10:32:22 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Sometimes I am tempted to use none reasoning level in agentic tasks to save time, but I am always kinda scared to do so. I have only ever used llm with reasoning and with medium at the lowest.&lt;/p&gt; &lt;p&gt;Anybod | why kept: agent, local, llama</description>
     </item></channel></rss>
