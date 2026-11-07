@@ -1,3 +1,1 @@
-- chore(main): release cua-driver-rs 0.41.5 (#6834) — https://github.com/trycua/cua/commit/cee515c1cfd6e9207cd891674f34db232c18be77 (score 5)
-- ci: clippy the whole Cua Driver workspace on macOS and Windows; pin b… — https://github.com/trycua/cua/commit/c209b20be541d30ad76c8eea507993654e80c2d0 (score 5)
-- feat(cua-driver): connect Claude Code, Codex and Cursor during instal… — https://github.com/trycua/cua/commit/1b0ecb8f26d4428ec5cad4d8007eb9a0efc299ff (score 4)
+- chore(main): release cua-driver-rs 0.42.0 (#6838) — https://github.com/trycua/cua/commit/12eb7eb25fde52450cdc198b73f277fc71eab0d3 (score 5)
