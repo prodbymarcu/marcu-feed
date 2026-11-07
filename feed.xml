@@ -1,24 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(spaces): hold the 7 Nov setup decisions on chat pickup, always-o…</title>
-      <link>https://github.com/trycua/cua/commit/49c157040f2d45bd22e760f31a28581358b6cac0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/49c157040f2d45bd22e760f31a28581358b6cac0</guid>
-      <pubDate>Sat, 07 Nov 2026 16:19:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces): hold the 7 Nov setup decisions on chat pickup, always-on computers and the Cua Driver step (#6786)
+      <title>fix(spaces): Home&#x27;s apps row opens again after a relaunch and shows e…</title>
+      <link>https://github.com/trycua/cua/commit/26858cd5050728f64aaa1ef78a9bf3a248fdccc8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/26858cd5050728f64aaa1ef78a9bf3a248fdccc8</guid>
+      <pubDate>Sat, 07 Nov 2026 16:52:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Home&amp;#39;s apps row opens again after a relaunch and shows each switch live (CUA-3551) (#6872)
 
-* test(spaces): hold the 7 Nov setup decisions on chat pickup, always-on computer | why kept: hermes, hermes, claude, codex</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.42.4 (#6891)</title>
-      <link>https://github.com/trycua/cua/commit/6abf752e2ba3647aa83bc8fb287f60ce77fbdbe0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6abf752e2ba3647aa83bc8fb287f60ce77fbdbe0</guid>
-      <pubDate>Sat, 07 Nov 2026 16:19:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.42.4 (#6891)
-
-* chore(main): release cua-driver-rs 0.42.4
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+* fix(spaces): Home&amp;#39;s &amp;quot;Let agents use apps on this Mac&amp;quot; opens again afte | why kept: agent</description>
     </item></channel></rss>

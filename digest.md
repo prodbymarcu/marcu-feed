@@ -1,2 +1,1 @@
-- test(spaces): hold the 7 Nov setup decisions on chat pickup, always-o… — https://github.com/trycua/cua/commit/49c157040f2d45bd22e760f31a28581358b6cac0 (score 11)
-- chore(main): release cua-driver-rs 0.42.4 (#6891) — https://github.com/trycua/cua/commit/6abf752e2ba3647aa83bc8fb287f60ce77fbdbe0 (score 5)
+- fix(spaces): Home's apps row opens again after a relaunch and shows e… — https://github.com/trycua/cua/commit/26858cd5050728f64aaa1ef78a9bf3a248fdccc8 (score 2)
