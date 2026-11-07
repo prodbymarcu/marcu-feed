@@ -1,7 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Another benchmark has hit the quant war</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/</link>
-      <guid isPermaLink="false">t3_1xpxfob</guid>
-      <pubDate>Sat, 07 Nov 2026 02:44:17 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/9tv63uh7940i1.png?width=140&amp;amp;height=100&amp;amp;auto=webp&amp;amp;s=1258e4e39a5cdd1119e2c | why kept: local, quant, llama</description>
+      <title>The Components of Agent Memory</title>
+      <link>https://www.anthropic.com/research/components-of-agent-memory</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50402212</guid>
+      <pubDate>Sat, 07 Nov 2026 04:22:43 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.anthropic.com/research/components-of-agent-memory&quot;&gt;https://www.anthropic.com/research/components-of-agent-memory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50402212&quot;&gt;https://n | why kept: agent</description>
     </item></channel></rss>
