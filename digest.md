@@ -1,4 +1,2 @@
-- test(cua-spacesd): make cursor coalescing coverage deterministic (#6442) — https://github.com/trycua/cua/commit/3eb1115503387942a976c435ca973208993ab65e (score 5)
-- llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/ (score 4)
-- Valet: use local LLMs to manage your homelab (open source) — https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/ (score 4)
-- ci: run each package's pinned pnpm through corepack in bin/ci (#6846) — https://github.com/trycua/cua/commit/0400975f5ea9e0034c61a8a52fdecef62b21aeef (score 2)
+- fix(spaces): preserve newer typing across repeated notch search echoe… — https://github.com/trycua/cua/commit/dc1cc38d5a257c362afcd52e6af105275de071aa (score 5)
+- [Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencen — https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/ (score 4)

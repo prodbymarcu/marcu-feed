@@ -1,32 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(cua-spacesd): make cursor coalescing coverage deterministic (#6442)</title>
-      <link>https://github.com/trycua/cua/commit/3eb1115503387942a976c435ca973208993ab65e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3eb1115503387942a976c435ca973208993ab65e</guid>
-      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-spacesd): make cursor coalescing coverage deterministic (#6442)
+      <title>fix(spaces): preserve newer typing across repeated notch search echoe…</title>
+      <link>https://github.com/trycua/cua/commit/dc1cc38d5a257c362afcd52e6af105275de071aa</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dc1cc38d5a257c362afcd52e6af105275de071aa</guid>
+      <pubDate>Sat, 07 Nov 2026 12:29:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): preserve newer typing across repeated notch search echoes (#6275)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Co-authored-by: Tom Main &amp;lt;20221559+Tom-R-Main@users.noreply.github.com&amp;gt;
+Co-authored-by: Francesco Bonacci &amp;lt | why kept: trycua</description>
     </item>
     <item>
-      <title>llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/</link>
-      <guid isPermaLink="false">t3_1xqacka</guid>
-      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/gWxcQlTgQBsDYl_TgL_7AP9RdCiV1zKUUXncQZMyVos.png?width=640&amp;amp;crop=sm | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>Valet: use local LLMs to manage your homelab (open source)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/</link>
-      <guid isPermaLink="false">t3_1xq7qi4</guid>
-      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bGtwOHhmbWc3NzBpMVga1gzuYCekorVjFmXudqH75-ll_60Xphou6SqVe1uG.png?w | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>ci: run each package&#x27;s pinned pnpm through corepack in bin/ci (#6846)</title>
-      <link>https://github.com/trycua/cua/commit/0400975f5ea9e0034c61a8a52fdecef62b21aeef</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0400975f5ea9e0034c61a8a52fdecef62b21aeef</guid>
-      <pubDate>Sat, 07 Nov 2026 12:12:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: run each package&amp;#39;s pinned pnpm through corepack in bin/ci (#6846)
-
-bin/ci and check-lockfiles.sh put a pnpm shim first on PATH. It reads the nearest packageManager pin and runs exactly th | why kept: runs</description>
+      <title>[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/</link>
+      <guid isPermaLink="false">t3_1xq9hf6</guid>
+      <pubDate>Sat, 07 Nov 2026 12:29:15 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ea256nlpo70i1.png?width=140&amp;amp;height=61&amp;amp;auto=webp&amp;amp;s=771793e18db53 | why kept: local, llama</description>
     </item></channel></rss>
