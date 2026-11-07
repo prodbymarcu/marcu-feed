@@ -1,9 +1,31 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.12.0 in Cua Spaces (#6781)</title>
-      <link>https://github.com/trycua/cua/commit/2c4374a0af7d6e462acd1501ecc7c29777822a76</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2c4374a0af7d6e462acd1501ecc7c29777822a76</guid>
-      <pubDate>Fri, 06 Nov 2026 21:33:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.12.0 in Cua Spaces (#6781)
+      <title>fix(cua-spaces): the relay-turned-off mesh test no longer waits out t…</title>
+      <link>https://github.com/trycua/cua/commit/6c52391390d721a22e53073176edabf010cc7db9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6c52391390d721a22e53073176edabf010cc7db9</guid>
+      <pubDate>Fri, 06 Nov 2026 21:49:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spaces): the relay-turned-off mesh test no longer waits out the reconnect spread, and CI runs cua-spaces unit tests (#6795)
 
-cua 0.12.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+Since #5932 a node waits a random backoff plus up to 10 s of s | why kept: trycua, claude, runs</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.41.2 (#6796)</title>
+      <link>https://github.com/trycua/cua/commit/86b5ea2d403017d224bb7a1057f1841668b0a68c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/86b5ea2d403017d224bb7a1057f1841668b0a68c</guid>
+      <pubDate>Fri, 06 Nov 2026 21:49:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.2 (#6796)
+
+* chore(main): release cua-driver-rs 0.41.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Scylla&#x27;s Band v4, open source TTS with code to run everywhere</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/</link>
+      <guid isPermaLink="false">t3_1xpq3l0</guid>
+      <pubDate>Fri, 06 Nov 2026 21:49:42 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NG16bHhieGFnMjBpMQBFbCUHuql9CVpIa43pxJ7_pk6z6x8MMdWTiMorpXb0.png?w | why kept: local, llama</description>
     </item></channel></rss>

@@ -1,1 +1,3 @@
-- fix(spaces-macos): bundle cua 0.12.0 in Cua Spaces (#6781) — https://github.com/trycua/cua/commit/2c4374a0af7d6e462acd1501ecc7c29777822a76 (score 5)
+- fix(cua-spaces): the relay-turned-off mesh test no longer waits out t… — https://github.com/trycua/cua/commit/6c52391390d721a22e53073176edabf010cc7db9 (score 9)
+- chore(main): release cua-driver-rs 0.41.2 (#6796) — https://github.com/trycua/cua/commit/86b5ea2d403017d224bb7a1057f1841668b0a68c (score 5)
+- Scylla's Band v4, open source TTS with code to run everywhere — https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/ (score 4)
