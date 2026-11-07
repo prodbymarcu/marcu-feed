@@ -1,3 +1,3 @@
-- testing Qoduck (Maybe qwen4) on Qoder — https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/ (score 13)
-- fix(spaces): enforce the notch helper line limit before appending (#6… — https://github.com/trycua/cua/commit/23386b7d8593c180b9d344c4205f4cbd00bbb69f (score 5)
-- chore(main): release cua-driver-rs 0.42.3 (#6860) — https://github.com/trycua/cua/commit/cd17d9011730a5760281d62100bf695c9407d8d6 (score 5)
+- Effects of KV Cache Quantization on Qwen3.8 27B — https://www.reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b/ (score 13)
+- Windows runtime: Ubuntu base, iproute2 and egress without the bridge/… — https://github.com/trycua/cua/commit/96f2b7fedadb1bd5e9924f2e9a04df4b702d4929 (score 2)
+- ci: Spaces web wasm built once; swift steps split (CUA-3134) (#6395) — https://github.com/trycua/cua/commit/4ff83a357f8e52a63274887a95e54019d6ae86c9 (score 2)
