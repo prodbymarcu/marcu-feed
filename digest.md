@@ -1,1 +1,3 @@
-- chore(main): release cua-sdk 0.12.0 (#6748) — https://github.com/trycua/cua/commit/dfe732417b1b5217e658e80809a9dca63b651a03 (score 5)
+- ci: add a release-hold label that blocks release PR auto-merge and ci… — https://github.com/trycua/cua/commit/288479063438c2116626ede46b8c00128d107a84 (score 7)
+- Self-hosted a realtime Ram Altman avatar locally on my VRAM — https://www.reddit.com/r/LocalLLaMA/comments/1xpj034/selfhosted_a_realtime_ram_altman_avatar_locally/ (score 4)
+- fix(cua-driver): restore the Windows foreground only after typed inpu… — https://github.com/trycua/cua/commit/886c9ce30e02a337f2047d11ac8618cca4001a19 (score 2)

@@ -1,15 +1,29 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.12.0 (#6748)</title>
-      <link>https://github.com/trycua/cua/commit/dfe732417b1b5217e658e80809a9dca63b651a03</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dfe732417b1b5217e658e80809a9dca63b651a03</guid>
-      <pubDate>Fri, 06 Nov 2026 19:54:33 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.12.0 (#6748)
+      <title>ci: add a release-hold label that blocks release PR auto-merge and ci…</title>
+      <link>https://github.com/trycua/cua/commit/288479063438c2116626ede46b8c00128d107a84</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/288479063438c2116626ede46b8c00128d107a84</guid>
+      <pubDate>Fri, 06 Nov 2026 20:10:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: add a release-hold label that blocks release PR auto-merge and ci-gate (#6788)
 
-* chore(main): release cua-sdk 0.12.0
+Turning auto-merge off by hand was not a hold: the sweep re-enabled it and #6749 merged.
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+Co-authored-by: Franc | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>Self-hosted a realtime Ram Altman avatar locally on my VRAM</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpj034/selfhosted_a_realtime_ram_altman_avatar_locally/</link>
+      <guid isPermaLink="false">t3_1xpj034</guid>
+      <pubDate>Fri, 06 Nov 2026 20:10:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpj034/selfhosted_a_realtime_ram_altman_avatar_locally/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eXRiZHV0emgzMTBpMVFubRPtfU-OcJDaj6hFEYi6kAurYXTaluFazrNLYI4N.png?wi | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): restore the Windows foreground only after typed inpu…</title>
+      <link>https://github.com/trycua/cua/commit/886c9ce30e02a337f2047d11ac8618cca4001a19</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/886c9ce30e02a337f2047d11ac8618cca4001a19</guid>
+      <pubDate>Fri, 06 Nov 2026 20:10:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): restore the Windows foreground only after typed input drained (#6779)
 
----------
+* test(cua-driver): model the Windows foreground typing restore rule in TLA+
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+windows_typing.tla models one | why kept: model</description>
     </item></channel></rss>
