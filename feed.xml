@@ -1,9 +1,35 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.41.3 (#6833)</title>
-      <link>https://github.com/trycua/cua/commit/c8c79893de20acf007b71bf3a5e7a2d9e081c434</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8c79893de20acf007b71bf3a5e7a2d9e081c434</guid>
-      <pubDate>Sat, 07 Nov 2026 07:43:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.41.3 (#6833)
+      <title>chore(main): release cua-driver-rs 0.41.5 (#6834)</title>
+      <link>https://github.com/trycua/cua/commit/cee515c1cfd6e9207cd891674f34db232c18be77</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cee515c1cfd6e9207cd891674f34db232c18be77</guid>
+      <pubDate>Sat, 07 Nov 2026 07:59:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.5 (#6834)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* chore(main): release cua-driver-rs 0.41.5
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ci: clippy the whole Cua Driver workspace on macOS and Windows; pin b…</title>
+      <link>https://github.com/trycua/cua/commit/c209b20be541d30ad76c8eea507993654e80c2d0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c209b20be541d30ad76c8eea507993654e80c2d0</guid>
+      <pubDate>Sat, 07 Nov 2026 07:59:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: clippy the whole Cua Driver workspace on macOS and Windows; pin bin/ci to rustup toolchain (#6769)
+
+Run cargo clippy --workspace --all-targets -D warnings on the macOS unit job and a new Wind | why kept: trycua</description>
+    </item>
+    <item>
+      <title>feat(cua-driver): connect Claude Code, Codex and Cursor during instal…</title>
+      <link>https://github.com/trycua/cua/commit/1b0ecb8f26d4428ec5cad4d8007eb9a0efc299ff</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1b0ecb8f26d4428ec5cad4d8007eb9a0efc299ff</guid>
+      <pubDate>Sat, 07 Nov 2026 07:59:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): connect Claude Code, Codex and Cursor during install (CUA-3660) (#6763)
+
+* feat(cua-driver): connect Claude Code, Codex and Cursor during install (CUA-3660)
+
+Add `cua-driver con | why kept: claude, codex</description>
     </item></channel></rss>
