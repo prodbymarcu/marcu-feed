@@ -1,1 +1,2 @@
-- design: desktop release model (build once, promote later, per-platfor… — https://github.com/trycua/cua/commit/83556d002df3af04886cbb3a381027b490bff641 (score 4)
+- chore(main): release cua-sdk 0.13.0 (#6805) — https://github.com/trycua/cua/commit/bfded77f1cc7d04ba0bd23b0ef2db0bb4eee0ebb (score 5)
+- llama_moe_cache: run missed experts on CPU, add tuning script (#30966) — https://github.com/ggml-org/llama.cpp/commit/e95426f16982054c379ca7bdc8186996dd22f0fe (score 2)

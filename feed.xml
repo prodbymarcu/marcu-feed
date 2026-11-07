@@ -1,11 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>design: desktop release model (build once, promote later, per-platfor…</title>
-      <link>https://github.com/trycua/cua/commit/83556d002df3af04886cbb3a381027b490bff641</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83556d002df3af04886cbb3a381027b490bff641</guid>
-      <pubDate>Sat, 07 Nov 2026 11:06:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;design: desktop release model (build once, promote later, per-platform patches, staged rollout) (#5704)
+      <title>chore(main): release cua-sdk 0.13.0 (#6805)</title>
+      <link>https://github.com/trycua/cua/commit/bfded77f1cc7d04ba0bd23b0ef2db0bb4eee0ebb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bfded77f1cc7d04ba0bd23b0ef2db0bb4eee0ebb</guid>
+      <pubDate>Sat, 07 Nov 2026 11:22:33 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.13.0 (#6805)
 
-Linear: CUA-1991
+* chore(main): release cua-sdk 0.13.0
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: model, claude</description>
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>llama_moe_cache: run missed experts on CPU, add tuning script (#30966)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e95426f16982054c379ca7bdc8186996dd22f0fe</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e95426f16982054c379ca7bdc8186996dd22f0fe</guid>
+      <pubDate>Sat, 07 Nov 2026 11:22:33 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama_moe_cache: run missed experts on CPU, add tuning script (#30966)
+
+* moe-cache : compute part of the misses on the CPU
+
+--moe-cache-cpu-share F computes a share F of the MoE cache misses on  | why kept: llama</description>
     </item></channel></rss>
