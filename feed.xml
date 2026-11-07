@@ -1,26 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.41.1 (#6783)</title>
-      <link>https://github.com/trycua/cua/commit/cf5bf843cd76735b44dfcbe23d404b06ad4b0841</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cf5bf843cd76735b44dfcbe23d404b06ad4b0841</guid>
-      <pubDate>Fri, 06 Nov 2026 21:17:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.1 (#6783)
+      <title>fix(spaces-macos): bundle cua 0.12.0 in Cua Spaces (#6781)</title>
+      <link>https://github.com/trycua/cua/commit/2c4374a0af7d6e462acd1501ecc7c29777822a76</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2c4374a0af7d6e462acd1501ecc7c29777822a76</guid>
+      <pubDate>Fri, 06 Nov 2026 21:33:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.12.0 in Cua Spaces (#6781)
 
-* chore(main): release cua-driver-rs 0.41.1
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): finalize the previous recording when a new one start…</title>
-      <link>https://github.com/trycua/cua/commit/5e2cb4714749e123de5f23300ef27183642df4b0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5e2cb4714749e123de5f23300ef27183642df4b0</guid>
-      <pubDate>Fri, 06 Nov 2026 21:17:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): finalize the previous recording when a new one starts (#6794)
-
-* test(cua-driver): model recording restart, directory failure and idle stop in TLA+
-
-recording.tla models the runt | why kept: model</description>
+cua 0.12.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

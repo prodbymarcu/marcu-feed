@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.41.1 (#6783) — https://github.com/trycua/cua/commit/cf5bf843cd76735b44dfcbe23d404b06ad4b0841 (score 5)
-- fix(cua-driver): finalize the previous recording when a new one start… — https://github.com/trycua/cua/commit/5e2cb4714749e123de5f23300ef27183642df4b0 (score 2)
+- fix(spaces-macos): bundle cua 0.12.0 in Cua Spaces (#6781) — https://github.com/trycua/cua/commit/2c4374a0af7d6e462acd1501ecc7c29777822a76 (score 5)
