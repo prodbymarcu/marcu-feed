@@ -1,2 +1,1 @@
-- Feeling like Xmas — https://www.reddit.com/r/LocalLLaMA/comments/1xpzfjv/feeling_like_xmas/ (score 4)
-- llama : add missing link to pthread (#31785) — https://github.com/ggml-org/llama.cpp/commit/c0ab6e5c0bab3fb21e6cb9d2371f3c41d85ea775 (score 2)
+- Another benchmark has hit the quant war — https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/ (score 6)

@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Feeling like Xmas</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpzfjv/feeling_like_xmas/</link>
-      <guid isPermaLink="false">t3_1xpzfjv</guid>
-      <pubDate>Sat, 07 Nov 2026 01:55:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpzfjv/feeling_like_xmas/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mstk1eoqv40i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0f08cf6a81bbc97700232aa4f7ac84b2ccad6c1a&quot;  | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>llama : add missing link to pthread (#31785)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c0ab6e5c0bab3fb21e6cb9d2371f3c41d85ea775</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c0ab6e5c0bab3fb21e6cb9d2371f3c41d85ea775</guid>
-      <pubDate>Sat, 07 Nov 2026 01:55:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : add missing link to pthread (#31785)
-
-* llama : add missing link to pthread
-
-Signed-off-by: Adrien Gallouët &amp;lt;angt@huggingface.co&amp;gt;
-
-* Link Threads::Threads privately
-
-Signed-off-by:  | why kept: llama</description>
+      <title>Another benchmark has hit the quant war</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/</link>
+      <guid isPermaLink="false">t3_1xpxfob</guid>
+      <pubDate>Sat, 07 Nov 2026 02:44:17 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/9tv63uh7940i1.png?width=140&amp;amp;height=100&amp;amp;auto=webp&amp;amp;s=1258e4e39a5cdd1119e2c | why kept: local, quant, llama</description>
     </item></channel></rss>
