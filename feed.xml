@@ -1,7 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Also experienced the Qwen3.8-Flash-Next URL issue</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/</link>
-      <guid isPermaLink="false">t3_1xqbjbf</guid>
-      <pubDate>Sat, 07 Nov 2026 13:53:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/rig3aps5480i1.png?width=140&amp;amp;height=75&amp;amp;auto=webp&amp;amp;s=6daa10e68c93c5e | why kept: qwen, qwen, local, quant, llama</description>
+      <title>Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/</link>
+      <guid isPermaLink="false">t3_1xqd058</guid>
+      <pubDate>Sat, 07 Nov 2026 14:25:21 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/N3A5dXo2ZmhjODBpMW_apGTg9Ajdcbh1unJZegYd2EArLZ3JBPqZMQBJz8t3.png?widt | why kept: model, agent, local, llama</description>
+    </item>
+    <item>
+      <title>Windows runtime: warn while the drive holding the runtime&#x27;s disk fill…</title>
+      <link>https://github.com/trycua/cua/commit/7f7a21317df6bb6881af48c0e8a74724bb1bc067</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7f7a21317df6bb6881af48c0e8a74724bb1bc067</guid>
+      <pubDate>Sat, 07 Nov 2026 14:25:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Windows runtime: warn while the drive holding the runtime&amp;#39;s disk fills up (#6778)
+
+The runtime&amp;#39;s disk is a sparse VHDX that grows with images and Spaces. doctor
+and `cua runtime doctor` n | why kept: free</description>
     </item></channel></rss>

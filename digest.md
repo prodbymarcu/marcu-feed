@@ -1,1 +1,2 @@
-- Also experienced the Qwen3.8-Flash-Next URL issue — https://www.reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue/ (score 13)
+- Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!) — https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/ (score 8)
+- Windows runtime: warn while the drive holding the runtime's disk fill… — https://github.com/trycua/cua/commit/7f7a21317df6bb6881af48c0e8a74724bb1bc067 (score 2)
