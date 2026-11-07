@@ -1,2 +1,1 @@
-- fix(ci): hold release PR auto-merge while main has newer component co… — https://github.com/trycua/cua/commit/30365106802e229cb364042919c8e34f4e734f04 (score 9)
-- Obsessive-1.7B: a 1.1 GB web-search subagent — https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/ (score 8)
+- chore(main): release cua-driver-rs 0.42.1 (#6841) — https://github.com/trycua/cua/commit/badaa6e0d59fb5add81474bc04efadb89f713eb9 (score 5)

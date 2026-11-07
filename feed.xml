@@ -1,17 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(ci): hold release PR auto-merge while main has newer component co…</title>
-      <link>https://github.com/trycua/cua/commit/30365106802e229cb364042919c8e34f4e734f04</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/30365106802e229cb364042919c8e34f4e734f04</guid>
-      <pubDate>Sat, 07 Nov 2026 08:51:25 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): hold release PR auto-merge while main has newer component commits (#6842)
+      <title>chore(main): release cua-driver-rs 0.42.1 (#6841)</title>
+      <link>https://github.com/trycua/cua/commit/badaa6e0d59fb5add81474bc04efadb89f713eb9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/badaa6e0d59fb5add81474bc04efadb89f713eb9</guid>
+      <pubDate>Sat, 07 Nov 2026 09:08:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.42.1 (#6841)
 
-GitHub keeps one pending run per concurrency group, so a burst of main pushes drops
-Release Please runs. cua-dr | why kept: trycua, claude, runs</description>
-    </item>
-    <item>
-      <title>Obsessive-1.7B: a 1.1 GB web-search subagent</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent/</link>
-      <guid isPermaLink="false">t3_1xq4yju</guid>
-      <pubDate>Sat, 07 Nov 2026 08:51:25 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I fine-tuned LFM3-1.7B to do one job: take a factual question, call &lt;code&gt;web_search&lt;/code&gt; once, and answer with a short value, a word-for-word quote and the URL. If the results don’t contain the answer, i | why kept: model, agent, fine-tun, tool call</description>
+* chore(main): release cua-driver-rs 0.42.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
