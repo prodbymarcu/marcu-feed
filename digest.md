@@ -1,1 +1,2 @@
-- fix(spaces-macos): bundle cua 0.13.0 in Cua Spaces (#6856) — https://github.com/trycua/cua/commit/0c778e2d6b790acbda635c1b43b338314a48ef26 (score 5)
+- docs(spaces): README and docs intro lead with "Combine your existing … — https://github.com/trycua/cua/commit/1f3fbb203fcd2e7cb6670e3f3333366f11844d81 (score 9)
+- mtmd: support MageVL-Cowork model (#31819) — https://github.com/ggml-org/llama.cpp/commit/9f0e5098a5d5d8adb8dd5c59036ae2a38ab07db9 (score 2)

@@ -1,9 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.13.0 in Cua Spaces (#6856)</title>
-      <link>https://github.com/trycua/cua/commit/0c778e2d6b790acbda635c1b43b338314a48ef26</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c778e2d6b790acbda635c1b43b338314a48ef26</guid>
-      <pubDate>Sat, 07 Nov 2026 13:19:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.13.0 in Cua Spaces (#6856)
+      <title>docs(spaces): README and docs intro lead with &quot;Combine your existing …</title>
+      <link>https://github.com/trycua/cua/commit/1f3fbb203fcd2e7cb6670e3f3333366f11844d81</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1f3fbb203fcd2e7cb6670e3f3333366f11844d81</guid>
+      <pubDate>Sat, 07 Nov 2026 13:36:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(spaces): README and docs intro lead with &amp;quot;Combine your existing computers into one supercomputer.&amp;quot; (CUA-3753) (#6869)
 
-cua 0.13.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+Replaces the README headline &amp;quot;Give AI agents computers t | why kept: trycua, agent, claude</description>
+    </item>
+    <item>
+      <title>mtmd: support MageVL-Cowork model (#31819)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9f0e5098a5d5d8adb8dd5c59036ae2a38ab07db9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9f0e5098a5d5d8adb8dd5c59036ae2a38ab07db9</guid>
+      <pubDate>Sat, 07 Nov 2026 13:36:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support MageVL-Cowork model (#31819)
+
+* mtmd: support MageVL-Cowork model
+
+* mtmd: keep magevl rope_freqs at model level and check its shape
+
+The rope factors are shared by every layer, so  | why kept: model</description>
     </item></channel></rss>
