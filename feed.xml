@@ -1,11 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): hold every tool route on runtime admission while per…</title>
-      <link>https://github.com/trycua/cua/commit/62806db62d1886787f7b4133d64d33b641fc26f1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/62806db62d1886787f7b4133d64d33b641fc26f1</guid>
-      <pubDate>Sat, 07 Nov 2026 00:19:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): hold every tool route on runtime admission while permissions are pending (#6802)
+      <title>opencl: add arange (#31829)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/31424b7cf14604ca65a9195123da1413f31c4472</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/31424b7cf14604ca65a9195123da1413f31c4472</guid>
+      <pubDate>Sat, 07 Nov 2026 00:59:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: add arange (#31829)
 
-* fix(cua-driver): hold tool calls on runtime admission while permissions are pending
+Assisted-by: Claude Opus 5.5
 
-DriverRun | why kept: tool call</description>
+Co-authored-by: Li He &amp;lt;lih@qti.qualcomm.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- fix(cua-driver): hold every tool route on runtime admission while per… — https://github.com/trycua/cua/commit/62806db62d1886787f7b4133d64d33b641fc26f1 (score 2)
+- opencl: add arange (#31829) — https://github.com/ggml-org/llama.cpp/commit/31424b7cf14604ca65a9195123da1413f31c4472 (score 2)
