@@ -1,1 +1,3 @@
-- The Components of Agent Memory — https://www.anthropic.com/research/components-of-agent-memory (score 2)
+- Qwen Flash Next on Strata is unreal. — https://www.reddit.com/r/LocalLLaMA/comments/1xpqa3e/qwen_flash_next_on_strata_is_unreal/ (score 15)
+- Just picked up M5U 64c 96G. 10 days earlier than Apple’s initial estimate — https://www.reddit.com/r/LocalLLaMA/comments/1xpoz4y/just_picked_up_m5u_64c_96g_10_days_earlier_than/ (score 4)
+- AI coding agent setups from 663 Hacker News comments — https://theainewsreport.com/2026-11-06-hn-agentic-setups-counted.html (score 2)

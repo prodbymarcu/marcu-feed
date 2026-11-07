@@ -1,6 +1,6 @@
 {
  "fetched": 190,
- "new": 1,
+ "new": 3,
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
@@ -10,6 +10,6 @@
   "sent": 1,
   "kept": 1
  },
- "kept": 1,
- "at": "2026-11-07T09:22:43Z"
+ "kept": 3,
+ "at": "2026-11-07T09:55:37Z"
 }
