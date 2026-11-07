@@ -1,14 +1,45 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Unsloth v3.1 QFN IQ4_XS fails tool calls very frequently</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xprc6o/unsloth_v31_qfn_iq4_xs_fails_tool_calls_very/</link>
-      <guid isPermaLink="false">t3_1xprc6o</guid>
-      <pubDate>Sat, 07 Nov 2026 17:55:05 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My sample size is not very big but it feels like since updating Qwen Flash Next to v3.1 and Strata to 0.2.11, IQ4_XS quant seems to fail tool calls even more often than the previous version did in both Herm | why kept: unsloth, qwen, hermes, hermes, qwen, quant</description>
+      <title>Anyone running local AI on 16GB vram?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/</link>
+      <guid isPermaLink="false">t3_1xqjenw</guid>
+      <pubDate>Sat, 07 Nov 2026 18:40:44 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;Is anyone here running any useful AI agents, harnesses or toolings with local AI on 16GB vram?&lt;/p&gt; &lt;p&gt;I&amp;#39;m currently setting up my system and I want to have a helper agent for daily  | why kept: hermes, agent, hermes, local</description>
     </item>
     <item>
-      <title>After Qwenputer, I wondered if a smaller model could do it too. So I built a Forth interpreter into Nemotron 3.5 Lightning&#x27;s weights</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq6q62/after_qwenputer_i_wondered_if_a_smaller_model/</link>
-      <guid isPermaLink="false">t3_1xq6q62</guid>
-      <pubDate>Sat, 07 Nov 2026 17:55:05 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I learned RPN on an HP calculator and later spent more time with Forth than was strictly useful. When I saw Qwenputer compile a machine into a language model&amp;#39;s weights, I wanted to know two things. Woul | why kept: qwen, model, qwen</description>
+      <title>Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off mid-sentence</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/</link>
+      <guid isPermaLink="false">t3_1xq9yjf</guid>
+      <pubDate>Sat, 07 Nov 2026 18:40:44 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NG11MjBtb2ZzNzBpMWlweTEZVte8a4eZnERo6N6G6dRy4BZU82P3W5mDMns1.jpeg?width= | why kept: model, agent, voice, local, llama</description>
+    </item>
+    <item>
+      <title>What made your custom research/task harness effective? How do you stop micromanaging?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xptj2q/what_made_your_custom_researchtask_harness/</link>
+      <guid isPermaLink="false">t3_1xptj2q</guid>
+      <pubDate>Sat, 07 Nov 2026 18:40:44 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I need to make my custom harness much better at &lt;strong&gt;general research and other tasks (not coding)&lt;/strong&gt; that run longer than half a minute.&lt;/p&gt; &lt;p&gt;Currently running: Qwen3.8 Flash Next FP8/GLM 5.3 Fl | why kept: qwen, agent, qwen</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.14.0 in Cua Spaces (#6906)</title>
+      <link>https://github.com/trycua/cua/commit/1ef20b2f9c00a3f3db7cfb2d4d18130c860d0dd0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1ef20b2f9c00a3f3db7cfb2d4d18130c860d0dd0</guid>
+      <pubDate>Sat, 07 Nov 2026 18:40:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.14.0 in Cua Spaces (#6906)
+
+cua 0.14.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.43.0 (#6907)</title>
+      <link>https://github.com/trycua/cua/commit/51ec2df279ab78fd619375825edad375a41fbbd1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51ec2df279ab78fd619375825edad375a41fbbd1</guid>
+      <pubDate>Sat, 07 Nov 2026 18:40:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.43.0 (#6907)
+
+* chore(main): release cua-driver-rs 0.43.0
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

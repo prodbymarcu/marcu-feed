@@ -1,2 +1,5 @@
-- Unsloth v3.1 QFN IQ4_XS fails tool calls very frequently — https://www.reddit.com/r/LocalLLaMA/comments/1xprc6o/unsloth_v31_qfn_iq4_xs_fails_tool_calls_very/ (score 23)
-- After Qwenputer, I wondered if a smaller model could do it too. So I built a Forth interpreter into Nemotron 3.5 Lightni — https://www.reddit.com/r/LocalLLaMA/comments/1xq6q62/after_qwenputer_i_wondered_if_a_smaller_model/ (score 9)
+- Anyone running local AI on 16GB vram? — https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/ (score 11)
+- Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off m — https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/ (score 10)
+- What made your custom research/task harness effective? How do you stop micromanaging? — https://www.reddit.com/r/LocalLLaMA/comments/1xptj2q/what_made_your_custom_researchtask_harness/ (score 9)
+- fix(spaces-macos): bundle cua 0.14.0 in Cua Spaces (#6906) — https://github.com/trycua/cua/commit/1ef20b2f9c00a3f3db7cfb2d4d18130c860d0dd0 (score 5)
+- chore(main): release cua-driver-rs 0.43.0 (#6907) — https://github.com/trycua/cua/commit/51ec2df279ab78fd619375825edad375a41fbbd1 (score 5)
