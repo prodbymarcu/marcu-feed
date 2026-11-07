@@ -1,4 +1,1 @@
-- chore(images): pin Space images on cua-spacesd 0.12.5 (#6292) — https://github.com/trycua/cua/commit/c6851dad53a200e6f96fe6495f32bf5622a87e19 (score 7)
-- feat(spaces): put quiet agent home Spaces to sleep (#6754) — https://github.com/trycua/cua/commit/c131a070740605de7b0d86243ddfece22ba9f88d (score 4)
-- fix(spaces): every agent message is appended to the thread, child Spa… — https://github.com/trycua/cua/commit/515371a48a616aea3bba5f0ea13e0863c8a26041 (score 4)
-- ci(spaces): hand the SwiftUI Rust slice over as an artifact and save … — https://github.com/trycua/cua/commit/965033844b48f47cf4206317ace3328a27354da1 (score 2)
+- design: desktop release model (build once, promote later, per-platfor… — https://github.com/trycua/cua/commit/83556d002df3af04886cbb3a381027b490bff641 (score 4)
