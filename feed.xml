@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>PLaMo 3 Translate - a pfnet Collection</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpysba/plamo_3_translate_a_pfnet_collection/</link>
-      <guid isPermaLink="false">t3_1xpysba</guid>
-      <pubDate>Sat, 07 Nov 2026 15:20:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpysba/plamo_3_translate_a_pfnet_collection/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/esRROlpYi_JX3HTN6Zo1VNeykLfFrzfB_mqlr79kdds.png?width=640&amp;amp;crop=smart&amp;amp;a | why kept: model, local, llama</description>
+      <title>Betelgeuse running DeepSeek V4.1 Flash Q8_XL (1017) at 19 tok/s decode &amp; 62 tok/s prefill on an RTX 3060 12GB + 16GB RAM: How we finally fixed the prefill bottleneck on out-of-core</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/</link>
+      <guid isPermaLink="false">t3_1xqfekg</guid>
+      <pubDate>Sat, 07 Nov 2026 15:37:25 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqfekg/betelgeuse_running_deepseek_v41_flash_q8_xl_1017/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bDh6c2g0Y2J4ODBpMawVR2bpW2wIIUm3qGih2EwjuuK85-B-Moho9HA0Rzjt.png?w | why kept: local, llama</description>
     </item></channel></rss>
