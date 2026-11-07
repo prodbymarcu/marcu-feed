@@ -1,1 +1,1 @@
-- [Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding — https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/ (score 4)
+- chore(cua-driver): advance published installer version to 0.41.3 (#6833) — https://github.com/trycua/cua/commit/c8c79893de20acf007b71bf3a5e7a2d9e081c434 (score 5)
