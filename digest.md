@@ -1,5 +1,1 @@
-- Weight Space Programming on my Production Qwen 3.8 4-Bit — https://www.reddit.com/r/LocalLLaMA/comments/1xpuexr/weight_space_programming_on_my_production_qwen_38/ (score 11)
-- Crowd-v1 - The collaborative LLM — https://www.reddit.com/r/LocalLLaMA/comments/1xqh8hk/crowdv1_the_collaborative_llm/ (score 6)
-- Change in number of parameters in models over time — https://www.reddit.com/r/LocalLLaMA/comments/1xpyr1k/change_in_number_of_parameters_in_models_over_time/ (score 6)
-- chore(main): release cua-sdk 0.14.0 (#6903) — https://github.com/trycua/cua/commit/f92ce98b450ec855205e38391d99917be8e2a280 (score 5)
-- test(spaces-web): expect the new first-run headline in the onboarding… — https://github.com/trycua/cua/commit/d302c199b15c7644df722bf98235597494a8163f (score 2)
+- I haven't laughed that hard in a longtime — https://www.reddit.com/r/LocalLLaMA/comments/1xq88vc/i_havent_laughed_that_hard_in_a_longtime/ (score 9)
