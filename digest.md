@@ -1,3 +1,2 @@
-- ci: add a release-hold label that blocks release PR auto-merge and ci… — https://github.com/trycua/cua/commit/288479063438c2116626ede46b8c00128d107a84 (score 7)
-- Self-hosted a realtime Ram Altman avatar locally on my VRAM — https://www.reddit.com/r/LocalLLaMA/comments/1xpj034/selfhosted_a_realtime_ram_altman_avatar_locally/ (score 4)
-- fix(cua-driver): restore the Windows foreground only after typed inpu… — https://github.com/trycua/cua/commit/886c9ce30e02a337f2047d11ac8618cca4001a19 (score 2)
+- chore(cua-driver): advance published installer version to 0.41.0 (#6789) — https://github.com/trycua/cua/commit/e5eaab72bc9967345bdd9440f1d9d5401e03746e (score 5)
+- fix(cua-spaces-macos): make Restart to update install the downloaded … — https://github.com/trycua/cua/commit/e1c784079a92c0cf9b9c32ebe80f27c41863e1c5 (score 2)
