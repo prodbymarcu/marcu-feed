@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I haven&#x27;t laughed that hard in a longtime</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq88vc/i_havent_laughed_that_hard_in_a_longtime/</link>
-      <guid isPermaLink="false">t3_1xq88vc</guid>
-      <pubDate>Sat, 07 Nov 2026 17:26:58 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I set up my Hermes to ingest Sillytavern cards. Downloaded some random assistant, &amp;quot;Kailee&amp;quot; on characterhub. &amp;quot;An assistant with an attitude&amp;quot;. With QFN q3_xxs it&amp;#39;s insane the level of  | why kept: hermes, agent, hermes</description>
+      <title>Unsloth v3.1 QFN IQ4_XS fails tool calls very frequently</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xprc6o/unsloth_v31_qfn_iq4_xs_fails_tool_calls_very/</link>
+      <guid isPermaLink="false">t3_1xprc6o</guid>
+      <pubDate>Sat, 07 Nov 2026 17:55:05 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;My sample size is not very big but it feels like since updating Qwen Flash Next to v3.1 and Strata to 0.2.11, IQ4_XS quant seems to fail tool calls even more often than the previous version did in both Herm | why kept: unsloth, qwen, hermes, hermes, qwen, quant</description>
+    </item>
+    <item>
+      <title>After Qwenputer, I wondered if a smaller model could do it too. So I built a Forth interpreter into Nemotron 3.5 Lightning&#x27;s weights</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq6q62/after_qwenputer_i_wondered_if_a_smaller_model/</link>
+      <guid isPermaLink="false">t3_1xq6q62</guid>
+      <pubDate>Sat, 07 Nov 2026 17:55:05 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I learned RPN on an HP calculator and later spent more time with Forth than was strictly useful. When I saw Qwenputer compile a machine into a language model&amp;#39;s weights, I wanted to know two things. Woul | why kept: qwen, model, qwen</description>
     </item></channel></rss>

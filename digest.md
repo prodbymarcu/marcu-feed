@@ -1,1 +1,2 @@
-- I haven't laughed that hard in a longtime — https://www.reddit.com/r/LocalLLaMA/comments/1xq88vc/i_havent_laughed_that_hard_in_a_longtime/ (score 9)
+- Unsloth v3.1 QFN IQ4_XS fails tool calls very frequently — https://www.reddit.com/r/LocalLLaMA/comments/1xprc6o/unsloth_v31_qfn_iq4_xs_fails_tool_calls_very/ (score 23)
+- After Qwenputer, I wondered if a smaller model could do it too. So I built a Forth interpreter into Nemotron 3.5 Lightni — https://www.reddit.com/r/LocalLLaMA/comments/1xq6q62/after_qwenputer_i_wondered_if_a_smaller_model/ (score 9)
