@@ -1,17 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/</link>
-      <guid isPermaLink="false">t3_1xqd058</guid>
-      <pubDate>Sat, 07 Nov 2026 14:25:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/N3A5dXo2ZmhjODBpMW_apGTg9Ajdcbh1unJZegYd2EArLZ3JBPqZMQBJz8t3.png?widt | why kept: model, agent, local, llama</description>
-    </item>
-    <item>
-      <title>Windows runtime: warn while the drive holding the runtime&#x27;s disk fill…</title>
-      <link>https://github.com/trycua/cua/commit/7f7a21317df6bb6881af48c0e8a74724bb1bc067</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7f7a21317df6bb6881af48c0e8a74724bb1bc067</guid>
-      <pubDate>Sat, 07 Nov 2026 14:25:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Windows runtime: warn while the drive holding the runtime&amp;#39;s disk fills up (#6778)
-
-The runtime&amp;#39;s disk is a sparse VHDX that grows with images and Spaces. doctor
-and `cua runtime doctor` n | why kept: free</description>
+      <title>Qwen3.8-Flash-Next Gyro S on a Valve Steam Machine (8 GB AMD GPU, 32 GB RAM): about 18 t/s decode, about 235 t/s prefill, stock SteamOS</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq8s2n/qwen38flashnext_gyro_s_on_a_valve_steam_machine_8/</link>
+      <guid isPermaLink="false">t3_1xq8s2n</guid>
+      <pubDate>Sat, 07 Nov 2026 15:01:49 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I followed up on the &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/&quot;&gt;post&lt;/a&gt; about running Qwen 3.8 Flash Next with 8 GB VRAM and 32 GB RAM. I | why kept: qwen, agent, qwen, local, llama</description>
     </item></channel></rss>
