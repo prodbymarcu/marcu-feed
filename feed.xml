@@ -1,8 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Stop running everything through LLMs: How I fixed my research agent</title>
-      <link>https://www.tinyfish.ai/blog/inside-tinyresearch</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50389479</guid>
-      <pubDate>Fri, 06 Nov 2026 19:22:33 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.tinyfish.ai/blog/inside-tinyresearch&quot;&gt;https://www.tinyfish.ai/blog/inside-tinyresearch&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50389479&quot;&gt;https://news.ycombinator.com/item?i | why kept: agent</description>
+      <title>chore(main): release cua-sdk 0.12.0 (#6748)</title>
+      <link>https://github.com/trycua/cua/commit/dfe732417b1b5217e658e80809a9dca63b651a03</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dfe732417b1b5217e658e80809a9dca63b651a03</guid>
+      <pubDate>Fri, 06 Nov 2026 19:54:33 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.12.0 (#6748)
+
+* chore(main): release cua-sdk 0.12.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
