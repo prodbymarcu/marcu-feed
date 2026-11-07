@@ -1,1 +1,2 @@
-- meta : raise the compute view limit for buffers with few tensors (#31… — https://github.com/ggml-org/llama.cpp/commit/fd27b2034905f8dadd8bd6d2cc44595f4929d391 (score 4)
+- chore(main): release cua-sdk 0.12.1 (#6798) — https://github.com/trycua/cua/commit/4a5bb4bcf2d6bb62e27fb49c60335851880faf11 (score 5)
+- fix(spaces): say computers in use at once for the plan limit (CUA-369… — https://github.com/trycua/cua/commit/891ccb7153dde86f6219da719c583d2de0b88b14 (score 2)

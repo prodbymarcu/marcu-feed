@@ -1,13 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>meta : raise the compute view limit for buffers with few tensors (#31…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fd27b2034905f8dadd8bd6d2cc44595f4929d391</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd27b2034905f8dadd8bd6d2cc44595f4929d391</guid>
-      <pubDate>Fri, 06 Nov 2026 22:05:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;meta : raise the compute view limit for buffers with few tensors (#31447)
+      <title>chore(main): release cua-sdk 0.12.1 (#6798)</title>
+      <link>https://github.com/trycua/cua/commit/4a5bb4bcf2d6bb62e27fb49c60335851880faf11</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a5bb4bcf2d6bb62e27fb49c60335851880faf11</guid>
+      <pubDate>Fri, 06 Nov 2026 22:22:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.12.1 (#6798)
 
-* ggml-backend-meta : minimum number of compute views per buffer
+* chore(main): release cua-sdk 0.12.1
 
-Assisted-by: Claude Opus 5.5
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
-* tests : revert the dee | why kept: model, claude</description>
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces): say computers in use at once for the plan limit (CUA-369…</title>
+      <link>https://github.com/trycua/cua/commit/891ccb7153dde86f6219da719c583d2de0b88b14</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/891ccb7153dde86f6219da719c583d2de0b88b14</guid>
+      <pubDate>Fri, 06 Nov 2026 22:22:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): say computers in use at once for the plan limit (CUA-3690) (#6790)
+
+* fix(spaces): say &amp;quot;computers in use at once&amp;quot; for the plan limit (CUA-3690)
+
+The plan limit now reads &amp;q | why kept: claude</description>
     </item></channel></rss>
