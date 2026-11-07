@@ -1,2 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.41.0 (#6789) — https://github.com/trycua/cua/commit/e5eaab72bc9967345bdd9440f1d9d5401e03746e (score 5)
-- fix(cua-spaces-macos): make Restart to update install the downloaded … — https://github.com/trycua/cua/commit/e1c784079a92c0cf9b9c32ebe80f27c41863e1c5 (score 2)
+- chore(main): release cua-driver-rs 0.41.1 (#6783) — https://github.com/trycua/cua/commit/cf5bf843cd76735b44dfcbe23d404b06ad4b0841 (score 5)
+- fix(cua-driver): finalize the previous recording when a new one start… — https://github.com/trycua/cua/commit/5e2cb4714749e123de5f23300ef27183642df4b0 (score 2)
