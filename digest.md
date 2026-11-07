@@ -1,1 +1,1 @@
-- fix(docs): first-run smoke tolerates unpublished source release (#6830) — https://github.com/trycua/cua/commit/e87eea69e6cb70905d46fa77b1edab13da85a39f (score 7)
+- chore(main): release cua-driver-rs 0.41.4 (#6828) — https://github.com/trycua/cua/commit/c28631bbc6ce3260d7d875cb44fcf8d84d650e6c (score 5)

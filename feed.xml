@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(docs): first-run smoke tolerates unpublished source release (#6830)</title>
-      <link>https://github.com/trycua/cua/commit/e87eea69e6cb70905d46fa77b1edab13da85a39f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e87eea69e6cb70905d46fa77b1edab13da85a39f</guid>
-      <pubDate>Sat, 07 Nov 2026 06:54:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(docs): first-run smoke tolerates unpublished source release (#6830)
+      <title>chore(main): release cua-driver-rs 0.41.4 (#6828)</title>
+      <link>https://github.com/trycua/cua/commit/c28631bbc6ce3260d7d875cb44fcf8d84d650e6c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c28631bbc6ce3260d7d875cb44fcf8d84d650e6c</guid>
+      <pubDate>Sat, 07 Nov 2026 07:10:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.4 (#6828)
 
-The installer bakes the last published release, which lags the source version between a release-please bump and its publis | why kept: trycua, claude</description>
+* chore(main): release cua-driver-rs 0.41.4
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
