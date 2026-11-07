@@ -1,15 +1,27 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.42.1 (#6841)</title>
-      <link>https://github.com/trycua/cua/commit/badaa6e0d59fb5add81474bc04efadb89f713eb9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/badaa6e0d59fb5add81474bc04efadb89f713eb9</guid>
-      <pubDate>Sat, 07 Nov 2026 09:08:01 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.42.1 (#6841)
+      <title>fix(ci): let the post-merge release-gate run seed hosted macOS on mai…</title>
+      <link>https://github.com/trycua/cua/commit/5dae41bf8bd7c2350f2268474cb1511d2647fd20</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5dae41bf8bd7c2350f2268474cb1511d2647fd20</guid>
+      <pubDate>Sat, 07 Nov 2026 09:27:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): let the post-merge release-gate run seed hosted macOS on main pushes (#6837)
 
-* chore(main): release cua-driver-rs 0.42.1
+The post-merge full run (#6600) calls the hosted macOS lane on push to main, but the probe and runner only a | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>They&#x27;ll replace him with someone who opposes open source AI, won&#x27;t they? ‌</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/</link>
+      <guid isPermaLink="false">t3_1xq66uy</guid>
+      <pubDate>Sat, 07 Nov 2026 09:27:21 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq66uy/theyll_replace_him_with_someone_who_opposes_open/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/3g6tk1k7y60i1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=web | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>ci: cache and bound apt installs in verification skill proof (#6774)</title>
+      <link>https://github.com/trycua/cua/commit/92791d23762307d46d3fbcad15809f3168375088</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/92791d23762307d46d3fbcad15809f3168375088</guid>
+      <pubDate>Sat, 07 Nov 2026 09:27:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: cache and bound apt installs in verification skill proof (#6774)
 
-* chore(cua-driver-rs): synchronize generated release files
+* ci: cache and bound apt installs in the Linux verification skill proof
 
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+The job hung in &amp;#39;Install GUI and Rust build dep | why kept: claude</description>
     </item></channel></rss>
