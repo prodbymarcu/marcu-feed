@@ -1,2 +1,3 @@
-- fix(spaces): preserve newer typing across repeated notch search echoe… — https://github.com/trycua/cua/commit/dc1cc38d5a257c362afcd52e6af105275de071aa (score 5)
-- [Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencen — https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/ (score 4)
+- testing Qoduck (Maybe qwen4) on Qoder — https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/ (score 13)
+- fix(spaces): enforce the notch helper line limit before appending (#6… — https://github.com/trycua/cua/commit/23386b7d8593c180b9d344c4205f4cbd00bbb69f (score 5)
+- chore(main): release cua-driver-rs 0.42.3 (#6860) — https://github.com/trycua/cua/commit/cd17d9011730a5760281d62100bf695c9407d8d6 (score 5)

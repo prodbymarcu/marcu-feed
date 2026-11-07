@@ -1,17 +1,32 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): preserve newer typing across repeated notch search echoe…</title>
-      <link>https://github.com/trycua/cua/commit/dc1cc38d5a257c362afcd52e6af105275de071aa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dc1cc38d5a257c362afcd52e6af105275de071aa</guid>
-      <pubDate>Sat, 07 Nov 2026 12:29:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): preserve newer typing across repeated notch search echoes (#6275)
-
-Co-authored-by: Tom Main &amp;lt;20221559+Tom-R-Main@users.noreply.github.com&amp;gt;
-Co-authored-by: Francesco Bonacci &amp;lt | why kept: trycua</description>
+      <title>testing Qoduck (Maybe qwen4) on Qoder</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/</link>
+      <guid isPermaLink="false">t3_1xqafp1</guid>
+      <pubDate>Sat, 07 Nov 2026 12:46:03 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/v7ug4550w70i1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cb6271f8228b6c894d9efffd9 | why kept: qwen, qwen, video, local, llama</description>
     </item>
     <item>
-      <title>[Paper] DSpine - Draft in Parallel, Condition Through Depth: Adjacent Causal Injection for Speculative Decoding - tencent</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/</link>
-      <guid isPermaLink="false">t3_1xq9hf6</guid>
-      <pubDate>Sat, 07 Nov 2026 12:29:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ea256nlpo70i1.png?width=140&amp;amp;height=61&amp;amp;auto=webp&amp;amp;s=771793e18db53 | why kept: local, llama</description>
+      <title>fix(spaces): enforce the notch helper line limit before appending (#6…</title>
+      <link>https://github.com/trycua/cua/commit/23386b7d8593c180b9d344c4205f4cbd00bbb69f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/23386b7d8593c180b9d344c4205f4cbd00bbb69f</guid>
+      <pubDate>Sat, 07 Nov 2026 12:46:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): enforce the notch helper line limit before appending (#6274)
+
+Co-authored-by: Tom Main &amp;lt;20221559+Tom-R-Main@users.noreply.github.com&amp;gt;
+Co-authored-by: Francesco Bonacci &amp;lt;f@tr | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.42.3 (#6860)</title>
+      <link>https://github.com/trycua/cua/commit/cd17d9011730a5760281d62100bf695c9407d8d6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd17d9011730a5760281d62100bf695c9407d8d6</guid>
+      <pubDate>Sat, 07 Nov 2026 12:46:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.42.3 (#6860)
+
+* chore(main): release cua-driver-rs 0.42.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
