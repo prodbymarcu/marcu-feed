@@ -1,1 +1,1 @@
-- fix(cua-driver): find a pid's window on Wayland and name NO_AT_BRIDGE… — https://github.com/trycua/cua/commit/83a60bd1dd9165f822f89a2ec6a8847832ac0a10 (score 2)
+- fix(docs): first-run smoke tolerates unpublished source release (#6830) — https://github.com/trycua/cua/commit/e87eea69e6cb70905d46fa77b1edab13da85a39f (score 7)

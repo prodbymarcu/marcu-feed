@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): find a pid&#x27;s window on Wayland and name NO_AT_BRIDGE…</title>
-      <link>https://github.com/trycua/cua/commit/83a60bd1dd9165f822f89a2ec6a8847832ac0a10</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83a60bd1dd9165f822f89a2ec6a8847832ac0a10</guid>
-      <pubDate>Sat, 07 Nov 2026 06:37:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): find a pid&amp;#39;s window on Wayland and name NO_AT_BRIDGE when it hides one (#6822)
+      <title>fix(docs): first-run smoke tolerates unpublished source release (#6830)</title>
+      <link>https://github.com/trycua/cua/commit/e87eea69e6cb70905d46fa77b1edab13da85a39f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e87eea69e6cb70905d46fa77b1edab13da85a39f</guid>
+      <pubDate>Sat, 07 Nov 2026 06:54:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(docs): first-run smoke tolerates unpublished source release (#6830)
 
-* fix(cua-driver): name NO_AT_BRIDGE when it hides an app from AT-SPI
-
-* fix(cua-driver): name | why kept: runs</description>
+The installer bakes the last published release, which lags the source version between a release-please bump and its publis | why kept: trycua, claude</description>
     </item></channel></rss>
