@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.41.4 (#6828) — https://github.com/trycua/cua/commit/c28631bbc6ce3260d7d875cb44fcf8d84d650e6c (score 5)
+- [Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding — https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/ (score 4)

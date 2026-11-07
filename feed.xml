@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.41.4 (#6828)</title>
-      <link>https://github.com/trycua/cua/commit/c28631bbc6ce3260d7d875cb44fcf8d84d650e6c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c28631bbc6ce3260d7d875cb44fcf8d84d650e6c</guid>
-      <pubDate>Sat, 07 Nov 2026 07:10:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.41.4 (#6828)
-
-* chore(main): release cua-driver-rs 0.41.4
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>[Paper] D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/</link>
+      <guid isPermaLink="false">t3_1xq1y0y</guid>
+      <pubDate>Sat, 07 Nov 2026 07:27:18 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/bey8i4gqn50i1.png?width=140&amp;amp;height=70&amp;amp;auto=webp&amp;amp;s=94971577b756403ec13 | why kept: local, llama</description>
     </item></channel></rss>
