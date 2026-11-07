@@ -1,1 +1,1 @@
-- Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1  — https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/ (score 15)
+- chore(cua-driver): advance published installer version to 0.41.2 (#6806) — https://github.com/trycua/cua/commit/0e887e3cd0088ff964c354f29acb74ea2c120ba7 (score 5)

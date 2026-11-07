@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Harness Leaderboard - Kimi Code, Hermes, Pi, Claude Code, Codex, and Others Were Benchmarked Against Terminal Bench 2.1 &amp; Deep SWE 1.1</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/</link>
-      <guid isPermaLink="false">t3_1xpvfx8</guid>
-      <pubDate>Fri, 06 Nov 2026 22:38:38 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/xPOF1aFwBC1Brdq6Vhn9v7wYUMIveOws3ZXY4sjD7k8.png?width=640&amp;amp;crop=s | why kept: hermes, hermes, claude, codex, local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.41.2 (#6806)</title>
+      <link>https://github.com/trycua/cua/commit/0e887e3cd0088ff964c354f29acb74ea2c120ba7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0e887e3cd0088ff964c354f29acb74ea2c120ba7</guid>
+      <pubDate>Fri, 06 Nov 2026 23:26:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.41.2 (#6806)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
