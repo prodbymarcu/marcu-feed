@@ -1,1 +1,1 @@
-- Anyone tried this yet? — https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/ (score 15)
+- ci(release): delete Release Please's leftover untagged draft after th… — https://github.com/trycua/cua/commit/c3d4e48537b02c8e8a088b860092975edeb74c00 (score 7)

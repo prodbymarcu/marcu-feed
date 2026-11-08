@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Anyone tried this yet?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/</link>
-      <guid isPermaLink="false">t3_1xr4ue4</guid>
-      <pubDate>Sun, 08 Nov 2026 14:12:32 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/r2a2rfrcif0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b6225a7c28f236cc15d84929f4086316f8cbfd | why kept: qwen, model, agent, qwen, local, llama</description>
+      <title>ci(release): delete Release Please&#x27;s leftover untagged draft after th…</title>
+      <link>https://github.com/trycua/cua/commit/c3d4e48537b02c8e8a088b860092975edeb74c00</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c3d4e48537b02c8e8a088b860092975edeb74c00</guid>
+      <pubDate>Sun, 08 Nov 2026 14:28:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): delete Release Please&amp;#39;s leftover untagged draft after the tagged release is published (#7021)
+
+The sdk, spacesd and Cua Spaces CD workflows look the release up by tag, which miss | why kept: trycua, claude</description>
     </item></channel></rss>
