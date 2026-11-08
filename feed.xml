@@ -1,7 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>What do to with RTX A2000 6GB</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqwhcj/what_do_to_with_rtx_a2000_6gb/</link>
-      <guid isPermaLink="false">t3_1xqwhcj</guid>
-      <pubDate>Sun, 08 Nov 2026 11:00:51 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So, bought a workstation with single RTX A2000 6GB, since its being used as a VM server it just stays there idle. Machine runs 24/7. I can pass it to some VM but though 12GB was a bare minimum to do anythin | why kept: model, video, local, runs, llama</description>
+      <title>I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/</link>
+      <guid isPermaLink="false">t3_1xr0ykk</guid>
+      <pubDate>Sun, 08 Nov 2026 11:16:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/r3tlntwioe0i1.png?width=140&amp;amp;height=75&amp;amp;auto=webp&amp;amp;s=1fb1c93d98e42 | why kept: qwen, qwen, video, local, llama, fine-tun</description>
+    </item>
+    <item>
+      <title>I ran Qwen3.5-0.8B in pure Assembly</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly/</link>
+      <guid isPermaLink="false">t3_1xr18t3</guid>
+      <pubDate>Sun, 08 Nov 2026 11:16:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ejJ1dHltZDNzZTBpMcXeMjbXNQLbcFBtLT8GcukrtRYL4vEla8ekZnmltede.jpeg?width=320&amp;amp;cr | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver-bench): resume a killed run with the same command (#6961)</title>
+      <link>https://github.com/trycua/cua/commit/4bf944e73c3baf271db9a9c0e84bceeac11ccff2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4bf944e73c3baf271db9a9c0e84bceeac11ccff2</guid>
+      <pubDate>Sun, 08 Nov 2026 11:16:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver-bench): resume a killed run with the same command (#6961)
+
+* test(cua-driver-bench): kill a short run at several points and resume it
+
+CUA-3793. tests/fake_runner.py runs the real  | why kept: model, runs</description>
     </item></channel></rss>
