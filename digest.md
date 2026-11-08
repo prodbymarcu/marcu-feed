@@ -1,1 +1,1 @@
-- What are people finding local models actually useful for? — https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/ (score 4)
+- Anyone tried this yet? — https://www.reddit.com/r/LocalLLaMA/comments/1xr4ue4/anyone_tried_this_yet/ (score 15)
