@@ -1,2 +1,2 @@
-- test(cua-relay): never hand the same TCP share port to two parallel t… — https://github.com/trycua/cua/commit/e46badaaf789fb529c82e946374d567362286034 (score 9)
-- Ask LocalLLaMA: How are you handling the liability caused by unrestricted search? — https://www.reddit.com/r/LocalLLaMA/comments/1xqwqak/ask_localllama_how_are_you_handling_the_liability/ (score 6)
+- 2x256gb M5U: current status — https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/ (score 9)
+- chore(main): release cua-sdk 0.15.1 (#6966) — https://github.com/trycua/cua/commit/b95530e1eae4f3b2e3687c09a378868ae5419f22 (score 5)

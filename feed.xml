@@ -1,17 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(cua-relay): never hand the same TCP share port to two parallel t…</title>
-      <link>https://github.com/trycua/cua/commit/e46badaaf789fb529c82e946374d567362286034</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e46badaaf789fb529c82e946374d567362286034</guid>
-      <pubDate>Sun, 08 Nov 2026 07:48:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-relay): never hand the same TCP share port to two parallel tests (#6897)
-
-The share_links tests probed a free port, released it, and let the relay
-bind it later. Two parallel tests could | why kept: trycua, claude, free</description>
+      <title>2x256gb M5U: current status</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/</link>
+      <guid isPermaLink="false">t3_1xqxqvw</guid>
+      <pubDate>Sun, 08 Nov 2026 08:36:33 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just an update for anyone looking to get the m5u and thinking about clustering.&lt;/p&gt; &lt;p&gt;I tried clustering but I think running 2 separate models gets significantly better results. The current clustering tech | why kept: qwen, model, qwen</description>
     </item>
     <item>
-      <title>Ask LocalLLaMA: How are you handling the liability caused by unrestricted search?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqwqak/ask_localllama_how_are_you_handling_the_liability/</link>
-      <guid isPermaLink="false">t3_1xqwqak</guid>
-      <pubDate>Sun, 08 Nov 2026 07:48:29 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s well known that models can easily be manipulated into using its web search tool to look up anything using the user&amp;#39;s internet connection. Doesn&amp;#39;t this pose serious real-life risk for the us | why kept: model, local, llama</description>
+      <title>chore(main): release cua-sdk 0.15.1 (#6966)</title>
+      <link>https://github.com/trycua/cua/commit/b95530e1eae4f3b2e3687c09a378868ae5419f22</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b95530e1eae4f3b2e3687c09a378868ae5419f22</guid>
+      <pubDate>Sun, 08 Nov 2026 08:36:33 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.15.1 (#6966)
+
+* chore(main): release cua-sdk 0.15.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
