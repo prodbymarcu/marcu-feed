@@ -4,14 +4,15 @@
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
-  "hn-local: URLError(TimeoutError('timed out'))",
-  "ml-community: <HTTPError 429: 'Too Many Requests'>",
-  "llama-cpp-commits: <HTTPError 504: 'Gateway Time-out'>"
+  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
+  "hn-local: <HTTPError 502: 'Bad Gateway'>",
+  "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
-  "sent": 1,
-  "kept": 1
+  "sent": 0,
+  "kept": 0,
+  "note": "gate busy or judge skipped"
  },
- "kept": 1,
- "at": "2026-11-08T10:23:26Z"
+ "kept": 0,
+ "at": "2026-11-08T10:56:39Z"
 }
