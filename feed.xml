@@ -1,9 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(release): delete Release Please&#x27;s leftover untagged draft after th…</title>
-      <link>https://github.com/trycua/cua/commit/c3d4e48537b02c8e8a088b860092975edeb74c00</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c3d4e48537b02c8e8a088b860092975edeb74c00</guid>
-      <pubDate>Sun, 08 Nov 2026 14:28:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): delete Release Please&amp;#39;s leftover untagged draft after the tagged release is published (#7021)
-
-The sdk, spacesd and Cua Spaces CD workflows look the release up by tag, which miss | why kept: trycua, claude</description>
+      <title>Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for 1/5 price, after best setup</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/</link>
+      <guid isPermaLink="false">t3_1xr78s5</guid>
+      <pubDate>Sun, 08 Nov 2026 15:00:34 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mt9p7uufzf0i1.png?width=140&amp;amp;height=110&amp;amp;auto=webp&amp;amp;s=bf9eed9d858356 | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Qwen 4 3PM at Pekín time ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr6k8t/qwen_4_3pm_at_pekín_time/</link>
+      <guid isPermaLink="false">t3_1xr6k8t</guid>
+      <pubDate>Sun, 08 Nov 2026 15:00:34 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This post says so and it’s a verified account , i know it’s probably engagementbait but those guys at qwen have me on withrdrawal ,does someone know if this has some kind of ground ?&lt;/p&gt; &lt;p&gt;Anyways , in bro | why kept: qwen, qwen</description>
+    </item>
+    <item>
+      <title>Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/</link>
+      <guid isPermaLink="false">t3_1xr6krp</guid>
+      <pubDate>Sun, 08 Nov 2026 15:00:34 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop= | why kept: model, local, llama</description>
     </item></channel></rss>

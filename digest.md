@@ -1,1 +1,3 @@
-- ci(release): delete Release Please's leftover untagged draft after th… — https://github.com/trycua/cua/commit/c3d4e48537b02c8e8a088b860092975edeb74c00 (score 7)
+- Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for — https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/ (score 11)
+- Qwen 4 3PM at Pekín time ? — https://www.reddit.com/r/LocalLLaMA/comments/1xr6k8t/qwen_4_3pm_at_pekín_time/ (score 7)
+- Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything! — https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/ (score 6)
