@@ -1,5 +1,1 @@
-- tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/ (score 13)
-- Upgraded Your GPU? Don't Sell the Old One. Put Both to Work Running Local LLMs. — https://www.reddit.com/r/LocalLLaMA/comments/1xr2ici/upgraded_your_gpu_dont_sell_the_old_one_put_both/ (score 8)
-- Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier. — https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/ (score 6)
-- 4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch — https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/ (score 4)
-- Rumor: Moonshot Kimi roadmap — https://www.reddit.com/r/LocalLLaMA/comments/1xr2t4c/rumor_moonshot_kimi_roadmap/ (score 4)
+- chore(main): release cua-sdk 0.16.0 (#6986) — https://github.com/trycua/cua/commit/65bf005bc78b0f747c07f11d520ab16c7606eba4 (score 5)
