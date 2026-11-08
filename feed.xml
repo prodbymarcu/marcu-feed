@@ -1,28 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.43.2 (#6933)</title>
-      <link>https://github.com/trycua/cua/commit/53ad9e23e7ecc8a3ff70bcb143e3bbe2909e24aa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53ad9e23e7ecc8a3ff70bcb143e3bbe2909e24aa</guid>
-      <pubDate>Sun, 08 Nov 2026 01:12:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.43.2 (#6933)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>speculative : do not apply the MoE cache to the draft model (#31497)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a2b301831d05b07860de508d229d430207127802</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a2b301831d05b07860de508d229d430207127802</guid>
-      <pubDate>Sun, 08 Nov 2026 01:12:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;speculative : do not apply the MoE cache to the draft model (#31497)&lt;/pre&gt; | why kept: model</description>
-    </item>
-    <item>
-      <title>opencl: improve q8_0 and MoE small-n verification for spec (#31831)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c19043f67e52f1f1e00d797246e19643bb2f168e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c19043f67e52f1f1e00d797246e19643bb2f168e</guid>
-      <pubDate>Sun, 08 Nov 2026 01:12:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: improve q8_0 and MoE small-n verification for spec (#31831)
-
-* opencl: add kernel_gemv_noshuffle_q8_0_f32_mc
-
-Assisted-by: Claude Opus 5.5
-Co-authored-by: Shaofei Qi &amp;lt;shaoqi@qti.qualco | why kept: claude</description>
+      <title>Two PCs but one with only RAM? or divide GPUs across pcs?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqn4nb/two_pcs_but_one_with_only_ram_or_divide_gpus/</link>
+      <guid isPermaLink="false">t3_1xqn4nb</guid>
+      <pubDate>Sun, 08 Nov 2026 01:23:06 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;PC1:&lt;br/&gt; -94gb DDR5&lt;/p&gt; &lt;p&gt;-5070 TI + 3060 (12gb) gpus (using a motherboard that is specifically designed for duel gpus&lt;/p&gt; &lt;p&gt;PC2:&lt;/p&gt; &lt;p&gt;64gb DD4 RAM&lt;/p&gt; &lt;p&gt;PC1 is new, I&amp;#39;ve been running strata for r | why kept: quant, llama</description>
     </item></channel></rss>

@@ -1,16 +1,16 @@
 {
- "fetched": 185,
- "new": 3,
+ "fetched": 190,
+ "new": 1,
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
-  "hn-local: TimeoutError('The read operation timed out')",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
-  "sent": 2,
-  "kept": 2
+  "sent": 0,
+  "kept": 0,
+  "note": "gate busy or judge skipped"
  },
- "kept": 3,
- "at": "2026-11-08T06:12:39Z"
+ "kept": 1,
+ "at": "2026-11-08T06:23:06Z"
 }

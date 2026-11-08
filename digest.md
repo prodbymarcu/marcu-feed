@@ -1,3 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.43.2 (#6933) — https://github.com/trycua/cua/commit/53ad9e23e7ecc8a3ff70bcb143e3bbe2909e24aa (score 5)
-- speculative : do not apply the MoE cache to the draft model (#31497) — https://github.com/ggml-org/llama.cpp/commit/a2b301831d05b07860de508d229d430207127802 (score 2)
-- opencl: improve q8_0 and MoE small-n verification for spec (#31831) — https://github.com/ggml-org/llama.cpp/commit/c19043f67e52f1f1e00d797246e19643bb2f168e (score 2)
+- Two PCs but one with only RAM? or divide GPUs across pcs? — https://www.reddit.com/r/LocalLLaMA/comments/1xqn4nb/two_pcs_but_one_with_only_ram_or_divide_gpus/ (score 4)
