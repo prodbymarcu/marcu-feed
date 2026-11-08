@@ -1,2 +1,3 @@
-- LexiSuite AIO bootable all rust OS/Engine/Kernel/Tuning & training management suite. Runs kernel 7.4 rc1 by default as t — https://www.reddit.com/r/LocalLLaMA/comments/1xpzdy6/lexisuite_aio_bootable_all_rust/ (score 13)
-- Best AI Coding Builder Agent LLM for my legend GTX 1080Ti 11 GB ? [32 GB RAM] — https://www.reddit.com/r/LocalLLaMA/comments/1xqdndl/best_ai_coding_builder_agent_llm_for_my_legend/ (score 8)
+- chore(cua-driver): advance published installer version to 0.43.2 (#6933) — https://github.com/trycua/cua/commit/53ad9e23e7ecc8a3ff70bcb143e3bbe2909e24aa (score 5)
+- speculative : do not apply the MoE cache to the draft model (#31497) — https://github.com/ggml-org/llama.cpp/commit/a2b301831d05b07860de508d229d430207127802 (score 2)
+- opencl: improve q8_0 and MoE small-n verification for spec (#31831) — https://github.com/ggml-org/llama.cpp/commit/c19043f67e52f1f1e00d797246e19643bb2f168e (score 2)
