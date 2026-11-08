@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): hold back an agent&#x27;s narration of its own process in the…</title>
-      <link>https://github.com/trycua/cua/commit/fa605be7c8dc15c7042205ae98d5a85699c36a47</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fa605be7c8dc15c7042205ae98d5a85699c36a47</guid>
-      <pubDate>Sun, 08 Nov 2026 18:28:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): hold back an agent&amp;#39;s narration of its own process in the thread (#7027)
+      <title>chore(main): release cua-driver-rs 0.45.1 (#7044)</title>
+      <link>https://github.com/trycua/cua/commit/66fb5f2ea64ecd464bfcb75031617cd533c7f8ee</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/66fb5f2ea64ecd464bfcb75031617cd533c7f8ee</guid>
+      <pubDate>Sun, 08 Nov 2026 18:44:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.45.1 (#7044)
 
-An agent that speaks as the person&amp;#39;s computers says one opening line and one closing message. Between | why kept: model, agent, claude, tool call</description>
+* chore(main): release cua-driver-rs 0.45.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

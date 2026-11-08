@@ -1,1 +1,1 @@
-- fix(spaces): hold back an agent's narration of its own process in the… — https://github.com/trycua/cua/commit/fa605be7c8dc15c7042205ae98d5a85699c36a47 (score 8)
+- chore(main): release cua-driver-rs 0.45.1 (#7044) — https://github.com/trycua/cua/commit/66fb5f2ea64ecd464bfcb75031617cd533c7f8ee (score 5)
