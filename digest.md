@@ -1,3 +1,1 @@
-- Proposal: uncensoring LoRAs — https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/ (score 11)
-- Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI. — https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/ (score 6)
-- "Does censorship exist in [country]?", according to various LLMs — https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/ (score 6)
+- What do to with RTX A2000 6GB — https://www.reddit.com/r/LocalLLaMA/comments/1xqwhcj/what_do_to_with_rtx_a2000_6gb/ (score 10)
