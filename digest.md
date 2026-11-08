@@ -1,1 +1,1 @@
-- fix(cua-agents): say a lost provider connection in plain words, not r… — https://github.com/trycua/cua/commit/a2bbc280957e5ca674d5ca5a0422da22be1d6cdf (score 4)
+- fix(spaces): Ready lists only the picked agent's chats, and shows at … — https://github.com/trycua/cua/commit/4392fe0502790f4fdd1d9b9e5bc42c1418281146 (score 6)

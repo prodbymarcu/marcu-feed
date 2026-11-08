@@ -1,10 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-agents): say a lost provider connection in plain words, not r…</title>
-      <link>https://github.com/trycua/cua/commit/a2bbc280957e5ca674d5ca5a0422da22be1d6cdf</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a2bbc280957e5ca674d5ca5a0422da22be1d6cdf</guid>
-      <pubDate>Sun, 08 Nov 2026 11:32:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-agents): say a lost provider connection in plain words, not raw http2 (#6963)
+      <title>fix(spaces): Ready lists only the picked agent&#x27;s chats, and shows at …</title>
+      <link>https://github.com/trycua/cua/commit/4392fe0502790f4fdd1d9b9e5bc42c1418281146</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4392fe0502790f4fdd1d9b9e5bc42c1418281146</guid>
+      <pubDate>Sun, 08 Nov 2026 12:04:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Ready lists only the picked agent&amp;#39;s chats, and shows at once (CUA-3774) (#6916)
 
-A turn that dies on an HTTP/2 reset, GOAWAY or dropped request now reads
-&amp;quot;I lost my connection to OpenA | why kept: agent, claude</description>
+* fix(spaces): Ready lists only the picked agent&amp;#39;s chats, and shows at once (CUA-3774)
+
+What  | why kept: agent, claude, codex</description>
     </item></channel></rss>
