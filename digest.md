@@ -1,2 +1,1 @@
-- Learning RL From Scratch: The What, Why and How of Double DQNs — https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/ (score 4)
-- webgpu : add COUNT_EQUAL support (#31578) — https://github.com/ggml-org/llama.cpp/commit/a691b2345844ce1b430201fc5fd404ce062e05f2 (score 2)
+- Agent memory needs its OpenTelemetry moment — https://www.lorekit.io/blog/open-agent-memory-format (score 2)

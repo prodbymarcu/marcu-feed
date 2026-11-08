@@ -1,24 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Learning RL From Scratch: The What, Why and How of Double DQNs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/</link>
-      <guid isPermaLink="false">t3_1xqu5bz</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:56 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZDlndjRqMWl0YzBpMV_E7cySj5GkZ6XOY1ETkgalkpUUsK0JJ8PuQ333Aaqb.png?w | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>webgpu : add COUNT_EQUAL support (#31578)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a691b2345844ce1b430201fc5fd404ce062e05f2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a691b2345844ce1b430201fc5fd404ce062e05f2</guid>
-      <pubDate>Sun, 08 Nov 2026 05:06:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;webgpu : add COUNT_EQUAL support (#31578)
-
-* webgpu : add COUNT_EQUAL support
-
-Assisted-by: Codex
-
-* webgpu : reduce small COUNT_EQUAL inputs in one dispatch
-
-Assisted-by: Codex
-
-* webgpu : simpl | why kept: codex</description>
+      <title>Agent memory needs its OpenTelemetry moment</title>
+      <link>https://www.lorekit.io/blog/open-agent-memory-format</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50411467</guid>
+      <pubDate>Sun, 08 Nov 2026 05:23:26 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.lorekit.io/blog/open-agent-memory-format&quot;&gt;https://www.lorekit.io/blog/open-agent-memory-format&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50411467&quot;&gt;https://news.ycombinator.co | why kept: agent</description>
     </item></channel></rss>
