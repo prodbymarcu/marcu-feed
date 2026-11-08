@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.16.0 (#6986) — https://github.com/trycua/cua/commit/65bf005bc78b0f747c07f11d520ab16c7606eba4 (score 5)
+- Cant use Abliterated Model in Strata — https://www.reddit.com/r/LocalLLaMA/comments/1xr2mzb/cant_use_abliterated_model_in_strata/ (score 6)

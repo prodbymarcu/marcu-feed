@@ -1,11 +1,10 @@
 {
- "fetched": 145,
+ "fetched": 165,
  "new": 1,
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
-  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
-  "hn-llm: <HTTPError 502: 'Bad Gateway'>",
+  "hn-agent: TimeoutError('The read operation timed out')",
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -15,5 +14,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 1,
- "at": "2026-11-08T17:36:36Z"
+ "at": "2026-11-08T17:52:53Z"
 }

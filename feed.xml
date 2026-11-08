@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.16.0 (#6986)</title>
-      <link>https://github.com/trycua/cua/commit/65bf005bc78b0f747c07f11d520ab16c7606eba4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/65bf005bc78b0f747c07f11d520ab16c7606eba4</guid>
-      <pubDate>Sun, 08 Nov 2026 12:36:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.16.0 (#6986)
-
-* chore(main): release cua-sdk 0.16.0
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+      <title>Cant use Abliterated Model in Strata</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr2mzb/cant_use_abliterated_model_in_strata/</link>
+      <guid isPermaLink="false">t3_1xr2mzb</guid>
+      <pubDate>Sun, 08 Nov 2026 12:52:53 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr2mzb/cant_use_abliterated_model_in_strata/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hzewvbmn2f0i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=d0504 | why kept: model, local, llama</description>
     </item></channel></rss>
