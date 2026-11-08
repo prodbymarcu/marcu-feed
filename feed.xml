@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>When should I use a locally hosted decision model to decrease latency</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqilga/when_should_i_use_a_locally_hosted_decision_model/</link>
-      <guid isPermaLink="false">t3_1xqilga</guid>
-      <pubDate>Sat, 07 Nov 2026 21:06:28 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m running a sandbox simulation with a fleet of 50-100 agents on OpenClaw, and to minimize LLM calls, I use a decision model to judge whether an agent needs to respond to a signal.&lt;/p&gt; &lt;p&gt;I’m currently usi | why kept: model, agent, openclaw, local</description>
+      <title>chore(main): release cua-driver-rs 0.43.2 (#6922)</title>
+      <link>https://github.com/trycua/cua/commit/721e1b4fb3ab89a95a53b8afdec348449a5ed73c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/721e1b4fb3ab89a95a53b8afdec348449a5ed73c</guid>
+      <pubDate>Sat, 07 Nov 2026 21:39:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.43.2 (#6922)
+
+* chore(main): release cua-driver-rs 0.43.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

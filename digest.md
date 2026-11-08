@@ -1,1 +1,1 @@
-- When should I use a locally hosted decision model to decrease latency — https://www.reddit.com/r/LocalLLaMA/comments/1xqilga/when_should_i_use_a_locally_hosted_decision_model/ (score 8)
+- chore(main): release cua-driver-rs 0.43.2 (#6922) — https://github.com/trycua/cua/commit/721e1b4fb3ab89a95a53b8afdec348449a5ed73c (score 5)
