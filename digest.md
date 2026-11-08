@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.44.1 (#6988) — https://github.com/trycua/cua/commit/45a5078d8bd63ca94236cd1eb3b4bc4b20cebc78 (score 5)
+- What are people finding local models actually useful for? — https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/ (score 4)

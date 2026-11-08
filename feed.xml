@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.44.1 (#6988)</title>
-      <link>https://github.com/trycua/cua/commit/45a5078d8bd63ca94236cd1eb3b4bc4b20cebc78</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/45a5078d8bd63ca94236cd1eb3b4bc4b20cebc78</guid>
-      <pubDate>Sun, 08 Nov 2026 13:40:33 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.44.1 (#6988)
-
-* chore(main): release cua-driver-rs 0.44.1
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>What are people finding local models actually useful for?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually/</link>
+      <guid isPermaLink="false">t3_1xr4iv0</guid>
+      <pubDate>Sun, 08 Nov 2026 13:56:41 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think that a lot of people get into local models because they get a sense of potential with this stuff, but it can be hard to make local models concretely useful sometimes, compared to frontier models. I  | why kept: model, local</description>
     </item></channel></rss>
