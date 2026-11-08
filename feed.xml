@@ -1,14 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Apparently Qwen4 27B is coming Monday November 9th at 3PM Beijing time</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november/</link>
-      <guid isPermaLink="false">t3_1xr8h0a</guid>
-      <pubDate>Sun, 08 Nov 2026 15:48:28 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’d treat this as a rumour obviously. Fingers crossed. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mrgreatheart&quot;&gt; /u/mrgreatheart &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https: | why kept: qwen, qwen, local, llama</description>
+      <title>Spaces first run asks for Local Network on Macs that run macOS Spaces…</title>
+      <link>https://github.com/trycua/cua/commit/8c054aa4cedc65bfb64eb198a4519d5feebb226b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8c054aa4cedc65bfb64eb198a4519d5feebb226b</guid>
+      <pubDate>Sun, 08 Nov 2026 16:36:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Spaces first run asks for Local Network on Macs that run macOS Spaces; status line says when a computer has something to fix (CUA-3854) (#7007)
+
+* Spaces first run asks for Local Network on a Mac | why kept: local, runs</description>
     </item>
     <item>
-      <title>Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -&gt; 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/</link>
-      <guid isPermaLink="false">t3_1xr777l</guid>
-      <pubDate>Sun, 08 Nov 2026 15:48:28 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/z2xnxxfwzf0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e64dc08c26df669e | why kept: local, llama</description>
+      <title>feat(cua-driver): nudge to batch after the second action, with a read…</title>
+      <link>https://github.com/trycua/cua/commit/7f81b8b270e0742432689764a08efaba051e4fbe</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7f81b8b270e0742432689764a08efaba051e4fbe</guid>
+      <pubDate>Sun, 08 Nov 2026 16:36:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): nudge to batch after the second action, with a ready run_steps call (#6921)
+
+* feat(cua-driver): nudge to batch after the second direct action, with a ready run_steps call
+
+Reco | why kept: agent, runs</description>
     </item></channel></rss>

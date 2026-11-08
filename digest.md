@@ -1,2 +1,2 @@
-- Apparently Qwen4 27B is coming Monday November 9th at 3PM Beijing time — https://www.reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november/ (score 11)
-- Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME — https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/ (score 4)
+- Spaces first run asks for Local Network on Macs that run macOS Spaces… — https://github.com/trycua/cua/commit/8c054aa4cedc65bfb64eb198a4519d5feebb226b (score 4)
+- feat(cua-driver): nudge to batch after the second action, with a read… — https://github.com/trycua/cua/commit/7f81b8b270e0742432689764a08efaba051e4fbe (score 4)
