@@ -1,34 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): Start an agent says before Start when the agent has no p…</title>
-      <link>https://github.com/trycua/cua/commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce</guid>
-      <pubDate>Sun, 08 Nov 2026 17:56:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Start an agent says before Start when the agent has no provider to use (#6977)
-
-On a new account Start succeeded and the first task came back with
-&amp;quot;Hermes needs a connected prov | why kept: hermes, agent, hermes</description>
-    </item>
-    <item>
-      <title>chore(cua-driver): advance published installer version to 0.44.0 (#6990)</title>
-      <link>https://github.com/trycua/cua/commit/13d68def545a42f4075c354bfdb7d7af73f8e6ab</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/13d68def545a42f4075c354bfdb7d7af73f8e6ab</guid>
-      <pubDate>Sun, 08 Nov 2026 17:56:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.44.0 (#6990)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.45.0 (#7034)</title>
-      <link>https://github.com/trycua/cua/commit/6f65521bbb831ab9868f9f6c1ecaca04165a7ae0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6f65521bbb831ab9868f9f6c1ecaca04165a7ae0</guid>
-      <pubDate>Sun, 08 Nov 2026 17:56:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.45.0 (#7034)
-
-* chore(main): release cua-driver-rs 0.45.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Nous Research Arete-27B GGUF quants</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/</link>
+      <guid isPermaLink="false">t3_1xrarta</guid>
+      <pubDate>Sun, 08 Nov 2026 18:12:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yGgTxVLgPyPH6YJBGW6R_2YAItx9VdVa5kXAfl0d7h8.png?width=640&amp;amp;crop=smart&amp;amp;aut | why kept: local, quant, llama</description>
     </item></channel></rss>
