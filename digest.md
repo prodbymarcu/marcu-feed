@@ -1,3 +1,2 @@
-- Intel Arc Pro B70 32GB ($1,299) vs NVIDIA RTX 5090 ($6,500+) on Qwen3.8-27B: about 1/2 speed gen (1/3 speed prefill) for — https://www.reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090/ (score 11)
-- Qwen 4 3PM at Pekín time ? — https://www.reddit.com/r/LocalLLaMA/comments/1xr6k8t/qwen_4_3pm_at_pekín_time/ (score 7)
-- Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation: This will completely change everything! — https://www.reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine/ (score 6)
+- chore(main): release cua-driver-rs 0.44.2 (#7026) — https://github.com/trycua/cua/commit/d5c464d2bda3be832d0f5a75da673ffbe7583287 (score 5)
+- test(cua-relay): retry relay start on fresh ports when the picked por… — https://github.com/trycua/cua/commit/745d96b9b7cd9af863f9c578cddf9247d86b9de0 (score 4)
