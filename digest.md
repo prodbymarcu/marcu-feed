@@ -1,2 +1,3 @@
-- fix(spaces-macos): bundle cua 0.15.1 in Cua Spaces (#6979) — https://github.com/trycua/cua/commit/c34374a9302c59d424841fbdf1c858f9c4aef7dc (score 5)
-- # One token at the beginning of a prompt changed 6 out of 15 LLM responses. Does it matter? — https://www.reddit.com/r/LocalLLaMA/comments/1xqh2jw/one_token_at_the_beginning_of_a_prompt_changed_6/ (score 4)
+- Proposal: uncensoring LoRAs — https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/ (score 11)
+- Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI. — https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/ (score 6)
+- "Does censorship exist in [country]?", according to various LLMs — https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/ (score 6)

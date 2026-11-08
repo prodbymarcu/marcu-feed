@@ -1,16 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.15.1 in Cua Spaces (#6979)</title>
-      <link>https://github.com/trycua/cua/commit/c34374a9302c59d424841fbdf1c858f9c4aef7dc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c34374a9302c59d424841fbdf1c858f9c4aef7dc</guid>
-      <pubDate>Sun, 08 Nov 2026 10:12:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.15.1 in Cua Spaces (#6979)
-
-cua 0.15.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>Proposal: uncensoring LoRAs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras/</link>
+      <guid isPermaLink="false">t3_1xqzt4r</guid>
+      <pubDate>Sun, 08 Nov 2026 10:28:27 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;On huggingface there are millions of &amp;quot;models&amp;quot; which are uncensored versions of other models. I find it a huge waste of space. It would be better to post the LoRA of the abliteration/uncensorship.&lt; | why kept: qwen, model, qwen, quant</description>
     </item>
     <item>
-      <title># One token at the beginning of a prompt changed 6 out of 15 LLM responses. Does it matter?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqh2jw/one_token_at_the_beginning_of_a_prompt_changed_6/</link>
-      <guid isPermaLink="false">t3_1xqh2jw</guid>
-      <pubDate>Sun, 08 Nov 2026 10:12:34 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;m back with another experiment.&lt;/p&gt; &lt;p&gt;After the last heated discussion about KV cache, temperature 0, and reproducibility — where I got quite a beating for both my post and my writing style (partly d | why kept: model, llama</description>
+      <title>Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/</link>
+      <guid isPermaLink="false">t3_1xr01bj</guid>
+      <pubDate>Sun, 08 Nov 2026 10:28:27 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Oh look, thats us!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ab2377&quot;&gt; /u/ab2377 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://en.gamegpu.com/news/zhelezo/polzovateli-nachali | why kept: video, local, llama</description>
+    </item>
+    <item>
+      <title>&quot;Does censorship exist in [country]?&quot;, according to various LLMs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/</link>
+      <guid isPermaLink="false">t3_1xr09nq</guid>
+      <pubDate>Sun, 08 Nov 2026 10:28:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/knnfwsmaje0i1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=959c92555030e293 | why kept: model, local, llama</description>
     </item></channel></rss>
