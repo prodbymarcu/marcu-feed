@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Nous Research Arete-27B GGUF quants</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/</link>
-      <guid isPermaLink="false">t3_1xrarta</guid>
-      <pubDate>Sun, 08 Nov 2026 18:12:26 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yGgTxVLgPyPH6YJBGW6R_2YAItx9VdVa5kXAfl0d7h8.png?width=640&amp;amp;crop=smart&amp;amp;aut | why kept: local, quant, llama</description>
+      <title>fix(spaces): hold back an agent&#x27;s narration of its own process in the…</title>
+      <link>https://github.com/trycua/cua/commit/fa605be7c8dc15c7042205ae98d5a85699c36a47</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fa605be7c8dc15c7042205ae98d5a85699c36a47</guid>
+      <pubDate>Sun, 08 Nov 2026 18:28:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): hold back an agent&amp;#39;s narration of its own process in the thread (#7027)
+
+An agent that speaks as the person&amp;#39;s computers says one opening line and one closing message. Between | why kept: model, agent, claude, tool call</description>
     </item></channel></rss>

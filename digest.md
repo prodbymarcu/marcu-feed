@@ -1,1 +1,1 @@
-- Nous Research Arete-27B GGUF quants — https://www.reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants/ (score 6)
+- fix(spaces): hold back an agent's narration of its own process in the… — https://github.com/trycua/cua/commit/fa605be7c8dc15c7042205ae98d5a85699c36a47 (score 8)
