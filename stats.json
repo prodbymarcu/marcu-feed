@@ -1,15 +1,17 @@
 {
- "fetched": 190,
- "new": 3,
+ "fetched": 165,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 0,
+ "dropped_low": 1,
  "errors": [
+  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
+  "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
   "sent": 1,
   "kept": 1
  },
- "kept": 3,
- "at": "2026-11-08T07:53:04Z"
+ "kept": 1,
+ "at": "2026-11-08T08:08:59Z"
 }

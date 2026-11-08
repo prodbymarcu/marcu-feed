@@ -1,35 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama, mtmd: follow the reference precision of ggml_prec_set_acc call…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d6be065572cdb7bf64014c8c5771e210c9570e44</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d6be065572cdb7bf64014c8c5771e210c9570e44</guid>
-      <pubDate>Sun, 08 Nov 2026 02:53:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama, mtmd: follow the reference precision of ggml_prec_set_acc calls (#31851)
+      <title>fix(cua-driver): clear portal-input clippy lints in platform-linux (#…</title>
+      <link>https://github.com/trycua/cua/commit/4d148ba45fa30629e7e41139252649fe208efe30</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d148ba45fa30629e7e41139252649fe208efe30</guid>
+      <pubDate>Sun, 08 Nov 2026 03:08:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): clear portal-input clippy lints in platform-linux (#6940)
 
-* llama, mtmd: follow the reference precision of ggml_prec_set_acc calls
-
-Requests that the reference implementati | why kept: qwen, minimax, qwen, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.15.0 (#6925)</title>
-      <link>https://github.com/trycua/cua/commit/e9c27015e7d8038e19496e26ab522d147534cd67</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e9c27015e7d8038e19496e26ab522d147534cd67</guid>
-      <pubDate>Sun, 08 Nov 2026 02:53:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.15.0 (#6925)
-
-* chore(main): release cua-sdk 0.15.0
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>GPU in containers on a Windows PC: NVIDIA through WSL 2 (/dev/dxg and…</title>
-      <link>https://github.com/trycua/cua/commit/a57ef48079ba029a54b6c3c7614bdeeafcb5510f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a57ef48079ba029a54b6c3c7614bdeeafcb5510f</guid>
-      <pubDate>Sun, 08 Nov 2026 02:53:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;GPU in containers on a Windows PC: NVIDIA through WSL 2 (/dev/dxg and /usr/lib/wsl), and a failed runtime import never deletes the disk in use (#6941)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;norep | why kept: claude</description>
+CI clippy runs default features only, so the portal-input code kept
+collapsible_match, manual_clamp and needless_return | why kept: runs</description>
     </item></channel></rss>
