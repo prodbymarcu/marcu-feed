@@ -1,2 +1,1 @@
-- 2x256gb M5U: current status — https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/ (score 9)
-- chore(main): release cua-sdk 0.15.1 (#6966) — https://github.com/trycua/cua/commit/b95530e1eae4f3b2e3687c09a378868ae5419f22 (score 5)
+- chore(main): release cua-driver-rs 0.44.0 (#6932) — https://github.com/trycua/cua/commit/ef1e84d6c880ab8aee7587c3d0057a288e764b69 (score 5)

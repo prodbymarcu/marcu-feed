@@ -1,22 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>2x256gb M5U: current status</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status/</link>
-      <guid isPermaLink="false">t3_1xqxqvw</guid>
-      <pubDate>Sun, 08 Nov 2026 08:36:33 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just an update for anyone looking to get the m5u and thinking about clustering.&lt;/p&gt; &lt;p&gt;I tried clustering but I think running 2 separate models gets significantly better results. The current clustering tech | why kept: qwen, model, qwen</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.15.1 (#6966)</title>
-      <link>https://github.com/trycua/cua/commit/b95530e1eae4f3b2e3687c09a378868ae5419f22</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b95530e1eae4f3b2e3687c09a378868ae5419f22</guid>
-      <pubDate>Sun, 08 Nov 2026 08:36:33 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.15.1 (#6966)
+      <title>chore(main): release cua-driver-rs 0.44.0 (#6932)</title>
+      <link>https://github.com/trycua/cua/commit/ef1e84d6c880ab8aee7587c3d0057a288e764b69</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ef1e84d6c880ab8aee7587c3d0057a288e764b69</guid>
+      <pubDate>Sun, 08 Nov 2026 08:52:31 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.44.0 (#6932)
 
-* chore(main): release cua-sdk 0.15.1
+* chore(main): release cua-driver-rs 0.44.0
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
