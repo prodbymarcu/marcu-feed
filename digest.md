@@ -1,1 +1,1 @@
-- Subway Zombie FPS for fun using Deepseek v4.1 1017 UD-IQ3_S with Maya and OMP — https://www.reddit.com/r/LocalLLaMA/comments/1xpyp07/subway_zombie_fps_for_fun_using_deepseek_v41_1017/ (score 6)
+- mtmd: support MageVL-Cowork model by ngxson · Pull Request #31819 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xqpc7u/mtmd_support_magevlcowork_model_by_ngxson_pull/ (score 6)
