@@ -1,11 +1,35 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): Ready lists only the picked agent&#x27;s chats, and shows at …</title>
-      <link>https://github.com/trycua/cua/commit/4392fe0502790f4fdd1d9b9e5bc42c1418281146</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4392fe0502790f4fdd1d9b9e5bc42c1418281146</guid>
-      <pubDate>Sun, 08 Nov 2026 12:04:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Ready lists only the picked agent&amp;#39;s chats, and shows at once (CUA-3774) (#6916)
-
-* fix(spaces): Ready lists only the picked agent&amp;#39;s chats, and shows at once (CUA-3774)
-
-What  | why kept: agent, claude, codex</description>
+      <title>tencent/Qwen3.8-27B-DSpine-b16 · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xr2aaa</guid>
+      <pubDate>Sun, 08 Nov 2026 12:20:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/lNifT7TrJMRI87N4wsxmI0Gg7py-FiZ5PuifI5jM38Q.png?width=640&amp;amp;crop=smart&amp;amp | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Upgraded Your GPU? Don&#x27;t Sell the Old One. Put Both to Work Running Local LLMs.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr2ici/upgraded_your_gpu_dont_sell_the_old_one_put_both/</link>
+      <guid isPermaLink="false">t3_1xr2ici</guid>
+      <pubDate>Sun, 08 Nov 2026 12:20:35 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Friendly reminder: If you upgraded to a newer GPU, don&amp;#39;t let your old one collect dust! You can run both GPUs in the same rig and split LLM inference workloads across them using tools like llama.cpp. I&amp; | why kept: model, local, inference, llama</description>
+    </item>
+    <item>
+      <title>Artificial Analysis: multimodal decision model Drex Max ranks #1. Both achieving SOTA and Pareto frontier.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/</link>
+      <guid isPermaLink="false">t3_1xr2rqk</guid>
+      <pubDate>Sun, 08 Nov 2026 12:20:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/dxj6yhyd3f0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e462f259e23100 | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>4x Radeon AI PRO R9700 + 2x RTX 3090 on one x16 slot, using a PCIe switch</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/</link>
+      <guid isPermaLink="false">t3_1xr2a6y</guid>
+      <pubDate>Sun, 08 Nov 2026 12:20:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/uuUCqYRTd2rX7BXG2-zYfk0SWUbQ6cfMF-nTkSzITQc.png?width=640&amp;amp;crop=sm | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Rumor: Moonshot Kimi roadmap</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr2t4c/rumor_moonshot_kimi_roadmap/</link>
+      <guid isPermaLink="false">t3_1xr2t4c</guid>
+      <pubDate>Sun, 08 Nov 2026 12:20:35 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;EOY 2026: Kimi K3 Flash, will replace Kimi K2.8 and compete with DeepSeek V4.1 Flash.&lt;/p&gt; &lt;p&gt;Early 2027: Kimi 3.5 , same 3T parameters, that is faster at reaching simple answers.&lt;/p&gt; &lt;p&gt;Q3 2027: Kimi K4 wil | why kept: local, llama</description>
     </item></channel></rss>
