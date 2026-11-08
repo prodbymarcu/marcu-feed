@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.44.0 (#6932)</title>
-      <link>https://github.com/trycua/cua/commit/ef1e84d6c880ab8aee7587c3d0057a288e764b69</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ef1e84d6c880ab8aee7587c3d0057a288e764b69</guid>
-      <pubDate>Sun, 08 Nov 2026 08:52:31 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.44.0 (#6932)
-
-* chore(main): release cua-driver-rs 0.44.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Splitting up work to be split across mutiple slots on the same gpu for higher total tokens per second</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqzix1/splitting_up_work_to_be_split_across_mutiple/</link>
+      <guid isPermaLink="false">t3_1xqzix1</guid>
+      <pubDate>Sun, 08 Nov 2026 09:40:28 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;ok so i am trying to increase performance of llms i have running on my 7900 xtx via hipfire, i notice i get significantly higher total tokens per second when i run mutiple slots at once when running qwen 3. | why kept: qwen, qwen</description>
     </item></channel></rss>

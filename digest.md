@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.44.0 (#6932) — https://github.com/trycua/cua/commit/ef1e84d6c880ab8aee7587c3d0057a288e764b69 (score 5)
+- Splitting up work to be split across mutiple slots on the same gpu for higher total tokens per second — https://www.reddit.com/r/LocalLLaMA/comments/1xqzix1/splitting_up_work_to_be_split_across_mutiple/ (score 7)
