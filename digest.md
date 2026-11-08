@@ -1,3 +1,1 @@
-- Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata — https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/ (score 13)
-- The Qwen Flash Next alibaba URL thing happened to me too just now — https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/ (score 11)
-- GPT-5.5 dataset across my used 25 billion tokens! — https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/ (score 6)
+- chore(main): release cua-driver-rs 0.44.1 (#6988) — https://github.com/trycua/cua/commit/45a5078d8bd63ca94236cd1eb3b4bc4b20cebc78 (score 5)

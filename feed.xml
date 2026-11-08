@@ -1,21 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Motion graphics video made with Qwen3.8 Flash Next GSQ RCO IQ3_XXS on strata</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/</link>
-      <guid isPermaLink="false">t3_1xr3qes</guid>
-      <pubDate>Sun, 08 Nov 2026 13:08:31 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/YWdjbWhlcG9hZjBpMXmroPFmT70WwWZDNzGWsOhqVUIGQPqYmP8mnv0fZPfW.png? | why kept: qwen, qwen, video, local, llama</description>
-    </item>
-    <item>
-      <title>The Qwen Flash Next alibaba URL thing happened to me too just now</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/</link>
-      <guid isPermaLink="false">t3_1xr3ifw</guid>
-      <pubDate>Sun, 08 Nov 2026 13:08:31 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/xaznvvnn7f0i1.png?width=140&amp;amp;height=53&amp;amp;auto=webp&amp;amp;s=f97ea6b9e141 | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>GPT-5.5 dataset across my used 25 billion tokens!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/</link>
-      <guid isPermaLink="false">t3_1xr3ymf</guid>
-      <pubDate>Sun, 08 Nov 2026 13:08:31 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/LTizEkJ8vvyxQ_MTwUmDNa3Cr6rIOPKethta5FMoyRM.png?width=640&amp;amp;crop=s | why kept: local, llama, tool call</description>
+      <title>chore(main): release cua-driver-rs 0.44.1 (#6988)</title>
+      <link>https://github.com/trycua/cua/commit/45a5078d8bd63ca94236cd1eb3b4bc4b20cebc78</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/45a5078d8bd63ca94236cd1eb3b4bc4b20cebc78</guid>
+      <pubDate>Sun, 08 Nov 2026 13:40:33 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.44.1 (#6988)
+
+* chore(main): release cua-driver-rs 0.44.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
