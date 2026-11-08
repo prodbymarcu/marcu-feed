@@ -1,22 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Terrarium – Local VMs for AI agents with explicit permissions</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq6xqg/terrarium_local_vms_for_ai_agents_with_explicit/</link>
-      <guid isPermaLink="false">t3_1xq6xqg</guid>
-      <pubDate>Sat, 07 Nov 2026 19:15:06 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I wanted a secure way to run AI agents against my local models without giving them my whole machine. Something in the spirit of &lt;a href=&quot;https://pi.dev/&quot;&gt;pi&lt;/a&gt;: simple, narrow and auditable, yet flexible.  | why kept: model, agent, local, runs</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.43.1 (#6912)</title>
-      <link>https://github.com/trycua/cua/commit/79cbba588355059a382ab4165043090578b90317</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/79cbba588355059a382ab4165043090578b90317</guid>
-      <pubDate>Sat, 07 Nov 2026 19:15:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.43.1 (#6912)
+      <title>server : downgrade per-request proxy logs to trace (#31859)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/f477f795cb071baf5b8af6488378366a72034ac4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f477f795cb071baf5b8af6488378366a72034ac4</guid>
+      <pubDate>Sat, 07 Nov 2026 19:48:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : downgrade per-request proxy logs to trace (#31859)
 
-* chore(main): release cua-driver-rs 0.43.1
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Assisted-by: dsh:llama.cpp/ggml-org/Qwen3.8-Flash-Next-GGUF (MacBook, M5 Max, 128GB)&lt;/pre&gt; | why kept: qwen, qwen, llama</description>
     </item></channel></rss>

@@ -1,9 +1,10 @@
 {
- "fetched": 190,
- "new": 5,
+ "fetched": 170,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 3,
+ "dropped_low": 1,
  "errors": [
+  "hn-llm: URLError(TimeoutError('timed out'))",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
@@ -11,6 +12,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 2,
- "at": "2026-11-08T00:15:06Z"
+ "kept": 1,
+ "at": "2026-11-08T00:48:36Z"
 }

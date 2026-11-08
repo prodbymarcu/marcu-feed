@@ -1,2 +1,1 @@
-- Terrarium – Local VMs for AI agents with explicit permissions — https://www.reddit.com/r/LocalLLaMA/comments/1xq6xqg/terrarium_local_vms_for_ai_agents_with_explicit/ (score 8)
-- chore(main): release cua-driver-rs 0.43.1 (#6912) — https://github.com/trycua/cua/commit/79cbba588355059a382ab4165043090578b90317 (score 5)
+- server : downgrade per-request proxy logs to trace (#31859) — https://github.com/ggml-org/llama.cpp/commit/f477f795cb071baf5b8af6488378366a72034ac4 (score 9)
