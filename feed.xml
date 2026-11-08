@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.43.2 (#6922)</title>
-      <link>https://github.com/trycua/cua/commit/721e1b4fb3ab89a95a53b8afdec348449a5ed73c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/721e1b4fb3ab89a95a53b8afdec348449a5ed73c</guid>
-      <pubDate>Sat, 07 Nov 2026 21:39:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.43.2 (#6922)
-
-* chore(main): release cua-driver-rs 0.43.2
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Saw this benchmark where small changes to coding tasks made a big difference</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/</link>
+      <guid isPermaLink="false">t3_1xqmr2i</guid>
+      <pubDate>Sat, 07 Nov 2026 22:05:18 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Saw this tweet about a coding benchmark and thought it was kinda interesting.&lt;/p&gt; &lt;p&gt;Apparently they took 89 DeepSWE tasks and changed little things in the instructions or starting code. The tweet says some | why kept: model, local</description>
     </item></channel></rss>

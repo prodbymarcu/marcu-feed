@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.43.2 (#6922) — https://github.com/trycua/cua/commit/721e1b4fb3ab89a95a53b8afdec348449a5ed73c (score 5)
+- Saw this benchmark where small changes to coding tasks made a big difference — https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/ (score 4)
