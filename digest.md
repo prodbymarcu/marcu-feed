@@ -1,1 +1,3 @@
-- fix(spaces): do not Authenticode-sign the Linux microVM init in the W… — https://github.com/trycua/cua/commit/9ec4ba39013339524bfb54d2c0aeca8bd0035559 (score 7)
+- fix(spaces): Start an agent says before Start when the agent has no p… — https://github.com/trycua/cua/commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce (score 9)
+- chore(cua-driver): advance published installer version to 0.44.0 (#6990) — https://github.com/trycua/cua/commit/13d68def545a42f4075c354bfdb7d7af73f8e6ab (score 5)
+- chore(main): release cua-driver-rs 0.45.0 (#7034) — https://github.com/trycua/cua/commit/6f65521bbb831ab9868f9f6c1ecaca04165a7ae0 (score 5)

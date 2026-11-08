@@ -1,9 +1,34 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): do not Authenticode-sign the Linux microVM init in the W…</title>
-      <link>https://github.com/trycua/cua/commit/9ec4ba39013339524bfb54d2c0aeca8bd0035559</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9ec4ba39013339524bfb54d2c0aeca8bd0035559</guid>
-      <pubDate>Sun, 08 Nov 2026 17:08:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): do not Authenticode-sign the Linux microVM init in the Windows build (#7038)
+      <title>fix(spaces): Start an agent says before Start when the agent has no p…</title>
+      <link>https://github.com/trycua/cua/commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce</guid>
+      <pubDate>Sun, 08 Nov 2026 17:56:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Start an agent says before Start when the agent has no provider to use (#6977)
 
-The Windows release job failed on every run since #6894 with &amp;#39;SignTool Error: This file format canno | why kept: trycua, claude</description>
+On a new account Start succeeded and the first task came back with
+&amp;quot;Hermes needs a connected prov | why kept: hermes, agent, hermes</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.44.0 (#6990)</title>
+      <link>https://github.com/trycua/cua/commit/13d68def545a42f4075c354bfdb7d7af73f8e6ab</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/13d68def545a42f4075c354bfdb7d7af73f8e6ab</guid>
+      <pubDate>Sun, 08 Nov 2026 17:56:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.44.0 (#6990)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.45.0 (#7034)</title>
+      <link>https://github.com/trycua/cua/commit/6f65521bbb831ab9868f9f6c1ecaca04165a7ae0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6f65521bbb831ab9868f9f6c1ecaca04165a7ae0</guid>
+      <pubDate>Sun, 08 Nov 2026 17:56:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.45.0 (#7034)
+
+* chore(main): release cua-driver-rs 0.45.0
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
