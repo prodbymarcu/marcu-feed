@@ -1,1 +1,2 @@
-- fix(spaces): start Claude agents on Sonnet 5.5 and list the Claude 5 … — https://github.com/trycua/cua/commit/15114908cae2b3d70a85356651142faa1414ebf8 (score 8)
+- Anybody tried Apex 35B and Axion 35B? — https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/ (score 9)
+- fix(cua-driver): name the dialog that blocks keys and how to reach a … — https://github.com/trycua/cua/commit/33116fccee2520d410385f372057cf2bf9988a69 (score 2)

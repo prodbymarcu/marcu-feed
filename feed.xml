@@ -1,11 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): start Claude agents on Sonnet 5.5 and list the Claude 5 …</title>
-      <link>https://github.com/trycua/cua/commit/15114908cae2b3d70a85356651142faa1414ebf8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/15114908cae2b3d70a85356651142faa1414ebf8</guid>
-      <pubDate>Sun, 08 Nov 2026 02:21:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): start Claude agents on Sonnet 5.5 and list the Claude 5 family (#6810)
+      <title>Anybody tried Apex 35B and Axion 35B?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/</link>
+      <guid isPermaLink="false">t3_1xqrqn6</guid>
+      <pubDate>Sun, 08 Nov 2026 02:36:57 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I found new finetunes of Qwen 3.6 35B but I couldn&amp;#39;t find any discussions on them anywhere. Anybody tried these models? There isn&amp;#39;t much info out there. Axion seems like it was made by bytedance&lt;/p&gt; | why kept: qwen, model, qwen</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): name the dialog that blocks keys and how to reach a …</title>
+      <link>https://github.com/trycua/cua/commit/33116fccee2520d410385f372057cf2bf9988a69</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/33116fccee2520d410385f372057cf2bf9988a69</guid>
+      <pubDate>Sun, 08 Nov 2026 02:36:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): name the dialog that blocks keys and how to reach a spreadsheet cell (CUA-3763) (#6937)
 
-* fix(spaces): start Claude agents on Sonnet 5.5, list the Claude 5 family
-
-A new agent started on the Fast mo | why kept: model, agent, claude, tool call</description>
+* fix(cua-driver): name the dialog that blocks keys, and say how to reach a spreadsheet c | why kept: claude</description>
     </item></channel></rss>
