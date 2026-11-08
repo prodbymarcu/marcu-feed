@@ -1,34 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs: fix provider-key service and VZ egress wording (#6958)</title>
-      <link>https://github.com/trycua/cua/commit/eb1d39087f9eb03209fc3c30bc236cff38dc9e84</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/eb1d39087f9eb03209fc3c30bc236cff38dc9e84</guid>
-      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: fix provider-key service and VZ egress wording (#6958)
+      <title>test(cua-relay): never hand the same TCP share port to two parallel t…</title>
+      <link>https://github.com/trycua/cua/commit/e46badaaf789fb529c82e946374d567362286034</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e46badaaf789fb529c82e946374d567362286034</guid>
+      <pubDate>Sun, 08 Nov 2026 07:48:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-relay): never hand the same TCP share port to two parallel tests (#6897)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
+The share_links tests probed a free port, released it, and let the relay
+bind it later. Two parallel tests could | why kept: trycua, claude, free</description>
     </item>
     <item>
-      <title>fix(cua): ship the static cua-spacesd in every platform wheel (#6959)</title>
-      <link>https://github.com/trycua/cua/commit/16ac1561354530107bd86cc721b044587d448f6c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/16ac1561354530107bd86cc721b044587d448f6c</guid>
-      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua): ship the static cua-spacesd in every platform wheel (#6959)
-
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>&quot;Ram Altman&quot; Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/</link>
-      <guid isPermaLink="false">t3_1xqwn5n</guid>
-      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yzuqOCKKrrZoJESSwuhkoaLcHiFa2wsJKHv7eLGF3U4.jpeg?width=640&amp;amp;cro | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>What is best local LLMs for strategic reasoning?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqegfj/what_is_best_local_llms_for_strategic_reasoning/</link>
-      <guid isPermaLink="false">t3_1xqegfj</guid>
-      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, &lt;/p&gt; &lt;p&gt;I work with AI safety and much of our work is with huge models like Opus, Astra,... Recently we carried out a series of experiments and found out that models like Sonnet 4.5 and GLM 5.3 ar | why kept: model, local</description>
+      <title>Ask LocalLLaMA: How are you handling the liability caused by unrestricted search?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqwqak/ask_localllama_how_are_you_handling_the_liability/</link>
+      <guid isPermaLink="false">t3_1xqwqak</guid>
+      <pubDate>Sun, 08 Nov 2026 07:48:29 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s well known that models can easily be manipulated into using its web search tool to look up anything using the user&amp;#39;s internet connection. Doesn&amp;#39;t this pose serious real-life risk for the us | why kept: model, local, llama</description>
     </item></channel></rss>
