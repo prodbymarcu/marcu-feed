@@ -1,1 +1,1 @@
-- server : downgrade per-request proxy logs to trace (#31859) — https://github.com/ggml-org/llama.cpp/commit/f477f795cb071baf5b8af6488378366a72034ac4 (score 9)
+- When should I use a locally hosted decision model to decrease latency — https://www.reddit.com/r/LocalLLaMA/comments/1xqilga/when_should_i_use_a_locally_hosted_decision_model/ (score 8)
