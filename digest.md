@@ -1,2 +1,1 @@
-- kakaocorp/kanana-2-v-decide-3b-2611 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xq6es4/kakaocorpkanana2vdecide3b2611_hugging_face/ (score 6)
-- common : sanitize invalid UTF-8 in PEG tool call arguments (#31861) — https://github.com/ggml-org/llama.cpp/commit/372dc5ca157276beb6c67b2e92477e8d662e964a (score 2)
+- Subway Zombie FPS for fun using Deepseek v4.1 1017 UD-IQ3_S with Maya and OMP — https://www.reddit.com/r/LocalLLaMA/comments/1xpyp07/subway_zombie_fps_for_fun_using_deepseek_v41_1017/ (score 6)
