@@ -1,8 +1,34 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Agent memory needs its OpenTelemetry moment</title>
-      <link>https://www.lorekit.io/blog/open-agent-memory-format</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50411467</guid>
-      <pubDate>Sun, 08 Nov 2026 05:23:26 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.lorekit.io/blog/open-agent-memory-format&quot;&gt;https://www.lorekit.io/blog/open-agent-memory-format&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50411467&quot;&gt;https://news.ycombinator.co | why kept: agent</description>
+      <title>docs: fix provider-key service and VZ egress wording (#6958)</title>
+      <link>https://github.com/trycua/cua/commit/eb1d39087f9eb03209fc3c30bc236cff38dc9e84</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/eb1d39087f9eb03209fc3c30bc236cff38dc9e84</guid>
+      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: fix provider-key service and VZ egress wording (#6958)
+
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>fix(cua): ship the static cua-spacesd in every platform wheel (#6959)</title>
+      <link>https://github.com/trycua/cua/commit/16ac1561354530107bd86cc721b044587d448f6c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/16ac1561354530107bd86cc721b044587d448f6c</guid>
+      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua): ship the static cua-spacesd in every platform wheel (#6959)
+
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>&quot;Ram Altman&quot; Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/</link>
+      <guid isPermaLink="false">t3_1xqwn5n</guid>
+      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/yzuqOCKKrrZoJESSwuhkoaLcHiFa2wsJKHv7eLGF3U4.jpeg?width=640&amp;amp;cro | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>What is best local LLMs for strategic reasoning?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqegfj/what_is_best_local_llms_for_strategic_reasoning/</link>
+      <guid isPermaLink="false">t3_1xqegfj</guid>
+      <pubDate>Sun, 08 Nov 2026 07:32:51 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys, &lt;/p&gt; &lt;p&gt;I work with AI safety and much of our work is with huge models like Opus, Astra,... Recently we carried out a series of experiments and found out that models like Sonnet 4.5 and GLM 5.3 ar | why kept: model, local</description>
     </item></channel></rss>

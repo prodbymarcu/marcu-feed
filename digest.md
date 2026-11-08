@@ -1,1 +1,4 @@
-- Agent memory needs its OpenTelemetry moment — https://www.lorekit.io/blog/open-agent-memory-format (score 2)
+- docs: fix provider-key service and VZ egress wording (#6958) — https://github.com/trycua/cua/commit/eb1d39087f9eb03209fc3c30bc236cff38dc9e84 (score 7)
+- fix(cua): ship the static cua-spacesd in every platform wheel (#6959) — https://github.com/trycua/cua/commit/16ac1561354530107bd86cc721b044587d448f6c (score 7)
+- "Ram Altman" Is Now a Linux Script That Emails Sam Altman Daily to Report How Much Unused RAM Is in Your PC — https://www.reddit.com/r/LocalLLaMA/comments/1xqwn5n/ram_altman_is_now_a_linux_script_that_emails_sam/ (score 4)
+- What is best local LLMs for strategic reasoning? — https://www.reddit.com/r/LocalLLaMA/comments/1xqegfj/what_is_best_local_llms_for_strategic_reasoning/ (score 4)
