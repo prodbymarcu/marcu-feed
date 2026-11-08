@@ -1,1 +1,2 @@
-- mtmd: support MageVL-Cowork model by ngxson · Pull Request #31819 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xqpc7u/mtmd_support_magevlcowork_model_by_ngxson_pull/ (score 6)
+- LexiSuite AIO bootable all rust OS/Engine/Kernel/Tuning & training management suite. Runs kernel 7.4 rc1 by default as t — https://www.reddit.com/r/LocalLLaMA/comments/1xpzdy6/lexisuite_aio_bootable_all_rust/ (score 13)
+- Best AI Coding Builder Agent LLM for my legend GTX 1080Ti 11 GB ? [32 GB RAM] — https://www.reddit.com/r/LocalLLaMA/comments/1xqdndl/best_ai_coding_builder_agent_llm_for_my_legend/ (score 8)
