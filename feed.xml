@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Saw this benchmark where small changes to coding tasks made a big difference</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/</link>
-      <guid isPermaLink="false">t3_1xqmr2i</guid>
-      <pubDate>Sat, 07 Nov 2026 22:05:18 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Saw this tweet about a coding benchmark and thought it was kinda interesting.&lt;/p&gt; &lt;p&gt;Apparently they took 89 DeepSWE tasks and changed little things in the instructions or starting code. The tweet says some | why kept: model, local</description>
+      <title>kakaocorp/kanana-2-v-decide-3b-2611 · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xq6es4/kakaocorpkanana2vdecide3b2611_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xq6es4</guid>
+      <pubDate>Sat, 07 Nov 2026 23:14:36 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xq6es4/kakaocorpkanana2vdecide3b2611_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/8xYAP4bXWGK8UlD63O-yzpj2KmHMbc3Ct0ZywfmUc1A.png?width=640&amp;amp;crop=smart | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>common : sanitize invalid UTF-8 in PEG tool call arguments (#31861)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/372dc5ca157276beb6c67b2e92477e8d662e964a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/372dc5ca157276beb6c67b2e92477e8d662e964a</guid>
+      <pubDate>Sat, 07 Nov 2026 23:14:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;common : sanitize invalid UTF-8 in PEG tool call arguments (#31861)&lt;/pre&gt; | why kept: tool call</description>
     </item></channel></rss>

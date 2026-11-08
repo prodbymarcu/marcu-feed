@@ -1,1 +1,2 @@
-- Saw this benchmark where small changes to coding tasks made a big difference — https://www.reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding/ (score 4)
+- kakaocorp/kanana-2-v-decide-3b-2611 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xq6es4/kakaocorpkanana2vdecide3b2611_hugging_face/ (score 6)
+- common : sanitize invalid UTF-8 in PEG tool call arguments (#31861) — https://github.com/ggml-org/llama.cpp/commit/372dc5ca157276beb6c67b2e92477e8d662e964a (score 2)
