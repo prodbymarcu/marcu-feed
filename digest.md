@@ -1,3 +1,1 @@
-- I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt — https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/ (score 15)
-- I ran Qwen3.5-0.8B in pure Assembly — https://www.reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly/ (score 11)
-- fix(cua-driver-bench): resume a killed run with the same command (#6961) — https://github.com/trycua/cua/commit/4bf944e73c3baf271db9a9c0e84bceeac11ccff2 (score 4)
+- fix(cua-agents): say a lost provider connection in plain words, not r… — https://github.com/trycua/cua/commit/a2bbc280957e5ca674d5ca5a0422da22be1d6cdf (score 4)
