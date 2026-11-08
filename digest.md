@@ -1,5 +1,2 @@
-- Anyone running local AI on 16GB vram? — https://www.reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram/ (score 11)
-- Released an open-source EOU detection model covering English + 8 Indic languages voice agents stop cutting callers off m — https://www.reddit.com/r/LocalLLaMA/comments/1xq9yjf/released_an_opensource_eou_detection_model/ (score 10)
-- What made your custom research/task harness effective? How do you stop micromanaging? — https://www.reddit.com/r/LocalLLaMA/comments/1xptj2q/what_made_your_custom_researchtask_harness/ (score 9)
-- fix(spaces-macos): bundle cua 0.14.0 in Cua Spaces (#6906) — https://github.com/trycua/cua/commit/1ef20b2f9c00a3f3db7cfb2d4d18130c860d0dd0 (score 5)
-- chore(main): release cua-driver-rs 0.43.0 (#6907) — https://github.com/trycua/cua/commit/51ec2df279ab78fd619375825edad375a41fbbd1 (score 5)
+- Terrarium – Local VMs for AI agents with explicit permissions — https://www.reddit.com/r/LocalLLaMA/comments/1xq6xqg/terrarium_local_vms_for_ai_agents_with_explicit/ (score 8)
+- chore(main): release cua-driver-rs 0.43.1 (#6912) — https://github.com/trycua/cua/commit/79cbba588355059a382ab4165043090578b90317 (score 5)
