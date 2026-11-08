@@ -1,1 +1,2 @@
-- ggml : switch to F32 src1 in the CPU backend (#31854) — https://github.com/ggml-org/llama.cpp/commit/12ab5979869aecdf3593de260a99ca91263bf5a1 (score 2)
+- Learning RL From Scratch: The What, Why and How of Double DQNs — https://www.reddit.com/r/LocalLLaMA/comments/1xqu5bz/learning_rl_from_scratch_the_what_why_and_how_of/ (score 4)
+- webgpu : add COUNT_EQUAL support (#31578) — https://github.com/ggml-org/llama.cpp/commit/a691b2345844ce1b430201fc5fd404ce062e05f2 (score 2)
