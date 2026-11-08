@@ -1,25 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.44.2 (#7026)</title>
-      <link>https://github.com/trycua/cua/commit/d5c464d2bda3be832d0f5a75da673ffbe7583287</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d5c464d2bda3be832d0f5a75da673ffbe7583287</guid>
-      <pubDate>Sun, 08 Nov 2026 15:16:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.44.2 (#7026)
-
-* chore(main): release cua-driver-rs 0.44.2
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Apparently Qwen4 27B is coming Monday November 9th at 3PM Beijing time</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november/</link>
+      <guid isPermaLink="false">t3_1xr8h0a</guid>
+      <pubDate>Sun, 08 Nov 2026 15:48:28 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’d treat this as a rumour obviously. Fingers crossed. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mrgreatheart&quot;&gt; /u/mrgreatheart &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https: | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>test(cua-relay): retry relay start on fresh ports when the picked por…</title>
-      <link>https://github.com/trycua/cua/commit/745d96b9b7cd9af863f9c578cddf9247d86b9de0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/745d96b9b7cd9af863f9c578cddf9247d86b9de0</guid>
-      <pubDate>Sun, 08 Nov 2026 15:16:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-relay): retry relay start on fresh ports when the picked port was taken (#7003)
-
-The process tests picked a free port by binding to 0 and closing it, then
-started the relay on it. Under  | why kept: claude, free</description>
+      <title>Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -&gt; 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/</link>
+      <guid isPermaLink="false">t3_1xr777l</guid>
+      <pubDate>Sun, 08 Nov 2026 15:48:28 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/z2xnxxfwzf0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e64dc08c26df669e | why kept: local, llama</description>
     </item></channel></rss>

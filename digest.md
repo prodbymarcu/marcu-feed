@@ -1,2 +1,2 @@
-- chore(main): release cua-driver-rs 0.44.2 (#7026) — https://github.com/trycua/cua/commit/d5c464d2bda3be832d0f5a75da673ffbe7583287 (score 5)
-- test(cua-relay): retry relay start on fresh ports when the picked por… — https://github.com/trycua/cua/commit/745d96b9b7cd9af863f9c578cddf9247d86b9de0 (score 4)
+- Apparently Qwen4 27B is coming Monday November 9th at 3PM Beijing time — https://www.reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november/ (score 11)
+- Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME — https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/ (score 4)
