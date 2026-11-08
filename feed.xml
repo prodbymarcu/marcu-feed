@@ -1,7 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Two PCs but one with only RAM? or divide GPUs across pcs?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqn4nb/two_pcs_but_one_with_only_ram_or_divide_gpus/</link>
-      <guid isPermaLink="false">t3_1xqn4nb</guid>
-      <pubDate>Sun, 08 Nov 2026 01:23:06 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;PC1:&lt;br/&gt; -94gb DDR5&lt;/p&gt; &lt;p&gt;-5070 TI + 3060 (12gb) gpus (using a motherboard that is specifically designed for duel gpus&lt;/p&gt; &lt;p&gt;PC2:&lt;/p&gt; &lt;p&gt;64gb DD4 RAM&lt;/p&gt; &lt;p&gt;PC1 is new, I&amp;#39;ve been running strata for r | why kept: quant, llama</description>
+      <title>test(cua-driver): cover trusted_session_call on the socket while perm…</title>
+      <link>https://github.com/trycua/cua/commit/37fb019ec8a3874fb0e4cd79c78d36423055e7f9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/37fb019ec8a3874fb0e4cd79c78d36423055e7f9</guid>
+      <pubDate>Sun, 08 Nov 2026 01:33:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-driver): cover trusted_session_call on the socket while permissions are pending (#6934)
+
+* test(cua-driver): drive trusted_session_call through the socket while permissions are pending
+
+ | why kept: runs</description>
     </item></channel></rss>

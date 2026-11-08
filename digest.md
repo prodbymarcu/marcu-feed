@@ -1,1 +1,1 @@
-- Two PCs but one with only RAM? or divide GPUs across pcs? — https://www.reddit.com/r/LocalLLaMA/comments/1xqn4nb/two_pcs_but_one_with_only_ram_or_divide_gpus/ (score 4)
+- test(cua-driver): cover trusted_session_call on the socket while perm… — https://github.com/trycua/cua/commit/37fb019ec8a3874fb0e4cd79c78d36423055e7f9 (score 2)
