@@ -1,1 +1,5 @@
-- test(cua-driver): cover trusted_session_call on the socket while perm… — https://github.com/trycua/cua/commit/37fb019ec8a3874fb0e4cd79c78d36423055e7f9 (score 2)
+- follistatin on X: "Qwen-4-Flash-Early (codename hawk) added to GameFeel Bench! (and audio score was calculated — https://www.reddit.com/r/LocalLLaMA/comments/1xqrilf/follistatin_on_x_qwen4flashearly_codename_hawk/ (score 11)
+- OpenClaw Retrospective — https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/ (score 6)
+- feat(spaces): record the Ready screen, Copy, chat pickup and Done in … — https://github.com/trycua/cua/commit/2a1b66e731d446c05fa443916eaaaa6ba26c22aa (score 4)
+- perf(spaces): connect Space desktop streams in under a second (#6818) — https://github.com/trycua/cua/commit/1f060b62491bce2fb010b64a6569bb1974decdc0 (score 2)
+- fix(cua-vmm): forward the agent port of a macOS Space behind the secu… — https://github.com/trycua/cua/commit/55eaa9b6c618bbe2f723ec392436ceb9e2b4e541 (score 2)
