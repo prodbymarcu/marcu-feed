@@ -1,5 +1,1 @@
-- follistatin on X: "Qwen-4-Flash-Early (codename hawk) added to GameFeel Bench! (and audio score was calculated — https://www.reddit.com/r/LocalLLaMA/comments/1xqrilf/follistatin_on_x_qwen4flashearly_codename_hawk/ (score 11)
-- OpenClaw Retrospective — https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/ (score 6)
-- feat(spaces): record the Ready screen, Copy, chat pickup and Done in … — https://github.com/trycua/cua/commit/2a1b66e731d446c05fa443916eaaaa6ba26c22aa (score 4)
-- perf(spaces): connect Space desktop streams in under a second (#6818) — https://github.com/trycua/cua/commit/1f060b62491bce2fb010b64a6569bb1974decdc0 (score 2)
-- fix(cua-vmm): forward the agent port of a macOS Space behind the secu… — https://github.com/trycua/cua/commit/55eaa9b6c618bbe2f723ec392436ceb9e2b4e541 (score 2)
+- fix(spaces): start Claude agents on Sonnet 5.5 and list the Claude 5 … — https://github.com/trycua/cua/commit/15114908cae2b3d70a85356651142faa1414ebf8 (score 8)

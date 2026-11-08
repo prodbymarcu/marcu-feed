@@ -1,46 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>follistatin on X: &quot;Qwen-4-Flash-Early (codename hawk) added to GameFeel Bench! (and audio score was calculated</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqrilf/follistatin_on_x_qwen4flashearly_codename_hawk/</link>
-      <guid isPermaLink="false">t3_1xqrilf</guid>
-      <pubDate>Sun, 08 Nov 2026 02:05:01 +0000</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/appakaradi&quot;&gt; /u/appakaradi &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://x.com/follistatindev/status/2119220233751671186?a=yMIk7iJ7laD0B-HPJTU&amp;amp;s=20&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>OpenClaw Retrospective</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/</link>
-      <guid isPermaLink="false">t3_1xqs2sh</guid>
-      <pubDate>Sun, 08 Nov 2026 02:05:01 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/h3cwdtox2c0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1833723848a2f4f7b372fd1741fbf6498b6090 | why kept: openclaw, local, llama</description>
-    </item>
-    <item>
-      <title>feat(spaces): record the Ready screen, Copy, chat pickup and Done in …</title>
-      <link>https://github.com/trycua/cua/commit/2a1b66e731d446c05fa443916eaaaa6ba26c22aa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2a1b66e731d446c05fa443916eaaaa6ba26c22aa</guid>
-      <pubDate>Sun, 08 Nov 2026 02:05:01 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): record the Ready screen, Copy, chat pickup and Done in the first-run funnel (#6924)
+      <title>fix(spaces): start Claude agents on Sonnet 5.5 and list the Claude 5 …</title>
+      <link>https://github.com/trycua/cua/commit/15114908cae2b3d70a85356651142faa1414ebf8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/15114908cae2b3d70a85356651142faa1414ebf8</guid>
+      <pubDate>Sun, 08 Nov 2026 02:21:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): start Claude agents on Sonnet 5.5 and list the Claude 5 family (#6810)
 
-Adds step ready (index 7) to cua_onboarding_step_viewed/completed, plus
-cua_onboarding_command_c | why kept: agent, claude</description>
-    </item>
-    <item>
-      <title>perf(spaces): connect Space desktop streams in under a second (#6818)</title>
-      <link>https://github.com/trycua/cua/commit/1f060b62491bce2fb010b64a6569bb1974decdc0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1f060b62491bce2fb010b64a6569bb1974decdc0</guid>
-      <pubDate>Sun, 08 Nov 2026 02:05:01 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(spaces): connect Space desktop streams in under a second (#6818)
+* fix(spaces): start Claude agents on Sonnet 5.5, list the Claude 5 family
 
-* perf(spaces): connect Space desktop streams in under a second
-
-Opening a Space&amp;#39;s Desktop sat on &amp;quot;Connecting...&amp;qu | why kept: local</description>
-    </item>
-    <item>
-      <title>fix(cua-vmm): forward the agent port of a macOS Space behind the secu…</title>
-      <link>https://github.com/trycua/cua/commit/55eaa9b6c618bbe2f723ec392436ceb9e2b4e541</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55eaa9b6c618bbe2f723ec392436ceb9e2b4e541</guid>
-      <pubDate>Sun, 08 Nov 2026 02:05:01 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-vmm): forward the agent port of a macOS Space behind the secure gateway (#6793)
-
-* fix(cua-vmm): forward the agent port of a macOS Space behind the secure gateway
-
-A macOS Space under Sec | why kept: agent</description>
+A new agent started on the Fast mo | why kept: model, agent, claude, tool call</description>
     </item></channel></rss>
