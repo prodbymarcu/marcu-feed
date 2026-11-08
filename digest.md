@@ -1,1 +1,1 @@
-- fix(cua-driver): call Text Input Sources only with the thread affinit… — https://github.com/trycua/cua/commit/76bad3ce512f1ff8123d1b0cbca6ad630cf9993d (score 2)
+- ggml : switch to F32 src1 in the CPU backend (#31854) — https://github.com/ggml-org/llama.cpp/commit/12ab5979869aecdf3593de260a99ca91263bf5a1 (score 2)

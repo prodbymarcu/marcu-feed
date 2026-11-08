@@ -1,9 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): call Text Input Sources only with the thread affinit…</title>
-      <link>https://github.com/trycua/cua/commit/76bad3ce512f1ff8123d1b0cbca6ad630cf9993d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/76bad3ce512f1ff8123d1b0cbca6ad630cf9993d</guid>
-      <pubDate>Sun, 08 Nov 2026 04:13:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): call Text Input Sources only with the thread affinity macOS requires (CUA-3763) (#6939)
+      <title>ggml : switch to F32 src1 in the CPU backend (#31854)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/12ab5979869aecdf3593de260a99ca91263bf5a1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/12ab5979869aecdf3593de260a99ca91263bf5a1</guid>
+      <pubDate>Sun, 08 Nov 2026 04:45:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : switch to F32 src1 in the CPU backend (#31854)
 
-* fix(cua-driver): call Text Input Sources only with the thread affinity macOS requires ( | why kept: runs</description>
+* ggml : switch to F32 src1 in the CPU backend
+
+Change the default computation for GGML_TYPE_F16 to use F32 for src1
+data in matrix multipli | why kept: quant</description>
     </item></channel></rss>
