@@ -1,16 +1,35 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Anybody tried Apex 35B and Axion 35B?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xqrqn6/anybody_tried_apex_35b_and_axion_35b/</link>
-      <guid isPermaLink="false">t3_1xqrqn6</guid>
-      <pubDate>Sun, 08 Nov 2026 02:36:57 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I found new finetunes of Qwen 3.6 35B but I couldn&amp;#39;t find any discussions on them anywhere. Anybody tried these models? There isn&amp;#39;t much info out there. Axion seems like it was made by bytedance&lt;/p&gt; | why kept: qwen, model, qwen</description>
+      <title>llama, mtmd: follow the reference precision of ggml_prec_set_acc call…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d6be065572cdb7bf64014c8c5771e210c9570e44</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d6be065572cdb7bf64014c8c5771e210c9570e44</guid>
+      <pubDate>Sun, 08 Nov 2026 02:53:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama, mtmd: follow the reference precision of ggml_prec_set_acc calls (#31851)
+
+* llama, mtmd: follow the reference precision of ggml_prec_set_acc calls
+
+Requests that the reference implementati | why kept: qwen, minimax, qwen, llama</description>
     </item>
     <item>
-      <title>fix(cua-driver): name the dialog that blocks keys and how to reach a …</title>
-      <link>https://github.com/trycua/cua/commit/33116fccee2520d410385f372057cf2bf9988a69</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/33116fccee2520d410385f372057cf2bf9988a69</guid>
-      <pubDate>Sun, 08 Nov 2026 02:36:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): name the dialog that blocks keys and how to reach a spreadsheet cell (CUA-3763) (#6937)
+      <title>chore(main): release cua-sdk 0.15.0 (#6925)</title>
+      <link>https://github.com/trycua/cua/commit/e9c27015e7d8038e19496e26ab522d147534cd67</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e9c27015e7d8038e19496e26ab522d147534cd67</guid>
+      <pubDate>Sun, 08 Nov 2026 02:53:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.15.0 (#6925)
 
-* fix(cua-driver): name the dialog that blocks keys, and say how to reach a spreadsheet c | why kept: claude</description>
+* chore(main): release cua-sdk 0.15.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>GPU in containers on a Windows PC: NVIDIA through WSL 2 (/dev/dxg and…</title>
+      <link>https://github.com/trycua/cua/commit/a57ef48079ba029a54b6c3c7614bdeeafcb5510f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a57ef48079ba029a54b6c3c7614bdeeafcb5510f</guid>
+      <pubDate>Sun, 08 Nov 2026 02:53:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;GPU in containers on a Windows PC: NVIDIA through WSL 2 (/dev/dxg and /usr/lib/wsl), and a failed runtime import never deletes the disk in use (#6941)
+
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;norep | why kept: claude</description>
     </item></channel></rss>
