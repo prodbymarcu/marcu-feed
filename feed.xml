@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Jenson admits his affair with an alleged Chinese spy</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr9s5n/jenson_admits_his_affair_with_an_alleged_chinese/</link>
-      <guid isPermaLink="false">t3_1xr9s5n</guid>
-      <pubDate>Sun, 08 Nov 2026 16:52:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr9s5n/jenson_admits_his_affair_with_an_alleged_chinese/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/KGR1USXHx2o3-CBzUjAVnbCAL0FLv370RMWZEF0PTYo.jpeg?width=640&amp;amp;cro | why kept: local, llama</description>
+      <title>fix(spaces): do not Authenticode-sign the Linux microVM init in the W…</title>
+      <link>https://github.com/trycua/cua/commit/9ec4ba39013339524bfb54d2c0aeca8bd0035559</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9ec4ba39013339524bfb54d2c0aeca8bd0035559</guid>
+      <pubDate>Sun, 08 Nov 2026 17:08:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): do not Authenticode-sign the Linux microVM init in the Windows build (#7038)
+
+The Windows release job failed on every run since #6894 with &amp;#39;SignTool Error: This file format canno | why kept: trycua, claude</description>
     </item></channel></rss>
