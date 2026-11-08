@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): clear portal-input clippy lints in platform-linux (#…</title>
-      <link>https://github.com/trycua/cua/commit/4d148ba45fa30629e7e41139252649fe208efe30</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d148ba45fa30629e7e41139252649fe208efe30</guid>
-      <pubDate>Sun, 08 Nov 2026 03:08:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): clear portal-input clippy lints in platform-linux (#6940)
+      <title>fix(cua-driver): call Text Input Sources only with the thread affinit…</title>
+      <link>https://github.com/trycua/cua/commit/76bad3ce512f1ff8123d1b0cbca6ad630cf9993d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/76bad3ce512f1ff8123d1b0cbca6ad630cf9993d</guid>
+      <pubDate>Sun, 08 Nov 2026 04:13:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): call Text Input Sources only with the thread affinity macOS requires (CUA-3763) (#6939)
 
-CI clippy runs default features only, so the portal-input code kept
-collapsible_match, manual_clamp and needless_return | why kept: runs</description>
+* fix(cua-driver): call Text Input Sources only with the thread affinity macOS requires ( | why kept: runs</description>
     </item></channel></rss>

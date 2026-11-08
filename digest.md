@@ -1,1 +1,1 @@
-- fix(cua-driver): clear portal-input clippy lints in platform-linux (#… — https://github.com/trycua/cua/commit/4d148ba45fa30629e7e41139252649fe208efe30 (score 2)
+- fix(cua-driver): call Text Input Sources only with the thread affinit… — https://github.com/trycua/cua/commit/76bad3ce512f1ff8123d1b0cbca6ad630cf9993d (score 2)
