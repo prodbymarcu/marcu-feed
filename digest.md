@@ -1,1 +1,1 @@
-- Splitting up work to be split across mutiple slots on the same gpu for higher total tokens per second — https://www.reddit.com/r/LocalLLaMA/comments/1xqzix1/splitting_up_work_to_be_split_across_mutiple/ (score 7)
+- Local document processing when Chinese models arent allowed, what’s left? — https://www.reddit.com/r/LocalLLaMA/comments/1xqwzly/local_document_processing_when_chinese_models/ (score 11)
