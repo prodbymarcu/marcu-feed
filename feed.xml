@@ -1,8 +1,30 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
-      <link>https://github.com/samir-sarwar/samir-vllm</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50424199</guid>
-      <pubDate>Mon, 09 Nov 2026 08:36:58 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/samir-sarwar/samir-vllm&quot;&gt;https://github.com/samir-sarwar/samir-vllm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50424199&quot;&gt;https://news.ycombinator.com/item?id=50424199&lt;/ | why kept: inference</description>
+      <title>chore(main): release cua-driver-rs 0.45.4 (#7109)</title>
+      <link>https://github.com/trycua/cua/commit/d96e1bc359b2cc638c7a406aad01a7276b1b416f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d96e1bc359b2cc638c7a406aad01a7276b1b416f</guid>
+      <pubDate>Mon, 09 Nov 2026 09:08:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.45.4 (#7109)
+
+* chore(main): release cua-driver-rs 0.45.4
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.17.1 (#7066)</title>
+      <link>https://github.com/trycua/cua/commit/9dfa1dcd565424a881fdc6c28d62a5973cd34316</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9dfa1dcd565424a881fdc6c28d62a5973cd34316</guid>
+      <pubDate>Mon, 09 Nov 2026 09:08:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.17.1 (#7066)
+
+* chore(main): release cua-sdk 0.17.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

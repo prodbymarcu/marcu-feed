@@ -1,1 +1,2 @@
-- Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here — https://github.com/samir-sarwar/samir-vllm (score 2)
+- chore(main): release cua-driver-rs 0.45.4 (#7109) — https://github.com/trycua/cua/commit/d96e1bc359b2cc638c7a406aad01a7276b1b416f (score 5)
+- chore(main): release cua-sdk 0.17.1 (#7066) — https://github.com/trycua/cua/commit/9dfa1dcd565424a881fdc6c28d62a5973cd34316 (score 5)
