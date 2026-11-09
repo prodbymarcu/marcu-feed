@@ -1,14 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llm-psicotest: a seeded 38-turn conversation to check whether a quant swap changed behaviour</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs1my0/llmpsicotest_a_seeded_38turn_conversation_to/</link>
-      <guid isPermaLink="false">t3_1xs1my0</guid>
-      <pubDate>Mon, 09 Nov 2026 15:33:49 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;llm-psicotest runs one 38-turn conversation against any OpenAI-compatible endpoint: 29 capability items plus protocol turns. The items come from seeded generators, so a seed gives byte-identical prompts on  | why kept: qwen, model, qwen, runs, quant</description>
+      <title>feat(cua-driver): formally-verify-cua-driver skill and TLA+ models fo…</title>
+      <link>https://github.com/trycua/cua/commit/a6b4b307e5524d4d0c695712ea038c19e8273638</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a6b4b307e5524d4d0c695712ea038c19e8273638</guid>
+      <pubDate>Mon, 09 Nov 2026 16:05:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): formally-verify-cua-driver skill and TLA+ models for the driver&amp;#39;s state machines (#7035)
+
+* test(cua-driver): TLA+ models for tokens, sessions, admission, foreground restore | why kept: model</description>
     </item>
     <item>
-      <title>Qwen 3.8 FN getting stressed from messing up</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/</link>
-      <guid isPermaLink="false">t3_1xs2okh</guid>
-      <pubDate>Mon, 09 Nov 2026 15:33:49 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/xzjx45qlbn0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e08e692baf97c740 | why kept: qwen, qwen, local, llama</description>
+      <title>fix(cua-driver): an invoke_menu worker keeps its pid lease and the de…</title>
+      <link>https://github.com/trycua/cua/commit/02e4aa0bb947d04b9806d1b9a595c593069dafea</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/02e4aa0bb947d04b9806d1b9a595c593069dafea</guid>
+      <pubDate>Mon, 09 Nov 2026 16:05:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): an invoke_menu worker keeps its pid lease and the desktop lane until it returns (#7039)
+
+* test(cua-driver): a dropped invoke_menu call keeps the pid until its worker returns
+
+Th | why kept: runs</description>
     </item></channel></rss>

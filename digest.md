@@ -1,2 +1,2 @@
-- llm-psicotest: a seeded 38-turn conversation to check whether a quant swap changed behaviour — https://www.reddit.com/r/LocalLLaMA/comments/1xs1my0/llmpsicotest_a_seeded_38turn_conversation_to/ (score 13)
-- Qwen 3.8 FN getting stressed from messing up — https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/ (score 11)
+- feat(cua-driver): formally-verify-cua-driver skill and TLA+ models fo… — https://github.com/trycua/cua/commit/a6b4b307e5524d4d0c695712ea038c19e8273638 (score 2)
+- fix(cua-driver): an invoke_menu worker keeps its pid lease and the de… — https://github.com/trycua/cua/commit/02e4aa0bb947d04b9806d1b9a595c593069dafea (score 2)
