@@ -1,2 +1,1 @@
-- Omni Voice is the fastest and best voice clone TTS out there. I've tested them all. — https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/ (score 6)
-- Got another good reminder why local matters today — https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/ (score 4)
+- test(spaces-macos): expect --no-default-features in install-local lib… — https://github.com/trycua/cua/commit/40b1c827e18dc50ea69ccbe6f4167dc66df20880 (score 4)

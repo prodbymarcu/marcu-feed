@@ -1,14 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Omni Voice is the fastest and best voice clone TTS out there. I&#x27;ve tested them all.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/</link>
-      <guid isPermaLink="false">t3_1xs46nh</guid>
-      <pubDate>Mon, 09 Nov 2026 16:38:06 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are tons of use cases out there - storybooks, agents, etc. But my main goal was to find which TTS has the best voice clone options, comparable to Elevenlabs.&lt;/p&gt; &lt;p&gt;I have a shortlist of voices that I | why kept: model, agent, voice</description>
-    </item>
-    <item>
-      <title>Got another good reminder why local matters today</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/</link>
-      <guid isPermaLink="false">t3_1xs3y17</guid>
-      <pubDate>Mon, 09 Nov 2026 16:38:06 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/xx98ah9dkn0i1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d2ede767ddf | why kept: local, llama</description>
+      <title>test(spaces-macos): expect --no-default-features in install-local lib…</title>
+      <link>https://github.com/trycua/cua/commit/40b1c827e18dc50ea69ccbe6f4167dc66df20880</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/40b1c827e18dc50ea69ccbe6f4167dc66df20880</guid>
+      <pubDate>Mon, 09 Nov 2026 16:53:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces-macos): expect --no-default-features in install-local library build (#7148)
+
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude, local</description>
     </item></channel></rss>
