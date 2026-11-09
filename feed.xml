@@ -1,21 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ConceptCountry/qwen-concept-27b · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xrxwg1</guid>
-      <pubDate>Mon, 09 Nov 2026 12:53:58 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/FP4QhzNK_HkAgIF9ipMPso84OaZd-1leeG2QquZb0jk.png?width=640&amp;amp;crop=smart&amp; | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>More interesting and unusual Qwen3.5-4B neurons</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/</link>
-      <guid isPermaLink="false">t3_1xrydgx</guid>
-      <pubDate>Mon, 09 Nov 2026 12:53:58 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You guys seemed to like my last post about the &amp;#39;redditor neuron&amp;#39; so I&amp;#39;m listing some other interesting neurons I&amp;#39;ve found while poking around. &lt;/p&gt; &lt;p&gt;L11 N8147: The redditor neuron/ contrar | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>Any accountants/financial professionals using local LLMs?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrx72d/any_accountantsfinancial_professionals_using/</link>
-      <guid isPermaLink="false">t3_1xrx72d</guid>
-      <pubDate>Mon, 09 Nov 2026 12:53:58 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello, I’m considering buying hardware for local LLMs for the use case of processing sensitive financial data, doing market research, and preparing financial/tax documents. &lt;/p&gt; &lt;p&gt;Are any of you using loca | why kept: model, local, hardware</description>
+      <title>server : functionality test for new spec dec  (#31027)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/359dc5858ec0cb47841b1248f403ee6f45c14749</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/359dc5858ec0cb47841b1248f403ee6f45c14749</guid>
+      <pubDate>Mon, 09 Nov 2026 13:09:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : functionality test for new spec dec  (#31027)
+
+* server : functionality test to make sure every time when we add new spec dec method the existing ones are not broken.
+
+* server: use comp | why kept: model</description>
     </item></channel></rss>

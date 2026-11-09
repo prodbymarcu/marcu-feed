@@ -1,3 +1,1 @@
-- ConceptCountry/qwen-concept-27b · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/ (score 11)
-- More interesting and unusual Qwen3.5-4B neurons — https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/ (score 7)
-- Any accountants/financial professionals using local LLMs? — https://www.reddit.com/r/LocalLLaMA/comments/1xrx72d/any_accountantsfinancial_professionals_using/ (score 6)
+- server : functionality test for new spec dec  (#31027) — https://github.com/ggml-org/llama.cpp/commit/359dc5858ec0cb47841b1248f403ee6f45c14749 (score 2)
