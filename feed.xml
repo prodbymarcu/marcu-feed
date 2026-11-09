@@ -1,17 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Top 7 Decision Models Benchmark: Evaluation Across 2,826 Real Tech Decisions</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/</link>
-      <guid isPermaLink="false">t3_1xruhp3</guid>
-      <pubDate>Mon, 09 Nov 2026 11:50:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mxhvsi4qtl0i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=web | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>fix(cua-vmm): one constant for the oldest Lume cua runs on (#6946)</title>
-      <link>https://github.com/trycua/cua/commit/311d525ab705dcebdc82dceefa175c32d2da1e18</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/311d525ab705dcebdc82dceefa175c32d2da1e18</guid>
-      <pubDate>Mon, 09 Nov 2026 11:50:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-vmm): one constant for the oldest Lume cua runs on (#6946)
-
-kinds.rs said 0.6.0 and lume/builtin.rs said 0.7.0 (the #6767 pin bump), so the test
-that keeps them equal failed on main. The  | why kept: claude, runs</description>
+      <title>Worth buying a DGX-1 (8× V100 32GB) for local LLM inference in 2026? ~15k €</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrulta/worth_buying_a_dgx1_8_v100_32gb_for_local_llm/</link>
+      <guid isPermaLink="false">t3_1xrulta</guid>
+      <pubDate>Mon, 09 Nov 2026 12:06:27 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I found used DGX-1 locally for 15k€&lt;/p&gt; &lt;p&gt;8 x V100 32GB SXM2 (256GB VRAM,NVLink), dual Xeon E5-2698 v4, 512GB RAM, 4× IB EDR, 3.5 kW&lt;/p&gt; &lt;p&gt;I am curious to see if anyone has that config to tell me real wor | why kept: model, local, inference</description>
     </item></channel></rss>

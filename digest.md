@@ -1,2 +1,1 @@
-- Top 7 Decision Models Benchmark: Evaluation Across 2,826 Real Tech Decisions — https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/ (score 6)
-- fix(cua-vmm): one constant for the oldest Lume cua runs on (#6946) — https://github.com/trycua/cua/commit/311d525ab705dcebdc82dceefa175c32d2da1e18 (score 4)
+- Worth buying a DGX-1 (8× V100 32GB) for local LLM inference in 2026? ~15k € — https://www.reddit.com/r/LocalLLaMA/comments/1xrulta/worth_buying_a_dgx1_8_v100_32gb_for_local_llm/ (score 6)
