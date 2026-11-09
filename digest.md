@@ -1,1 +1,2 @@
-- spaces-app-swift: give the slow-presence-join test honest CI headroom… — https://github.com/trycua/cua/commit/1d89e4f1c72a984a166edfc83f1b17cd280bda96 (score 2)
+- M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memor — https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/ (score 9)
+- Really cool 3d video on how the microduck ai robot works — https://www.reddit.com/r/LocalLLaMA/comments/1xrai3x/really_cool_3d_video_on_how_the_microduck_ai/ (score 8)
