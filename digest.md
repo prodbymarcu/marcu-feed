@@ -1,1 +1,1 @@
-- The Web Is More Than Enough, by Paul Ford — https://simonwillison.net/2026/Nov/9/hn-50421091/ (score 2)
+- Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network. — https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and/ (score 4)
