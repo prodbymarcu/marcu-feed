@@ -1,14 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Dialectic, Requirements, and Verifiable tests will drastically increase your model&#x27;s code output quality</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/dialectic_requirements_and_verifiable_tests_will/</link>
-      <guid isPermaLink="false">t3_1xs4kit</guid>
-      <pubDate>Mon, 09 Nov 2026 17:26:02 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Creating a list of requirements and documentation/tests (in Cucumber or EARS style) with your model is a great way to improve it&amp;#39;s code. Just got through a weekend long binary protocol build with Qwen3. | why kept: unsloth, qwen, model, claude, qwen, quant</description>
-    </item>
-    <item>
-      <title>If you want to learn about batch inferencing</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs4eyc/if_you_want_to_learn_about_batch_inferencing/</link>
-      <guid isPermaLink="false">t3_1xs4eyc</guid>
-      <pubDate>Mon, 09 Nov 2026 17:26:02 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs4eyc/if_you_want_to_learn_about_batch_inferencing/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/kX4D-Hi_R7fWohP_XN-UGmR_xHjwpM-0xM1qWft49D0.png?width=640&amp;amp;crop=sma | why kept: local, inference, llama</description>
+      <title>mtmd: support gemma 4 input audio stream (#31965)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/20c2e966559310abcc9a3ae8113d3f01eb885d9a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/20c2e966559310abcc9a3ae8113d3f01eb885d9a</guid>
+      <pubDate>Mon, 09 Nov 2026 17:42:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support gemma 4 input audio stream (#31965)
+
+* mtmd: support gemma 4 input audio stream
+
+* use 480ms step
+
+* server: enable realtime embeddings only for audio generation
+
+The realtime slot  | why kept: model</description>
     </item></channel></rss>

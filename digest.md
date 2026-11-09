@@ -1,2 +1,1 @@
-- Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality — https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/dialectic_requirements_and_verifiable_tests_will/ (score 18)
-- If you want to learn about batch inferencing — https://www.reddit.com/r/LocalLLaMA/comments/1xs4eyc/if_you_want_to_learn_about_batch_inferencing/ (score 6)
+- mtmd: support gemma 4 input audio stream (#31965) — https://github.com/ggml-org/llama.cpp/commit/20c2e966559310abcc9a3ae8113d3f01eb885d9a (score 2)
