@@ -1,4 +1,2 @@
-- chore(main): release cua-sdk 0.17.0 (#7028) — https://github.com/trycua/cua/commit/36890ab12f33a39874124fe57b2d91ca7e6d7910 (score 5)
-- CI: ci-gate reruns itself after a green rerun; PRs run only the lanes… — https://github.com/trycua/cua/commit/cc147c03d36d024a67087e33e7d9e22538cbb00b (score 4)
-- fix(spaces): runs from a Space are confined children and a Space cann… — https://github.com/trycua/cua/commit/82752858f6256eaf4e8eccf9033cf27ad3163cea (score 4)
-- Revert "fix(release): count apps/cua-spaces-desktop changes toward Cu… — https://github.com/trycua/cua/commit/9dc0c7f7f3aec21fd51b443b4a3cf26c9b5d40f3 (score 2)
+- fix(spaces): Start an agent says before Start when the agent has no p… — https://github.com/trycua/cua/commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce (score 9)
+- test(spaces-web): layout anchors ignore hover scale, which Linux leav… — https://github.com/trycua/cua/commit/676ee02cde88090b4bb62e6307e9449e5f885141 (score 2)
