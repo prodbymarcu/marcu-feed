@@ -1,1 +1,1 @@
-- Looking for suggestions for a local model that would be good at evaluating comedy writing — https://www.reddit.com/r/LocalLLaMA/comments/1xrv20h/looking_for_suggestions_for_a_local_model_that/ (score 4)
+- VLLM Qwen 27B or Strata Qwen Flash Next or...? — https://www.reddit.com/r/LocalLLaMA/comments/1xr85xd/vllm_qwen_27b_or_strata_qwen_flash_next_or/ (score 13)

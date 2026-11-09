@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Looking for suggestions for a local model that would be good at evaluating comedy writing</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrv20h/looking_for_suggestions_for_a_local_model_that/</link>
-      <guid isPermaLink="false">t3_1xrv20h</guid>
-      <pubDate>Mon, 09 Nov 2026 14:13:53 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a specific use case where I have a small web application that prompts the user with a randomly generated premise for a joke (using an llm), and then the user is expected to write a joke with the gene | why kept: model, local</description>
+      <title>VLLM Qwen 27B or Strata Qwen Flash Next or...?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr85xd/vllm_qwen_27b_or_strata_qwen_flash_next_or/</link>
+      <guid isPermaLink="false">t3_1xr85xd</guid>
+      <pubDate>Mon, 09 Nov 2026 14:29:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xr85xd/vllm_qwen_27b_or_strata_qwen_flash_next_or/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/0u1qh8b01g0i1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a8846949cbfb9754e1 | why kept: qwen, qwen, local, llama, hardware</description>
     </item></channel></rss>
