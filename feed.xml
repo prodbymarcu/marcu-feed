@@ -1,15 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.45.1 (#7044)</title>
-      <link>https://github.com/trycua/cua/commit/66fb5f2ea64ecd464bfcb75031617cd533c7f8ee</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/66fb5f2ea64ecd464bfcb75031617cd533c7f8ee</guid>
-      <pubDate>Sun, 08 Nov 2026 18:44:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.45.1 (#7044)
+      <title>feat(spaces): a Space uses the pool, its runs are its children and ar…</title>
+      <link>https://github.com/trycua/cua/commit/a35099d7bcc5548d9d1b86b901d20e025a0594b9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a35099d7bcc5548d9d1b86b901d20e025a0594b9</guid>
+      <pubDate>Sun, 08 Nov 2026 19:00:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): a Space uses the pool, its runs are its children and are cleaned up with it (#6945)
 
-* chore(main): release cua-driver-rs 0.45.1
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+* A Space uses the pool: cua run, jobs and computers from inside it, runs recorded under its tre | why kept: agent, claude, runs</description>
+    </item>
+    <item>
+      <title>How do you locally benchmark and compare local LLMs?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local/</link>
+      <guid isPermaLink="false">t3_1xrbhdf</guid>
+      <pubDate>Sun, 08 Nov 2026 19:00:50 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If I wanted to locally compare performance for multiple different offline LLM models across various modalities (speed, efficiency, reasoning, tool use, programing/coding, etc), what strategies, prompts, sof | why kept: model, local</description>
     </item></channel></rss>

@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.45.1 (#7044) — https://github.com/trycua/cua/commit/66fb5f2ea64ecd464bfcb75031617cd533c7f8ee (score 5)
+- feat(spaces): a Space uses the pool, its runs are its children and ar… — https://github.com/trycua/cua/commit/a35099d7bcc5548d9d1b86b901d20e025a0594b9 (score 6)
+- How do you locally benchmark and compare local LLMs? — https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local/ (score 4)
