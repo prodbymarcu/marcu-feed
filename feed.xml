@@ -1,11 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: fold, preview and rearrange the sidebar&#x27;s sections (#31936)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/b39680c41a541b8f623196f7552dce72d211b6e6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b39680c41a541b8f623196f7552dce72d211b6e6</guid>
-      <pubDate>Mon, 09 Nov 2026 07:48:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: fold, preview and rearrange the sidebar&amp;#39;s sections (#31936)
+      <title>tests : keep dummy ffn.act scales away from zero (#31940)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d628a98f094c6336e8899d1b393ec68bc0c2cfc6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d628a98f094c6336e8899d1b393ec68bc0c2cfc6</guid>
+      <pubDate>Mon, 09 Nov 2026 08:05:28 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : keep dummy ffn.act scales away from zero (#31940)
 
-* ui : fold the sidebar&amp;#39;s conversation sections
-
-Pinned and Recent conversations fold under their heading. The whole headi | why kept: claude</description>
+The dummy-model generator fills every tensor from a plain normal pool.
+`blk.N.ffn.act.scales` is a divisor in the mpt graph, so with see | why kept: model</description>
     </item></channel></rss>

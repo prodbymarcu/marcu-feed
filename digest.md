@@ -1,1 +1,1 @@
-- ui: fold, preview and rearrange the sidebar's sections (#31936) — https://github.com/ggml-org/llama.cpp/commit/b39680c41a541b8f623196f7552dce72d211b6e6 (score 2)
+- tests : keep dummy ffn.act scales away from zero (#31940) — https://github.com/ggml-org/llama.cpp/commit/d628a98f094c6336e8899d1b393ec68bc0c2cfc6 (score 2)
