@@ -1,37 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.45.3 (#7096)</title>
-      <link>https://github.com/trycua/cua/commit/423ecf0d315319e07c09d1be30e3967aac427354</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/423ecf0d315319e07c09d1be30e3967aac427354</guid>
-      <pubDate>Mon, 09 Nov 2026 08:20:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.45.3 (#7096)
-
-* chore(main): release cua-driver-rs 0.45.3
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>ci-gate: honour release-hold on merge queue entries (#7093)</title>
-      <link>https://github.com/trycua/cua/commit/42f9017ea9e1c969d435d122c0ef27beb7cd5671</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/42f9017ea9e1c969d435d122c0ef27beb7cd5671</guid>
-      <pubDate>Mon, 09 Nov 2026 08:20:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci-gate: honour release-hold on merge queue entries (#7093)
-
-Maps the queue ref back to the PR and fails the gate if it carries a hold label.
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthro | why kept: claude</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): an end defers behind a call admitted after it decide…</title>
-      <link>https://github.com/trycua/cua/commit/bd7a99d7170513b00bcee470c53df70f54a14a0e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bd7a99d7170513b00bcee470c53df70f54a14a0e</guid>
-      <pubDate>Mon, 09 Nov 2026 08:20:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): an end defers behind a call admitted after it decided (#7037)
-
-* test(cua-driver): an end must wait for a call admitted after it decided
-
-end_session_with_reason releases the rec | why kept: runs</description>
+      <title>Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here</title>
+      <link>https://github.com/samir-sarwar/samir-vllm</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50424199</guid>
+      <pubDate>Mon, 09 Nov 2026 08:36:58 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/samir-sarwar/samir-vllm&quot;&gt;https://github.com/samir-sarwar/samir-vllm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50424199&quot;&gt;https://news.ycombinator.com/item?id=50424199&lt;/ | why kept: inference</description>
     </item></channel></rss>

@@ -1,3 +1,1 @@
-- chore(main): release cua-driver-rs 0.45.3 (#7096) — https://github.com/trycua/cua/commit/423ecf0d315319e07c09d1be30e3967aac427354 (score 5)
-- ci-gate: honour release-hold on merge queue entries (#7093) — https://github.com/trycua/cua/commit/42f9017ea9e1c969d435d122c0ef27beb7cd5671 (score 2)
-- fix(cua-driver): an end defers behind a call admitted after it decide… — https://github.com/trycua/cua/commit/bd7a99d7170513b00bcee470c53df70f54a14a0e (score 2)
+- Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here — https://github.com/samir-sarwar/samir-vllm (score 2)
