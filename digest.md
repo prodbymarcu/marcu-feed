@@ -1,1 +1,4 @@
-- Work has given me an M5Max 64gb. What is an ideal LLM setup, work related ? — https://www.reddit.com/r/LocalLLaMA/comments/1xrvi6a/work_has_given_me_an_m5max_64gb_what_is_an_ideal/ (score 6)
+- Fork of ANEMLL to get fastest Qwen 3.8 27B on Mac mini m6 by running on Neural Engine — https://www.reddit.com/r/LocalLLaMA/comments/1xrtsk8/fork_of_anemll_to_get_fastest_qwen_38_27b_on_mac/ (score 24)
+- RustingStrata vs llama.cpp, DeepSeek-V4.1-Flash Q2 (249 GB) on a single RTX 3060 12 GB with 30 GB RAM — https://www.reddit.com/r/LocalLLaMA/comments/1xrw6uv/rustingstrata_vs_llamacpp_deepseekv41flash_q2_249/ (score 6)
+- Why Hasn't Someone Recreate ShareGPT? — https://www.reddit.com/r/LocalLLaMA/comments/1xr4jnf/why_hasnt_someone_recreate_sharegpt/ (score 6)
+- ci: stop using pull_request_target before GitHub's 2 Dec enforcement … — https://github.com/trycua/cua/commit/c99f0d7a6ece911cd1464a948e83c0e7fca15916 (score 4)
