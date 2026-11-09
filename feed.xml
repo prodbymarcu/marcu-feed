@@ -1,17 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat: external PLE file loading (#31185)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5f490d7bfe78844e6390c869454c149fd7e003a8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5f490d7bfe78844e6390c869454c149fd7e003a8</guid>
-      <pubDate>Mon, 09 Nov 2026 13:41:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat: external PLE file loading (#31185)
-
-* model : allow loading external PLE files
-
-Assisted-by: Codex
-
-* convert : add separate PLE exports
-
-Assisted-by: Codex
-
-* tests : fix PLE export test l | why kept: model, codex</description>
+      <title>I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/</link>
+      <guid isPermaLink="false">t3_1xryvbg</guid>
+      <pubDate>Mon, 09 Nov 2026 13:58:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/d3RrZ2UwNHpsbTBpMeJtv7vUoLs73Ma3N6D0Ldhv8gnVypr98cM_Y7t_nOuE.png?wi | why kept: mlx, model, local, mlx, llama, fine-tun</description>
+    </item>
+    <item>
+      <title>Local first open source alternative to GrokBot</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xryile/local_first_open_source_alternative_to_grokbot/</link>
+      <guid isPermaLink="false">t3_1xryile</guid>
+      <pubDate>Mon, 09 Nov 2026 13:58:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xryile/local_first_open_source_alternative_to_grokbot/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Y3NnNXM2c2prbTBpMYeKihl-SVtt9udoRncPZ576HDJfU0cVUM-mAl0c6Kru.png?wid | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Why vector DB metadata filters fail on agent memory write paths (0% raw leak vs 67% leak) reproducible offline test suite</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xryzby/why_vector_db_metadata_filters_fail_on_agent/</link>
+      <guid isPermaLink="false">t3_1xryzby</guid>
+      <pubDate>Mon, 09 Nov 2026 13:58:13 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Everyone relies on metadata filters like allowed_groups to keep multi tenant RAG locked down and under check. That works well when users query the vector store directly, which means unauthorized chunks will | why kept: agent</description>
     </item></channel></rss>

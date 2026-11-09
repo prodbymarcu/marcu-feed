@@ -1,1 +1,3 @@
-- feat: external PLE file loading (#31185) — https://github.com/ggml-org/llama.cpp/commit/5f490d7bfe78844e6390c869454c149fd7e003a8 (score 4)
+- I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX) — https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/ (score 15)
+- Local first open source alternative to GrokBot — https://www.reddit.com/r/LocalLLaMA/comments/1xryile/local_first_open_source_alternative_to_grokbot/ (score 4)
+- Why vector DB metadata filters fail on agent memory write paths (0% raw leak vs 67% leak) reproducible offline test suit — https://www.reddit.com/r/LocalLLaMA/comments/1xryzby/why_vector_db_metadata_filters_fail_on_agent/ (score 2)
