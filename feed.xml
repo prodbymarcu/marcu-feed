@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.46.0 (#7149)</title>
-      <link>https://github.com/trycua/cua/commit/5486b6246e4c807c0d793216e52df283671d9362</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5486b6246e4c807c0d793216e52df283671d9362</guid>
-      <pubDate>Mon, 09 Nov 2026 18:13:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.46.0 (#7149)
-
-* chore(main): release cua-driver-rs 0.46.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Built a local FastAPI workbench to visually diff RAG table chunking and benchmark pgvector Hybrid RRF for $0 API cost</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrxcjr/built_a_local_fastapi_workbench_to_visually_diff/</link>
-      <guid isPermaLink="false">t3_1xrxcjr</guid>
-      <pubDate>Mon, 09 Nov 2026 18:13:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrxcjr/built_a_local_fastapi_workbench_to_visually_diff/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/lvw8uasv9m0i1.png?width=140&amp;amp;height=78&amp;amp;auto=webp&amp;amp;s=6bb43aedd85d4 | why kept: local, llama</description>
+      <title>Is ArtificialAnalysis biased against open weight models?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/</link>
+      <guid isPermaLink="false">t3_1xs5pkl</guid>
+      <pubDate>Mon, 09 Nov 2026 18:30:30 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/glw3miqrvn0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0db61f65e6f9 | why kept: model, local, llama</description>
     </item></channel></rss>
