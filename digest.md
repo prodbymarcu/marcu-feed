@@ -1,1 +1,1 @@
-- Worth buying a DGX-1 (8× V100 32GB) for local LLM inference in 2026? ~15k € — https://www.reddit.com/r/LocalLLaMA/comments/1xrulta/worth_buying_a_dgx1_8_v100_32gb_for_local_llm/ (score 6)
+- Work has given me an M5Max 64gb. What is an ideal LLM setup, work related ? — https://www.reddit.com/r/LocalLLaMA/comments/1xrvi6a/work_has_given_me_an_m5max_64gb_what_is_an_ideal/ (score 6)

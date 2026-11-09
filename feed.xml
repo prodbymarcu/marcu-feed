@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Worth buying a DGX-1 (8× V100 32GB) for local LLM inference in 2026? ~15k €</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrulta/worth_buying_a_dgx1_8_v100_32gb_for_local_llm/</link>
-      <guid isPermaLink="false">t3_1xrulta</guid>
-      <pubDate>Mon, 09 Nov 2026 12:06:27 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I found used DGX-1 locally for 15k€&lt;/p&gt; &lt;p&gt;8 x V100 32GB SXM2 (256GB VRAM,NVLink), dual Xeon E5-2698 v4, 512GB RAM, 4× IB EDR, 3.5 kW&lt;/p&gt; &lt;p&gt;I am curious to see if anyone has that config to tell me real wor | why kept: model, local, inference</description>
+      <title>Work has given me an M5Max 64gb. What is an ideal LLM setup, work related ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrvi6a/work_has_given_me_an_m5max_64gb_what_is_an_ideal/</link>
+      <guid isPermaLink="false">t3_1xrvi6a</guid>
+      <pubDate>Mon, 09 Nov 2026 12:21:49 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’m heavy user of smaller models because I was GPU poor but now I’m not so I’m wondering what I can do to take full advantage of the specs.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https:/ | why kept: model, local, llama</description>
     </item></channel></rss>
