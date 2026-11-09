@@ -1,17 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Ming 3.0 TTS sitting alone with no templates</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs167d/ming_30_tts_sitting_alone_with_no_templates/</link>
-      <guid isPermaLink="false">t3_1xs167d</guid>
-      <pubDate>Mon, 09 Nov 2026 15:02:00 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;Hoping someone here has figured this out because I’m losing my mind a bit.&lt;/p&gt; &lt;p&gt;I’m trying to set up Ming-3.0-TTS in ComfyUI, as the checkpoints (Tiny 9B INT8) sitting alone in Comfy  | why kept: model, quant</description>
-    </item>
-    <item>
-      <title>ci(release): retried gh release download overwrites the files a faile…</title>
-      <link>https://github.com/trycua/cua/commit/ecf493afb510b72897189d4b5a30c07dc99812c0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ecf493afb510b72897189d4b5a30c07dc99812c0</guid>
-      <pubDate>Mon, 09 Nov 2026 15:02:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): retried gh release download overwrites the files a failed attempt left (#7140)
+      <title>ui: make the app feel native on phones (#31949)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/610f7ab40a1422898c7916621b9c698cca7669fc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/610f7ab40a1422898c7916621b9c698cca7669fc</guid>
+      <pubDate>Mon, 09 Nov 2026 15:18:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: make the app feel native on phones (#31949)
 
-A GitHub 500 mid-download left some assets on disk, and every retry then
-failed with &amp;#39;already exis | why kept: claude</description>
+* ui: reveal the mobile sidebar by sliding the page aside
+
+On a phone the sidebar now stays put under the page, and the page slides
+right to uncov | why kept: claude</description>
     </item></channel></rss>

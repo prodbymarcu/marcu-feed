@@ -1,2 +1,1 @@
-- Ming 3.0 TTS sitting alone with no templates — https://www.reddit.com/r/LocalLLaMA/comments/1xs167d/ming_30_tts_sitting_alone_with_no_templates/ (score 4)
-- ci(release): retried gh release download overwrites the files a faile… — https://github.com/trycua/cua/commit/ecf493afb510b72897189d4b5a30c07dc99812c0 (score 2)
+- ui: make the app feel native on phones (#31949) — https://github.com/ggml-org/llama.cpp/commit/610f7ab40a1422898c7916621b9c698cca7669fc (score 2)
