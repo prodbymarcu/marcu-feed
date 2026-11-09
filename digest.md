@@ -1,1 +1,1 @@
-- How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity. — https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i/ (score 6)
+- Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below — https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/ (score 4)
