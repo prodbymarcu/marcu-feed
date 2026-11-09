@@ -1,1 +1,2 @@
-- test(spaces-macos): expect --no-default-features in install-local lib… — https://github.com/trycua/cua/commit/40b1c827e18dc50ea69ccbe6f4167dc66df20880 (score 4)
+- Dialectic, Requirements, and Verifiable tests will drastically increase your model's code output quality — https://www.reddit.com/r/LocalLLaMA/comments/1xs4kit/dialectic_requirements_and_verifiable_tests_will/ (score 18)
+- If you want to learn about batch inferencing — https://www.reddit.com/r/LocalLLaMA/comments/1xs4eyc/if_you_want_to_learn_about_batch_inferencing/ (score 6)
