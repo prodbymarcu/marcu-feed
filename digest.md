@@ -1,3 +1,2 @@
-- Best Practices for Provisioning Local Inference to a Team? — https://www.reddit.com/r/LocalLLaMA/comments/1xs0uxs/best_practices_for_provisioning_local_inference/ (score 11)
-- Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models — https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/ (score 6)
-- From the finest minds of our age to the dumbest monkeys on the planet — https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/ (score 4)
+- Ming 3.0 TTS sitting alone with no templates — https://www.reddit.com/r/LocalLLaMA/comments/1xs167d/ming_30_tts_sitting_alone_with_no_templates/ (score 4)
+- ci(release): retried gh release download overwrites the files a faile… — https://github.com/trycua/cua/commit/ecf493afb510b72897189d4b5a30c07dc99812c0 (score 2)

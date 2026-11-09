@@ -1,21 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Best Practices for Provisioning Local Inference to a Team?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs0uxs/best_practices_for_provisioning_local_inference/</link>
-      <guid isPermaLink="false">t3_1xs0uxs</guid>
-      <pubDate>Mon, 09 Nov 2026 14:46:06 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;I recently built a Radiance inference server for my company, and now want to start provisioning access to the rest of my team.&lt;/p&gt; &lt;p&gt;My current plan:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tailscale as the only | why kept: hermes, hermes, local, inference</description>
+      <title>Ming 3.0 TTS sitting alone with no templates</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs167d/ming_30_tts_sitting_alone_with_no_templates/</link>
+      <guid isPermaLink="false">t3_1xs167d</guid>
+      <pubDate>Mon, 09 Nov 2026 15:02:00 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;Hoping someone here has figured this out because I’m losing my mind a bit.&lt;/p&gt; &lt;p&gt;I’m trying to set up Ming-3.0-TTS in ComfyUI, as the checkpoints (Tiny 9B INT8) sitting alone in Comfy  | why kept: model, quant</description>
     </item>
     <item>
-      <title>Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/</link>
-      <guid isPermaLink="false">t3_1xs0qmx</guid>
-      <pubDate>Mon, 09 Nov 2026 14:46:06 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/4dij7r46zm0i1.png?width=140&amp;amp;height=53&amp;amp;auto=webp&amp;amp;s=3a56aa43db521e490 | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>From the finest minds of our age to the dumbest monkeys on the planet</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/</link>
-      <guid isPermaLink="false">t3_1xs0izk</guid>
-      <pubDate>Mon, 09 Nov 2026 14:46:06 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;How is it possible for a sub to degenerate so much in 12 months?&lt;/p&gt; &lt;p&gt;What is the mechanism that drives this?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Jungle_ | why kept: local, llama</description>
+      <title>ci(release): retried gh release download overwrites the files a faile…</title>
+      <link>https://github.com/trycua/cua/commit/ecf493afb510b72897189d4b5a30c07dc99812c0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ecf493afb510b72897189d4b5a30c07dc99812c0</guid>
+      <pubDate>Mon, 09 Nov 2026 15:02:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): retried gh release download overwrites the files a failed attempt left (#7140)
+
+A GitHub 500 mid-download left some assets on disk, and every retry then
+failed with &amp;#39;already exis | why kept: claude</description>
     </item></channel></rss>
