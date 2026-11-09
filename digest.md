@@ -1,1 +1,1 @@
-- fix(cluster): GPU jobs are admitted by free video memory and run on W… — https://github.com/trycua/cua/commit/c62abf39ba407f385701b0a82a5a4d8b8eacc426 (score 8)
+- Hide your slop PR descriptions behind <details><summary> — https://simonwillison.net/2026/Nov/9/details-summary/ (score 6)

@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cluster): GPU jobs are admitted by free video memory and run on W…</title>
-      <link>https://github.com/trycua/cua/commit/c62abf39ba407f385701b0a82a5a4d8b8eacc426</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c62abf39ba407f385701b0a82a5a4d8b8eacc426</guid>
-      <pubDate>Sun, 08 Nov 2026 21:56:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cluster): GPU jobs are admitted by free video memory and run on Windows hosts (#6943)
-
-* Jobs: gpu=, gpu_memory= and VRAM admission (model and free video memory in the inventory, a per-job re | why kept: model, claude, video, free</description>
+      <title>Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;</title>
+      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/9/details-summary/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:33:01 +0000</pubDate>
+      <description>&lt;p&gt;Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, documen | why kept: agent, claude, codex</description>
     </item></channel></rss>
