@@ -1,1 +1,2 @@
-- Anyone else feeling like Qwen4's release happens in slow-motion? — https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/ (score 9)
+- Weight-space programming: editing Qwen3.5 into a top decision model — https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/ (score 13)
+- chore(main): release cua-sdk 0.18.0 (#7124) — https://github.com/trycua/cua/commit/9fd6729392e2d0a76a89318dfd9f7053ff2c0567 (score 5)

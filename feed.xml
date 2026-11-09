@@ -1,7 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Anyone else feeling like Qwen4&#x27;s release happens in slow-motion?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/</link>
-      <guid isPermaLink="false">t3_1xrv2ae</guid>
-      <pubDate>Mon, 09 Nov 2026 11:01:52 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So if my memory serves me well:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Late summer, Qwen 3.8 Flash Next announces the architecture&lt;/li&gt; &lt;li&gt;Late october, conference talk, Qwen announces the 4 models (max/flash/plus/27)&lt;/li&gt; &lt;li&gt;Late | why kept: qwen, model, qwen</description>
+      <title>Weight-space programming: editing Qwen3.5 into a top decision model</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/</link>
+      <guid isPermaLink="false">t3_1xruwlf</guid>
+      <pubDate>Mon, 09 Nov 2026 11:17:53 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/oe5T8MCNzO59v-PceZM4mAoWMcfWtZSJMbWH3GuUNkQ.png?width=640&amp;amp;cro | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.18.0 (#7124)</title>
+      <link>https://github.com/trycua/cua/commit/9fd6729392e2d0a76a89318dfd9f7053ff2c0567</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9fd6729392e2d0a76a89318dfd9f7053ff2c0567</guid>
+      <pubDate>Mon, 09 Nov 2026 11:17:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.18.0 (#7124)
+
+* chore(main): release cua-sdk 0.18.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
