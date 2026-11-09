@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Joined the 4x R9700 Club | Initial Benchmarks for QFN 3.8 Below</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/</link>
-      <guid isPermaLink="false">t3_1xrcia4</guid>
-      <pubDate>Sun, 08 Nov 2026 19:32:32 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/m1hd0vwe4h0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2c40eee357f0 | why kept: local, llama</description>
+      <title>fix(release): count apps/cua-spaces-desktop changes toward Cua Spaces…</title>
+      <link>https://github.com/trycua/cua/commit/b29ec349bb1e3845bc04717dbbb370d20022dfee</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b29ec349bb1e3845bc04717dbbb370d20022dfee</guid>
+      <pubDate>Sun, 08 Nov 2026 19:48:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(release): count apps/cua-spaces-desktop changes toward Cua Spaces releases (#7056)
+
+Release Please only watched apps/cua-spaces-macos, libs/cua and apps/cua-spaces-web, so a fix that touched  | why kept: trycua, claude</description>
     </item></channel></rss>
