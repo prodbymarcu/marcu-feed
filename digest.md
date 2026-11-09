@@ -1,2 +1,2 @@
-- M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memor — https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/ (score 9)
-- Really cool 3d video on how the microduck ai robot works — https://www.reddit.com/r/LocalLLaMA/comments/1xrai3x/really_cool_3d_video_on_how_the_microduck_ai/ (score 8)
+- meituan-longcat/LongCat-2.5 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/ (score 6)
+- fix(spaces-desktop): resolve the web app's i18n dependencies in the E… — https://github.com/trycua/cua/commit/258724de5296e70d0a4de6e403439c63bd8f9892 (score 2)

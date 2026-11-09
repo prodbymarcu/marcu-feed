@@ -1,14 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>M4 Pro vs M5 Pro (24GB): Qwen 3.8 Flash Next IQ3 with MoEShift at 374 tok/s prefill, 14.7 tok/s decode, 8.5GB peak memory</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrq2fv/m4_pro_vs_m5_pro_24gb_qwen_38_flash_next_iq3_with/</link>
-      <guid isPermaLink="false">t3_1xrq2fv</guid>
-      <pubDate>Mon, 09 Nov 2026 09:56:51 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I benchmarked &lt;strong&gt;Qwen3.8-Flash-Next 125B&lt;/strong&gt; ISTA-DASLab&amp;#39;s GSQ-RCO IQ3_XXS quant (76GB on disk), on two Macs with 24GB unified memory using &lt;a href=&quot;https://github.com/davide-troiani/moeshift&quot; | why kept: qwen, qwen, quant</description>
+      <title>meituan-longcat/LongCat-2.5 · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xrsptp</guid>
+      <pubDate>Mon, 09 Nov 2026 10:12:59 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/MDGXsoqDSdbwZkIuvj-fI1gHLszoN927cZZsWyM3Lok.png?width=640&amp;amp;crop=smart&amp;amp;a | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>Really cool 3d video on how the microduck ai robot works</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrai3x/really_cool_3d_video_on_how_the_microduck_ai/</link>
-      <guid isPermaLink="false">t3_1xrai3x</guid>
-      <pubDate>Mon, 09 Nov 2026 09:56:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrai3x/really_cool_3d_video_on_how_the_microduck_ai/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/hETX_ll7s3xlaCU5S4TD4uEsRNnbE9HSYI_uOEBqOcQ.jpeg?width=320&amp;amp;crop=sm | why kept: video, local, llama, robot</description>
+      <title>fix(spaces-desktop): resolve the web app&#x27;s i18n dependencies in the E…</title>
+      <link>https://github.com/trycua/cua/commit/258724de5296e70d0a4de6e403439c63bd8f9892</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/258724de5296e70d0a4de6e403439c63bd8f9892</guid>
+      <pubDate>Mon, 09 Nov 2026 10:12:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-desktop): resolve the web app&amp;#39;s i18n dependencies in the Electron build (#7117)
+
+The Electron shell typechecks and bundles web sources (../cua-spaces-web/src)
+but the release build | why kept: claude</description>
     </item></channel></rss>
