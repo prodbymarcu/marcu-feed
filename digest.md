@@ -1,6 +1,1 @@
-- fix(spaces-macos): bundle cua 0.16.0 in Cua Spaces (#7014) — https://github.com/trycua/cua/commit/4e18418b82fd70c34587406026086798be1a203f (score 7)
-- netease-youdao/Confucius4-R2T2 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xrspiy/neteaseyoudaoconfucius4r2t2_hugging_face/ (score 6)
-- feat(agents): official sign-in on each computer, stop copying sign-in… — https://github.com/trycua/cua/commit/5a14a01e43fc350dead0f5098d08958b68cff3ce (score 6)
-- fix(spaces): install-local reads the pinned wasm-bindgen version with… — https://github.com/trycua/cua/commit/1a34d4ecf173a8753d0d3d439fe770d3b189b59e (score 4)
-- feat(spaces-macos): install-local.sh --development for fast dev-loop … — https://github.com/trycua/cua/commit/7f9f5c20440510a999851010c00034d2afd433d1 (score 4)
-- fix(spaces): dogfood fixes from 8 Nov (setup, sign-in, Cua Driver, Lo… — https://github.com/trycua/cua/commit/14f9e8845134af1c13a71e2f57e5b18565df0320 (score 4)
+- Anyone else feeling like Qwen4's release happens in slow-motion? — https://www.reddit.com/r/LocalLLaMA/comments/1xrv2ae/anyone_else_feeling_like_qwen4s_release_happens/ (score 9)
