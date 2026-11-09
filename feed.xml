@@ -1,7 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>New Gemma Models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/</link>
-      <guid isPermaLink="false">t3_1xrpcke</guid>
-      <pubDate>Mon, 09 Nov 2026 07:33:26 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Are there any (insider) infos to upcoming Gemma Models? Gemma 4 is for my usecase really good and I am looking forward if they will release any new even better models most likely named Gemma 5? Currently us | why kept: model</description>
+      <title>ui: fold, preview and rearrange the sidebar&#x27;s sections (#31936)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/b39680c41a541b8f623196f7552dce72d211b6e6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b39680c41a541b8f623196f7552dce72d211b6e6</guid>
+      <pubDate>Mon, 09 Nov 2026 07:48:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: fold, preview and rearrange the sidebar&amp;#39;s sections (#31936)
+
+* ui : fold the sidebar&amp;#39;s conversation sections
+
+Pinned and Recent conversations fold under their heading. The whole headi | why kept: claude</description>
     </item></channel></rss>

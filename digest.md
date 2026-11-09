@@ -1,1 +1,1 @@
-- New Gemma Models — https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/ (score 2)
+- ui: fold, preview and rearrange the sidebar's sections (#31936) — https://github.com/ggml-org/llama.cpp/commit/b39680c41a541b8f623196f7552dce72d211b6e6 (score 2)
