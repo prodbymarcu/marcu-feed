@@ -1,2 +1,2 @@
-- Weight-space programming: editing Qwen3.5 into a top decision model — https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/ (score 13)
-- chore(main): release cua-sdk 0.18.0 (#7124) — https://github.com/trycua/cua/commit/9fd6729392e2d0a76a89318dfd9f7053ff2c0567 (score 5)
+- Top 7 Decision Models Benchmark: Evaluation Across 2,826 Real Tech Decisions — https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/ (score 6)
+- fix(cua-vmm): one constant for the oldest Lume cua runs on (#6946) — https://github.com/trycua/cua/commit/311d525ab705dcebdc82dceefa175c32d2da1e18 (score 4)

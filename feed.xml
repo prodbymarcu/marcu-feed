@@ -1,22 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Weight-space programming: editing Qwen3.5 into a top decision model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/</link>
-      <guid isPermaLink="false">t3_1xruwlf</guid>
-      <pubDate>Mon, 09 Nov 2026 11:17:53 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/oe5T8MCNzO59v-PceZM4mAoWMcfWtZSJMbWH3GuUNkQ.png?width=640&amp;amp;cro | why kept: qwen, model, qwen, local, llama</description>
+      <title>Top 7 Decision Models Benchmark: Evaluation Across 2,826 Real Tech Decisions</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/</link>
+      <guid isPermaLink="false">t3_1xruhp3</guid>
+      <pubDate>Mon, 09 Nov 2026 11:50:15 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xruhp3/top_7_decision_models_benchmark_evaluation_across/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mxhvsi4qtl0i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=web | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-sdk 0.18.0 (#7124)</title>
-      <link>https://github.com/trycua/cua/commit/9fd6729392e2d0a76a89318dfd9f7053ff2c0567</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9fd6729392e2d0a76a89318dfd9f7053ff2c0567</guid>
-      <pubDate>Mon, 09 Nov 2026 11:17:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.18.0 (#7124)
+      <title>fix(cua-vmm): one constant for the oldest Lume cua runs on (#6946)</title>
+      <link>https://github.com/trycua/cua/commit/311d525ab705dcebdc82dceefa175c32d2da1e18</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/311d525ab705dcebdc82dceefa175c32d2da1e18</guid>
+      <pubDate>Mon, 09 Nov 2026 11:50:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-vmm): one constant for the oldest Lume cua runs on (#6946)
 
-* chore(main): release cua-sdk 0.18.0
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+kinds.rs said 0.6.0 and lume/builtin.rs said 0.7.0 (the #6767 pin bump), so the test
+that keeps them equal failed on main. The  | why kept: claude, runs</description>
     </item></channel></rss>
