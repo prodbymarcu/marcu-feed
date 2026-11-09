@@ -1,2 +1,4 @@
-- meituan-longcat/LongCat-2.5 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/ (score 6)
-- fix(spaces-desktop): resolve the web app's i18n dependencies in the E… — https://github.com/trycua/cua/commit/258724de5296e70d0a4de6e403439c63bd8f9892 (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.45.4 in Cua Spaces (#7100) — https://github.com/trycua/cua/commit/a81c82c1d8cd8d28bf81df3de4fa9da1322b2ba0 (score 5)
+- fix(auth): redact tokens in Debug output (#7071) (#7097) — https://github.com/trycua/cua/commit/646d5eb76db3ffaef409aef77986ac7d368be1a6 (score 4)
+- A Java LLM implementation based on Karpathy's GPT with alpaca_es_chat.jsonl — https://www.reddit.com/r/LocalLLaMA/comments/1xr3qok/a_java_llm_implementation_based_on_karpathys_gpt/ (score 2)
+- ci(spaces): regenerate stale generated bindings on the PR branch (CUA… — https://github.com/trycua/cua/commit/d65e1ac4dde6f75bfce5fd32d3fac1ca8ebe66b2 (score 2)

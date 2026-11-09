@@ -1,17 +1,37 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>meituan-longcat/LongCat-2.5 · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xrsptp</guid>
-      <pubDate>Mon, 09 Nov 2026 10:12:59 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/MDGXsoqDSdbwZkIuvj-fI1gHLszoN927cZZsWyM3Lok.png?width=640&amp;amp;crop=smart&amp;amp;a | why kept: model, local, llama</description>
+      <title>fix(spaces-macos): bundle Cua Driver 0.45.4 in Cua Spaces (#7100)</title>
+      <link>https://github.com/trycua/cua/commit/a81c82c1d8cd8d28bf81df3de4fa9da1322b2ba0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a81c82c1d8cd8d28bf81df3de4fa9da1322b2ba0</guid>
+      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.45.4 in Cua Spaces (#7100)
+
+Cua Driver 0.45.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(spaces-desktop): resolve the web app&#x27;s i18n dependencies in the E…</title>
-      <link>https://github.com/trycua/cua/commit/258724de5296e70d0a4de6e403439c63bd8f9892</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/258724de5296e70d0a4de6e403439c63bd8f9892</guid>
-      <pubDate>Mon, 09 Nov 2026 10:12:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-desktop): resolve the web app&amp;#39;s i18n dependencies in the Electron build (#7117)
+      <title>fix(auth): redact tokens in Debug output (#7071) (#7097)</title>
+      <link>https://github.com/trycua/cua/commit/646d5eb76db3ffaef409aef77986ac7d368be1a6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/646d5eb76db3ffaef409aef77986ac7d368be1a6</guid>
+      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(auth): redact tokens in Debug output (#7071) (#7097)
 
-The Electron shell typechecks and bundles web sources (../cua-spaces-web/src)
-but the release build | why kept: claude</description>
+* fix(auth): redact tokens in Debug output (#7071)
+
+Replace the derived Debug on Credentials and on the other structs that hold
+tokens, p | why kept: agent, claude</description>
+    </item>
+    <item>
+      <title>A Java LLM implementation based on Karpathy&#x27;s GPT with alpaca_es_chat.jsonl</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr3qok/a_java_llm_implementation_based_on_karpathys_gpt/</link>
+      <guid isPermaLink="false">t3_1xr3qok</guid>
+      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone, I wanted to share my progress on implementing a language model written 100% in pure Java. You can find the repository here (&lt;a href=&quot;https://github.com/aayes89/jUltraLLM/tree/master&quot;&gt;https:/ | why kept: model</description>
+    </item>
+    <item>
+      <title>ci(spaces): regenerate stale generated bindings on the PR branch (CUA…</title>
+      <link>https://github.com/trycua/cua/commit/d65e1ac4dde6f75bfce5fd32d3fac1ca8ebe66b2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d65e1ac4dde6f75bfce5fd32d3fac1ca8ebe66b2</guid>
+      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): regenerate stale generated bindings on the PR branch (CUA-3953) (#7095)
+
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>
