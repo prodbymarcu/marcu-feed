@@ -1,1 +1,3 @@
-- ChatGPT Desktop forwards your SSH agent to remote machines — https://news.ycombinator.com/item?id=50422628 (score 6)
+- Open source Chinese models are the best — https://www.reddit.com/r/LocalLLaMA/comments/1xrof5f/open_source_chinese_models_are_the_best/ (score 6)
+- Is this what they mean when they want to ban Chinese models? — https://www.reddit.com/r/LocalLLaMA/comments/1xroin1/is_this_what_they_mean_when_they_want_to_ban/ (score 6)
+- chore(main): release cua-driver-rs 0.45.2 (#7049) — https://github.com/trycua/cua/commit/ba5ab4449da9dbd97740895bd02bae866eb8d0cf (score 5)
