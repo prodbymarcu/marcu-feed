@@ -1,1 +1,2 @@
-- mtmd: support gemma 4 input audio stream (#31965) — https://github.com/ggml-org/llama.cpp/commit/20c2e966559310abcc9a3ae8113d3f01eb885d9a (score 2)
+- chore(main): release cua-driver-rs 0.46.0 (#7149) — https://github.com/trycua/cua/commit/5486b6246e4c807c0d793216e52df283671d9362 (score 5)
+- Built a local FastAPI workbench to visually diff RAG table chunking and benchmark pgvector Hybrid RRF for $0 API cost — https://www.reddit.com/r/LocalLLaMA/comments/1xrxcjr/built_a_local_fastapi_workbench_to_visually_diff/ (score 4)
