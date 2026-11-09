@@ -1,20 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver): formally-verify-cua-driver skill and TLA+ models fo…</title>
-      <link>https://github.com/trycua/cua/commit/a6b4b307e5524d4d0c695712ea038c19e8273638</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a6b4b307e5524d4d0c695712ea038c19e8273638</guid>
-      <pubDate>Mon, 09 Nov 2026 16:05:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): formally-verify-cua-driver skill and TLA+ models for the driver&amp;#39;s state machines (#7035)
-
-* test(cua-driver): TLA+ models for tokens, sessions, admission, foreground restore | why kept: model</description>
+      <title>Omni Voice is the fastest and best voice clone TTS out there. I&#x27;ve tested them all.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/</link>
+      <guid isPermaLink="false">t3_1xs46nh</guid>
+      <pubDate>Mon, 09 Nov 2026 16:38:06 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There are tons of use cases out there - storybooks, agents, etc. But my main goal was to find which TTS has the best voice clone options, comparable to Elevenlabs.&lt;/p&gt; &lt;p&gt;I have a shortlist of voices that I | why kept: model, agent, voice</description>
     </item>
     <item>
-      <title>fix(cua-driver): an invoke_menu worker keeps its pid lease and the de…</title>
-      <link>https://github.com/trycua/cua/commit/02e4aa0bb947d04b9806d1b9a595c593069dafea</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/02e4aa0bb947d04b9806d1b9a595c593069dafea</guid>
-      <pubDate>Mon, 09 Nov 2026 16:05:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): an invoke_menu worker keeps its pid lease and the desktop lane until it returns (#7039)
-
-* test(cua-driver): a dropped invoke_menu call keeps the pid until its worker returns
-
-Th | why kept: runs</description>
+      <title>Got another good reminder why local matters today</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/</link>
+      <guid isPermaLink="false">t3_1xs3y17</guid>
+      <pubDate>Mon, 09 Nov 2026 16:38:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/xx98ah9dkn0i1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d2ede767ddf | why kept: local, llama</description>
     </item></channel></rss>

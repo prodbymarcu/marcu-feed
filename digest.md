@@ -1,2 +1,2 @@
-- feat(cua-driver): formally-verify-cua-driver skill and TLA+ models fo… — https://github.com/trycua/cua/commit/a6b4b307e5524d4d0c695712ea038c19e8273638 (score 2)
-- fix(cua-driver): an invoke_menu worker keeps its pid lease and the de… — https://github.com/trycua/cua/commit/02e4aa0bb947d04b9806d1b9a595c593069dafea (score 2)
+- Omni Voice is the fastest and best voice clone TTS out there. I've tested them all. — https://www.reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone/ (score 6)
+- Got another good reminder why local matters today — https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/ (score 4)
