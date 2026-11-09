@@ -1,1 +1,1 @@
-- Windows unbuffered model load (#26014) — https://github.com/ggml-org/llama.cpp/commit/9d340ec341e079d2c28afd50871afce358cdbf48 (score 6)
+- feat: external PLE file loading (#31185) — https://github.com/ggml-org/llama.cpp/commit/5f490d7bfe78844e6390c869454c149fd7e003a8 (score 4)

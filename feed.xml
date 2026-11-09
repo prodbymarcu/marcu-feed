@@ -1,15 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Windows unbuffered model load (#26014)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9d340ec341e079d2c28afd50871afce358cdbf48</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d340ec341e079d2c28afd50871afce358cdbf48</guid>
-      <pubDate>Mon, 09 Nov 2026 13:25:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Windows unbuffered model load (#26014)
+      <title>feat: external PLE file loading (#31185)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/5f490d7bfe78844e6390c869454c149fd7e003a8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5f490d7bfe78844e6390c869454c149fd7e003a8</guid>
+      <pubDate>Mon, 09 Nov 2026 13:41:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat: external PLE file loading (#31185)
 
-* Windows unbuffered io
+* model : allow loading external PLE files
 
-* Fix read len calculation
+Assisted-by: Codex
 
-* Add test and model load timing
+* convert : add separate PLE exports
 
-* chunked fallback read + removing filepointer semantic divergence b | why kept: model, codex, llama</description>
+Assisted-by: Codex
+
+* tests : fix PLE export test l | why kept: model, codex</description>
     </item></channel></rss>
