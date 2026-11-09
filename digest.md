@@ -1,3 +1,1 @@
-- Open source Chinese models are the best — https://www.reddit.com/r/LocalLLaMA/comments/1xrof5f/open_source_chinese_models_are_the_best/ (score 6)
-- Is this what they mean when they want to ban Chinese models? — https://www.reddit.com/r/LocalLLaMA/comments/1xroin1/is_this_what_they_mean_when_they_want_to_ban/ (score 6)
-- chore(main): release cua-driver-rs 0.45.2 (#7049) — https://github.com/trycua/cua/commit/ba5ab4449da9dbd97740895bd02bae866eb8d0cf (score 5)
+- metal : prevent out-of-bounds writes to the Metal FA output buffer (#… — https://github.com/ggml-org/llama.cpp/commit/e01c9f1875e8a96674756ed144aa9701498b83dd (score 2)
