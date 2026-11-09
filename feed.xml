@@ -1,21 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I fine-tuned a 2B decision model to play Doom on my Mac in 43 minutes (open source, MLX)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/</link>
-      <guid isPermaLink="false">t3_1xryvbg</guid>
-      <pubDate>Mon, 09 Nov 2026 13:58:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/d3RrZ2UwNHpsbTBpMeJtv7vUoLs73Ma3N6D0Ldhv8gnVypr98cM_Y7t_nOuE.png?wi | why kept: mlx, model, local, mlx, llama, fine-tun</description>
-    </item>
-    <item>
-      <title>Local first open source alternative to GrokBot</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xryile/local_first_open_source_alternative_to_grokbot/</link>
-      <guid isPermaLink="false">t3_1xryile</guid>
-      <pubDate>Mon, 09 Nov 2026 13:58:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xryile/local_first_open_source_alternative_to_grokbot/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Y3NnNXM2c2prbTBpMYeKihl-SVtt9udoRncPZ576HDJfU0cVUM-mAl0c6Kru.png?wid | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>Why vector DB metadata filters fail on agent memory write paths (0% raw leak vs 67% leak) reproducible offline test suite</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xryzby/why_vector_db_metadata_filters_fail_on_agent/</link>
-      <guid isPermaLink="false">t3_1xryzby</guid>
-      <pubDate>Mon, 09 Nov 2026 13:58:13 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Everyone relies on metadata filters like allowed_groups to keep multi tenant RAG locked down and under check. That works well when users query the vector store directly, which means unauthorized chunks will | why kept: agent</description>
+      <title>Looking for suggestions for a local model that would be good at evaluating comedy writing</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrv20h/looking_for_suggestions_for_a_local_model_that/</link>
+      <guid isPermaLink="false">t3_1xrv20h</guid>
+      <pubDate>Mon, 09 Nov 2026 14:13:53 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have a specific use case where I have a small web application that prompts the user with a randomly generated premise for a joke (using an llm), and then the user is expected to write a joke with the gene | why kept: model, local</description>
     </item></channel></rss>
