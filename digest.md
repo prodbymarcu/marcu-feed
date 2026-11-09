@@ -1,3 +1,1 @@
-- models : Attach Granite NVFP4 weight scales (#31449) — https://github.com/ggml-org/llama.cpp/commit/0c6dca2faeb5650c74464bd5938f856058953ef9 (score 4)
-- ci-gate: exempt Release Please pull requests from the local-ci sign-o… — https://github.com/trycua/cua/commit/ee5d3b45d2a0c565c2ca4d34ab327fd00b8a56a2 (score 4)
-- ci : Run gfx1151 ROCm job on Strix Halo Devlab runners (#31567) — https://github.com/ggml-org/llama.cpp/commit/fc0be86182c86ac19ea09b2839b2fa1187ef595c (score 2)
+- New Gemma Models — https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/ (score 2)

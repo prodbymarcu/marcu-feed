@@ -1,36 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>models : Attach Granite NVFP4 weight scales (#31449)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0c6dca2faeb5650c74464bd5938f856058953ef9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c6dca2faeb5650c74464bd5938f856058953ef9</guid>
-      <pubDate>Mon, 09 Nov 2026 07:16:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;models : Attach Granite NVFP4 weight scales (#31449)
-
-* models : Attach Granite NVFP4 weight scales
-
-* feat: Pass nvfp4 scales through build_ffn for all granite architectures
-
-Branch: granite-nvf | why kept: model, claude</description>
-    </item>
-    <item>
-      <title>ci-gate: exempt Release Please pull requests from the local-ci sign-o…</title>
-      <link>https://github.com/trycua/cua/commit/ee5d3b45d2a0c565c2ca4d34ab327fd00b8a56a2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ee5d3b45d2a0c565c2ca4d34ab327fd00b8a56a2</guid>
-      <pubDate>Mon, 09 Nov 2026 07:16:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci-gate: exempt Release Please pull requests from the local-ci sign-off (#7099)
-
-The sign-off needs bin/ci on the head commit, which a Release Please PR never has, so
-the gate failed with &amp;#39;si | why kept: claude, local</description>
-    </item>
-    <item>
-      <title>ci : Run gfx1151 ROCm job on Strix Halo Devlab runners (#31567)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fc0be86182c86ac19ea09b2839b2fa1187ef595c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fc0be86182c86ac19ea09b2839b2fa1187ef595c</guid>
-      <pubDate>Mon, 09 Nov 2026 07:16:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci : Run gfx1151 ROCm job on Strix Halo Devlab runners (#31567)
-
-* fix(rocm,ci): Update ci workflow to use devlab ci runners for gfx1151
-
-* ci : move gpu-rocm job to Strix Halo devlab runners
-
-As | why kept: claude</description>
+      <title>New Gemma Models</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrpcke/new_gemma_models/</link>
+      <guid isPermaLink="false">t3_1xrpcke</guid>
+      <pubDate>Mon, 09 Nov 2026 07:33:26 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Are there any (insider) infos to upcoming Gemma Models? Gemma 4 is for my usecase really good and I am looking forward if they will release any new even better models most likely named Gemma 5? Currently us | why kept: model</description>
     </item></channel></rss>
