@@ -1,31 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Fork of ANEMLL to get fastest Qwen 3.8 27B on Mac mini m6 by running on Neural Engine</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrtsk8/fork_of_anemll_to_get_fastest_qwen_38_27b_on_mac/</link>
-      <guid isPermaLink="false">t3_1xrtsk8</guid>
-      <pubDate>Mon, 09 Nov 2026 12:37:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I bought a bunch of Mac m6 32G minis as I think this will be excellent local hardware at the price with upcoming Qwen4 MOE&amp;#39;s...&lt;/p&gt; &lt;p&gt;I&amp;#39;ve tried 5 different inference setups, OMLX, LMLX, Splash and | why kept: qwen, mlx, model, qwen, local, quant</description>
+      <title>ConceptCountry/qwen-concept-27b · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xrxwg1</guid>
+      <pubDate>Mon, 09 Nov 2026 12:53:58 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/FP4QhzNK_HkAgIF9ipMPso84OaZd-1leeG2QquZb0jk.png?width=640&amp;amp;crop=smart&amp; | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>RustingStrata vs llama.cpp, DeepSeek-V4.1-Flash Q2 (249 GB) on a single RTX 3060 12 GB with 30 GB RAM</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrw6uv/rustingstrata_vs_llamacpp_deepseekv41flash_q2_249/</link>
-      <guid isPermaLink="false">t3_1xrw6uv</guid>
-      <pubDate>Mon, 09 Nov 2026 12:37:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;RustingStrata now runs DeepSeek-V4.1-Flash (249 GB) on a single RTX 3060 12 GB with 30 GB RAM&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;RustingStrata is a pure-Rust GGUF inference engine with CUDA and Vulkan backends. It now | why kept: runs, inference, llama</description>
+      <title>More interesting and unusual Qwen3.5-4B neurons</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/</link>
+      <guid isPermaLink="false">t3_1xrydgx</guid>
+      <pubDate>Mon, 09 Nov 2026 12:53:58 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You guys seemed to like my last post about the &amp;#39;redditor neuron&amp;#39; so I&amp;#39;m listing some other interesting neurons I&amp;#39;ve found while poking around. &lt;/p&gt; &lt;p&gt;L11 N8147: The redditor neuron/ contrar | why kept: qwen, qwen</description>
     </item>
     <item>
-      <title>Why Hasn&#x27;t Someone Recreate ShareGPT?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr4jnf/why_hasnt_someone_recreate_sharegpt/</link>
-      <guid isPermaLink="false">t3_1xr4jnf</guid>
-      <pubDate>Mon, 09 Nov 2026 12:37:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Was there some legal issues preventing someone from just making a new website where everyone would be able to share the chat logs from frontier models to create a dataset for others to use for training/fine | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>ci: stop using pull_request_target before GitHub&#x27;s 2 Dec enforcement …</title>
-      <link>https://github.com/trycua/cua/commit/c99f0d7a6ece911cd1464a948e83c0e7fca15916</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c99f0d7a6ece911cd1464a948e83c0e7fca15916</guid>
-      <pubDate>Mon, 09 Nov 2026 12:37:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: stop using pull_request_target before GitHub&amp;#39;s 2 Dec enforcement (#7139)
-
-CUA-3966. Contributor attribution, release auto-merge and the release reminder move to
-pull_request. The CLA chec | why kept: claude, runs</description>
+      <title>Any accountants/financial professionals using local LLMs?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrx72d/any_accountantsfinancial_professionals_using/</link>
+      <guid isPermaLink="false">t3_1xrx72d</guid>
+      <pubDate>Mon, 09 Nov 2026 12:53:58 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello, I’m considering buying hardware for local LLMs for the use case of processing sensitive financial data, doing market research, and preparing financial/tax documents. &lt;/p&gt; &lt;p&gt;Are any of you using loca | why kept: model, local, hardware</description>
     </item></channel></rss>
