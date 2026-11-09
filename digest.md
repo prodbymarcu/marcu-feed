@@ -1,1 +1,1 @@
-- Github Repo: Torchlens - Inspect, visualize and intervene on any operation in any neural network. — https://www.reddit.com/r/LocalLLaMA/comments/1xrh5iz/github_repo_torchlens_inspect_visualize_and/ (score 4)
+- L11 N8147 is a neuron that will make Qwen-3.5-4B get things confidently wrong while being weirdly snarky... But also mak — https://www.reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get/ (score 11)
