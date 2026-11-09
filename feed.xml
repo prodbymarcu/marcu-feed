@@ -1,9 +1,43 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(release): count apps/cua-spaces-desktop changes toward Cua Spaces…</title>
-      <link>https://github.com/trycua/cua/commit/b29ec349bb1e3845bc04717dbbb370d20022dfee</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b29ec349bb1e3845bc04717dbbb370d20022dfee</guid>
-      <pubDate>Sun, 08 Nov 2026 19:48:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(release): count apps/cua-spaces-desktop changes toward Cua Spaces releases (#7056)
+      <title>chore(main): release cua-sdk 0.17.0 (#7028)</title>
+      <link>https://github.com/trycua/cua/commit/36890ab12f33a39874124fe57b2d91ca7e6d7910</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36890ab12f33a39874124fe57b2d91ca7e6d7910</guid>
+      <pubDate>Sun, 08 Nov 2026 20:21:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.17.0 (#7028)
 
-Release Please only watched apps/cua-spaces-macos, libs/cua and apps/cua-spaces-web, so a fix that touched  | why kept: trycua, claude</description>
+* chore(main): release cua-sdk 0.17.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>CI: ci-gate reruns itself after a green rerun; PRs run only the lanes…</title>
+      <link>https://github.com/trycua/cua/commit/cc147c03d36d024a67087e33e7d9e22538cbb00b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cc147c03d36d024a67087e33e7d9e22538cbb00b</guid>
+      <pubDate>Sun, 08 Nov 2026 20:21:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CI: ci-gate reruns itself after a green rerun; PRs run only the lanes they touch (CUA-3856) (#7008)
+
+* CI: ci-gate reruns itself when a failed check turns green; each PR runs only the lanes it to | why kept: local, runs</description>
+    </item>
+    <item>
+      <title>fix(spaces): runs from a Space are confined children and a Space cann…</title>
+      <link>https://github.com/trycua/cua/commit/82752858f6256eaf4e8eccf9033cf27ad3163cea</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/82752858f6256eaf4e8eccf9033cf27ad3163cea</guid>
+      <pubDate>Sun, 08 Nov 2026 20:21:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): runs from a Space are confined children and a Space cannot start its own daemon (#7055)
+
+Cherry-picks #7000 and #7001, which landed on the stale feat/space-pool-jobs
+branch after #69 | why kept: claude, runs</description>
+    </item>
+    <item>
+      <title>Revert &quot;fix(release): count apps/cua-spaces-desktop changes toward Cu…</title>
+      <link>https://github.com/trycua/cua/commit/9dc0c7f7f3aec21fd51b443b4a3cf26c9b5d40f3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9dc0c7f7f3aec21fd51b443b4a3cf26c9b5d40f3</guid>
+      <pubDate>Sun, 08 Nov 2026 20:21:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Revert &amp;quot;fix(release): count apps/cua-spaces-desktop changes toward Cua Spaces releases (#7056)&amp;quot; (#7062)
+
+#7056 did not make Release Please count desktop commits (it still logs commits:  | why kept: claude</description>
     </item></channel></rss>

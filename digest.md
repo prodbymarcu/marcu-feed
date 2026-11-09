@@ -1,1 +1,4 @@
-- fix(release): count apps/cua-spaces-desktop changes toward Cua Spaces… — https://github.com/trycua/cua/commit/b29ec349bb1e3845bc04717dbbb370d20022dfee (score 7)
+- chore(main): release cua-sdk 0.17.0 (#7028) — https://github.com/trycua/cua/commit/36890ab12f33a39874124fe57b2d91ca7e6d7910 (score 5)
+- CI: ci-gate reruns itself after a green rerun; PRs run only the lanes… — https://github.com/trycua/cua/commit/cc147c03d36d024a67087e33e7d9e22538cbb00b (score 4)
+- fix(spaces): runs from a Space are confined children and a Space cann… — https://github.com/trycua/cua/commit/82752858f6256eaf4e8eccf9033cf27ad3163cea (score 4)
+- Revert "fix(release): count apps/cua-spaces-desktop changes toward Cu… — https://github.com/trycua/cua/commit/9dc0c7f7f3aec21fd51b443b4a3cf26c9b5d40f3 (score 2)
