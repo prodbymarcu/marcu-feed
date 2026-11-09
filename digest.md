@@ -1,1 +1,2 @@
-- ui: make the app feel native on phones (#31949) — https://github.com/ggml-org/llama.cpp/commit/610f7ab40a1422898c7916621b9c698cca7669fc (score 2)
+- llm-psicotest: a seeded 38-turn conversation to check whether a quant swap changed behaviour — https://www.reddit.com/r/LocalLLaMA/comments/1xs1my0/llmpsicotest_a_seeded_38turn_conversation_to/ (score 13)
+- Qwen 3.8 FN getting stressed from messing up — https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/ (score 11)

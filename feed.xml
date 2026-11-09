@@ -1,12 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: make the app feel native on phones (#31949)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/610f7ab40a1422898c7916621b9c698cca7669fc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/610f7ab40a1422898c7916621b9c698cca7669fc</guid>
-      <pubDate>Mon, 09 Nov 2026 15:18:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: make the app feel native on phones (#31949)
-
-* ui: reveal the mobile sidebar by sliding the page aside
-
-On a phone the sidebar now stays put under the page, and the page slides
-right to uncov | why kept: claude</description>
+      <title>llm-psicotest: a seeded 38-turn conversation to check whether a quant swap changed behaviour</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs1my0/llmpsicotest_a_seeded_38turn_conversation_to/</link>
+      <guid isPermaLink="false">t3_1xs1my0</guid>
+      <pubDate>Mon, 09 Nov 2026 15:33:49 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;llm-psicotest runs one 38-turn conversation against any OpenAI-compatible endpoint: 29 capability items plus protocol turns. The items come from seeded generators, so a seed gives byte-identical prompts on  | why kept: qwen, model, qwen, runs, quant</description>
+    </item>
+    <item>
+      <title>Qwen 3.8 FN getting stressed from messing up</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/</link>
+      <guid isPermaLink="false">t3_1xs2okh</guid>
+      <pubDate>Mon, 09 Nov 2026 15:33:49 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/xzjx45qlbn0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e08e692baf97c740 | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>
