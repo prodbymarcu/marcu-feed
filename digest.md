@@ -1,1 +1,1 @@
-- mtmd: Pocket TTS - add generic support for temperature set via API (#… — https://github.com/ggml-org/llama.cpp/commit/2d99adb1083670b5676f01614689453b6d378498 (score 4)
+- ChatGPT Desktop forwards your SSH agent to remote machines — https://news.ycombinator.com/item?id=50422628 (score 6)

@@ -1,13 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd: Pocket TTS - add generic support for temperature set via API (#…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/2d99adb1083670b5676f01614689453b6d378498</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2d99adb1083670b5676f01614689453b6d378498</guid>
-      <pubDate>Mon, 09 Nov 2026 05:24:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: Pocket TTS - add generic support for temperature set via API (#31655)
-
-* mtmd, server : add temperature to /tts, default Pocket TTS to 0.3
-
-Assisted-by: Claude Opus 5.5
-
-* feat: add temp pa | why kept: claude, llama</description>
+      <title>ChatGPT Desktop forwards your SSH agent to remote machines</title>
+      <link>https://news.ycombinator.com/item?id=50422628</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50422628</guid>
+      <pubDate>Mon, 09 Nov 2026 05:40:54 +0000</pubDate>
+      <description>&lt;p&gt;The agent running on a remote machine can authenticate using your local SSH credentials.&lt;p&gt;That means it can push to your private repos on GitHub, for example.&lt;p&gt;Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180&lt;/p | why kept: agent, codex, local</description>
     </item></channel></rss>
