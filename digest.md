@@ -1,1 +1,1 @@
-- Hide your slop PR descriptions behind <details><summary> — https://simonwillison.net/2026/Nov/9/details-summary/ (score 6)
+- The Web Is More Than Enough, by Paul Ford — https://simonwillison.net/2026/Nov/9/hn-50421091/ (score 2)

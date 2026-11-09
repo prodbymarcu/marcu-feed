@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;</title>
-      <link>https://simonwillison.net/2026/Nov/9/details-summary/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/9/details-summary/</guid>
-      <pubDate>Sun, 08 Nov 2026 23:33:01 +0000</pubDate>
-      <description>&lt;p&gt;Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, documen | why kept: agent, claude, codex</description>
+      <title>The Web Is More Than Enough, by Paul Ford</title>
+      <link>https://simonwillison.net/2026/Nov/9/hn-50421091/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/9/hn-50421091/</guid>
+      <pubDate>Sun, 08 Nov 2026 23:48:57 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=50416456#50421091&quot;&gt;My comment&lt;/a&gt; on &lt;a href=&quot;https://news.ycombinator.com/item?id=50416456&quot;&gt;The Web Is More Than Enough, by Paul Ford&lt;/a&gt; &amp;mdash; Hacker News.&lt;/p&gt;&lt;p&gt;OK, this comment convince | why kept: claude</description>
     </item></channel></rss>
