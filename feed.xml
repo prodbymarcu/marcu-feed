@@ -1,16 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(spaces): a Space uses the pool, its runs are its children and ar…</title>
-      <link>https://github.com/trycua/cua/commit/a35099d7bcc5548d9d1b86b901d20e025a0594b9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a35099d7bcc5548d9d1b86b901d20e025a0594b9</guid>
-      <pubDate>Sun, 08 Nov 2026 19:00:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): a Space uses the pool, its runs are its children and are cleaned up with it (#6945)
-
-* A Space uses the pool: cua run, jobs and computers from inside it, runs recorded under its tre | why kept: agent, claude, runs</description>
-    </item>
-    <item>
-      <title>How do you locally benchmark and compare local LLMs?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrbhdf/how_do_you_locally_benchmark_and_compare_local/</link>
-      <guid isPermaLink="false">t3_1xrbhdf</guid>
-      <pubDate>Sun, 08 Nov 2026 19:00:50 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;If I wanted to locally compare performance for multiple different offline LLM models across various modalities (speed, efficiency, reasoning, tool use, programing/coding, etc), what strategies, prompts, sof | why kept: model, local</description>
+      <title>How much code do AI models and harnesses add? I made an open-source benchmark to measure code complexity.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i/</link>
+      <guid isPermaLink="false">t3_1xrathc</guid>
+      <pubDate>Sun, 08 Nov 2026 19:16:36 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrathc/how_much_code_do_ai_models_and_harnesses_add_i/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ige03af8qg0i1.png?width=140&amp;amp;height=106&amp;amp;auto=webp&amp;amp;s=efa14b0e1128dc | why kept: model, local, llama</description>
     </item></channel></rss>
