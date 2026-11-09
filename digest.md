@@ -1,2 +1,1 @@
-- fix(spaces): Start an agent says before Start when the agent has no p… — https://github.com/trycua/cua/commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce (score 9)
-- test(spaces-web): layout anchors ignore hover scale, which Linux leav… — https://github.com/trycua/cua/commit/676ee02cde88090b4bb62e6307e9449e5f885141 (score 2)
+- Spaces web: i18n infrastructure, OS language from the host, Language … — https://github.com/trycua/cua/commit/fd059df668826e0568f9db1c63635d67726b38ed (score 2)

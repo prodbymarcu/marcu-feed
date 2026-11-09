@@ -1,19 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): Start an agent says before Start when the agent has no p…</title>
-      <link>https://github.com/trycua/cua/commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e16eeb3e71a5604c339c41d7770ece6da6ab69ce</guid>
-      <pubDate>Sun, 08 Nov 2026 20:36:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): Start an agent says before Start when the agent has no provider to use (#6977)
+      <title>Spaces web: i18n infrastructure, OS language from the host, Language …</title>
+      <link>https://github.com/trycua/cua/commit/fd059df668826e0568f9db1c63635d67726b38ed</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd059df668826e0568f9db1c63635d67726b38ed</guid>
+      <pubDate>Sun, 08 Nov 2026 20:52:31 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Spaces web: i18n infrastructure, OS language from the host, Language setting (CUA-3886) (#7022)
 
-On a new account Start succeeded and the first task came back with
-&amp;quot;Hermes needs a connected prov | why kept: hermes, agent, hermes</description>
-    </item>
-    <item>
-      <title>test(spaces-web): layout anchors ignore hover scale, which Linux leav…</title>
-      <link>https://github.com/trycua/cua/commit/676ee02cde88090b4bb62e6307e9449e5f885141</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/676ee02cde88090b4bb62e6307e9449e5f885141</guid>
-      <pubDate>Sun, 08 Nov 2026 20:36:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces-web): layout anchors ignore hover scale, which Linux leaves on a button under a scrollbar-swallowed pointer move (#7036)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;g | why kept: claude</description>
+* feat(spaces-web): i18n infrastructure, OS language from the host, Settings Language row (CUA-388 | why kept: local</description>
     </item></channel></rss>
