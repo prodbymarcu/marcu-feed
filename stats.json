@@ -1,10 +1,11 @@
 {
- "fetched": 190,
+ "fetched": 170,
  "new": 1,
  "dropped_kill": 0,
  "dropped_low": 1,
  "errors": [
-  "ml-community: <HTTPError 429: 'Too Many Requests'>"
+  "ml-community: <HTTPError 429: 'Too Many Requests'>",
+  "llama-cpp-commits: <HTTPError 504: 'Gateway Time-out'>"
  ],
  "brain": {
   "sent": 0,
@@ -12,5 +13,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 0,
- "at": "2026-11-09T05:04:42Z"
+ "at": "2026-11-09T05:36:58Z"
 }
