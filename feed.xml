@@ -1,37 +1,55 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.45.4 in Cua Spaces (#7100)</title>
-      <link>https://github.com/trycua/cua/commit/a81c82c1d8cd8d28bf81df3de4fa9da1322b2ba0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a81c82c1d8cd8d28bf81df3de4fa9da1322b2ba0</guid>
-      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.45.4 in Cua Spaces (#7100)
+      <title>fix(spaces-macos): bundle cua 0.16.0 in Cua Spaces (#7014)</title>
+      <link>https://github.com/trycua/cua/commit/4e18418b82fd70c34587406026086798be1a203f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4e18418b82fd70c34587406026086798be1a203f</guid>
+      <pubDate>Mon, 09 Nov 2026 10:46:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.16.0 in Cua Spaces (#7014)
 
-Cua Driver 0.45.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+cua 0.16.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua, agent</description>
     </item>
     <item>
-      <title>fix(auth): redact tokens in Debug output (#7071) (#7097)</title>
-      <link>https://github.com/trycua/cua/commit/646d5eb76db3ffaef409aef77986ac7d368be1a6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/646d5eb76db3ffaef409aef77986ac7d368be1a6</guid>
-      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(auth): redact tokens in Debug output (#7071) (#7097)
-
-* fix(auth): redact tokens in Debug output (#7071)
-
-Replace the derived Debug on Credentials and on the other structs that hold
-tokens, p | why kept: agent, claude</description>
+      <title>netease-youdao/Confucius4-R2T2 · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xrspiy/neteaseyoudaoconfucius4r2t2_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xrspiy</guid>
+      <pubDate>Mon, 09 Nov 2026 10:46:01 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xrspiy/neteaseyoudaoconfucius4r2t2_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/73Og9KtnWAskh-ewLUW-OQFcn04HGbD8sR-WSejVFh4.png?width=640&amp;amp;crop=smart&amp;a | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>A Java LLM implementation based on Karpathy&#x27;s GPT with alpaca_es_chat.jsonl</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xr3qok/a_java_llm_implementation_based_on_karpathys_gpt/</link>
-      <guid isPermaLink="false">t3_1xr3qok</guid>
-      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hello everyone, I wanted to share my progress on implementing a language model written 100% in pure Java. You can find the repository here (&lt;a href=&quot;https://github.com/aayes89/jUltraLLM/tree/master&quot;&gt;https:/ | why kept: model</description>
+      <title>feat(agents): official sign-in on each computer, stop copying sign-in…</title>
+      <link>https://github.com/trycua/cua/commit/5a14a01e43fc350dead0f5098d08958b68cff3ce</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a14a01e43fc350dead0f5098d08958b68cff3ce</guid>
+      <pubDate>Mon, 09 Nov 2026 10:46:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(agents): official sign-in on each computer, stop copying sign-ins by default (CUA-3907) (#7045)
+
+* feat(agents): sign Claude Code and Codex in on each computer, stop copying sign-ins by defa | why kept: agent, claude, codex</description>
     </item>
     <item>
-      <title>ci(spaces): regenerate stale generated bindings on the PR branch (CUA…</title>
-      <link>https://github.com/trycua/cua/commit/d65e1ac4dde6f75bfce5fd32d3fac1ca8ebe66b2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d65e1ac4dde6f75bfce5fd32d3fac1ca8ebe66b2</guid>
-      <pubDate>Mon, 09 Nov 2026 10:28:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): regenerate stale generated bindings on the PR branch (CUA-3953) (#7095)
+      <title>fix(spaces): install-local reads the pinned wasm-bindgen version with…</title>
+      <link>https://github.com/trycua/cua/commit/1a34d4ecf173a8753d0d3d439fe770d3b189b59e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1a34d4ecf173a8753d0d3d439fe770d3b189b59e</guid>
+      <pubDate>Mon, 09 Nov 2026 10:46:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): install-local reads the pinned wasm-bindgen version without the trailing semicolon (#7123)
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+The preflight parsed `const WASM_BINDGEN = &amp;quot;0.2.126&amp;quot;;` as `0.2.126;`, so it
+alwa | why kept: claude, local</description>
+    </item>
+    <item>
+      <title>feat(spaces-macos): install-local.sh --development for fast dev-loop …</title>
+      <link>https://github.com/trycua/cua/commit/7f9f5c20440510a999851010c00034d2afd433d1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7f9f5c20440510a999851010c00034d2afd433d1</guid>
+      <pubDate>Mon, 09 Nov 2026 10:46:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces-macos): install-local.sh --development for fast dev-loop builds (#7019)
+
+* spaces-macos: install-local.sh --development (dev-fast Cargo profile)
+
+* install-local: raise the open-file  | why kept: claude, local</description>
+    </item>
+    <item>
+      <title>fix(spaces): dogfood fixes from 8 Nov (setup, sign-in, Cua Driver, Lo…</title>
+      <link>https://github.com/trycua/cua/commit/14f9e8845134af1c13a71e2f57e5b18565df0320</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/14f9e8845134af1c13a71e2f57e5b18565df0320</guid>
+      <pubDate>Mon, 09 Nov 2026 10:46:01 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): dogfood fixes from 8 Nov (setup, sign-in, Cua Driver, Local Network, Home) (#7046)
+
+* Spaces welcome: &amp;quot;Combine all your computers into one supercomputer.&amp;quot; with the cua.ai s | why kept: claude, local</description>
     </item></channel></rss>
