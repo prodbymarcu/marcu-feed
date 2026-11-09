@@ -1,1 +1,3 @@
-- VLLM Qwen 27B or Strata Qwen Flash Next or...? — https://www.reddit.com/r/LocalLLaMA/comments/1xr85xd/vllm_qwen_27b_or_strata_qwen_flash_next_or/ (score 13)
+- Best Practices for Provisioning Local Inference to a Team? — https://www.reddit.com/r/LocalLLaMA/comments/1xs0uxs/best_practices_for_provisioning_local_inference/ (score 11)
+- Muse Ember: Zuck promised to open source muse spark 1.2 but continues to release to more closed models — https://www.reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse/ (score 6)
+- From the finest minds of our age to the dumbest monkeys on the planet — https://www.reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest/ (score 4)
