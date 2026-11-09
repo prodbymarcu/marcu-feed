@@ -1,1 +1,1 @@
-- server : functionality test for new spec dec  (#31027) — https://github.com/ggml-org/llama.cpp/commit/359dc5858ec0cb47841b1248f403ee6f45c14749 (score 2)
+- Windows unbuffered model load (#26014) — https://github.com/ggml-org/llama.cpp/commit/9d340ec341e079d2c28afd50871afce358cdbf48 (score 6)

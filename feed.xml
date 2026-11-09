@@ -1,11 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server : functionality test for new spec dec  (#31027)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/359dc5858ec0cb47841b1248f403ee6f45c14749</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/359dc5858ec0cb47841b1248f403ee6f45c14749</guid>
-      <pubDate>Mon, 09 Nov 2026 13:09:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : functionality test for new spec dec  (#31027)
+      <title>Windows unbuffered model load (#26014)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9d340ec341e079d2c28afd50871afce358cdbf48</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d340ec341e079d2c28afd50871afce358cdbf48</guid>
+      <pubDate>Mon, 09 Nov 2026 13:25:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Windows unbuffered model load (#26014)
 
-* server : functionality test to make sure every time when we add new spec dec method the existing ones are not broken.
+* Windows unbuffered io
 
-* server: use comp | why kept: model</description>
+* Fix read len calculation
+
+* Add test and model load timing
+
+* chunked fallback read + removing filepointer semantic divergence b | why kept: model, codex, llama</description>
     </item></channel></rss>
