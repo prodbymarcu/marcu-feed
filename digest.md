@@ -1,1 +1,1 @@
-- Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head — https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/ (score 4)
+- Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version? — https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/ (score 16)
