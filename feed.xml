@@ -1,32 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Free, open-source voice typing for any app on Android and iPhone: the speech model runs on your phone, so it works offline</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/</link>
-      <guid isPermaLink="false">t3_1xs8hfw</guid>
-      <pubDate>Mon, 09 Nov 2026 20:22:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/YjBlYmRhNmdobzBpMTvYS5wgpyaMAchHkL8nOmQg880vcUzqeUAJjPXKdwcP.png?width= | why kept: model, voice, local, runs, free, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.18.1 (#7134)</title>
-      <link>https://github.com/trycua/cua/commit/c8fe7166bcaedcfe08df3a77ae495e630511e3dc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8fe7166bcaedcfe08df3a77ae495e630511e3dc</guid>
-      <pubDate>Mon, 09 Nov 2026 20:22:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.18.1 (#7134)
+      <title>fix(cua-driver): connect says when an agent uses another Cua Driver (…</title>
+      <link>https://github.com/trycua/cua/commit/18daa98ad304a35802981281adc55a82bb4c3d77</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/18daa98ad304a35802981281adc55a82bb4c3d77</guid>
+      <pubDate>Mon, 09 Nov 2026 20:37:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): connect says when an agent uses another Cua Driver (#7165)
 
-* chore(main): release cua-sdk 0.18.1
+* test(cua-driver): connect reports an agent that uses the driver inside Cua Spaces
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): deliver a background left click on a Chromium contro…</title>
-      <link>https://github.com/trycua/cua/commit/7ce38f70bb2d60fd173561f45895172662e13dc8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ce38f70bb2d60fd173561f45895172662e13dc8</guid>
-      <pubDate>Mon, 09 Nov 2026 20:22:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): deliver a background left click on a Chromium control on Linux X11 (#7157)
-
-A background click at a pixel of an unfocused Chromium or Electron window was
-refused before the acces | why kept: runs</description>
+* fix(cua-driver): connect says w | why kept: agent</description>
     </item></channel></rss>

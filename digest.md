@@ -1,3 +1,1 @@
-- Free, open-source voice typing for any app on Android and iPhone: the speech model runs on your phone, so it works offli — https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/ (score 12)
-- chore(main): release cua-sdk 0.18.1 (#7134) — https://github.com/trycua/cua/commit/c8fe7166bcaedcfe08df3a77ae495e630511e3dc (score 5)
-- fix(cua-driver): deliver a background left click on a Chromium contro… — https://github.com/trycua/cua/commit/7ce38f70bb2d60fd173561f45895172662e13dc8 (score 2)
+- fix(cua-driver): connect says when an agent uses another Cua Driver (… — https://github.com/trycua/cua/commit/18daa98ad304a35802981281adc55a82bb4c3d77 (score 2)
