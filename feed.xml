@@ -1,40 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>bin/ci: give each run its own log dir so a concurrent run cannot dele…</title>
-      <link>https://github.com/trycua/cua/commit/655a8c6cda2e91299f684a312be33a05700ed2d1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/655a8c6cda2e91299f684a312be33a05700ed2d1</guid>
-      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;bin/ci: give each run its own log dir so a concurrent run cannot delete its logs (#7230)
+      <title>ci(release): sync Sandbox docs and in-repo lockfile versions on relea…</title>
+      <link>https://github.com/trycua/cua/commit/913ec968ec168c8f4cb3888567b9a19912c1fc06</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/913ec968ec168c8f4cb3888567b9a19912c1fc06</guid>
+      <pubDate>Tue, 10 Nov 2026 08:38:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): sync Sandbox docs and in-repo lockfile versions on release PRs (#7234)
 
-Runs sharing a worktree wiped each other&amp;#39;s logs at start, so the report
-crashed on a vanished log fil | why kept: trycua, claude, runs</description>
+Sandbox and bench release PRs failed quick and Docs page tests: the release
+sync stamped only three generated  | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>Nobody wondering why the US takes Nvidia CEO affair public?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/</link>
-      <guid isPermaLink="false">t3_1xsljn6</guid>
-      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I understand the topic is prime material for shits and giggles. Chinese model, Nvidia being the centre piece of the AI trade, etc. But why go so public on this? All of this could&amp;#39;ve been dealt with behi | why kept: model, hardware</description>
-    </item>
-    <item>
-      <title>fix(spaces): setup&#x27;s step bars count the steps it really shows (CUA-3…</title>
-      <link>https://github.com/trycua/cua/commit/742d386788f43c76e7752d038dc12f9676b39717</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/742d386788f43c76e7752d038dc12f9676b39717</guid>
-      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): setup&amp;#39;s step bars count the steps it really shows (CUA-3973) (#7159)
+      <title>fix(spaces): new-user friction from the 10 Nov device test (CUA-3980)…</title>
+      <link>https://github.com/trycua/cua/commit/55730e3f48d43038276e22c6a8cf1fbf1934d9a5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55730e3f48d43038276e22c6a8cf1fbf1934d9a5</guid>
+      <pubDate>Tue, 10 Nov 2026 08:38:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): new-user friction from the 10 Nov device test (CUA-3980) (#7176)
 
-* fix(spaces): setup&amp;#39;s step dots count the steps it really shows (CUA-3973)
+* fix(spaces): new-user friction from the 10 Nov device test (CUA-3980)
 
-The step dots under Cua Spa | why kept: agent, runs</description>
-    </item>
-    <item>
-      <title>cuda : remove unused quantize_cuda_t typedef (#31884)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c75fba30cf7d6c39af987205f9bae6cbd3281231</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c75fba30cf7d6c39af987205f9bae6cbd3281231</guid>
-      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : remove unused quantize_cuda_t typedef (#31884)
-
-This commit removes the unused quantize_cuda_t from quantize.cuh.
-
-The motivation for this is that the usage of this typedef as a function
-p | why kept: quant</description>
+- Permissions step: the button says what is | why kept: runs</description>
     </item></channel></rss>

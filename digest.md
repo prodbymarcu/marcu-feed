@@ -1,4 +1,2 @@
-- bin/ci: give each run its own log dir so a concurrent run cannot dele… — https://github.com/trycua/cua/commit/655a8c6cda2e91299f684a312be33a05700ed2d1 (score 9)
-- Nobody wondering why the US takes Nvidia CEO affair public? — https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/ (score 4)
-- fix(spaces): setup's step bars count the steps it really shows (CUA-3… — https://github.com/trycua/cua/commit/742d386788f43c76e7752d038dc12f9676b39717 (score 4)
-- cuda : remove unused quantize_cuda_t typedef (#31884) — https://github.com/ggml-org/llama.cpp/commit/c75fba30cf7d6c39af987205f9bae6cbd3281231 (score 2)
+- ci(release): sync Sandbox docs and in-repo lockfile versions on relea… — https://github.com/trycua/cua/commit/913ec968ec168c8f4cb3888567b9a19912c1fc06 (score 7)
+- fix(spaces): new-user friction from the 10 Nov device test (CUA-3980)… — https://github.com/trycua/cua/commit/55730e3f48d43038276e22c6a8cf1fbf1934d9a5 (score 2)
