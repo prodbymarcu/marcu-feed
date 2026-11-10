@@ -1,20 +1,31 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.21.0 in Cua Spaces (#7241)</title>
-      <link>https://github.com/trycua/cua/commit/9ffb9f3234af232e0cfb38ad8650f9013bc232f3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9ffb9f3234af232e0cfb38ad8650f9013bc232f3</guid>
-      <pubDate>Tue, 10 Nov 2026 11:34:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.21.0 in Cua Spaces (#7241)
-
-cua 0.21.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/</link>
+      <guid isPermaLink="false">t3_1xsorsx</guid>
+      <pubDate>Tue, 10 Nov 2026 11:50:51 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/6iqJC_OQBf_kD5iSYHgH6Y9ZKA8j8Yf_rB5iiVc2Rds.png?width=640&amp;amp;crop= | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-…</title>
-      <link>https://github.com/trycua/cua/commit/9058fbe9f873c5ccc038a8350472045869275895</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9058fbe9f873c5ccc038a8350472045869275895</guid>
-      <pubDate>Tue, 10 Nov 2026 11:34:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-3971) (#7214)
+      <title>chore(main): release bench 0.4.0 (#7233)</title>
+      <link>https://github.com/trycua/cua/commit/47054e8fb287457dc2bd25e09be32c3def6d515b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/47054e8fb287457dc2bd25e09be32c3def6d515b</guid>
+      <pubDate>Tue, 10 Nov 2026 11:50:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.0 (#7233)
 
-* perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-3971)
+* chore(main): release bench 0.4.0
 
-cua-sdk waited for the whole cua- | why kept: local</description>
+* chore(bench): synchronize release lockfiles
+
+* chore(bench): synchronize release lockfiles and documentation
+
+----- | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces): job Spaces show as one labeled row, not as raw runs (#7006)</title>
+      <link>https://github.com/trycua/cua/commit/8fe112f91046deb571c02bd0985d9fbbcf80e4b1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8fe112f91046deb571c02bd0985d9fbbcf80e4b1</guid>
+      <pubDate>Tue, 10 Nov 2026 11:50:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): job Spaces show as one labeled row, not as raw runs (#7006)
+
+* The parts of a job&amp;#39;s row: its name in a pet-name shape (never an id), the JOB tag in the AI tag&amp;#39;s look, one row | why kept: claude, runs</description>
     </item></channel></rss>

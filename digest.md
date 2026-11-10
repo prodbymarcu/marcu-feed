@@ -1,2 +1,3 @@
-- fix(spaces-macos): bundle cua 0.21.0 in Cua Spaces (#7241) — https://github.com/trycua/cua/commit/9ffb9f3234af232e0cfb38ad8650f9013bc232f3 (score 5)
-- perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-… — https://github.com/trycua/cua/commit/9058fbe9f873c5ccc038a8350472045869275895 (score 2)
+- We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common la — https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/ (score 11)
+- chore(main): release bench 0.4.0 (#7233) — https://github.com/trycua/cua/commit/47054e8fb287457dc2bd25e09be32c3def6d515b (score 5)
+- fix(spaces): job Spaces show as one labeled row, not as raw runs (#7006) — https://github.com/trycua/cua/commit/8fe112f91046deb571c02bd0985d9fbbcf80e4b1 (score 4)
