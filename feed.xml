@@ -1,7 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/</link>
-      <guid isPermaLink="false">t3_1xsbmbx</guid>
-      <pubDate>Mon, 09 Nov 2026 22:29:53 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Edit: Using unsloth UD-Q4_K_XL and q8_0 engrams&lt;/p&gt; &lt;p&gt;Just curious to know what benefit it brings.&lt;/p&gt; &lt;p&gt;To be honest, I did 😆 but apart from that warm feeling, I did not notice anything.&lt;/p&gt; &lt;p&gt;I would l | why kept: unsloth, qwen, qwen, local, llama</description>
+      <title>feat(cua): report agent run and Space create status to the terminal (…</title>
+      <link>https://github.com/trycua/cua/commit/f54ca3de1cd7468a5ec2e74be571a80d9b2b532b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f54ca3de1cd7468a5ec2e74be571a80d9b2b532b</guid>
+      <pubDate>Mon, 09 Nov 2026 22:45:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua): report agent run and Space create status to the terminal (OSC 7501) (#5155)
+
+* feat(cua): report agent run and Space create status to the terminal (OSC 7501)
+
+`cua agent run -f`, `cua  | why kept: agent, runs</description>
     </item></channel></rss>

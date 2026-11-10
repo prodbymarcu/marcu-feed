@@ -1,1 +1,1 @@
-- Qwen3.8-Flash-Next: Have you tried swapping the ngrams as per their latest version? — https://www.reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the/ (score 16)
+- feat(cua): report agent run and Space create status to the terminal (… — https://github.com/trycua/cua/commit/f54ca3de1cd7468a5ec2e74be571a80d9b2b532b (score 4)
