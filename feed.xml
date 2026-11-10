@@ -1,15 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.23.0 (#7297)</title>
-      <link>https://github.com/trycua/cua/commit/5fbd783aeaf50e7f64cbf925f8a471e8978a9ad5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5fbd783aeaf50e7f64cbf925f8a471e8978a9ad5</guid>
-      <pubDate>Tue, 10 Nov 2026 17:43:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.23.0 (#7297)
+      <title>chore(main): release cua-driver-rs 0.47.4 (#7296)</title>
+      <link>https://github.com/trycua/cua/commit/09b38ab661aa8b7d46deb5ff98ca00063019f592</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/09b38ab661aa8b7d46deb5ff98ca00063019f592</guid>
+      <pubDate>Tue, 10 Nov 2026 17:58:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.4 (#7296)
 
-* chore(main): release cua-sdk 0.23.0
+* chore(main): release cua-driver-rs 0.47.4
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

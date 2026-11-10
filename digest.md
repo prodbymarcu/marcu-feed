@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.23.0 (#7297) — https://github.com/trycua/cua/commit/5fbd783aeaf50e7f64cbf925f8a471e8978a9ad5 (score 5)
+- chore(main): release cua-driver-rs 0.47.4 (#7296) — https://github.com/trycua/cua/commit/09b38ab661aa8b7d46deb5ff98ca00063019f592 (score 5)
