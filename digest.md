@@ -1,2 +1,1 @@
-- Strata after heavy optimizations — https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/ (score 4)
-- llama : reuse backend scheduler when sched_params are compatible (#32… — https://github.com/ggml-org/llama.cpp/commit/3e86ce2c2dd11ae084fa435c11ea99cfd035988e (score 2)
+- MiniMaxAI/MiniMax-H3-Image · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/ (score 9)

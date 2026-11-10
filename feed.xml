@@ -1,14 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Strata after heavy optimizations</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/</link>
-      <guid isPermaLink="false">t3_1xsl8w7</guid>
-      <pubDate>Tue, 10 Nov 2026 10:14:54 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/istdnwi90s0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9dadd80031d1f3a49294c40dc40f | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>llama : reuse backend scheduler when sched_params are compatible (#32…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/3e86ce2c2dd11ae084fa435c11ea99cfd035988e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3e86ce2c2dd11ae084fa435c11ea99cfd035988e</guid>
-      <pubDate>Tue, 10 Nov 2026 10:14:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : reuse backend scheduler when sched_params are compatible (#32009)&lt;/pre&gt; | why kept: llama</description>
+      <title>MiniMaxAI/MiniMax-H3-Image · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xsp3xt</guid>
+      <pubDate>Tue, 10 Nov 2026 10:47:01 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/XwsRvrA8BKRds7VwuV_0U8AIDpbOgCKrI86SyYCFIZc.png?width=640&amp;amp;crop=smart&amp;amp;a | why kept: minimax, local, llama</description>
     </item></channel></rss>
