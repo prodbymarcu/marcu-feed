@@ -1,21 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/</link>
-      <guid isPermaLink="false">t3_1xs7ffm</guid>
-      <pubDate>Mon, 09 Nov 2026 19:18:20 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/du0slvsh8o0i1.png?width=140&amp;amp;height=79&amp;amp;auto=webp&amp;amp;s=357d8a91b90ff5 | why kept: qwen, model, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>How to mess around with neurons... a short guide</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/</link>
-      <guid isPermaLink="false">t3_1xs81f3</guid>
-      <pubDate>Mon, 09 Nov 2026 19:18:20 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I made a couple of posts about weird neurons inside Qwen that I&amp;#39;d found and lots of people were asking how it was done so I thought it would be useful for people to have a guide. Generally this was insp | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>Locating the source of a mysterious beep with Claude</title>
-      <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:18:20 +0000</pubDate>
-      <description>&lt;p&gt;Our house has a box room, full of boxes that we still haven&#x27;t unpacked from our last move. A couple of weeks ago something in that room started &lt;em&gt;intermittently beeping&lt;/em&gt;. The beeps were far enough apart that standing in the room an | why kept: claude</description>
+      <title>llm-anthropic 0.31</title>
+      <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:34:04 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-anthropic/releases/tag/0.31&quot;&gt;llm-anthropic 0.31&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Anthropic &lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;released Fable 5.2 and Mythos 5 | why kept: claude</description>
     </item></channel></rss>
