@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.20.0 in Cua Spaces (#7199)</title>
-      <link>https://github.com/trycua/cua/commit/4b867b2dc7c03ee6db90a543a956b73d6fb35456</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4b867b2dc7c03ee6db90a543a956b73d6fb35456</guid>
-      <pubDate>Tue, 10 Nov 2026 06:30:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.20.0 in Cua Spaces (#7199)
+      <title>fix(hyprland-plugin): smoke-test the released Cua Driver in the requa…</title>
+      <link>https://github.com/trycua/cua/commit/91d5f4134ec63b74adff4b61310c28eca826513c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/91d5f4134ec63b74adff4b61310c28eca826513c</guid>
+      <pubDate>Tue, 10 Nov 2026 06:46:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(hyprland-plugin): smoke-test the released Cua Driver in the requalification session (CUA-3992) (#7206)
 
-cua 0.20.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+* ci(hyprland-plugin): smoke-test the released Cua Driver in the requalification sessio | why kept: runs</description>
     </item></channel></rss>

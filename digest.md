@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.20.0 in Cua Spaces (#7199) — https://github.com/trycua/cua/commit/4b867b2dc7c03ee6db90a543a956b73d6fb35456 (score 5)
+- fix(hyprland-plugin): smoke-test the released Cua Driver in the requa… — https://github.com/trycua/cua/commit/91d5f4134ec63b74adff4b61310c28eca826513c (score 2)
