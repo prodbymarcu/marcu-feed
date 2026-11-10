@@ -1,1 +1,3 @@
-- Is ArtificialAnalysis biased against open weight models? — https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/ (score 6)
+- Same prompt, DeepSeek V4.1 Flash vs Qwen 3.8 FN: 94 tok/s vs 350 tok/s — https://www.reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94/ (score 13)
+- How to mess around with neurons... a short guide — https://www.reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide/ (score 7)
+- Locating the source of a mysterious beep with Claude — https://simonwillison.net/2026/Nov/9/mysterious-beeps/ (score 2)
