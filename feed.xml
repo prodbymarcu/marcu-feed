@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.19.0 in Cua Spaces (#7182)</title>
-      <link>https://github.com/trycua/cua/commit/1cf7418970b7c167765262d5ac38ada91ecc514e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1cf7418970b7c167765262d5ac38ada91ecc514e</guid>
-      <pubDate>Tue, 10 Nov 2026 01:09:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.19.0 in Cua Spaces (#7182)
-
-cua 0.19.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>Yonkers Rises</title>
+      <link>https://simonwillison.net/2026/Nov/10/yonkers-rises/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/10/yonkers-rises/</guid>
+      <pubDate>Tue, 10 Nov 2026 01:41:53 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Tool:&lt;/strong&gt; &lt;a href=&quot;https://tools.simonwillison.net/yonkers-rises&quot;&gt;Yonkers Rises&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;I realized I didn&#x27;t know where Yonkers was, so I looked it up on Google Maps and then, to help embed it&#x27;s location and shape  | why kept: model, claude</description>
+    </item>
+    <item>
+      <title>[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins</title>
+      <link>https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/</link>
+      <guid isPermaLink="false">urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8</guid>
+      <pubDate>Tue, 10 Nov 2026 01:41:53 +0000</pubDate>
+      <description>November 9, 2026 — Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic’s IPO roadshow day. How much thinking is worth paying for? | why kept: claude</description>
     </item></channel></rss>

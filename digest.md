@@ -1,1 +1,2 @@
-- fix(spaces-macos): bundle cua 0.19.0 in Cua Spaces (#7182) — https://github.com/trycua/cua/commit/1cf7418970b7c167765262d5ac38ada91ecc514e (score 5)
+- Yonkers Rises — https://simonwillison.net/2026/Nov/10/yonkers-rises/ (score 4)
+- [AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins — https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/ (score 2)
