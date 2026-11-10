@@ -1,1 +1,5 @@
-- MiniMaxAI/MiniMax-H3-Image · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face/ (score 9)
+- ci(release): stamp the cua-bench release version into its reference d… — https://github.com/trycua/cua/commit/ad36eb5a4cd5f952f901c9a20f2858ddced31567 (score 7)
+- test(cua-spaces): the name and stale-relay tests follow the pet names… — https://github.com/trycua/cua/commit/9a63d6b07c781e266420ed24161ccf3a89fab5f9 (score 4)
+- feat(spaces): show a child Space's window in the parent's Stream sect… — https://github.com/trycua/cua/commit/5f09d890ad10a68c02de0cfd4e3fe24096537059 (score 4)
+- llama : Add FP8 KV-cache support (#28392) — https://github.com/ggml-org/llama.cpp/commit/202c1a229f5a83d1c9d758ed0f2d43760fa4bab0 (score 2)
+- fix(cua-spacesd): remove the agent sandbox even when its setup fails … — https://github.com/trycua/cua/commit/7b8de092587a04926919b52e2dcb472a4e9e947a (score 2)
