@@ -1,1 +1,2 @@
-- Introducing Our Smallest, Most Efficient Model: Muse Ember — https://simonwillison.net/2026/Nov/10/muse-ember/ (score 8)
+- vulkan: add tiled-transpose concat shader for Qwen models (#30591) — https://github.com/ggml-org/llama.cpp/commit/ae4893a092e060cfbd4979600bf3c1e48a710874 (score 11)
+- sycl: Add device-side MoE scheduler (#30156) — https://github.com/ggml-org/llama.cpp/commit/18c5a95e2b507a44bf0cbfc8abf997731a39ef87 (score 4)
