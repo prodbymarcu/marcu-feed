@@ -1,18 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>My AI is lazier than me</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/</link>
-      <guid isPermaLink="false">t3_1xsytlk</guid>
-      <pubDate>Tue, 10 Nov 2026 16:38:42 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let&amp;#39;s start with my setup: I have 2 Sparks running glm 5.3 flash, and the harness is hermes agent running on a MacBook Air.&lt;/p&gt; &lt;p&gt;While trying to justify all the money I spent (around 6500 euro for bot | why kept: hermes, agent, hermes</description>
+      <title>ui: update the README banner to the new llama.cpp cover and remove th…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/85822a7ab9cb67f625c95410014da19ad6434404</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/85822a7ab9cb67f625c95410014da19ad6434404</guid>
+      <pubDate>Tue, 10 Nov 2026 16:54:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: update the README banner to the new llama.cpp cover and remove the legacy brand assets (#31789)
+
+* media : remove the legacy llama0 and llama1 brand assets
+
+The brand assets live in ggml-org/ | why kept: claude, llama</description>
     </item>
     <item>
-      <title>ui: show audio in Discover for models whose mmproj has an audio encod…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/2b66bfbf7107e43f5cd2fe99802ff6e872e4c4d0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2b66bfbf7107e43f5cd2fe99802ff6e872e4c4d0</guid>
-      <pubDate>Tue, 10 Nov 2026 16:38:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show audio in Discover for models whose mmproj has an audio encoder (#31837)
+      <title>feat(spaces): Home shows your computers as one supercomputer (CUA-397…</title>
+      <link>https://github.com/trycua/cua/commit/49f716e9c7e224db0f1bafbb2957be385f308e01</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/49f716e9c7e224db0f1bafbb2957be385f308e01</guid>
+      <pubDate>Tue, 10 Nov 2026 16:54:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Home shows your computers as one supercomputer (CUA-3976) (#7166)
 
-* ui: show audio in Discover for models whose mmproj has an audio encoder
+* fix(spaces): setup&amp;#39;s step dots count the steps it really shows (CUA-3973)
 
-Discover took audio only from the pipe | why kept: model</description>
+The step dots under Cua Spaces se | why kept: agent, runs</description>
     </item></channel></rss>

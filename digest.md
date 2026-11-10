@@ -1,2 +1,2 @@
-- My AI is lazier than me — https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/ (score 9)
-- ui: show audio in Discover for models whose mmproj has an audio encod… — https://github.com/ggml-org/llama.cpp/commit/2b66bfbf7107e43f5cd2fe99802ff6e872e4c4d0 (score 2)
+- ui: update the README banner to the new llama.cpp cover and remove th… — https://github.com/ggml-org/llama.cpp/commit/85822a7ab9cb67f625c95410014da19ad6434404 (score 4)
+- feat(spaces): Home shows your computers as one supercomputer (CUA-397… — https://github.com/trycua/cua/commit/49f716e9c7e224db0f1bafbb2957be385f308e01 (score 4)
