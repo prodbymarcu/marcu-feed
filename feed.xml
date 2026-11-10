@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/</link>
-      <guid isPermaLink="false">t3_1xsl4qt</guid>
-      <pubDate>Tue, 10 Nov 2026 09:26:39 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/7h43jh95zr0i1.png?width=140&amp;amp;height=62&amp;amp;auto=webp&amp;amp;s=6c9b0d7806e941589bfa64 | why kept: agent, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.47.2 (#7236)</title>
+      <link>https://github.com/trycua/cua/commit/13701990d52dfcf439ad1af1030de3f4594ad44b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/13701990d52dfcf439ad1af1030de3f4594ad44b</guid>
+      <pubDate>Tue, 10 Nov 2026 09:42:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.2 (#7236)
+
+* chore(main): release cua-driver-rs 0.47.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

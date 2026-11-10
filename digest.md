@@ -1,1 +1,1 @@
-- [Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations — https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/ (score 6)
+- chore(main): release cua-driver-rs 0.47.2 (#7236) — https://github.com/trycua/cua/commit/13701990d52dfcf439ad1af1030de3f4594ad44b (score 5)
