@@ -1,10 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>vulkan: cap scalar flash attention at 8 rows for large heads on Qualc…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/78ffbaa18533c2ed51eab2ef5ae0702330efc3e9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78ffbaa18533c2ed51eab2ef5ae0702330efc3e9</guid>
-      <pubDate>Tue, 10 Nov 2026 02:13:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: cap scalar flash attention at 8 rows for large heads on Qualcomm (#30829)
-
-With head sizes above 128 and KV &amp;gt;= 1024, scalar flash attention uses
-16 rows per workgroup. On the Qualcomm  | why kept: runs</description>
+      <title>Introducing Our Smallest, Most Efficient Model: Muse Ember</title>
+      <link>https://simonwillison.net/2026/Nov/10/muse-ember/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/10/muse-ember/</guid>
+      <pubDate>Tue, 10 Nov 2026 02:29:57 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://research.meta.ai/blog/muse-ember&quot;&gt;Introducing Our Smallest, Most Efficient Model: Muse Ember&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they descri | why kept: model, agent, claude, tool call</description>
     </item></channel></rss>

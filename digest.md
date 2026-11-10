@@ -1,1 +1,1 @@
-- vulkan: cap scalar flash attention at 8 rows for large heads on Qualc… — https://github.com/ggml-org/llama.cpp/commit/78ffbaa18533c2ed51eab2ef5ae0702330efc3e9 (score 2)
+- Introducing Our Smallest, Most Efficient Model: Muse Ember — https://simonwillison.net/2026/Nov/10/muse-ember/ (score 8)
