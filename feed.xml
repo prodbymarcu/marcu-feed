@@ -1,12 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>cuda : remove unused ids and type_src0 parameters (#32018)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/cd4ed902e174e54d7198105a720bb379a526309d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd4ed902e174e54d7198105a720bb379a526309d</guid>
-      <pubDate>Tue, 10 Nov 2026 12:38:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : remove unused ids and type_src0 parameters (#32018)
+      <title>release: hourly sweeper for superseded draft releases (#7264)</title>
+      <link>https://github.com/trycua/cua/commit/5098eecb09223e53d49c31d58d228a5493a10c9d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5098eecb09223e53d49c31d58d228a5493a10c9d</guid>
+      <pubDate>Tue, 10 Nov 2026 12:54:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;release: hourly sweeper for superseded draft releases (#7264)
 
-This commit removes the unused ids and type_src0 parameters from
-quantize_row_q8_1_cuda.
+Drafts left by failed, cancelled or skipped CD runs piled up (28 on 10 Nov).
+The sweeper deletes drafts older than 24 h that a same- | why kept: trycua, claude, runs</description>
+    </item>
+    <item>
+      <title>fix(spaces): first agent on This Mac after Set up no longer fails to …</title>
+      <link>https://github.com/trycua/cua/commit/46116784b637483e750f624ef0ef6fb74c745bde</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/46116784b637483e750f624ef0ef6fb74c745bde</guid>
+      <pubDate>Tue, 10 Nov 2026 12:54:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): first agent on This Mac after Set up no longer fails to reach it (#7161)
 
-The motivation for this is that these paramet | why kept: quant, llama</description>
+Set up shares This Mac&amp;#39;s desktop, which restarts its cua-spacesd. The
+daemon kept its connection to the  | why kept: agent</description>
     </item></channel></rss>
