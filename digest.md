@@ -1,1 +1,2 @@
-- Prediction: more enthusiasts will get custom quantisations build by opus and Asta for their hardware and precision needs — https://www.reddit.com/r/LocalLLaMA/comments/1xsg2cu/prediction_more_enthusiasts_will_get_custom/ (score 18)
+- model : stop renaming the recurrent cache tensors in plamo2 (#31984) — https://github.com/ggml-org/llama.cpp/commit/940a30ee3b5593e1a66fe0aadc3b731989022552 (score 2)
+- fix(cua-driver): name the AXWindows read error in ax_window_unresolve… — https://github.com/trycua/cua/commit/0365501c94dd325bec93c3b40c51150d311ea1bf (score 2)
