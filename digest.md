@@ -1,1 +1,2 @@
-- llm-anthropic 0.31 — https://simonwillison.net/2026/Nov/9/llm-anthropic/ (score 2)
+- Inference optimization — https://www.reddit.com/r/LocalLLaMA/comments/1xs7bde/inference_optimization/ (score 6)
+- chore(main): release cua-driver-rs 0.46.1 (#7163) — https://github.com/trycua/cua/commit/93c9b500a0d4f9daa56063d3d3e3fb3c9e6070ee (score 5)

@@ -1,8 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llm-anthropic 0.31</title>
-      <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/9/llm-anthropic/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:34:04 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-anthropic/releases/tag/0.31&quot;&gt;llm-anthropic 0.31&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Anthropic &lt;a href=&quot;https://www.anthropic.com/claude-fable-and-mythos-5-2&quot;&gt;released Fable 5.2 and Mythos 5 | why kept: claude</description>
+      <title>Inference optimization</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs7bde/inference_optimization/</link>
+      <guid isPermaLink="false">t3_1xs7bde</guid>
+      <pubDate>Mon, 09 Nov 2026 20:05:51 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all,&lt;/p&gt; &lt;p&gt;Looking to learn inference optimization, I learn by doing u fortunately but I have read a good part of the inference engineering book by Philip Kelly. Currently have a 4070 and 64gb of RAM.  | why kept: local, inference, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.46.1 (#7163)</title>
+      <link>https://github.com/trycua/cua/commit/93c9b500a0d4f9daa56063d3d3e3fb3c9e6070ee</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/93c9b500a0d4f9daa56063d3d3e3fb3c9e6070ee</guid>
+      <pubDate>Mon, 09 Nov 2026 20:05:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.46.1 (#7163)
+
+* chore(main): release cua-driver-rs 0.46.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
