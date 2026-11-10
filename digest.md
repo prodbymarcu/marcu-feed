@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.21.0 (#7213) — https://github.com/trycua/cua/commit/a4ec97ee94dc04332dacbca635886e03d8c27e8d (score 5)
+- [Paper] Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations — https://www.reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming/ (score 6)
