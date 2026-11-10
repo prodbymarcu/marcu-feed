@@ -1,15 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.2 (#7236)</title>
-      <link>https://github.com/trycua/cua/commit/13701990d52dfcf439ad1af1030de3f4594ad44b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/13701990d52dfcf439ad1af1030de3f4594ad44b</guid>
-      <pubDate>Tue, 10 Nov 2026 09:42:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.2 (#7236)
+      <title>MiniMax H3-Image Released, an Open-Weight Image Model built on H3</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/</link>
+      <guid isPermaLink="false">t3_1xso1ie</guid>
+      <pubDate>Tue, 10 Nov 2026 09:58:50 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/k6n52ezfns0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=be392577f4f9713 | why kept: minimax, model, local, llama</description>
+    </item>
+    <item>
+      <title>ui: gather chats into named groups in the sidebar (#32012)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/281e7dad7cfe4539b13d0218f4b0fd5a03f3abc9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/281e7dad7cfe4539b13d0218f4b0fd5a03f3abc9</guid>
+      <pubDate>Tue, 10 Nov 2026 09:58:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: gather chats into named groups in the sidebar (#32012)
 
-* chore(main): release cua-driver-rs 0.47.2
+* ui: let a menu action open a submenu
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Group and project pickers open as flyouts from a chat&amp;#39;s menus. Master&amp;#39;s menu
+list has n | why kept: claude</description>
     </item></channel></rss>

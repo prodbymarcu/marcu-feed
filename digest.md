@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.47.2 (#7236) — https://github.com/trycua/cua/commit/13701990d52dfcf439ad1af1030de3f4594ad44b (score 5)
+- MiniMax H3-Image Released, an Open-Weight Image Model built on H3 — https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/ (score 11)
+- ui: gather chats into named groups in the sidebar (#32012) — https://github.com/ggml-org/llama.cpp/commit/281e7dad7cfe4539b13d0218f4b0fd5a03f3abc9 (score 2)
