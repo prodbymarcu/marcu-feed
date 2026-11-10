@@ -1,1 +1,3 @@
-- chore(main): release cua-driver-rs 0.47.4 (#7296) — https://github.com/trycua/cua/commit/09b38ab661aa8b7d46deb5ff98ca00063019f592 (score 5)
+- We got custom inference per model per hardware now. How long before we get custom hardware for model? — https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/ (score 10)
+- fix(sandbox): forward time_to_start to the local runtime's readiness … — https://github.com/trycua/cua/commit/6086a10126945c1079b5069a720436aab32a2bf6 (score 9)
+- fix(cua-driver): list windows when Hyprland omits a workspace id (fro… — https://github.com/trycua/cua/commit/caaa8acb5817c613d24b2beca9abe20b5f9253e8 (score 2)

@@ -1,15 +1,27 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.4 (#7296)</title>
-      <link>https://github.com/trycua/cua/commit/09b38ab661aa8b7d46deb5ff98ca00063019f592</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/09b38ab661aa8b7d46deb5ff98ca00063019f592</guid>
-      <pubDate>Tue, 10 Nov 2026 17:58:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.4 (#7296)
+      <title>We got custom inference per model per hardware now. How long before we get custom hardware for model?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/</link>
+      <guid isPermaLink="false">t3_1xt059z</guid>
+      <pubDate>Tue, 10 Nov 2026 18:46:49 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Is it possible to have a custom hardware designed (by ai) and open sourced that we can send for manufacturing for specific models? like for DSF 4.1F &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a hre | why kept: model, local, inference, llama, hardware</description>
+    </item>
+    <item>
+      <title>fix(sandbox): forward time_to_start to the local runtime&#x27;s readiness …</title>
+      <link>https://github.com/trycua/cua/commit/6086a10126945c1079b5069a720436aab32a2bf6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6086a10126945c1079b5069a720436aab32a2bf6</guid>
+      <pubDate>Tue, 10 Nov 2026 18:46:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): forward time_to_start to the local runtime&amp;#39;s readiness budget (#7304)
 
-* chore(main): release cua-driver-rs 0.47.4
+Sandbox.create/ephemeral accepted time_to_start but only the contrib path used it;
+the local runtime alway | why kept: trycua, claude, local</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): list windows when Hyprland omits a workspace id (fro…</title>
+      <link>https://github.com/trycua/cua/commit/caaa8acb5817c613d24b2beca9abe20b5f9253e8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/caaa8acb5817c613d24b2beca9abe20b5f9253e8</guid>
+      <pubDate>Tue, 10 Nov 2026 18:46:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): list windows when Hyprland omits a workspace id (from #6268) (#7305)
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Hyprland 0.57 omits id from an unused specialWorkspace, which made
+list_windows return empty. Default the id | why kept: claude</description>
     </item></channel></rss>
