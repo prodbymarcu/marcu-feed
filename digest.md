@@ -1,1 +1,2 @@
-- I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval — https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/ (score 9)
+- My AI is lazier than me — https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/ (score 9)
+- ui: show audio in Discover for models whose mmproj has an audio encod… — https://github.com/ggml-org/llama.cpp/commit/2b66bfbf7107e43f5cd2fe99802ff6e872e4c4d0 (score 2)

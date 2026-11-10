@@ -1,7 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B&#x27;s 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/</link>
-      <guid isPermaLink="false">t3_1xssj9q</guid>
-      <pubDate>Tue, 10 Nov 2026 16:06:39 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been recently working a small sparse MoE, and I&amp;#39;ve got interesting results I&amp;#39;d like strangers to invalidate.&lt;/p&gt; &lt;p&gt;Tldr; I train small models and got surprising results and seek invalidati | why kept: qwen, model, qwen</description>
+      <title>My AI is lazier than me</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me/</link>
+      <guid isPermaLink="false">t3_1xsytlk</guid>
+      <pubDate>Tue, 10 Nov 2026 16:38:42 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Let&amp;#39;s start with my setup: I have 2 Sparks running glm 5.3 flash, and the harness is hermes agent running on a MacBook Air.&lt;/p&gt; &lt;p&gt;While trying to justify all the money I spent (around 6500 euro for bot | why kept: hermes, agent, hermes</description>
+    </item>
+    <item>
+      <title>ui: show audio in Discover for models whose mmproj has an audio encod…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/2b66bfbf7107e43f5cd2fe99802ff6e872e4c4d0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2b66bfbf7107e43f5cd2fe99802ff6e872e4c4d0</guid>
+      <pubDate>Tue, 10 Nov 2026 16:38:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show audio in Discover for models whose mmproj has an audio encoder (#31837)
+
+* ui: show audio in Discover for models whose mmproj has an audio encoder
+
+Discover took audio only from the pipe | why kept: model</description>
     </item></channel></rss>
