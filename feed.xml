@@ -1,11 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua): report agent run and Space create status to the terminal (…</title>
-      <link>https://github.com/trycua/cua/commit/f54ca3de1cd7468a5ec2e74be571a80d9b2b532b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f54ca3de1cd7468a5ec2e74be571a80d9b2b532b</guid>
-      <pubDate>Mon, 09 Nov 2026 22:45:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua): report agent run and Space create status to the terminal (OSC 7501) (#5155)
+      <title>chore(main): release cua-sdk 0.19.0 (#7179)</title>
+      <link>https://github.com/trycua/cua/commit/daf0c35b5c286b6b7f53f6d5197d23061a2d9d21</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/daf0c35b5c286b6b7f53f6d5197d23061a2d9d21</guid>
+      <pubDate>Mon, 09 Nov 2026 23:18:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.19.0 (#7179)
 
-* feat(cua): report agent run and Space create status to the terminal (OSC 7501)
+* chore(main): release cua-sdk 0.19.0
 
-`cua agent run -f`, `cua  | why kept: agent, runs</description>
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
