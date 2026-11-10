@@ -1,2 +1,1 @@
-- chore(main): release cua-sdk 0.22.0 (#7273) — https://github.com/trycua/cua/commit/4af129315a2983432549f8cfe43f93b922cc1a95 (score 5)
-- llm-gemini 0.36 — https://simonwillison.net/2026/Nov/10/llm-gemini/ (score 2)
+- I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B's 53.3% on shuffled fact chains. GGUF + eval — https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/ (score 9)

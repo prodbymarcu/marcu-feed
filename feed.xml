@@ -1,23 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.22.0 (#7273)</title>
-      <link>https://github.com/trycua/cua/commit/4af129315a2983432549f8cfe43f93b922cc1a95</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4af129315a2983432549f8cfe43f93b922cc1a95</guid>
-      <pubDate>Tue, 10 Nov 2026 15:51:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.22.0 (#7273)
-
-* chore(main): release cua-sdk 0.22.0
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>llm-gemini 0.36</title>
-      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/10/llm-gemini/</guid>
-      <pubDate>Tue, 10 Nov 2026 15:51:06 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-gemini/releases/tag/0.36&quot;&gt;llm-gemini 0.36&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Gemini 4 Carbon was announced &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/ | why kept: model</description>
+      <title>I trained a 348M-active MoE on ~11B tokens. It scores 85.5% vs Qwen2.5-1.5B&#x27;s 53.3% on shuffled fact chains. GGUF + eval set — please try to break it.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xssj9q/i_trained_a_348mactive_moe_on_11b_tokens_it/</link>
+      <guid isPermaLink="false">t3_1xssj9q</guid>
+      <pubDate>Tue, 10 Nov 2026 16:06:39 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been recently working a small sparse MoE, and I&amp;#39;ve got interesting results I&amp;#39;d like strangers to invalidate.&lt;/p&gt; &lt;p&gt;Tldr; I train small models and got surprising results and seek invalidati | why kept: qwen, model, qwen</description>
     </item></channel></rss>
