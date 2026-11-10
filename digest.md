@@ -1,1 +1,1 @@
-- TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts — https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/ (score 8)
+- docs(cua-sdk): stamp the Spaces presence reference with 0.21.0 (#7283) — https://github.com/trycua/cua/commit/83cf6d917109406c0ba7f1dfd1ec9fa5b04a4d7c (score 7)
