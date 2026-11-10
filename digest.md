@@ -1,1 +1,1 @@
-- fix(spaces): Restart to update quits the app when it does nothing so … — https://github.com/trycua/cua/commit/ff264dc99316c41e7d1c1ad95b8f5b9578a380fd (score 4)
+- Prediction: more enthusiasts will get custom quantisations build by opus and Asta for their hardware and precision needs — https://www.reddit.com/r/LocalLLaMA/comments/1xsg2cu/prediction_more_enthusiasts_will_get_custom/ (score 18)
