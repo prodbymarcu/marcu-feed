@@ -1,1 +1,3 @@
-- chore(main): release cua-driver-rs 0.46.2 (#7168) — https://github.com/trycua/cua/commit/9701b6237b6571bce483a4bb17bac8ce23438550 (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.46.1 in Cua Spaces (#7162) — https://github.com/trycua/cua/commit/1a6184fc45c758f434fecf0109cd8071617b5f50 (score 5)
+- fix(spaces-macos): bundle cua 0.18.1 in Cua Spaces (#7167) — https://github.com/trycua/cua/commit/752a41b0df800250863eca3cd949738926236ba5 (score 5)
+- CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster) — https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/ (score 4)

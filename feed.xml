@@ -1,15 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.46.2 (#7168)</title>
-      <link>https://github.com/trycua/cua/commit/9701b6237b6571bce483a4bb17bac8ce23438550</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9701b6237b6571bce483a4bb17bac8ce23438550</guid>
-      <pubDate>Mon, 09 Nov 2026 21:26:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.46.2 (#7168)
+      <title>fix(spaces-macos): bundle Cua Driver 0.46.1 in Cua Spaces (#7162)</title>
+      <link>https://github.com/trycua/cua/commit/1a6184fc45c758f434fecf0109cd8071617b5f50</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1a6184fc45c758f434fecf0109cd8071617b5f50</guid>
+      <pubDate>Mon, 09 Nov 2026 21:58:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.46.1 in Cua Spaces (#7162)
 
-* chore(main): release cua-driver-rs 0.46.2
+Cua Driver 0.46.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.18.1 in Cua Spaces (#7167)</title>
+      <link>https://github.com/trycua/cua/commit/752a41b0df800250863eca3cd949738926236ba5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/752a41b0df800250863eca3cd949738926236ba5</guid>
+      <pubDate>Mon, 09 Nov 2026 21:58:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.18.1 in Cua Spaces (#7167)
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+cua 0.18.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/</link>
+      <guid isPermaLink="false">t3_1xsaurn</guid>
+      <pubDate>Mon, 09 Nov 2026 21:58:06 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have seen potential in combining Strix Halo&amp;#39;s iGPU with RTX 5090 for LLM inferencing. Initially I found no inference engine that can run LLM inference on both these GPUs at the same time, inference en | why kept: inference, llama</description>
     </item></channel></rss>
