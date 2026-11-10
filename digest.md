@@ -1,2 +1,1 @@
-- ui: update the README banner to the new llama.cpp cover and remove th… — https://github.com/ggml-org/llama.cpp/commit/85822a7ab9cb67f625c95410014da19ad6434404 (score 4)
-- feat(spaces): Home shows your computers as one supercomputer (CUA-397… — https://github.com/trycua/cua/commit/49f716e9c7e224db0f1bafbb2957be385f308e01 (score 4)
+- Apple has new Mac app coming to make running local AI models easy — https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/ (score 6)

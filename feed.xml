@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: update the README banner to the new llama.cpp cover and remove th…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/85822a7ab9cb67f625c95410014da19ad6434404</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/85822a7ab9cb67f625c95410014da19ad6434404</guid>
-      <pubDate>Tue, 10 Nov 2026 16:54:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: update the README banner to the new llama.cpp cover and remove the legacy brand assets (#31789)
-
-* media : remove the legacy llama0 and llama1 brand assets
-
-The brand assets live in ggml-org/ | why kept: claude, llama</description>
-    </item>
-    <item>
-      <title>feat(spaces): Home shows your computers as one supercomputer (CUA-397…</title>
-      <link>https://github.com/trycua/cua/commit/49f716e9c7e224db0f1bafbb2957be385f308e01</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/49f716e9c7e224db0f1bafbb2957be385f308e01</guid>
-      <pubDate>Tue, 10 Nov 2026 16:54:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Home shows your computers as one supercomputer (CUA-3976) (#7166)
-
-* fix(spaces): setup&amp;#39;s step dots count the steps it really shows (CUA-3973)
-
-The step dots under Cua Spaces se | why kept: agent, runs</description>
+      <title>Apple has new Mac app coming to make running local AI models easy</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/</link>
+      <guid isPermaLink="false">t3_1xszbe7</guid>
+      <pubDate>Tue, 10 Nov 2026 17:10:46 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RsfBvYDZIdmJIOcEDnLBJ-iJKrXX5iBbX4ZhVH2CIfU.jpeg?width=640&amp;amp;crop=sm | why kept: model, local, llama</description>
     </item></channel></rss>
