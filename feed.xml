@@ -1,11 +1,40 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: keep AWS OIDC roles out of pull request runs (#7223)</title>
-      <link>https://github.com/trycua/cua/commit/96b6f19bd3f8df3317eedfd0e8a956ce0e91a305</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/96b6f19bd3f8df3317eedfd0e8a956ce0e91a305</guid>
-      <pubDate>Tue, 10 Nov 2026 08:06:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: keep AWS OIDC roles out of pull request runs (#7223)
+      <title>bin/ci: give each run its own log dir so a concurrent run cannot dele…</title>
+      <link>https://github.com/trycua/cua/commit/655a8c6cda2e91299f684a312be33a05700ed2d1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/655a8c6cda2e91299f684a312be33a05700ed2d1</guid>
+      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;bin/ci: give each run its own log dir so a concurrent run cannot delete its logs (#7230)
 
-- Remove the Claude Auto Fix workflow. The AWS role it used no longer
-  trusts this repository, so the job could not run.
-- Grant id-toke | why kept: claude, runs</description>
+Runs sharing a worktree wiped each other&amp;#39;s logs at start, so the report
+crashed on a vanished log fil | why kept: trycua, claude, runs</description>
+    </item>
+    <item>
+      <title>Nobody wondering why the US takes Nvidia CEO affair public?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo/</link>
+      <guid isPermaLink="false">t3_1xsljn6</guid>
+      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I understand the topic is prime material for shits and giggles. Chinese model, Nvidia being the centre piece of the AI trade, etc. But why go so public on this? All of this could&amp;#39;ve been dealt with behi | why kept: model, hardware</description>
+    </item>
+    <item>
+      <title>fix(spaces): setup&#x27;s step bars count the steps it really shows (CUA-3…</title>
+      <link>https://github.com/trycua/cua/commit/742d386788f43c76e7752d038dc12f9676b39717</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/742d386788f43c76e7752d038dc12f9676b39717</guid>
+      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): setup&amp;#39;s step bars count the steps it really shows (CUA-3973) (#7159)
+
+* fix(spaces): setup&amp;#39;s step dots count the steps it really shows (CUA-3973)
+
+The step dots under Cua Spa | why kept: agent, runs</description>
+    </item>
+    <item>
+      <title>cuda : remove unused quantize_cuda_t typedef (#31884)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/c75fba30cf7d6c39af987205f9bae6cbd3281231</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c75fba30cf7d6c39af987205f9bae6cbd3281231</guid>
+      <pubDate>Tue, 10 Nov 2026 08:22:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : remove unused quantize_cuda_t typedef (#31884)
+
+This commit removes the unused quantize_cuda_t from quantize.cuh.
+
+The motivation for this is that the usage of this typedef as a function
+p | why kept: quant</description>
     </item></channel></rss>
