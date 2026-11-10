@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(spaces): tag every nightly at the commit it was built from (#7131)</title>
-      <link>https://github.com/trycua/cua/commit/24b767b5f7fcf63f37a2e5646dd498d26294f356</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/24b767b5f7fcf63f37a2e5646dd498d26294f356</guid>
-      <pubDate>Tue, 10 Nov 2026 00:06:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(spaces): tag every nightly at the commit it was built from (#7131)
-
-* ci(spaces): tag every nightly at the commit it was built from
-
-After a fully green build and publish, the nightly workflow | why kept: claude</description>
+      <title>These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/</link>
+      <guid isPermaLink="false">t3_1xsde08</guid>
+      <pubDate>Tue, 10 Nov 2026 00:21:50 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;So fresh I havent even loaded it up yet &lt;a href=&quot;https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AGI-NEO-GGUF&quot;&gt;https://huggingface.co/DavidAU/Qwen3.8-40B-Ultimate | why kept: qwen, model, qwen</description>
     </item></channel></rss>

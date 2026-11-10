@@ -1,1 +1,1 @@
-- ci(spaces): tag every nightly at the commit it was built from (#7131) — https://github.com/trycua/cua/commit/24b767b5f7fcf63f37a2e5646dd498d26294f356 (score 2)
+- These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AG — https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/ (score 9)
