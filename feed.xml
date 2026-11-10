@@ -1,17 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Audio embeddings inference in C++/GGML with clap.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsdy76/audio_embeddings_inference_in_cggml_with_clapcpp/</link>
-      <guid isPermaLink="false">t3_1xsdy76</guid>
-      <pubDate>Tue, 10 Nov 2026 01:57:55 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I implemented &lt;strong&gt;clap.cpp&lt;/strong&gt;, audio embedding inference in C++/GGML. It uses GGUF models and provides a CLI, an HTTP server, and Python, Rust, and Node.js bindings.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Models including  | why kept: model, inference</description>
-    </item>
-    <item>
-      <title>llama : apply the iGPU lazy-mode fallback only when mmap is off (#31957)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/58e38bdf65f79d2d59f60c0cae206bb98cd332bd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/58e38bdf65f79d2d59f60c0cae206bb98cd332bd</guid>
-      <pubDate>Tue, 10 Nov 2026 01:57:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : apply the iGPU lazy-mode fallback only when mmap is off (#31957)
+      <title>vulkan: cap scalar flash attention at 8 rows for large heads on Qualc…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/78ffbaa18533c2ed51eab2ef5ae0702330efc3e9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78ffbaa18533c2ed51eab2ef5ae0702330efc3e9</guid>
+      <pubDate>Tue, 10 Nov 2026 02:13:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: cap scalar flash attention at 8 rows for large heads on Qualcomm (#30829)
 
-On a device without mmap support, --lazy-mode auto resolved to off even
-with --load-mode mmap, so llama_prefetch_rows nev | why kept: llama</description>
+With head sizes above 128 and KV &amp;gt;= 1024, scalar flash attention uses
+16 rows per workgroup. On the Qualcomm  | why kept: runs</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- Audio embeddings inference in C++/GGML with clap.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xsdy76/audio_embeddings_inference_in_cggml_with_clapcpp/ (score 4)
-- llama : apply the iGPU lazy-mode fallback only when mmap is off (#31957) — https://github.com/ggml-org/llama.cpp/commit/58e38bdf65f79d2d59f60c0cae206bb98cd332bd (score 2)
+- vulkan: cap scalar flash attention at 8 rows for large heads on Qualc… — https://github.com/ggml-org/llama.cpp/commit/78ffbaa18533c2ed51eab2ef5ae0702330efc3e9 (score 2)
