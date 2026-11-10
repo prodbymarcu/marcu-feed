@@ -1,20 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>release: hourly sweeper for superseded draft releases (#7264)</title>
-      <link>https://github.com/trycua/cua/commit/5098eecb09223e53d49c31d58d228a5493a10c9d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5098eecb09223e53d49c31d58d228a5493a10c9d</guid>
-      <pubDate>Tue, 10 Nov 2026 12:54:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;release: hourly sweeper for superseded draft releases (#7264)
-
-Drafts left by failed, cancelled or skipped CD runs piled up (28 on 10 Nov).
-The sweeper deletes drafts older than 24 h that a same- | why kept: trycua, claude, runs</description>
+      <title>I found this gem when searching Qwen stuff, a Qwen &quot;character song&quot;</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/</link>
+      <guid isPermaLink="false">t3_1xsj73e</guid>
+      <pubDate>Tue, 10 Nov 2026 13:10:34 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cGN2d2U0aWZlcjBpMc8bnFLz4eQHNEYg-21YwqtBTrLcOu3WDhn1TFGyM4hO.png? | why kept: qwen, qwen, video, local, llama</description>
     </item>
     <item>
-      <title>fix(spaces): first agent on This Mac after Set up no longer fails to …</title>
-      <link>https://github.com/trycua/cua/commit/46116784b637483e750f624ef0ef6fb74c745bde</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/46116784b637483e750f624ef0ef6fb74c745bde</guid>
-      <pubDate>Tue, 10 Nov 2026 12:54:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): first agent on This Mac after Set up no longer fails to reach it (#7161)
+      <title>ui: move Models, MCP and Settings to a sidebar footer (#32022)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/7592b61d3b53ca5b39a25a03508fa1246b78c579</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7592b61d3b53ca5b39a25a03508fa1246b78c579</guid>
+      <pubDate>Tue, 10 Nov 2026 13:10:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move Models, MCP and Settings to a sidebar footer (#32022)
 
-Set up shares This Mac&amp;#39;s desktop, which restarts its cua-spacesd. The
-daemon kept its connection to the  | why kept: agent</description>
+* ui : move Models, MCP and Settings to a sidebar footer
+
+The sidebar&amp;#39;s actions split in two: New chat, Search and Projects sta | why kept: model, claude</description>
     </item></channel></rss>

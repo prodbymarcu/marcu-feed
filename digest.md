@@ -1,2 +1,2 @@
-- release: hourly sweeper for superseded draft releases (#7264) — https://github.com/trycua/cua/commit/5098eecb09223e53d49c31d58d228a5493a10c9d (score 9)
-- fix(spaces): first agent on This Mac after Set up no longer fails to … — https://github.com/trycua/cua/commit/46116784b637483e750f624ef0ef6fb74c745bde (score 2)
+- I found this gem when searching Qwen stuff, a Qwen "character song" — https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/ (score 13)
+- ui: move Models, MCP and Settings to a sidebar footer (#32022) — https://github.com/ggml-org/llama.cpp/commit/7592b61d3b53ca5b39a25a03508fa1246b78c579 (score 4)
