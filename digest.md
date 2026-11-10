@@ -1,3 +1,2 @@
-- We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common la — https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/ (score 11)
-- chore(main): release bench 0.4.0 (#7233) — https://github.com/trycua/cua/commit/47054e8fb287457dc2bd25e09be32c3def6d515b (score 5)
-- fix(spaces): job Spaces show as one labeled row, not as raw runs (#7006) — https://github.com/trycua/cua/commit/8fe112f91046deb571c02bd0985d9fbbcf80e4b1 (score 4)
+- ci(images): install cua-spacesd runtime libs in the bench build-info … — https://github.com/trycua/cua/commit/cc15b6588b17fb7b38c21b931f0f95867b3f85f9 (score 9)
+- ci(docs): dispatch the docs pin refresh with the release App (CUA-401… — https://github.com/trycua/cua/commit/3f26cdd382cdf304c1abd30528677e0a0e0b3bd8 (score 7)

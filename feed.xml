@@ -1,31 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>We tested Qwen3.6 27B, Qwen3.8 27B and GLM-5.3 Flash on real tasks in Elixir, OCaml, Haskell and 10 other less common languages</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/</link>
-      <guid isPermaLink="false">t3_1xsorsx</guid>
-      <pubDate>Tue, 10 Nov 2026 11:50:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/6iqJC_OQBf_kD5iSYHgH6Y9ZKA8j8Yf_rB5iiVc2Rds.png?width=640&amp;amp;crop= | why kept: qwen, qwen, local, llama</description>
+      <title>ci(images): install cua-spacesd runtime libs in the bench build-info …</title>
+      <link>https://github.com/trycua/cua/commit/cc15b6588b17fb7b38c21b931f0f95867b3f85f9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cc15b6588b17fb7b38c21b931f0f95867b3f85f9</guid>
+      <pubDate>Tue, 10 Nov 2026 12:23:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(images): install cua-spacesd runtime libs in the bench build-info container (CUA-4010) (#7269)
+
+cua-spacesd links libxkbcommon.so.0; the bare ubuntu:22.04 container that runs
+build-info lacked | why kept: trycua, claude, runs</description>
     </item>
     <item>
-      <title>chore(main): release bench 0.4.0 (#7233)</title>
-      <link>https://github.com/trycua/cua/commit/47054e8fb287457dc2bd25e09be32c3def6d515b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/47054e8fb287457dc2bd25e09be32c3def6d515b</guid>
-      <pubDate>Tue, 10 Nov 2026 11:50:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.0 (#7233)
+      <title>ci(docs): dispatch the docs pin refresh with the release App (CUA-401…</title>
+      <link>https://github.com/trycua/cua/commit/3f26cdd382cdf304c1abd30528677e0a0e0b3bd8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3f26cdd382cdf304c1abd30528677e0a0e0b3bd8</guid>
+      <pubDate>Tue, 10 Nov 2026 12:23:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(docs): dispatch the docs pin refresh with the release App (CUA-4010) (#7270)
 
-* chore(main): release bench 0.4.0
-
-* chore(bench): synchronize release lockfiles
-
-* chore(bench): synchronize release lockfiles and documentation
-
------ | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(spaces): job Spaces show as one labeled row, not as raw runs (#7006)</title>
-      <link>https://github.com/trycua/cua/commit/8fe112f91046deb571c02bd0985d9fbbcf80e4b1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8fe112f91046deb571c02bd0985d9fbbcf80e4b1</guid>
-      <pubDate>Tue, 10 Nov 2026 11:50:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): job Spaces show as one labeled row, not as raw runs (#7006)
-
-* The parts of a job&amp;#39;s row: its name in a pet-name shape (never an id), the JOB tag in the AI tag&amp;#39;s look, one row | why kept: claude, runs</description>
+The Copybara App in AWS secret copybara/github-app has no installation, so
+every run failed minting the trycua/clo | why kept: trycua, claude</description>
     </item></channel></rss>
