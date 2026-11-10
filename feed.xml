@@ -1,9 +1,29 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(hyprland-plugin): smoke-test the released Cua Driver in the requa…</title>
-      <link>https://github.com/trycua/cua/commit/91d5f4134ec63b74adff4b61310c28eca826513c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/91d5f4134ec63b74adff4b61310c28eca826513c</guid>
-      <pubDate>Tue, 10 Nov 2026 06:46:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(hyprland-plugin): smoke-test the released Cua Driver in the requalification session (CUA-3992) (#7206)
+      <title>feat(spaces): agent chip shows model and reasoning level, with an inl…</title>
+      <link>https://github.com/trycua/cua/commit/bec0f80852f79ff8c4f6201436a10dcc29ad58d5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bec0f80852f79ff8c4f6201436a10dcc29ad58d5</guid>
+      <pubDate>Tue, 10 Nov 2026 07:03:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): agent chip shows model and reasoning level, with an inline Reasoning row (#6861)
 
-* ci(hyprland-plugin): smoke-test the released Cua Driver in the requalification sessio | why kept: runs</description>
+* Show model and reasoning level on the agent chip, with an inline Reasoning row
+
+The chip no longe | why kept: model, agent, claude, codex</description>
+    </item>
+    <item>
+      <title>feat(spaces): fold the side panel&#x27;s sections and dock the desktop bes…</title>
+      <link>https://github.com/trycua/cua/commit/6ae00f1cf9cac8f2ecad5d37e56c10d4d95018fb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6ae00f1cf9cac8f2ecad5d37e56c10d4d95018fb</guid>
+      <pubDate>Tue, 10 Nov 2026 07:03:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): fold the side panel&amp;#39;s sections and dock the desktop beside the thread (#6797)
+
+* fix(spaces): every message an agent posts is appended to the thread, and child agents show in th | why kept: agent, claude</description>
+    </item>
+    <item>
+      <title>perf(spaces): install-local dev-fast by default, parallel cua-spacesd…</title>
+      <link>https://github.com/trycua/cua/commit/ffb587a7933d535b8c2d7c11e6a6ee9e2f9fb123</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ffb587a7933d535b8c2d7c11e6a6ee9e2f9fb123</guid>
+      <pubDate>Tue, 10 Nov 2026 07:03:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(spaces): install-local dev-fast by default, parallel cua-spacesd, --build-only (CUA-3971) (#7184)
+
+* install-local: --build-only, --rust-profile, build cua-spacesd beside the library, say wh | why kept: local</description>
     </item></channel></rss>

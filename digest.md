@@ -1,1 +1,3 @@
-- fix(hyprland-plugin): smoke-test the released Cua Driver in the requa… — https://github.com/trycua/cua/commit/91d5f4134ec63b74adff4b61310c28eca826513c (score 2)
+- feat(spaces): agent chip shows model and reasoning level, with an inl… — https://github.com/trycua/cua/commit/bec0f80852f79ff8c4f6201436a10dcc29ad58d5 (score 8)
+- feat(spaces): fold the side panel's sections and dock the desktop bes… — https://github.com/trycua/cua/commit/6ae00f1cf9cac8f2ecad5d37e56c10d4d95018fb (score 4)
+- perf(spaces): install-local dev-fast by default, parallel cua-spacesd… — https://github.com/trycua/cua/commit/ffb587a7933d535b8c2d7c11e6a6ee9e2f9fb123 (score 2)
