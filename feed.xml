@@ -1,24 +1,46 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(bench,agent): allow cua-sandbox 0.10 and widen the cap automatica…</title>
-      <link>https://github.com/trycua/cua/commit/8b4987f85923d11343727893cacc0ad0a62ae1cb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8b4987f85923d11343727893cacc0ad0a62ae1cb</guid>
-      <pubDate>Tue, 10 Nov 2026 15:19:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(bench,agent): allow cua-sandbox 0.10 and widen the cap automatically on sandbox releases (#7282)
+      <title>adventists-ai/Sophon-Realtime-v1 · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xso32l</guid>
+      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4X4Z9yciRoAQnH1ZQYrLHZea8BH2fB75j3UK24QKk8o.png?width=640&amp;amp;crop=smart&amp; | why kept: model, voice, local, llama</description>
+    </item>
+    <item>
+      <title>feat(spaces): Agents tab starts agents from the Home box, one entry p…</title>
+      <link>https://github.com/trycua/cua/commit/5a0b65f7d6af5a1c09e7f3aced03d809cbd4d521</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a0b65f7d6af5a1c09e7f3aced03d809cbd4d521</guid>
+      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Agents tab starts agents from the Home box, one entry per Space, easy to clear (#7275)
 
-cua-bench 0.4.0 and cua-agent cap cua-sandbox below 0.10.0, so the sandbox 0.10.0
-release PR  | why kept: trycua, agent, claude</description>
+* feat(spaces-web): Agents tab starts an agent from the Home box, lists each agent per Space, | why kept: agent, claude, runs</description>
     </item>
     <item>
-      <title>The Surprising Effectiveness of Deleting Weights in LLM Post-Training</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/</link>
-      <guid isPermaLink="false">t3_1xswmb7</guid>
-      <pubDate>Tue, 10 Nov 2026 15:19:04 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop | why kept: model, local, llama</description>
+      <title>chore(main): release bench 0.4.1 (#7287)</title>
+      <link>https://github.com/trycua/cua/commit/767a302ef24ec9b32a781a9b4ed313b0b0edfeb6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/767a302ef24ec9b32a781a9b4ed313b0b0edfeb6</guid>
+      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.1 (#7287)
+
+* chore(main): release bench 0.4.1
+
+* chore(bench): synchronize release lockfiles and documentation
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt; | why kept: trycua</description>
     </item>
     <item>
-      <title>Designing for Agents — Zeno Rocha, Resend</title>
-      <link>https://latent.space/p/resend/</link>
-      <guid isPermaLink="false">urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a</guid>
-      <pubDate>Tue, 10 Nov 2026 15:19:04 +0000</pubDate>
-      <description>Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send. | why kept: agent, claude</description>
+      <title>chore(main): release sandbox 0.10.0 (#7246)</title>
+      <link>https://github.com/trycua/cua/commit/9a450bcdb3fe15365f192d31d839d7ab085bb9c1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a450bcdb3fe15365f192d31d839d7ab085bb9c1</guid>
+      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.10.0 (#7246)
+
+* chore(main): release sandbox 0.10.0
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
     </item></channel></rss>

@@ -1,3 +1,4 @@
-- fix(bench,agent): allow cua-sandbox 0.10 and widen the cap automatica… — https://github.com/trycua/cua/commit/8b4987f85923d11343727893cacc0ad0a62ae1cb (score 9)
-- The Surprising Effectiveness of Deleting Weights in LLM Post-Training — https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/ (score 6)
-- Designing for Agents — Zeno Rocha, Resend — https://latent.space/p/resend/ (score 4)
+- adventists-ai/Sophon-Realtime-v1 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/ (score 8)
+- feat(spaces): Agents tab starts agents from the Home box, one entry p… — https://github.com/trycua/cua/commit/5a0b65f7d6af5a1c09e7f3aced03d809cbd4d521 (score 6)
+- chore(main): release bench 0.4.1 (#7287) — https://github.com/trycua/cua/commit/767a302ef24ec9b32a781a9b4ed313b0b0edfeb6 (score 5)
+- chore(main): release sandbox 0.10.0 (#7246) — https://github.com/trycua/cua/commit/9a450bcdb3fe15365f192d31d839d7ab085bb9c1 (score 5)
