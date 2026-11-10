@@ -1,1 +1,1 @@
-- Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too — https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/ (score 4)
+- fix(spaces-macos): bundle cua 0.20.0 in Cua Spaces (#7199) — https://github.com/trycua/cua/commit/4b867b2dc7c03ee6db90a543a956b73d6fb35456 (score 5)

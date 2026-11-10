@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Fable 5.2 not only has guardrails against AI acceleration, its capabilities were capped in training too</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/</link>
-      <guid isPermaLink="false">t3_1xsjfwo</guid>
-      <pubDate>Tue, 10 Nov 2026 06:14:35 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/8uv4vmjtfr0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e82e3761e735c7d37 | why kept: local, llama</description>
+      <title>fix(spaces-macos): bundle cua 0.20.0 in Cua Spaces (#7199)</title>
+      <link>https://github.com/trycua/cua/commit/4b867b2dc7c03ee6db90a543a956b73d6fb35456</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4b867b2dc7c03ee6db90a543a956b73d6fb35456</guid>
+      <pubDate>Tue, 10 Nov 2026 06:30:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.20.0 in Cua Spaces (#7199)
+
+cua 0.20.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
