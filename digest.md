@@ -1,3 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.46.1 in Cua Spaces (#7162) — https://github.com/trycua/cua/commit/1a6184fc45c758f434fecf0109cd8071617b5f50 (score 5)
-- fix(spaces-macos): bundle cua 0.18.1 in Cua Spaces (#7167) — https://github.com/trycua/cua/commit/752a41b0df800250863eca3cd949738926236ba5 (score 5)
-- CUDA+ROCm dual-backends LLM inference for mixed-vendor GPUs (up to 48% faster) — https://www.reddit.com/r/LocalLLaMA/comments/1xsaurn/cudarocm_dualbackends_llm_inference_for/ (score 4)
+- Multiverse Computing's Comet 60B (A12B) GGUFs with the MTP head — https://www.reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with/ (score 4)
