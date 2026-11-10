@@ -1,11 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): connect says when an agent uses another Cua Driver (…</title>
-      <link>https://github.com/trycua/cua/commit/18daa98ad304a35802981281adc55a82bb4c3d77</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/18daa98ad304a35802981281adc55a82bb4c3d77</guid>
-      <pubDate>Mon, 09 Nov 2026 20:37:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): connect says when an agent uses another Cua Driver (#7165)
-
-* test(cua-driver): connect reports an agent that uses the driver inside Cua Spaces
-
-* fix(cua-driver): connect says w | why kept: agent</description>
+      <title>What type of rig would you suggest for 6-8k CAD? (4-5k USD)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsa6jf/what_type_of_rig_would_you_suggest_for_68k_cad/</link>
+      <guid isPermaLink="false">t3_1xsa6jf</guid>
+      <pubDate>Mon, 09 Nov 2026 21:09:52 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I need to get an all-around work station soon because my current laptop is getting old and I&amp;#39;m now offloading a bit of work to it. Since I dabble with local AI already, I was thinking of getting an m5 u | why kept: qwen, model, qwen, local</description>
+    </item>
+    <item>
+      <title>I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/</link>
+      <guid isPermaLink="false">t3_1xs9nux</guid>
+      <pubDate>Mon, 09 Nov 2026 21:09:52 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The model is an encoder (Ettin-400M) fine-tuned to answer small game questions. You give it a scene, a question, and some options, and it returns probabilities or &amp;quot;not sure&amp;quot;. The model was inspire | why kept: model, local, fine-tun</description>
     </item></channel></rss>

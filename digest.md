@@ -1,1 +1,2 @@
-- fix(cua-driver): connect says when an agent uses another Cua Driver (… — https://github.com/trycua/cua/commit/18daa98ad304a35802981281adc55a82bb4c3d77 (score 2)
+- What type of rig would you suggest for 6-8k CAD? (4-5k USD) — https://www.reddit.com/r/LocalLLaMA/comments/1xsa6jf/what_type_of_rig_would_you_suggest_for_68k_cad/ (score 11)
+- I made a 400M model for NPC judgement calls in games (Apache-2.0, ~0.1s on a 3060 Ti) — https://www.reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in/ (score 6)
