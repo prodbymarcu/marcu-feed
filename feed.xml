@@ -1,29 +1,48 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(spaces): agent chip shows model and reasoning level, with an inl…</title>
-      <link>https://github.com/trycua/cua/commit/bec0f80852f79ff8c4f6201436a10dcc29ad58d5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bec0f80852f79ff8c4f6201436a10dcc29ad58d5</guid>
-      <pubDate>Tue, 10 Nov 2026 07:03:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): agent chip shows model and reasoning level, with an inline Reasoning row (#6861)
-
-* Show model and reasoning level on the agent chip, with an inline Reasoning row
-
-The chip no longe | why kept: model, agent, claude, codex</description>
+      <title>Decision model to edit LLM weight directly - No training</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/</link>
+      <guid isPermaLink="false">t3_1xski9d</guid>
+      <pubDate>Tue, 10 Nov 2026 07:18:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/t1xa0p9ssr0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3c8d76b9ea67e73 | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>feat(spaces): fold the side panel&#x27;s sections and dock the desktop bes…</title>
-      <link>https://github.com/trycua/cua/commit/6ae00f1cf9cac8f2ecad5d37e56c10d4d95018fb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6ae00f1cf9cac8f2ecad5d37e56c10d4d95018fb</guid>
-      <pubDate>Tue, 10 Nov 2026 07:03:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): fold the side panel&amp;#39;s sections and dock the desktop beside the thread (#6797)
+      <title>chore(main): release cua-driver-rs 0.47.1 (#7207)</title>
+      <link>https://github.com/trycua/cua/commit/ba93fba4ab7b062b942afd426863c34a8a78a1cd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ba93fba4ab7b062b942afd426863c34a8a78a1cd</guid>
+      <pubDate>Tue, 10 Nov 2026 07:18:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.1 (#7207)
 
-* fix(spaces): every message an agent posts is appended to the thread, and child agents show in th | why kept: agent, claude</description>
+* chore(main): release cua-driver-rs 0.47.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item>
     <item>
-      <title>perf(spaces): install-local dev-fast by default, parallel cua-spacesd…</title>
-      <link>https://github.com/trycua/cua/commit/ffb587a7933d535b8c2d7c11e6a6ee9e2f9fb123</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ffb587a7933d535b8c2d7c11e6a6ee9e2f9fb123</guid>
-      <pubDate>Tue, 10 Nov 2026 07:03:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(spaces): install-local dev-fast by default, parallel cua-spacesd, --build-only (CUA-3971) (#7184)
+      <title>xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/</link>
+      <guid isPermaLink="false">t3_1xskr0m</guid>
+      <pubDate>Tue, 10 Nov 2026 07:18:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/P-5R_mT96ag8lgaY6E31Vycap1baJN2BoOlRmCewG0Q.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-daemon): gate client-only code so the build without the clien…</title>
+      <link>https://github.com/trycua/cua/commit/ac6e7bff58ed7884ceb59bf6dedd74681e45e340</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ac6e7bff58ed7884ceb59bf6dedd74681e45e340</guid>
+      <pubDate>Tue, 10 Nov 2026 07:18:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-daemon): gate client-only code so the build without the client feature is warning-free (#7209)
 
-* install-local: --build-only, --rust-profile, build cua-spacesd beside the library, say wh | why kept: local</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude, free</description>
+    </item>
+    <item>
+      <title>test(cua): derive the expected Spaces tool set from the contract mani…</title>
+      <link>https://github.com/trycua/cua/commit/ddce0f2c7c09209e09d6828275d3d3edace4fe86</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ddce0f2c7c09209e09d6828275d3d3edace4fe86</guid>
+      <pubDate>Tue, 10 Nov 2026 07:18:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua): derive the expected Spaces tool set from the contract manifest in all three binding suites (#7142)
+
+The Python, TypeScript and Swift tests each hardcoded the tool count, so a new tool
+ | why kept: agent, claude</description>
     </item></channel></rss>

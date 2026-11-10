@@ -1,3 +1,5 @@
-- feat(spaces): agent chip shows model and reasoning level, with an inl… — https://github.com/trycua/cua/commit/bec0f80852f79ff8c4f6201436a10dcc29ad58d5 (score 8)
-- feat(spaces): fold the side panel's sections and dock the desktop bes… — https://github.com/trycua/cua/commit/6ae00f1cf9cac8f2ecad5d37e56c10d4d95018fb (score 4)
-- perf(spaces): install-local dev-fast by default, parallel cua-spacesd… — https://github.com/trycua/cua/commit/ffb587a7933d535b8c2d7c11e6a6ee9e2f9fb123 (score 2)
+- Decision model to edit LLM weight directly - No training — https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/ (score 6)
+- chore(main): release cua-driver-rs 0.47.1 (#7207) — https://github.com/trycua/cua/commit/ba93fba4ab7b062b942afd426863c34a8a78a1cd (score 5)
+- xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D — https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/ (score 4)
+- fix(cua-daemon): gate client-only code so the build without the clien… — https://github.com/trycua/cua/commit/ac6e7bff58ed7884ceb59bf6dedd74681e45e340 (score 4)
+- test(cua): derive the expected Spaces tool set from the contract mani… — https://github.com/trycua/cua/commit/ddce0f2c7c09209e09d6828275d3d3edace4fe86 (score 4)
