@@ -1,2 +1,3 @@
-- Inference optimization — https://www.reddit.com/r/LocalLLaMA/comments/1xs7bde/inference_optimization/ (score 6)
-- chore(main): release cua-driver-rs 0.46.1 (#7163) — https://github.com/trycua/cua/commit/93c9b500a0d4f9daa56063d3d3e3fb3c9e6070ee (score 5)
+- Free, open-source voice typing for any app on Android and iPhone: the speech model runs on your phone, so it works offli — https://www.reddit.com/r/LocalLLaMA/comments/1xs8hfw/free_opensource_voice_typing_for_any_app_on/ (score 12)
+- chore(main): release cua-sdk 0.18.1 (#7134) — https://github.com/trycua/cua/commit/c8fe7166bcaedcfe08df3a77ae495e630511e3dc (score 5)
+- fix(cua-driver): deliver a background left click on a Chromium contro… — https://github.com/trycua/cua/commit/7ce38f70bb2d60fd173561f45895172662e13dc8 (score 2)
