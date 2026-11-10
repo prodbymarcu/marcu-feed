@@ -1,21 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(release): sync Sandbox docs and in-repo lockfile versions on relea…</title>
-      <link>https://github.com/trycua/cua/commit/913ec968ec168c8f4cb3888567b9a19912c1fc06</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/913ec968ec168c8f4cb3888567b9a19912c1fc06</guid>
-      <pubDate>Tue, 10 Nov 2026 08:38:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): sync Sandbox docs and in-repo lockfile versions on release PRs (#7234)
+      <title>chore(main): release cua-sdk 0.21.0 (#7213)</title>
+      <link>https://github.com/trycua/cua/commit/a4ec97ee94dc04332dacbca635886e03d8c27e8d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a4ec97ee94dc04332dacbca635886e03d8c27e8d</guid>
+      <pubDate>Tue, 10 Nov 2026 09:11:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.21.0 (#7213)
 
-Sandbox and bench release PRs failed quick and Docs page tests: the release
-sync stamped only three generated  | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>fix(spaces): new-user friction from the 10 Nov device test (CUA-3980)…</title>
-      <link>https://github.com/trycua/cua/commit/55730e3f48d43038276e22c6a8cf1fbf1934d9a5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55730e3f48d43038276e22c6a8cf1fbf1934d9a5</guid>
-      <pubDate>Tue, 10 Nov 2026 08:38:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): new-user friction from the 10 Nov device test (CUA-3980) (#7176)
+* chore(main): release cua-sdk 0.21.0
 
-* fix(spaces): new-user friction from the 10 Nov device test (CUA-3980)
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
-- Permissions step: the button says what is | why kept: runs</description>
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- ci(release): sync Sandbox docs and in-repo lockfile versions on relea… — https://github.com/trycua/cua/commit/913ec968ec168c8f4cb3888567b9a19912c1fc06 (score 7)
-- fix(spaces): new-user friction from the 10 Nov device test (CUA-3980)… — https://github.com/trycua/cua/commit/55730e3f48d43038276e22c6a8cf1fbf1934d9a5 (score 2)
+- chore(main): release cua-sdk 0.21.0 (#7213) — https://github.com/trycua/cua/commit/a4ec97ee94dc04332dacbca635886e03d8c27e8d (score 5)
