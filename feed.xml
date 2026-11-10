@@ -1,18 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I found this gem when searching Qwen stuff, a Qwen &quot;character song&quot;</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/</link>
-      <guid isPermaLink="false">t3_1xsj73e</guid>
-      <pubDate>Tue, 10 Nov 2026 13:10:34 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cGN2d2U0aWZlcjBpMc8bnFLz4eQHNEYg-21YwqtBTrLcOu3WDhn1TFGyM4hO.png? | why kept: qwen, qwen, video, local, llama</description>
-    </item>
-    <item>
-      <title>ui: move Models, MCP and Settings to a sidebar footer (#32022)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/7592b61d3b53ca5b39a25a03508fa1246b78c579</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7592b61d3b53ca5b39a25a03508fa1246b78c579</guid>
-      <pubDate>Tue, 10 Nov 2026 13:10:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move Models, MCP and Settings to a sidebar footer (#32022)
-
-* ui : move Models, MCP and Settings to a sidebar footer
-
-The sidebar&amp;#39;s actions split in two: New chat, Search and Projects sta | why kept: model, claude</description>
+      <title>speakleash/Bielik-11B-v3.1-Instruct · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xsrg0l</guid>
+      <pubDate>Tue, 10 Nov 2026 13:42:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/13EAA2r-_IXSS1kU8p_ZW-5SMCyKmlaGlpDbGeHI7lg.png?width=640&amp;amp;crop=smar | why kept: local, llama</description>
     </item></channel></rss>

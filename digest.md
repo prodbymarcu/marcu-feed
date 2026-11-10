@@ -1,2 +1,1 @@
-- I found this gem when searching Qwen stuff, a Qwen "character song" — https://www.reddit.com/r/LocalLLaMA/comments/1xsj73e/i_found_this_gem_when_searching_qwen_stuff_a_qwen/ (score 13)
-- ui: move Models, MCP and Settings to a sidebar footer (#32022) — https://github.com/ggml-org/llama.cpp/commit/7592b61d3b53ca5b39a25a03508fa1246b78c579 (score 4)
+- speakleash/Bielik-11B-v3.1-Instruct · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/ (score 4)
