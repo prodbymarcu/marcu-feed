@@ -1,2 +1,1 @@
-- In communist China model abliterates you — https://www.reddit.com/r/LocalLLaMA/comments/1xses4r/in_communist_china_model_abliterates_you/ (score 6)
-- Quoting Prompting Claude Fable 5.2 — https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/ (score 4)
+- fix(spaces-macos): bundle cua 0.19.0 in Cua Spaces (#7182) — https://github.com/trycua/cua/commit/1cf7418970b7c167765262d5ac38ada91ecc514e (score 5)

@@ -1,14 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>In communist China model abliterates you</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xses4r/in_communist_china_model_abliterates_you/</link>
-      <guid isPermaLink="false">t3_1xses4r</guid>
-      <pubDate>Tue, 10 Nov 2026 00:53:53 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;RIP Jensen&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/raul3820&quot;&gt; /u/raul3820 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xses4r/in_com | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>Quoting Prompting Claude Fable 5.2</title>
-      <link>https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/</guid>
-      <pubDate>Tue, 10 Nov 2026 00:53:53 +0000</pubDate>
-      <description>&lt;blockquote cite=&quot;https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2#say-who-owns-the-code&quot;&gt;&lt;p&gt;Claude Fable 5.2 responds closely to what the prompt says about who owns the code it works on. I | why kept: model, claude</description>
+      <title>fix(spaces-macos): bundle cua 0.19.0 in Cua Spaces (#7182)</title>
+      <link>https://github.com/trycua/cua/commit/1cf7418970b7c167765262d5ac38ada91ecc514e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1cf7418970b7c167765262d5ac38ada91ecc514e</guid>
+      <pubDate>Tue, 10 Nov 2026 01:09:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.19.0 in Cua Spaces (#7182)
+
+cua 0.19.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
