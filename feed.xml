@@ -1,46 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>adventists-ai/Sophon-Realtime-v1 · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xso32l</guid>
-      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4X4Z9yciRoAQnH1ZQYrLHZea8BH2fB75j3UK24QKk8o.png?width=640&amp;amp;crop=smart&amp; | why kept: model, voice, local, llama</description>
-    </item>
-    <item>
-      <title>feat(spaces): Agents tab starts agents from the Home box, one entry p…</title>
-      <link>https://github.com/trycua/cua/commit/5a0b65f7d6af5a1c09e7f3aced03d809cbd4d521</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a0b65f7d6af5a1c09e7f3aced03d809cbd4d521</guid>
-      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): Agents tab starts agents from the Home box, one entry per Space, easy to clear (#7275)
+      <title>chore(main): release cua-sdk 0.22.0 (#7273)</title>
+      <link>https://github.com/trycua/cua/commit/4af129315a2983432549f8cfe43f93b922cc1a95</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4af129315a2983432549f8cfe43f93b922cc1a95</guid>
+      <pubDate>Tue, 10 Nov 2026 15:51:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.22.0 (#7273)
 
-* feat(spaces-web): Agents tab starts an agent from the Home box, lists each agent per Space, | why kept: agent, claude, runs</description>
-    </item>
-    <item>
-      <title>chore(main): release bench 0.4.1 (#7287)</title>
-      <link>https://github.com/trycua/cua/commit/767a302ef24ec9b32a781a9b4ed313b0b0edfeb6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/767a302ef24ec9b32a781a9b4ed313b0b0edfeb6</guid>
-      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.1 (#7287)
+* chore(main): release cua-sdk 0.22.0
 
-* chore(main): release bench 0.4.1
-
-* chore(bench): synchronize release lockfiles and documentation
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt; | why kept: trycua</description>
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item>
     <item>
-      <title>chore(main): release sandbox 0.10.0 (#7246)</title>
-      <link>https://github.com/trycua/cua/commit/9a450bcdb3fe15365f192d31d839d7ab085bb9c1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a450bcdb3fe15365f192d31d839d7ab085bb9c1</guid>
-      <pubDate>Tue, 10 Nov 2026 15:34:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.10.0 (#7246)
-
-* chore(main): release sandbox 0.10.0
-
-* chore(sandbox): synchronize release metadata
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+      <title>llm-gemini 0.36</title>
+      <link>https://simonwillison.net/2026/Nov/10/llm-gemini/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/10/llm-gemini/</guid>
+      <pubDate>Tue, 10 Nov 2026 15:51:06 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-gemini/releases/tag/0.36&quot;&gt;llm-gemini 0.36&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Gemini 4 Carbon was announced &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/ | why kept: model</description>
     </item></channel></rss>

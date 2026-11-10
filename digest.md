@@ -1,4 +1,2 @@
-- adventists-ai/Sophon-Realtime-v1 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xso32l/adventistsaisophonrealtimev1_hugging_face/ (score 8)
-- feat(spaces): Agents tab starts agents from the Home box, one entry p… — https://github.com/trycua/cua/commit/5a0b65f7d6af5a1c09e7f3aced03d809cbd4d521 (score 6)
-- chore(main): release bench 0.4.1 (#7287) — https://github.com/trycua/cua/commit/767a302ef24ec9b32a781a9b4ed313b0b0edfeb6 (score 5)
-- chore(main): release sandbox 0.10.0 (#7246) — https://github.com/trycua/cua/commit/9a450bcdb3fe15365f192d31d839d7ab085bb9c1 (score 5)
+- chore(main): release cua-sdk 0.22.0 (#7273) — https://github.com/trycua/cua/commit/4af129315a2983432549f8cfe43f93b922cc1a95 (score 5)
+- llm-gemini 0.36 — https://simonwillison.net/2026/Nov/10/llm-gemini/ (score 2)
