@@ -1,1 +1,2 @@
-- These names are wild, but I love them/New Model: DavidAU Qwen3.8-40B-Ultimate-Heretic-Uncensored-Turbo-Brilliance-50x-AG — https://www.reddit.com/r/LocalLLaMA/comments/1xsde08/these_names_are_wild_but_i_love_themnew_model/ (score 9)
+- In communist China model abliterates you — https://www.reddit.com/r/LocalLLaMA/comments/1xses4r/in_communist_china_model_abliterates_you/ (score 6)
+- Quoting Prompting Claude Fable 5.2 — https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/ (score 4)
