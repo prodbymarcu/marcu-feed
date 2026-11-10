@@ -1,5 +1,1 @@
-- Decision model to edit LLM weight directly - No training — https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/ (score 6)
-- chore(main): release cua-driver-rs 0.47.1 (#7207) — https://github.com/trycua/cua/commit/ba93fba4ab7b062b942afd426863c34a8a78a1cd (score 5)
-- xiangjuntang/JoVox-64 · Hugging Face - Image-to-3D — https://www.reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d/ (score 4)
-- fix(cua-daemon): gate client-only code so the build without the clien… — https://github.com/trycua/cua/commit/ac6e7bff58ed7884ceb59bf6dedd74681e45e340 (score 4)
-- test(cua): derive the expected Spaces tool set from the contract mani… — https://github.com/trycua/cua/commit/ddce0f2c7c09209e09d6828275d3d3edace4fe86 (score 4)
+- fix(hyprland-plugin): smoke-test the released Cua Driver in the requa… — https://github.com/trycua/cua/commit/91d5f4134ec63b74adff4b61310c28eca826513c (score 2)
