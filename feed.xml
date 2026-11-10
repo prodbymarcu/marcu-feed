@@ -1,15 +1,33 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.20.0 (#7188)</title>
-      <link>https://github.com/trycua/cua/commit/f67dbf93896fcdf753e4e87481083b0d1486f05d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f67dbf93896fcdf753e4e87481083b0d1486f05d</guid>
-      <pubDate>Tue, 10 Nov 2026 04:38:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.20.0 (#7188)
+      <title>feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/</link>
+      <guid isPermaLink="false">t3_1xsgpby</guid>
+      <pubDate>Tue, 10 Nov 2026 05:10:31 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;h1&gt;Overview&lt;/h1&gt; &lt;p&gt;Provides a new &lt;code&gt;--shard&lt;/code&gt; command line argument and support for loading a model from multiple shard locations; common use case is loading the PLE (engram) files from a separate G | why kept: qwen, model, qwen, quant, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.47.0 (#7196)</title>
+      <link>https://github.com/trycua/cua/commit/373f64422aa2701ddd71453ea9b2c2e217cbc9c4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/373f64422aa2701ddd71453ea9b2c2e217cbc9c4</guid>
+      <pubDate>Tue, 10 Nov 2026 05:10:31 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.0 (#7196)
 
-* chore(main): release cua-sdk 0.20.0
+* chore(main): release cua-driver-rs 0.47.0
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ggml : fix FreeBSD Vulkan build by setting _XOPEN_SOURCE=700 (#31701)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0d9eacadf2e19ff5d49df29800afc88a8e844123</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0d9eacadf2e19ff5d49df29800afc88a8e844123</guid>
+      <pubDate>Tue, 10 Nov 2026 05:10:31 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : fix FreeBSD Vulkan build by setting _XOPEN_SOURCE=700 (#31701)
+
+Fixes #31541
+
+Signed-off-by: Adrien Gallouët &amp;lt;angt@huggingface.co&amp;gt;&lt;/pre&gt; | why kept: free</description>
     </item></channel></rss>

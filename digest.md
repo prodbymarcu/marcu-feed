@@ -1,1 +1,3 @@
-- chore(main): release cua-sdk 0.20.0 (#7188) — https://github.com/trycua/cua/commit/f67dbf93896fcdf753e4e87481083b0d1486f05d (score 5)
+- feat: external PLE file loading by pwilkin · Pull Request #31185 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xsgpby/feat_external_ple_file_loading_by_pwilkin_pull/ (score 13)
+- chore(main): release cua-driver-rs 0.47.0 (#7196) — https://github.com/trycua/cua/commit/373f64422aa2701ddd71453ea9b2c2e217cbc9c4 (score 5)
+- ggml : fix FreeBSD Vulkan build by setting _XOPEN_SOURCE=700 (#31701) — https://github.com/ggml-org/llama.cpp/commit/0d9eacadf2e19ff5d49df29800afc88a8e844123 (score 2)
