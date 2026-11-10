@@ -1,20 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(images): install cua-spacesd runtime libs in the bench build-info …</title>
-      <link>https://github.com/trycua/cua/commit/cc15b6588b17fb7b38c21b931f0f95867b3f85f9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cc15b6588b17fb7b38c21b931f0f95867b3f85f9</guid>
-      <pubDate>Tue, 10 Nov 2026 12:23:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(images): install cua-spacesd runtime libs in the bench build-info container (CUA-4010) (#7269)
+      <title>cuda : remove unused ids and type_src0 parameters (#32018)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/cd4ed902e174e54d7198105a720bb379a526309d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd4ed902e174e54d7198105a720bb379a526309d</guid>
+      <pubDate>Tue, 10 Nov 2026 12:38:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : remove unused ids and type_src0 parameters (#32018)
 
-cua-spacesd links libxkbcommon.so.0; the bare ubuntu:22.04 container that runs
-build-info lacked | why kept: trycua, claude, runs</description>
-    </item>
-    <item>
-      <title>ci(docs): dispatch the docs pin refresh with the release App (CUA-401…</title>
-      <link>https://github.com/trycua/cua/commit/3f26cdd382cdf304c1abd30528677e0a0e0b3bd8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3f26cdd382cdf304c1abd30528677e0a0e0b3bd8</guid>
-      <pubDate>Tue, 10 Nov 2026 12:23:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(docs): dispatch the docs pin refresh with the release App (CUA-4010) (#7270)
+This commit removes the unused ids and type_src0 parameters from
+quantize_row_q8_1_cuda.
 
-The Copybara App in AWS secret copybara/github-app has no installation, so
-every run failed minting the trycua/clo | why kept: trycua, claude</description>
+The motivation for this is that these paramet | why kept: quant, llama</description>
     </item></channel></rss>
