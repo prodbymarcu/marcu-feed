@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.46.3 (#7183) — https://github.com/trycua/cua/commit/388a40d5f70e48a7ca232fbf73c8f4c7a2b542e8 (score 5)
-- The Chinese threat — https://www.reddit.com/r/LocalLLaMA/comments/1xsdfep/the_chinese_threat/ (score 4)
+- ci(spaces): tag every nightly at the commit it was built from (#7131) — https://github.com/trycua/cua/commit/24b767b5f7fcf63f37a2e5646dd498d26294f356 (score 2)
