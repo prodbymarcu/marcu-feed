@@ -1,10 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs(cua-sdk): stamp the Spaces presence reference with 0.21.0 (#7283)</title>
-      <link>https://github.com/trycua/cua/commit/83cf6d917109406c0ba7f1dfd1ec9fa5b04a4d7c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/83cf6d917109406c0ba7f1dfd1ec9fa5b04a4d7c</guid>
-      <pubDate>Tue, 10 Nov 2026 15:02:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(cua-sdk): stamp the Spaces presence reference with 0.21.0 (#7283)
+      <title>fix(bench,agent): allow cua-sandbox 0.10 and widen the cap automatica…</title>
+      <link>https://github.com/trycua/cua/commit/8b4987f85923d11343727893cacc0ad0a62ae1cb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8b4987f85923d11343727893cacc0ad0a62ae1cb</guid>
+      <pubDate>Tue, 10 Nov 2026 15:19:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(bench,agent): allow cua-sandbox 0.10 and widen the cap automatically on sandbox releases (#7282)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre | why kept: trycua, claude</description>
+cua-bench 0.4.0 and cua-agent cap cua-sandbox below 0.10.0, so the sandbox 0.10.0
+release PR  | why kept: trycua, agent, claude</description>
+    </item>
+    <item>
+      <title>The Surprising Effectiveness of Deleting Weights in LLM Post-Training</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/</link>
+      <guid isPermaLink="false">t3_1xswmb7</guid>
+      <pubDate>Tue, 10 Nov 2026 15:19:04 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>Designing for Agents — Zeno Rocha, Resend</title>
+      <link>https://latent.space/p/resend/</link>
+      <guid isPermaLink="false">urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a</guid>
+      <pubDate>Tue, 10 Nov 2026 15:19:04 +0000</pubDate>
+      <description>Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send. | why kept: agent, claude</description>
     </item></channel></rss>

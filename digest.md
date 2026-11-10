@@ -1,1 +1,3 @@
-- docs(cua-sdk): stamp the Spaces presence reference with 0.21.0 (#7283) — https://github.com/trycua/cua/commit/83cf6d917109406c0ba7f1dfd1ec9fa5b04a4d7c (score 7)
+- fix(bench,agent): allow cua-sandbox 0.10 and widen the cap automatica… — https://github.com/trycua/cua/commit/8b4987f85923d11343727893cacc0ad0a62ae1cb (score 9)
+- The Surprising Effectiveness of Deleting Weights in LLM Post-Training — https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/ (score 6)
+- Designing for Agents — Zeno Rocha, Resend — https://latent.space/p/resend/ (score 4)
