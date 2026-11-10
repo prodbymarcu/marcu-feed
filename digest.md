@@ -1,1 +1,1 @@
-- fix(hyprland-plugin): smoke-test the released Cua Driver in the requa… — https://github.com/trycua/cua/commit/91d5f4134ec63b74adff4b61310c28eca826513c (score 2)
+- ci: keep AWS OIDC roles out of pull request runs (#7223) — https://github.com/trycua/cua/commit/96b6f19bd3f8df3317eedfd0e8a956ce0e91a305 (score 4)
