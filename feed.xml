@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Australian Finetunes</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsaujd/australian_finetunes/</link>
-      <guid isPermaLink="false">t3_1xsaujd</guid>
-      <pubDate>Tue, 10 Nov 2026 04:22:04 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsaujd/australian_finetunes/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Ii1aWkdpahatdbO6yhb8OUpyzgaXR6bQAbijEceLnho.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9 | why kept: qwen, model, qwen, local, llama</description>
+      <title>chore(main): release cua-sdk 0.20.0 (#7188)</title>
+      <link>https://github.com/trycua/cua/commit/f67dbf93896fcdf753e4e87481083b0d1486f05d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f67dbf93896fcdf753e4e87481083b0d1486f05d</guid>
+      <pubDate>Tue, 10 Nov 2026 04:38:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.20.0 (#7188)
+
+* chore(main): release cua-sdk 0.20.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
