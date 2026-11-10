@@ -1,7 +1,43 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>speakleash/Bielik-11B-v3.1-Instruct · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xsrg0l</guid>
-      <pubDate>Tue, 10 Nov 2026 13:42:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/13EAA2r-_IXSS1kU8p_ZW-5SMCyKmlaGlpDbGeHI7lg.png?width=640&amp;amp;crop=smar | why kept: local, llama</description>
+      <title>ci(images): set up Go in tag-safety-test instead of downloading a too…</title>
+      <link>https://github.com/trycua/cua/commit/20e43bbdd7754898bfb2a53ad610252c4489075d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/20e43bbdd7754898bfb2a53ad610252c4489075d</guid>
+      <pubDate>Tue, 10 Nov 2026 13:58:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(images): set up Go in tag-safety-test instead of downloading a toolchain (CUA-4010) (#7271)
+
+go install oras switched toolchains through proxy.golang.org, which 404s for
+hours after a new patc | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.47.3 (#7267)</title>
+      <link>https://github.com/trycua/cua/commit/f8520fa28babe8e67cccd33195a3f1d965acd0f8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f8520fa28babe8e67cccd33195a3f1d965acd0f8</guid>
+      <pubDate>Tue, 10 Nov 2026 13:58:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.3 (#7267)
+
+* chore(main): release cua-driver-rs 0.47.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives</title>
+      <link>https://github.com/GoogleChrome/modern-web-guidance</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50443812</guid>
+      <pubDate>Tue, 10 Nov 2026 13:58:37 +0000</pubDate>
+      <description>&lt;p&gt;Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() give you backdrops and ideal focus management, `fie | why kept: model, agent</description>
+    </item>
+    <item>
+      <title>fix(spaces): a computer&#x27;s row opens its shared desktop&#x27;s Space page (…</title>
+      <link>https://github.com/trycua/cua/commit/7b8d889130252a72972319d4f6791b59aeb442cb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b8d889130252a72972319d4f6791b59aeb442cb</guid>
+      <pubDate>Tue, 10 Nov 2026 13:58:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): a computer&amp;#39;s row opens its shared desktop&amp;#39;s Space page (#7263)
+
+* fix(spaces): a computer&amp;#39;s row opens its shared desktop&amp;#39;s Space page
+
+A computer that shares its desk | why kept: claude</description>
     </item></channel></rss>

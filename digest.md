@@ -1,1 +1,4 @@
-- speakleash/Bielik-11B-v3.1-Instruct · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face/ (score 4)
+- ci(images): set up Go in tag-safety-test instead of downloading a too… — https://github.com/trycua/cua/commit/20e43bbdd7754898bfb2a53ad610252c4489075d (score 7)
+- chore(main): release cua-driver-rs 0.47.3 (#7267) — https://github.com/trycua/cua/commit/f8520fa28babe8e67cccd33195a3f1d965acd0f8 (score 5)
+- Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives — https://github.com/GoogleChrome/modern-web-guidance (score 4)
+- fix(spaces): a computer's row opens its shared desktop's Space page (… — https://github.com/trycua/cua/commit/7b8d889130252a72972319d4f6791b59aeb442cb (score 2)
