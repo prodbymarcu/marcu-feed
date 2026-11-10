@@ -1,1 +1,1 @@
-- That's already crazy — https://www.reddit.com/r/LocalLLaMA/comments/1xshofl/thats_already_crazy/ (score 4)
+- TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts — https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/ (score 8)

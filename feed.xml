@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>That&#x27;s already crazy</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xshofl/thats_already_crazy/</link>
-      <guid isPermaLink="false">t3_1xshofl</guid>
-      <pubDate>Tue, 10 Nov 2026 14:14:42 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xshofl/thats_already_crazy/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/e9kzovucxq0i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=1c8371bdfe852de1b3e3c3 | why kept: local, llama</description>
+      <title>TTS bench - 91 open TTS models and 28 paid TTS APIs on the same prompts</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsqv86/tts_bench_91_open_tts_models_and_28_paid_tts_apis/</link>
+      <guid isPermaLink="false">t3_1xsqv86</guid>
+      <pubDate>Tue, 10 Nov 2026 14:31:22 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;This is the third round of tts-bench. Thanks to everyone who gave feedback on the first two posts:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1tm0k2l/tts_benchmark_comparison_all_kno | why kept: model, local, runs, llama</description>
     </item></channel></rss>
