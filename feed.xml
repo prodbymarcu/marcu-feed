@@ -1,51 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(release): stamp the cua-bench release version into its reference d…</title>
-      <link>https://github.com/trycua/cua/commit/ad36eb5a4cd5f952f901c9a20f2858ddced31567</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ad36eb5a4cd5f952f901c9a20f2858ddced31567</guid>
-      <pubDate>Tue, 10 Nov 2026 11:18:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): stamp the cua-bench release version into its reference docs (#7252)
+      <title>fix(spaces-macos): bundle cua 0.21.0 in Cua Spaces (#7241)</title>
+      <link>https://github.com/trycua/cua/commit/9ffb9f3234af232e0cfb38ad8650f9013bc232f3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9ffb9f3234af232e0cfb38ad8650f9013bc232f3</guid>
+      <pubDate>Tue, 10 Nov 2026 11:34:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.21.0 in Cua Spaces (#7241)
 
-The bench release PR changed the version but left the generated cua-bench reference pages and cb.json on the old  | why kept: trycua, claude</description>
+cua 0.21.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item>
     <item>
-      <title>test(cua-spaces): the name and stale-relay tests follow the pet names…</title>
-      <link>https://github.com/trycua/cua/commit/9a63d6b07c781e266420ed24161ccf3a89fab5f9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9a63d6b07c781e266420ed24161ccf3a89fab5f9</guid>
-      <pubDate>Tue, 10 Nov 2026 11:18:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-spaces): the name and stale-relay tests follow the pet names and the relay&amp;#39;s cascade (#7247)
+      <title>perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-…</title>
+      <link>https://github.com/trycua/cua/commit/9058fbe9f873c5ccc038a8350472045869275895</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9058fbe9f873c5ccc038a8350472045869275895</guid>
+      <pubDate>Tue, 10 Nov 2026 11:34:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-3971) (#7214)
 
-CI never runs the providers and host_spaces test binaries, so three tests kept
-expecting | why kept: claude, runs</description>
-    </item>
-    <item>
-      <title>feat(spaces): show a child Space&#x27;s window in the parent&#x27;s Stream sect…</title>
-      <link>https://github.com/trycua/cua/commit/5f09d890ad10a68c02de0cfd4e3fe24096537059</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5f09d890ad10a68c02de0cfd4e3fe24096537059</guid>
-      <pubDate>Tue, 10 Nov 2026 11:18:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): show a child Space&amp;#39;s window in the parent&amp;#39;s Stream section and stream it directly from the child (#6819)
+* perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-3971)
 
-* fix(spaces): every message an agent posts is appended to the thre | why kept: agent, claude</description>
-    </item>
-    <item>
-      <title>llama : Add FP8 KV-cache support (#28392)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/202c1a229f5a83d1c9d758ed0f2d43760fa4bab0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/202c1a229f5a83d1c9d758ed0f2d43760fa4bab0</guid>
-      <pubDate>Tue, 10 Nov 2026 11:18:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : Add FP8 KV-cache support (#28392)
-
-* Add FP8 KV-cache support
-
-* Add tests for scaled, FP8 KV-cache to test-backend-ops
-
-* Fix get_*_scale mapping and dequnatize FP8 also before rope shif | why kept: llama</description>
-    </item>
-    <item>
-      <title>fix(cua-spacesd): remove the agent sandbox even when its setup fails …</title>
-      <link>https://github.com/trycua/cua/commit/7b8de092587a04926919b52e2dcb472a4e9e947a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b8de092587a04926919b52e2dcb472a4e9e947a</guid>
-      <pubDate>Tue, 10 Nov 2026 11:18:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spacesd): remove the agent sandbox even when its setup fails (#7232)
-
-process_run_as.rs copies the debug cua-spacesd binary into a root-owned
-tempdir for each test. Only the Agent value r | why kept: agent</description>
+cua-sdk waited for the whole cua- | why kept: local</description>
     </item></channel></rss>

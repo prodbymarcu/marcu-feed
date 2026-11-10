@@ -1,5 +1,2 @@
-- ci(release): stamp the cua-bench release version into its reference d… — https://github.com/trycua/cua/commit/ad36eb5a4cd5f952f901c9a20f2858ddced31567 (score 7)
-- test(cua-spaces): the name and stale-relay tests follow the pet names… — https://github.com/trycua/cua/commit/9a63d6b07c781e266420ed24161ccf3a89fab5f9 (score 4)
-- feat(spaces): show a child Space's window in the parent's Stream sect… — https://github.com/trycua/cua/commit/5f09d890ad10a68c02de0cfd4e3fe24096537059 (score 4)
-- llama : Add FP8 KV-cache support (#28392) — https://github.com/ggml-org/llama.cpp/commit/202c1a229f5a83d1c9d758ed0f2d43760fa4bab0 (score 2)
-- fix(cua-spacesd): remove the agent sandbox even when its setup fails … — https://github.com/trycua/cua/commit/7b8de092587a04926919b52e2dcb472a4e9e947a (score 2)
+- fix(spaces-macos): bundle cua 0.21.0 in Cua Spaces (#7241) — https://github.com/trycua/cua/commit/9ffb9f3234af232e0cfb38ad8650f9013bc232f3 (score 5)
+- perf(cua): split cua-daemon into cua-daemon-core and the server (CUA-… — https://github.com/trycua/cua/commit/9058fbe9f873c5ccc038a8350472045869275895 (score 2)
