@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Apple has new Mac app coming to make running local AI models easy</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/</link>
-      <guid isPermaLink="false">t3_1xszbe7</guid>
-      <pubDate>Tue, 10 Nov 2026 17:10:46 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RsfBvYDZIdmJIOcEDnLBJ-iJKrXX5iBbX4ZhVH2CIfU.jpeg?width=640&amp;amp;crop=sm | why kept: model, local, llama</description>
+      <title>fix(spaces-macos): bundle cua 0.22.0 in Cua Spaces (#7293)</title>
+      <link>https://github.com/trycua/cua/commit/2808b642accf99c0a27b9667dc62f28a978c6837</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2808b642accf99c0a27b9667dc62f28a978c6837</guid>
+      <pubDate>Tue, 10 Nov 2026 17:26:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.22.0 in Cua Spaces (#7293)
+
+cua 0.22.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

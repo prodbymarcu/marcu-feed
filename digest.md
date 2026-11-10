@@ -1,1 +1,1 @@
-- Apple has new Mac app coming to make running local AI models easy — https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/ (score 6)
+- fix(spaces-macos): bundle cua 0.22.0 in Cua Spaces (#7293) — https://github.com/trycua/cua/commit/2808b642accf99c0a27b9667dc62f28a978c6837 (score 5)
