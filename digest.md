@@ -1,2 +1,2 @@
-- Yonkers Rises — https://simonwillison.net/2026/Nov/10/yonkers-rises/ (score 4)
-- [AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins — https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/ (score 2)
+- Audio embeddings inference in C++/GGML with clap.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xsdy76/audio_embeddings_inference_in_cggml_with_clapcpp/ (score 4)
+- llama : apply the iGPU lazy-mode fallback only when mmap is off (#31957) — https://github.com/ggml-org/llama.cpp/commit/58e38bdf65f79d2d59f60c0cae206bb98cd332bd (score 2)
