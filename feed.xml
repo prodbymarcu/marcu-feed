@@ -1,15 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.19.0 (#7179)</title>
-      <link>https://github.com/trycua/cua/commit/daf0c35b5c286b6b7f53f6d5197d23061a2d9d21</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/daf0c35b5c286b6b7f53f6d5197d23061a2d9d21</guid>
-      <pubDate>Mon, 09 Nov 2026 23:18:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.19.0 (#7179)
+      <title>chore(main): release cua-driver-rs 0.46.3 (#7183)</title>
+      <link>https://github.com/trycua/cua/commit/388a40d5f70e48a7ca232fbf73c8f4c7a2b542e8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/388a40d5f70e48a7ca232fbf73c8f4c7a2b542e8</guid>
+      <pubDate>Mon, 09 Nov 2026 23:49:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.46.3 (#7183)
 
-* chore(main): release cua-sdk 0.19.0
+* chore(main): release cua-driver-rs 0.46.3
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>The Chinese threat</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsdfep/the_chinese_threat/</link>
+      <guid isPermaLink="false">t3_1xsdfep</guid>
+      <pubDate>Mon, 09 Nov 2026 23:49:54 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsdfep/the_chinese_threat/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/lao76m5fop0i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5828480ddb903fbb21152a3b153b000c7ac6187c&quot;  | why kept: local, llama</description>
     </item></channel></rss>
