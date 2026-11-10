@@ -1,18 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : stop renaming the recurrent cache tensors in plamo2 (#31984)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/940a30ee3b5593e1a66fe0aadc3b731989022552</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/940a30ee3b5593e1a66fe0aadc3b731989022552</guid>
-      <pubDate>Tue, 10 Nov 2026 03:49:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : stop renaming the recurrent cache tensors in plamo2 (#31984)&lt;/pre&gt; | why kept: model</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): name the AXWindows read error in ax_window_unresolve…</title>
-      <link>https://github.com/trycua/cua/commit/0365501c94dd325bec93c3b40c51150d311ea1bf</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0365501c94dd325bec93c3b40c51150d311ea1bf</guid>
-      <pubDate>Tue, 10 Nov 2026 03:49:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): name the AXWindows read error in ax_window_unresolved (#7192)
-
-* fix(cua-driver): name the AXWindows read error in ax_window_unresolved
-
-When an application answers the `AXWindow | why kept: agent</description>
+      <title>feat(cua-driver): connect --replace switches an agent from another Cu…</title>
+      <link>https://github.com/trycua/cua/commit/e15e9dd47cdc970e7cbed5fec87e377c28ddae0f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e15e9dd47cdc970e7cbed5fec87e377c28ddae0f</guid>
+      <pubDate>Tue, 10 Nov 2026 04:06:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): connect --replace switches an agent from another Cua Driver (#7190)&lt;/pre&gt; | why kept: agent</description>
     </item></channel></rss>
