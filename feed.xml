@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.10 (#7364)</title>
-      <link>https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/630d27859141de96a74e2b3d986f77a536a6e348</guid>
-      <pubDate>Wed, 11 Nov 2026 06:01:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.10 (#7364)
-
-* chore(main): release cua-driver-rs 0.47.10
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Ernie 5.5 Flash will be released in two weeks</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/</link>
-      <guid isPermaLink="false">t3_1xted8w</guid>
-      <pubDate>Wed, 11 Nov 2026 06:01:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qlnfcig0ny0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=90d0fa9429d59e3 | why kept: local, llama</description>
+      <title>qwen4-max-preview on qwencloud</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/</link>
+      <guid isPermaLink="false">t3_1xtckm8</guid>
+      <pubDate>Wed, 11 Nov 2026 06:49:33 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/n56fsqic2y0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bb2257f7d57295dcedd64389fc3f2ad | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>

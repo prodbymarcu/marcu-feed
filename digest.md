@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.10 (#7364) — https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348 (score 5)
-- Ernie 5.5 Flash will be released in two weeks — https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/ (score 4)
+- qwen4-max-preview on qwencloud — https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/ (score 11)
