@@ -1,1 +1,3 @@
-- chore(main): release cua-spaces 0.33.0 (#7303) — https://github.com/trycua/cua/commit/9428c87417b1a6ae0222cbf76714cd59c74260b8 (score 2)
+- chore(main): release cua-sdk 0.24.0 (#7315) — https://github.com/trycua/cua/commit/d7e768563f14d2361d9a723a3afc3a56268f61eb (score 7)
+- chore(cua-driver): advance published installer version to 0.47.5 (#7328) — https://github.com/trycua/cua/commit/3cb322225fcd2d957e9e60e60dc30e5dacfae728 (score 5)
+- ci(spaces): cap the app library job at 120 min and time-box cache res… — https://github.com/trycua/cua/commit/41a64dacd167a01abf48168d1c8d5959047041b9 (score 2)
