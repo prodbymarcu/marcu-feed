@@ -1,7 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qwen4-max-preview on qwencloud</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/</link>
-      <guid isPermaLink="false">t3_1xtckm8</guid>
-      <pubDate>Wed, 11 Nov 2026 06:49:33 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/n56fsqic2y0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bb2257f7d57295dcedd64389fc3f2ad | why kept: qwen, qwen, local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.47.9 (#7367)</title>
+      <link>https://github.com/trycua/cua/commit/cedf76fc620d59d8985856c6aaa250f77c00747c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cedf76fc620d59d8985856c6aaa250f77c00747c</guid>
+      <pubDate>Wed, 11 Nov 2026 07:06:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.9 (#7367)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/</link>
+      <guid isPermaLink="false">t3_1xt3hjd</guid>
+      <pubDate>Wed, 11 Nov 2026 07:06:10 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/a3z6kqc5ov0i1.gif?frame=1&amp;amp;width=140&amp;amp;height=68&amp;amp;auto=webp&amp;amp;s=13e200 | why kept: local, llama</description>
     </item></channel></rss>

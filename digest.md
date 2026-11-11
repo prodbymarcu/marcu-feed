@@ -1,1 +1,2 @@
-- qwen4-max-preview on qwencloud — https://www.reddit.com/r/LocalLLaMA/comments/1xtckm8/qwen4maxpreview_on_qwencloud/ (score 11)
+- chore(cua-driver): advance published installer version to 0.47.9 (#7367) — https://github.com/trycua/cua/commit/cedf76fc620d59d8985856c6aaa250f77c00747c (score 5)
+- I built a zero-dependency streaming Markdown renderer for AI chat replies, n× faster than the next one I benchmarked — https://www.reddit.com/r/LocalLLaMA/comments/1xt3hjd/i_built_a_zerodependency_streaming_markdown/ (score 4)
