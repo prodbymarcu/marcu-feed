@@ -1,18 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Trending on huggingface:2D to 3D</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/</link>
-      <guid isPermaLink="false">t3_1xsub9f</guid>
-      <pubDate>Tue, 10 Nov 2026 21:44:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/v5JjF9HpqnPHJ2_JL_zkY_A7jAxXvygVJCuPiWbeFiw.png?width=640&amp;amp;crop=smart&amp;amp;auto=w | why kept: model, local, runs, llama</description>
+      <title>Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/</link>
+      <guid isPermaLink="false">t3_1xt5q27</guid>
+      <pubDate>Tue, 10 Nov 2026 22:00:46 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The next-gen Qwen4 is almost here, with deeper knowledge, a richer understanding of the world, and stronger coding and agentic capabilities. Qwen4-Max Preview is now available on Alibaba Token Plan at up to | why kept: qwen, agent, qwen</description>
     </item>
     <item>
-      <title>fix(runtime): setup runsc no longer says already available on a runc-…</title>
-      <link>https://github.com/trycua/cua/commit/bc640ca8186aed9999f98596decf4b5a9cd9a607</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bc640ca8186aed9999f98596decf4b5a9cd9a607</guid>
-      <pubDate>Tue, 10 Nov 2026 21:44:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(runtime): setup runsc no longer says already available on a runc-only Docker (#7314)
+      <title>chore(main): release cua-driver-rs 0.47.6 (#7331)</title>
+      <link>https://github.com/trycua/cua/commit/c8dc7835abcb714e85a4feaca0083bc1ac49a744</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8dc7835abcb714e85a4feaca0083bc1ac49a744</guid>
+      <pubDate>Tue, 10 Nov 2026 22:00:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.6 (#7331)
 
-* fix(runtime): judge setup components on their own readiness, not their backend&amp;#39;s
+* chore(main): release cua-driver-rs 0.47.6
 
-cua runtime setup | why kept: runs</description>
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

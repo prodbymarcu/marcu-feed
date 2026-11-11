@@ -1,2 +1,2 @@
-- Trending on huggingface:2D to 3D — https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/ (score 8)
-- fix(runtime): setup runsc no longer says already available on a runc-… — https://github.com/trycua/cua/commit/bc640ca8186aed9999f98596decf4b5a9cd9a607 (score 2)
+- Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan — https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/ (score 9)
+- chore(main): release cua-driver-rs 0.47.6 (#7331) — https://github.com/trycua/cua/commit/c8dc7835abcb714e85a4feaca0083bc1ac49a744 (score 5)
