@@ -1,20 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>apt-install: fall back to archive.ubuntu.com after a failed attempt (…</title>
-      <link>https://github.com/trycua/cua/commit/c60458d9e2f75e2bdd7a5c167b7cb44123f7cad1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c60458d9e2f75e2bdd7a5c167b7cb44123f7cad1</guid>
-      <pubDate>Wed, 11 Nov 2026 11:06:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;apt-install: fall back to archive.ubuntu.com after a failed attempt (#7385)
-
-The runners&amp;#39; default mirror (azure.archive.ubuntu.com) failed to resolve on
-11 Nov 2026, so three attempts in a ro | why kept: trycua, claude</description>
+      <title>New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/</link>
+      <guid isPermaLink="false">t3_1xtlyhe</guid>
+      <pubDate>Wed, 11 Nov 2026 11:37:39 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/rdisl2kib01i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1f05bee5a5d50194e1f2e | why kept: unsloth, qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>cd-cua-sdk: let the second CDN mirror replace the rewritten checksums…</title>
-      <link>https://github.com/trycua/cua/commit/d8ccf21cdf1ddbfc3e81f790db5c9c2981805684</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d8ccf21cdf1ddbfc3e81f790db5c9c2981805684</guid>
-      <pubDate>Wed, 11 Nov 2026 11:06:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cd-cua-sdk: let the second CDN mirror replace the rewritten checksums.txt (#7384)
+      <title>chat: allow TTS model to provide custom text normalizer via jinja (#3…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/f7b886fe6fe5d4cdafaac0d60d7cfa84ae43961d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f7b886fe6fe5d4cdafaac0d60d7cfa84ae43961d</guid>
+      <pubDate>Wed, 11 Nov 2026 11:37:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chat: allow TTS model to provide custom text normalizer via jinja (#32053)
 
-attach-xcframework rewrites checksums.txt after the first mirror copied it,
-so the second mirror (and every late | why kept: trycua, claude</description>
+* chat: allow TTS model to provide custom text normalizer via jinja
+
+* rm tts_norm_is_reserved_name&lt;/pre&gt; | why kept: model</description>
     </item></channel></rss>

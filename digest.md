@@ -1,2 +1,2 @@
-- apt-install: fall back to archive.ubuntu.com after a failed attempt (… — https://github.com/trycua/cua/commit/c60458d9e2f75e2bdd7a5c167b7cb44123f7cad1 (score 7)
-- cd-cua-sdk: let the second CDN mirror replace the rewritten checksums… — https://github.com/trycua/cua/commit/d8ccf21cdf1ddbfc3e81f790db5c9c2981805684 (score 7)
+- New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs — https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/ (score 16)
+- chat: allow TTS model to provide custom text normalizer via jinja (#3… — https://github.com/ggml-org/llama.cpp/commit/f7b886fe6fe5d4cdafaac0d60d7cfa84ae43961d (score 2)
