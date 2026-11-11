@@ -1,1 +1,2 @@
-- [Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits — https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with/ (score 8)
+- Open source self driving is here! — https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/ (score 6)
+- KRAFTON/Raon-1-nano · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/ (score 6)
