@@ -1,3 +1,3 @@
-- chore(cua-driver): advance published installer version to 0.47.11 (#7… — https://github.com/trycua/cua/commit/7ad4225fe42f5de938dcd17d1905d6b4716885d4 (score 5)
-- chore(main): release cua-driver-rs 0.47.13 (#7391) — https://github.com/trycua/cua/commit/01df64326f94f5b1f52b02d444a83382552875b0 (score 5)
-- llama : reuse graph result instances across scheduler reserves (#32089) — https://github.com/ggml-org/llama.cpp/commit/cb44fdb1892eebca072e0949875a60c11245a8bb (score 2)
+- Open-source method (MACaQ) beats Unsloth GGUFs! — https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/ (score 16)
+- chore(main): release cua-driver-rs 0.47.10 (#7364) — https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348 (score 5)
+- fix(cua-driver): Linux X11 background scroll on Qt moves the list or … — https://github.com/trycua/cua/commit/21da4d18b501f4d4782b79c0a65e6fd56f8eabb6 (score 2)

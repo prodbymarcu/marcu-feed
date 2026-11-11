@@ -1,20 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.11 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/7ad4225fe42f5de938dcd17d1905d6b4716885d4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ad4225fe42f5de938dcd17d1905d6b4716885d4</guid>
-      <pubDate>Wed, 11 Nov 2026 13:13:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.11 (#7392)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+      <title>Open-source method (MACaQ) beats Unsloth GGUFs!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/</link>
+      <guid isPermaLink="false">t3_1xto0fa</guid>
+      <pubDate>Wed, 11 Nov 2026 13:29:37 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/tJixhmGxI2CxZG7_o64et2Vl0hMihSSbZ-XSWW78B58.png?width=140&amp;amp;height=70 | why kept: unsloth, qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.47.13 (#7391)</title>
-      <link>https://github.com/trycua/cua/commit/01df64326f94f5b1f52b02d444a83382552875b0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01df64326f94f5b1f52b02d444a83382552875b0</guid>
-      <pubDate>Wed, 11 Nov 2026 13:13:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.13 (#7391)
+      <title>chore(main): release cua-driver-rs 0.47.10 (#7364)</title>
+      <link>https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/630d27859141de96a74e2b3d986f77a536a6e348</guid>
+      <pubDate>Wed, 11 Nov 2026 13:29:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.10 (#7364)
 
-* chore(main): release cua-driver-rs 0.47.13
+* chore(main): release cua-driver-rs 0.47.10
 
 * chore(cua-driver-rs): synchronize generated release files
 
@@ -23,11 +21,13 @@ Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.gi
 Co-authored-by: cua-relea | why kept: trycua</description>
     </item>
     <item>
-      <title>llama : reuse graph result instances across scheduler reserves (#32089)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/cb44fdb1892eebca072e0949875a60c11245a8bb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cb44fdb1892eebca072e0949875a60c11245a8bb</guid>
-      <pubDate>Wed, 11 Nov 2026 13:13:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : reuse graph result instances across scheduler reserves (#32089)
+      <title>fix(cua-driver): Linux X11 background scroll on Qt moves the list or …</title>
+      <link>https://github.com/trycua/cua/commit/21da4d18b501f4d4782b79c0a65e6fd56f8eabb6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/21da4d18b501f4d4782b79c0a65e6fd56f8eabb6</guid>
+      <pubDate>Wed, 11 Nov 2026 13:29:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): Linux X11 background scroll on Qt moves the list or refuses (#7369) (#7387)
 
-Allocate gf_res_reserve and both gf_res_prev entries once in the llama_context constructor. Add llm_graph_result::set_max_ | why kept: llama</description>
+Two causes, one per X server:
+
+- Without the agent&amp;#39;s own pointer device (Xvfb, Xtigervnc, no writ | why kept: agent</description>
     </item></channel></rss>
