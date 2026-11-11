@@ -1,14 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Strata vs Basalt more differences than speed.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsp6ub/strata_vs_basalt_more_differences_than_speed/</link>
-      <guid isPermaLink="false">t3_1xsp6ub</guid>
-      <pubDate>Wed, 11 Nov 2026 10:02:22 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsp6ub/strata_vs_basalt_more_differences_than_speed/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5homymmsvs0i1.png?width=140&amp;amp;height=67&amp;amp;auto=webp&amp;amp;s=0ba3e2c561735645c | why kept: qwen, qwen, local, llama</description>
+      <title>askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions into MongoDB queries</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen/</link>
+      <guid isPermaLink="false">t3_1xtfvct</guid>
+      <pubDate>Wed, 11 Nov 2026 10:17:38 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bzY5eDd0cDJ6eTBpMY--KZHrrpQeN-0ilPzXfHpP-IQRhHPrJ9phImSr4LZH.png?width | why kept: qwen, model, qwen, local, llama, fine-tun</description>
     </item>
     <item>
-      <title>Anyone else not using using &quot;preserve_thinking&quot; ?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking/</link>
-      <guid isPermaLink="false">t3_1xtf9xp</guid>
-      <pubDate>Wed, 11 Nov 2026 10:02:22 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I am running QFN, and I have disabled preserve_thinking by default on all my tests for C++ backend and front-end programming and I have yet to see any decline in performance or intelligence, my context wind | why kept: local, llama, context window</description>
+      <title>Anthropic&#x27;s IPO roadshow video</title>
+      <link>https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/</guid>
+      <pubDate>Wed, 11 Nov 2026 10:17:38 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://ipo.anthropic.com/us/#roadshow-video&quot;&gt;Anthropic&amp;#x27;s IPO roadshow video&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information ab | why kept: claude, video</description>
+    </item>
+    <item>
+      <title>Atuin Threads: All your agent sessions on every machine</title>
+      <link>https://blog.atuin.sh/threads-agent-sessions/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50453637</guid>
+      <pubDate>Wed, 11 Nov 2026 10:17:38 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://blog.atuin.sh/threads-agent-sessions/&quot;&gt;https://blog.atuin.sh/threads-agent-sessions/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50453637&quot;&gt;https://news.ycombinator.com/item?id=5045 | why kept: agent</description>
     </item></channel></rss>

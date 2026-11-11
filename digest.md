@@ -1,2 +1,3 @@
-- Strata vs Basalt more differences than speed. — https://www.reddit.com/r/LocalLLaMA/comments/1xsp6ub/strata_vs_basalt_more_differences_than_speed/ (score 11)
-- Anyone else not using using "preserve_thinking" ? — https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking/ (score 6)
+- askmdb: My new project where I fine-tuned Qwen models to build a MongoDB CLI assistant - turn plain-language questions i — https://www.reddit.com/r/LocalLLaMA/comments/1xtfvct/askmdb_my_new_project_where_i_finetuned_qwen/ (score 15)
+- Anthropic's IPO roadshow video — https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/ (score 4)
+- Atuin Threads: All your agent sessions on every machine — https://blog.atuin.sh/threads-agent-sessions/ (score 2)
