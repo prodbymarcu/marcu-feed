@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.7 (#7334) — https://github.com/trycua/cua/commit/43d06894f82093dfac9e7341d58e46b7aa0ca69d (score 5)
+- perf(cua-driver): strip symbols and fat LTO for release builds (#7316) — https://github.com/trycua/cua/commit/865c7bcd63488e7fdbbd31809065004ae9da1f49 (score 2)

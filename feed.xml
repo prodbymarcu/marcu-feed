@@ -1,15 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.7 (#7334)</title>
-      <link>https://github.com/trycua/cua/commit/43d06894f82093dfac9e7341d58e46b7aa0ca69d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/43d06894f82093dfac9e7341d58e46b7aa0ca69d</guid>
-      <pubDate>Tue, 10 Nov 2026 22:48:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.7 (#7334)
+      <title>perf(cua-driver): strip symbols and fat LTO for release builds (#7316)</title>
+      <link>https://github.com/trycua/cua/commit/865c7bcd63488e7fdbbd31809065004ae9da1f49</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/865c7bcd63488e7fdbbd31809065004ae9da1f49</guid>
+      <pubDate>Tue, 10 Nov 2026 23:04:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(cua-driver): strip symbols and fat LTO for release builds (#7316)
 
-* chore(main): release cua-driver-rs 0.47.7
+* cua-driver: strip symbols and use fat LTO for release builds
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Release binaries ship in the PyPI wheels. PyPI rejected 0.4 | why kept: claude</description>
     </item></channel></rss>
