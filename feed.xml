@@ -1,10 +1,57 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(spaces): stop the prewarm grace test racing a failing offline st…</title>
-      <link>https://github.com/trycua/cua/commit/3be9ae29e3a8957a655c4e170bf0ced87a6f8348</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3be9ae29e3a8957a655c4e170bf0ced87a6f8348</guid>
-      <pubDate>Wed, 11 Nov 2026 03:20:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces): stop the prewarm grace test racing a failing offline stream (#7355)
+      <title>CUDA: Add OCP FP8 support (#28413)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9e9619d030bbe6b584d826a0a6cf06e38251f52b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9e9619d030bbe6b584d826a0a6cf06e38251f52b</guid>
+      <pubDate>Wed, 11 Nov 2026 03:52:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: Add OCP FP8 support (#28413)
 
-The test opened a prewarm on OfflineStreamSourceProvider, which refuses to
-stream. A warm stream whose session f | why kept: trycua, claude</description>
+* Initial CUDA WIP version
+
+* Use fp8 intrinsics
+
+* Do W8A16 for FP8 in GEMV case
+
+(base) osimons@ub-osimons:~/lcpp_fp8.git$ ./build-x64-linux-gcc-reldbg/bin/l | why kept: qwen, model, qwen, llama</description>
+    </item>
+    <item>
+      <title>cuda : use MMVF for BF16 matrices of few rows at small batch sizes (#…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/459ab1cdd3c566168c814b6f50cb1a7e6eb79914</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/459ab1cdd3c566168c814b6f50cb1a7e6eb79914</guid>
+      <pubDate>Wed, 11 Nov 2026 03:52:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : use MMVF for BF16 matrices of few rows at small batch sizes (#31959)
+
+MMF tiles 32 rows per block, so a BF16 matrix with few rows (e.g. the
+qwen4exp hyper-connection projections, 320 rows  | why kept: qwen, qwen, runs</description>
+    </item>
+    <item>
+      <title>cuda : fattn mma head sizes 40 72 (#30285)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9d7b2d7397155e83934b71c01224a69516b19a2c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d7b2d7397155e83934b71c01224a69516b19a2c</guid>
+      <pubDate>Wed, 11 Nov 2026 03:52:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : fattn mma head sizes 40 72 (#30285)
+
+* cuda : add MMA FlashAttention support for head sizes 40 and 72
+
+Head sizes 40 and 72 (used e.g. in vision towers of Gemma 3/4 and Qwen3-VL) were excl | why kept: qwen, qwen</description>
+    </item>
+    <item>
+      <title>fix(cua-vmm): boot cold when a guest cannot take a restored identity;…</title>
+      <link>https://github.com/trycua/cua/commit/82412afdca85c7fca0ca3c63d1be3f080fb0e9c2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/82412afdca85c7fca0ca3c63d1be3f080fb0e9c2</guid>
+      <pubDate>Wed, 11 Nov 2026 03:52:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-vmm): boot cold when a guest cannot take a restored identity; one readiness budget per start (#7354)
+
+The OSWorld containerdisk smoke in the cua-spacesd release (bench / verify
+amd64) fai | why kept: agent, runs</description>
+    </item>
+    <item>
+      <title>cuda : add sm70 FlashAttention config case for DKQ=256, DV=256, ncols…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/77e2db8cabdb83f8da59d8584a381b2299d8a171</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/77e2db8cabdb83f8da59d8584a381b2299d8a171</guid>
+      <pubDate>Wed, 11 Nov 2026 03:52:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cuda : add sm70 FlashAttention config case for DKQ=256, DV=256, ncols=64 (#27997)
+
+* CUDA : add sm70 FlashAttention config case for the 256x256 head
+
+* CUDA : tune sm70 FlashAttention for 256x256 | why kept: codex</description>
     </item></channel></rss>
