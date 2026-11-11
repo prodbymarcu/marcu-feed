@@ -1,1 +1,2 @@
-- Rules and moderation, what do you want to see changed? — https://www.reddit.com/r/LocalLLaMA/comments/1xtizre/rules_and_moderation_what_do_you_want_to_see/ (score 4)
+- NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains — https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/ (score 6)
+- [Bi-Weekly Megathread] Project Showcase — https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/ (score 4)
