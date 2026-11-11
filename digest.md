@@ -1,1 +1,1 @@
-- fix(cua-driver): refuse input to macOS security and consent prompts (… — https://github.com/trycua/cua/commit/e13f4321350c9114eaff0d34e2fb88b6afd5f3e0 (score 2)
+- ci(cua-driver): bump pinned claude-code to a patched version (#7357) — https://github.com/trycua/cua/commit/2a4f53a9e8a64c1abdcaf9bf6b7f6080edac0871 (score 2)
