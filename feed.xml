@@ -1,17 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: enable KVM via the udev rule and require it for the bench verify …</title>
-      <link>https://github.com/trycua/cua/commit/9618606a6d7779f4782c1b7c5454d03c9ac39d9b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9618606a6d7779f4782c1b7c5454d03c9ac39d9b</guid>
-      <pubDate>Wed, 11 Nov 2026 00:24:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: enable KVM via the udev rule and require it for the bench verify (#7342)
+      <title>chore(main): release cua-driver-rs 0.47.8 (#7344)</title>
+      <link>https://github.com/trycua/cua/commit/87558bfd064787c7839351c55d667dc8244044a4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/87558bfd064787c7839351c55d667dc8244044a4</guid>
+      <pubDate>Wed, 11 Nov 2026 00:56:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.8 (#7344)
 
-The osworld containerdisk verify ran under TCG and timed out. Add
-scripts/images/enable-kvm.sh (the documented static | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/</link>
-      <guid isPermaLink="false">t3_1xt82mz</guid>
-      <pubDate>Wed, 11 Nov 2026 00:24:35 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RbF4WffielSMwfTTgqCRgD-eK-O6hAHhk2rsHrNqA8g.png?width=640&amp;amp;crop=sma | why kept: agent, local, llama</description>
+* chore(main): release cua-driver-rs 0.47.8
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

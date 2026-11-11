@@ -1,2 +1,1 @@
-- ci: enable KVM via the udev rule and require it for the bench verify … — https://github.com/trycua/cua/commit/9618606a6d7779f4782c1b7c5454d03c9ac39d9b (score 7)
-- Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons — https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/ (score 6)
+- chore(main): release cua-driver-rs 0.47.8 (#7344) — https://github.com/trycua/cua/commit/87558bfd064787c7839351c55d667dc8244044a4 (score 5)
