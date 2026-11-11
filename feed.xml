@@ -1,26 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.24.1 (#7332)</title>
-      <link>https://github.com/trycua/cua/commit/6fe00ee8ae37d8d0a41096aff10ade8bd8145f23</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6fe00ee8ae37d8d0a41096aff10ade8bd8145f23</guid>
-      <pubDate>Tue, 10 Nov 2026 22:16:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.24.1 (#7332)
+      <title>fix(spaces-macos): bundle cua 0.24.0 in Cua Spaces (#7329)</title>
+      <link>https://github.com/trycua/cua/commit/ced3db710caeeba1ae46853436521ddf7bd62a5e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ced3db710caeeba1ae46853436521ddf7bd62a5e</guid>
+      <pubDate>Tue, 10 Nov 2026 22:32:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.24.0 in Cua Spaces (#7329)
 
-* chore(main): release cua-sdk 0.24.1
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): hover background Hyprland apps through the agent sea…</title>
-      <link>https://github.com/trycua/cua/commit/252bdbf8011c97adfa08ebbdf5fd05a796ad81bb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/252bdbf8011c97adfa08ebbdf5fd05a796ad81bb</guid>
-      <pubDate>Tue, 10 Nov 2026 22:16:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): hover background Hyprland apps through the agent seat (#7319)
-
-* fix(cua-driver): hover background Hyprland apps through the agent seat
-
-On Hyprland, move_cursor with a window ta | why kept: agent, local</description>
+cua 0.24.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- chore(main): release cua-sdk 0.24.1 (#7332) — https://github.com/trycua/cua/commit/6fe00ee8ae37d8d0a41096aff10ade8bd8145f23 (score 5)
-- fix(cua-driver): hover background Hyprland apps through the agent sea… — https://github.com/trycua/cua/commit/252bdbf8011c97adfa08ebbdf5fd05a796ad81bb (score 4)
+- fix(spaces-macos): bundle cua 0.24.0 in Cua Spaces (#7329) — https://github.com/trycua/cua/commit/ced3db710caeeba1ae46853436521ddf7bd62a5e (score 5)
