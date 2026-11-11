@@ -1,4 +1,2 @@
-- [GLB-3D-Coder] I tried making a 1.7B version for Godot — https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/ (score 6)
-- AI Engineer Code Summit: OpenAI on New Ways of Working With Codex — https://latent.space/p/codex-work/ (score 4)
-- ci: raise the open-files limit before every script that runs cargo te… — https://github.com/trycua/cua/commit/066c9d1279696ccad14a8daa3e9935b27235e845 (score 2)
-- fix(runtime): setup runsc no longer says already available on a runc-… — https://github.com/trycua/cua/commit/bc640ca8186aed9999f98596decf4b5a9cd9a607 (score 2)
+- chore(cua-driver): advance published installer version to 0.47.7 (#7347) — https://github.com/trycua/cua/commit/a53970919fe7d7c885b46f09ffa0f15689dfae27 (score 5)
+- ci: keep the Actions cache budget for main's Rust caches (#7321) — https://github.com/trycua/cua/commit/ca2670e51eff57d5e6a1b7b4033d5fcb278d5c8a (score 2)
