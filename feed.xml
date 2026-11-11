@@ -1,11 +1,36 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): check the cells a verify-linux.sh run declared (#7343)</title>
-      <link>https://github.com/trycua/cua/commit/86ea4e509473104b0b3a26c246e71c10a6cc1e92</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/86ea4e509473104b0b3a26c246e71c10a6cc1e92</guid>
-      <pubDate>Tue, 10 Nov 2026 23:36:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): check the cells a verify-linux.sh run declared (#7343)
+      <title>[GLB-3D-Coder] I tried making a 1.7B version for Godot</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/</link>
+      <guid isPermaLink="false">t3_1xt6rc7</guid>
+      <pubDate>Tue, 10 Nov 2026 23:52:43 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Z3VlMWpwY21kdzBpMS1gMDmEUlNzUE4coIYk4q5aPak65kNNeqq9XaT5CmKt.png? | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>AI Engineer Code Summit: OpenAI on New Ways of Working With Codex</title>
+      <link>https://latent.space/p/codex-work/</link>
+      <guid isPermaLink="false">urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec</guid>
+      <pubDate>Tue, 10 Nov 2026 23:52:43 +0000</pubDate>
+      <description>On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots. | why kept: codex, voice</description>
+    </item>
+    <item>
+      <title>ci: raise the open-files limit before every script that runs cargo te…</title>
+      <link>https://github.com/trycua/cua/commit/066c9d1279696ccad14a8daa3e9935b27235e845</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/066c9d1279696ccad14a8daa3e9935b27235e845</guid>
+      <pubDate>Tue, 10 Nov 2026 23:52:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: raise the open-files limit before every script that runs cargo test (#7324)
 
-* test(cua-driver): cover foreground and refused filter runs in the evidence checker
+* ci: raise the open-files limit before every script that runs cargo test
 
-The checker fixture now writes cases | why kept: runs</description>
+macOS shells default to 256 open files, | why kept: runs</description>
+    </item>
+    <item>
+      <title>fix(runtime): setup runsc no longer says already available on a runc-…</title>
+      <link>https://github.com/trycua/cua/commit/bc640ca8186aed9999f98596decf4b5a9cd9a607</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bc640ca8186aed9999f98596decf4b5a9cd9a607</guid>
+      <pubDate>Tue, 10 Nov 2026 23:52:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(runtime): setup runsc no longer says already available on a runc-only Docker (#7314)
+
+* fix(runtime): judge setup components on their own readiness, not their backend&amp;#39;s
+
+cua runtime setup | why kept: runs</description>
     </item></channel></rss>
