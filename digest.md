@@ -1,1 +1,1 @@
-- Qwen4-Max Preview is out on API access. No word on weights release yet — https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/ (score 11)
+- fix(cua-driver): refuse input to macOS security and consent prompts (… — https://github.com/trycua/cua/commit/e13f4321350c9114eaff0d34e2fb88b6afd5f3e0 (score 2)

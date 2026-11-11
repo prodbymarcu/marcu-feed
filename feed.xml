@@ -1,7 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen4-Max Preview is out on API access. No word on weights release yet</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/</link>
-      <guid isPermaLink="false">t3_1xtcrgm</guid>
-      <pubDate>Wed, 11 Nov 2026 04:24:38 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I don&amp;#39;t fuckin&amp;#39; know, better than opus 5 and 6.1 terra people say. We&amp;#39;ll see&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dany0&quot;&gt; /u/Dany0 &lt;/a&gt; &lt;br/&gt; &lt;s | why kept: qwen, qwen, local, llama</description>
+      <title>fix(cua-driver): refuse input to macOS security and consent prompts (…</title>
+      <link>https://github.com/trycua/cua/commit/e13f4321350c9114eaff0d34e2fb88b6afd5f3e0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e13f4321350c9114eaff0d34e2fb88b6afd5f3e0</guid>
+      <pubDate>Wed, 11 Nov 2026 04:41:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse input to macOS security and consent prompts (#7338)
+
+* fix(cua-driver): refuse input to macOS security and consent prompts
+
+An agent clicked Allow on &amp;quot;HoloWork would  | why kept: agent</description>
     </item></channel></rss>
