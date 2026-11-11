@@ -1,18 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.24.1 in Cua Spaces (#7337)</title>
-      <link>https://github.com/trycua/cua/commit/cc35539df1743854768e5288fde3feec6ade998d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cc35539df1743854768e5288fde3feec6ade998d</guid>
-      <pubDate>Wed, 11 Nov 2026 03:04:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.24.1 in Cua Spaces (#7337)
+      <title>test(spaces): stop the prewarm grace test racing a failing offline st…</title>
+      <link>https://github.com/trycua/cua/commit/3be9ae29e3a8957a655c4e170bf0ced87a6f8348</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3be9ae29e3a8957a655c4e170bf0ced87a6f8348</guid>
+      <pubDate>Wed, 11 Nov 2026 03:20:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces): stop the prewarm grace test racing a failing offline stream (#7355)
 
-cua 0.24.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.47.8 in Cua Spaces (#7323)</title>
-      <link>https://github.com/trycua/cua/commit/76e8c4971d72d9d8a1dcca95d3dab60738d54d02</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/76e8c4971d72d9d8a1dcca95d3dab60738d54d02</guid>
-      <pubDate>Wed, 11 Nov 2026 03:04:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.8 in Cua Spaces (#7323)
-
-Cua Driver 0.47.8 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+The test opened a prewarm on OfflineStreamSourceProvider, which refuses to
+stream. A warm stream whose session f | why kept: trycua, claude</description>
     </item></channel></rss>
