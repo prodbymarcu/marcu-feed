@@ -1,2 +1,2 @@
-- Open source self driving is here! — https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/ (score 6)
-- KRAFTON/Raon-1-nano · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/ (score 6)
+- Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next — https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/ (score 16)
+- chore(main): release cua-driver-rs 0.47.12 (#7381) — https://github.com/trycua/cua/commit/f6b88bf323170b1f131c037d9205225a4b69e7ef (score 5)

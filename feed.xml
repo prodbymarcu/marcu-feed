@@ -1,14 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Open source self driving is here!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/</link>
-      <guid isPermaLink="false">t3_1xtmeif</guid>
-      <pubDate>Wed, 11 Nov 2026 12:25:54 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/aGN0NWQ2OHBnMDFpMQeL3lKCS1BtNNb4YYKPJ-zfQMQs5uk_Eno5V0Wsc8vh.png?width=640&amp;amp;cro | why kept: model, local, llama</description>
+      <title>Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/</link>
+      <guid isPermaLink="false">t3_1xtmcoe</guid>
+      <pubDate>Wed, 11 Nov 2026 12:41:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Klpz8Q7IAKM_eCft14WWu_oThMeP3mrc18jccfp9_VQ.jpeg?width=640&amp;amp;crop=smar | why kept: unsloth, qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>KRAFTON/Raon-1-nano · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xtmbkn</guid>
-      <pubDate>Wed, 11 Nov 2026 12:25:54 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtmbkn/kraftonraon1nano_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/j8BBF5_SkxF4Am2Yp-tfHsh3Xp3013w6Ow5EMsf5jIU.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: model, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.47.12 (#7381)</title>
+      <link>https://github.com/trycua/cua/commit/f6b88bf323170b1f131c037d9205225a4b69e7ef</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f6b88bf323170b1f131c037d9205225a4b69e7ef</guid>
+      <pubDate>Wed, 11 Nov 2026 12:41:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.12 (#7381)
+
+* chore(main): release cua-driver-rs 0.47.12
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>
