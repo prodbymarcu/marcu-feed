@@ -1,4 +1,2 @@
-- My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU — https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/ (score 8)
-- fix(spaces-macos): bundle cua 0.23.0 in Cua Spaces (#7302) — https://github.com/trycua/cua/commit/61cbd6a3cdf6d5a793f5b92c0de1e97d65d5755c (score 5)
-- chore(main): release sandbox 0.10.1 (#7311) — https://github.com/trycua/cua/commit/982af13ddc9052bce651f8cd56c4ef8265033e54 (score 5)
-- AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz — https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/ (score 4)
+- chore(cua-driver): advance published installer version to 0.47.4 (#7313) — https://github.com/trycua/cua/commit/51c5603e07f99f9a5ff794ab513c4ca0fda96106 (score 5)
+- chore(main): release cua-driver-rs 0.47.5 (#7312) — https://github.com/trycua/cua/commit/e936317a55bc51717c35af9707b69390dd3f5cef (score 5)

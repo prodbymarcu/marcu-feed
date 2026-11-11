@@ -1,38 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/</link>
-      <guid isPermaLink="false">t3_1xsocrj</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fiec1c0uos0i1.png?width=140&amp;amp;height=87&amp;amp;auto=webp&amp;amp;s=c089f25e986e5 | why kept: local, runs, llama, fine-tun</description>
+      <title>chore(cua-driver): advance published installer version to 0.47.4 (#7313)</title>
+      <link>https://github.com/trycua/cua/commit/51c5603e07f99f9a5ff794ab513c4ca0fda96106</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51c5603e07f99f9a5ff794ab513c4ca0fda96106</guid>
+      <pubDate>Tue, 10 Nov 2026 19:18:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.4 (#7313)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(spaces-macos): bundle cua 0.23.0 in Cua Spaces (#7302)</title>
-      <link>https://github.com/trycua/cua/commit/61cbd6a3cdf6d5a793f5b92c0de1e97d65d5755c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/61cbd6a3cdf6d5a793f5b92c0de1e97d65d5755c</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.23.0 in Cua Spaces (#7302)
+      <title>chore(main): release cua-driver-rs 0.47.5 (#7312)</title>
+      <link>https://github.com/trycua/cua/commit/e936317a55bc51717c35af9707b69390dd3f5cef</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e936317a55bc51717c35af9707b69390dd3f5cef</guid>
+      <pubDate>Tue, 10 Nov 2026 19:18:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.5 (#7312)
 
-cua 0.23.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release sandbox 0.10.1 (#7311)</title>
-      <link>https://github.com/trycua/cua/commit/982af13ddc9052bce651f8cd56c4ef8265033e54</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/982af13ddc9052bce651f8cd56c4ef8265033e54</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.10.1 (#7311)
+* chore(main): release cua-driver-rs 0.47.5
 
-* chore(main): release sandbox 0.10.1
-
-* chore(sandbox): synchronize release metadata
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
-    </item>
-    <item>
-      <title>AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/</link>
-      <guid isPermaLink="false">t3_1xsswud</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eb0knLlRsXDKZ4d7sDvUxwF0YXEHag2eO7gfP1QZxR8.jpeg?width=640&amp;amp;cr | why kept: local, llama</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
