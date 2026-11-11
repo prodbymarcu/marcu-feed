@@ -1,2 +1,3 @@
-- US and China "may" collaborate on AI. The jokes write themselves — https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/ (score 4)
-- Gemini Decisions API — https://simonwillison.net/2026/Nov/11/gemini-decisions-api/ (score 2)
+- ui: keep downloads in Discover during search and fix their progress w… — https://github.com/ggml-org/llama.cpp/commit/1d81992784448f66891d1bcde17852e920198f10 (score 4)
+- ui: take the logo and favicons from the llama-brand package (#32039) — https://github.com/ggml-org/llama.cpp/commit/bd717e08f38f9715a315adfdc431fb3424095f06 (score 2)
+- fix(cua-driver): pass delivery_mode foreground in the GTK3 invoke_men… — https://github.com/trycua/cua/commit/36351a6648d33d14c8b80b9814f911d5e9206a8c (score 2)

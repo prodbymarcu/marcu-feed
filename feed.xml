@@ -1,15 +1,32 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>US and China &quot;may&quot; collaborate on AI. The jokes write themselves</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/</link>
-      <guid isPermaLink="false">t3_1xtqsuu</guid>
-      <pubDate>Wed, 11 Nov 2026 17:14:02 +0000</pubDate>
-      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fatboy93&quot;&gt; /u/fatboy93 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/&quot;&gt;[link]&lt;/ | why kept: local, llama</description>
+      <title>ui: keep downloads in Discover during search and fix their progress w…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/1d81992784448f66891d1bcde17852e920198f10</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1d81992784448f66891d1bcde17852e920198f10</guid>
+      <pubDate>Wed, 11 Nov 2026 17:29:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: keep downloads in Discover during search and fix their progress with a draft (#31467)
+
+* ui : keep downloads in Discover sidebar during search, sort base-org repos first
+
+- Show the sticky Do | why kept: model, claude</description>
     </item>
     <item>
-      <title>Gemini Decisions API</title>
-      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
-      <pubDate>Wed, 11 Nov 2026 17:14:02 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Gemini Decisions API&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-Google join &lt;a href=&quot;https://simonwillison.net/2026/Sep/21/jev/&quot;&gt;Jev&lt;/a&gt; and &lt;a href=&quot;https:/ | why kept: model</description>
+      <title>ui: take the logo and favicons from the llama-brand package (#32039)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/bd717e08f38f9715a315adfdc431fb3424095f06</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bd717e08f38f9715a315adfdc431fb3424095f06</guid>
+      <pubDate>Wed, 11 Nov 2026 17:29:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: take the logo and favicons from the llama-brand package (#32039)
+
+* ui : take the logo and favicons from llama-brand
+
+The web UI&amp;#39;s logo mark and favicons now come from llama-brand, added  | why kept: llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): pass delivery_mode foreground in the GTK3 invoke_men…</title>
+      <link>https://github.com/trycua/cua/commit/36351a6648d33d14c8b80b9814f911d5e9206a8c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36351a6648d33d14c8b80b9814f911d5e9206a8c</guid>
+      <pubDate>Wed, 11 Nov 2026 17:29:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): pass delivery_mode foreground in the GTK3 invoke_menu foreground harness (#7401)
+
+Default delivery on X11 now refuses invoke_menu with background_unavailable
+(#7386-#7388), which | why kept: claude</description>
     </item></channel></rss>
