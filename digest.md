@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.8 (#7344) — https://github.com/trycua/cua/commit/87558bfd064787c7839351c55d667dc8244044a4 (score 5)
+- llama.cpp: Add FP8 KV-cache — https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/ (score 4)

@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.8 (#7344)</title>
-      <link>https://github.com/trycua/cua/commit/87558bfd064787c7839351c55d667dc8244044a4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/87558bfd064787c7839351c55d667dc8244044a4</guid>
-      <pubDate>Wed, 11 Nov 2026 00:56:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.8 (#7344)
-
-* chore(main): release cua-driver-rs 0.47.8
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>llama.cpp: Add FP8 KV-cache</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/</link>
+      <guid isPermaLink="false">t3_1xt9o3t</guid>
+      <pubDate>Wed, 11 Nov 2026 01:28:37 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/UgpDKpMkwPCMv7u_lZ_dHzlSOVOQ-cUCUMY2J9wuWyM.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp | why kept: local, llama</description>
     </item></channel></rss>
