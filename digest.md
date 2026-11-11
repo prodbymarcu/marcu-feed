@@ -1,2 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.47.13 (#7… — https://github.com/trycua/cua/commit/e51f57407cac353702d166f24ac776875bbd0b02 (score 5)
-- chore(main): release cua-driver-rs 0.47.14 (#7394) — https://github.com/trycua/cua/commit/7da90c3b5d123821f5ff2b8996a933a0a1f9a826 (score 5)
+- server: fix --cors-origins handling + protect against DNS rebinding (… — https://github.com/ggml-org/llama.cpp/commit/2cbe0ec429b849a88664e0f62388fc92a5abd699 (score 2)
+- ci: move test models to ggml-org-dev (#32096) — https://github.com/ggml-org/llama.cpp/commit/664f031f492f7c14a147cfe6372e3915abacf731 (score 2)

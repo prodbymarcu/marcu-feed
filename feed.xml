@@ -1,24 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.13 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/e51f57407cac353702d166f24ac776875bbd0b02</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e51f57407cac353702d166f24ac776875bbd0b02</guid>
-      <pubDate>Wed, 11 Nov 2026 14:49:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.13 (#7398)
+      <title>server: fix --cors-origins handling + protect against DNS rebinding (…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/2cbe0ec429b849a88664e0f62388fc92a5abd699</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2cbe0ec429b849a88664e0f62388fc92a5abd699</guid>
+      <pubDate>Wed, 11 Nov 2026 15:21:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: fix --cors-origins handling + protect against DNS rebinding (#32098)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* server: fix --cors-origins localhost handling
+
+* server: validate Host on loopback connections against DNS rebindin | why kept: local</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.47.14 (#7394)</title>
-      <link>https://github.com/trycua/cua/commit/7da90c3b5d123821f5ff2b8996a933a0a1f9a826</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7da90c3b5d123821f5ff2b8996a933a0a1f9a826</guid>
-      <pubDate>Wed, 11 Nov 2026 14:49:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.14 (#7394)
+      <title>ci: move test models to ggml-org-dev (#32096)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/664f031f492f7c14a147cfe6372e3915abacf731</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/664f031f492f7c14a147cfe6372e3915abacf731</guid>
+      <pubDate>Wed, 11 Nov 2026 15:21:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: move test models to ggml-org-dev (#32096)
 
-* chore(main): release cua-driver-rs 0.47.14
+* ci: move test models to ggml-org-dev
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
+* fix test spec&lt;/pre&gt; | why kept: model</description>
     </item></channel></rss>
