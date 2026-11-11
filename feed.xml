@@ -1,10 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(hyprland-plugin): upstream Omarchy&#x27;s IME popup guard and text-cho…</title>
-      <link>https://github.com/trycua/cua/commit/1a39968f433e49cefcf8f69fd8c35b25d412a54a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1a39968f433e49cefcf8f69fd8c35b25d412a54a</guid>
-      <pubDate>Tue, 10 Nov 2026 21:28:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(hyprland-plugin): upstream Omarchy&amp;#39;s IME popup guard and text-chord typing check (#7320)
+      <title>Trending on huggingface:2D to 3D</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/</link>
+      <guid isPermaLink="false">t3_1xsub9f</guid>
+      <pubDate>Tue, 10 Nov 2026 21:44:51 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/v5JjF9HpqnPHJ2_JL_zkY_A7jAxXvygVJCuPiWbeFiw.png?width=640&amp;amp;crop=smart&amp;amp;auto=w | why kept: model, local, runs, llama</description>
+    </item>
+    <item>
+      <title>fix(runtime): setup runsc no longer says already available on a runc-…</title>
+      <link>https://github.com/trycua/cua/commit/bc640ca8186aed9999f98596decf4b5a9cd9a607</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bc640ca8186aed9999f98596decf4b5a9cd9a607</guid>
+      <pubDate>Tue, 10 Nov 2026 21:44:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(runtime): setup runsc no longer says already available on a runc-only Docker (#7314)
 
-Omarchy&amp;#39;s cua-hyprland-plugin package carries a downstream.patch with two
-behaviours the upst | why kept: agent</description>
+* fix(runtime): judge setup components on their own readiness, not their backend&amp;#39;s
+
+cua runtime setup | why kept: runs</description>
     </item></channel></rss>

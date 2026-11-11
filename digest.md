@@ -1,1 +1,2 @@
-- fix(hyprland-plugin): upstream Omarchy's IME popup guard and text-cho… — https://github.com/trycua/cua/commit/1a39968f433e49cefcf8f69fd8c35b25d412a54a (score 2)
+- Trending on huggingface:2D to 3D — https://www.reddit.com/r/LocalLLaMA/comments/1xsub9f/trending_on_huggingface2d_to_3d/ (score 8)
+- fix(runtime): setup runsc no longer says already available on a runc-… — https://github.com/trycua/cua/commit/bc640ca8186aed9999f98596decf4b5a9cd9a607 (score 2)
