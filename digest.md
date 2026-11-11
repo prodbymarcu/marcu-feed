@@ -1,3 +1,4 @@
-- We got custom inference per model per hardware now. How long before we get custom hardware for model? — https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/ (score 10)
-- fix(sandbox): forward time_to_start to the local runtime's readiness … — https://github.com/trycua/cua/commit/6086a10126945c1079b5069a720436aab32a2bf6 (score 9)
-- fix(cua-driver): list windows when Hyprland omits a workspace id (fro… — https://github.com/trycua/cua/commit/caaa8acb5817c613d24b2beca9abe20b5f9253e8 (score 2)
+- My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU — https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/ (score 8)
+- fix(spaces-macos): bundle cua 0.23.0 in Cua Spaces (#7302) — https://github.com/trycua/cua/commit/61cbd6a3cdf6d5a793f5b92c0de1e97d65d5755c (score 5)
+- chore(main): release sandbox 0.10.1 (#7311) — https://github.com/trycua/cua/commit/982af13ddc9052bce651f8cd56c4ef8265033e54 (score 5)
+- AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz — https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/ (score 4)

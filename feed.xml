@@ -1,27 +1,38 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>We got custom inference per model per hardware now. How long before we get custom hardware for model?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt059z/we_got_custom_inference_per_model_per_hardware/</link>
-      <guid isPermaLink="false">t3_1xt059z</guid>
-      <pubDate>Tue, 10 Nov 2026 18:46:49 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Is it possible to have a custom hardware designed (by ai) and open sourced that we can send for manufacturing for specific models? like for DSF 4.1F &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a hre | why kept: model, local, inference, llama, hardware</description>
+      <title>My 0.8B fine-tune proofreads Spanish at 138 ms per sentence on a CPU</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/</link>
+      <guid isPermaLink="false">t3_1xsocrj</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsocrj/my_08b_finetune_proofreads_spanish_at_138_ms_per/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fiec1c0uos0i1.png?width=140&amp;amp;height=87&amp;amp;auto=webp&amp;amp;s=c089f25e986e5 | why kept: local, runs, llama, fine-tun</description>
     </item>
     <item>
-      <title>fix(sandbox): forward time_to_start to the local runtime&#x27;s readiness …</title>
-      <link>https://github.com/trycua/cua/commit/6086a10126945c1079b5069a720436aab32a2bf6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6086a10126945c1079b5069a720436aab32a2bf6</guid>
-      <pubDate>Tue, 10 Nov 2026 18:46:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): forward time_to_start to the local runtime&amp;#39;s readiness budget (#7304)
+      <title>fix(spaces-macos): bundle cua 0.23.0 in Cua Spaces (#7302)</title>
+      <link>https://github.com/trycua/cua/commit/61cbd6a3cdf6d5a793f5b92c0de1e97d65d5755c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/61cbd6a3cdf6d5a793f5b92c0de1e97d65d5755c</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.23.0 in Cua Spaces (#7302)
 
-Sandbox.create/ephemeral accepted time_to_start but only the contrib path used it;
-the local runtime alway | why kept: trycua, claude, local</description>
+cua 0.23.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(cua-driver): list windows when Hyprland omits a workspace id (fro…</title>
-      <link>https://github.com/trycua/cua/commit/caaa8acb5817c613d24b2beca9abe20b5f9253e8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/caaa8acb5817c613d24b2beca9abe20b5f9253e8</guid>
-      <pubDate>Tue, 10 Nov 2026 18:46:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): list windows when Hyprland omits a workspace id (from #6268) (#7305)
+      <title>chore(main): release sandbox 0.10.1 (#7311)</title>
+      <link>https://github.com/trycua/cua/commit/982af13ddc9052bce651f8cd56c4ef8265033e54</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/982af13ddc9052bce651f8cd56c4ef8265033e54</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.10.1 (#7311)
 
-Hyprland 0.57 omits id from an unused specialWorkspace, which made
-list_windows return empty. Default the id | why kept: claude</description>
+* chore(main): release sandbox 0.10.1
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+    </item>
+    <item>
+      <title>AMD EPYC 9686F Linux benchmarks: 96 Zen 6 cores at up to 5.3GHz</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/</link>
+      <guid isPermaLink="false">t3_1xsswud</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:00 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsswud/amd_epyc_9686f_linux_benchmarks_96_zen_6_cores_at/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eb0knLlRsXDKZ4d7sDvUxwF0YXEHag2eO7gfP1QZxR8.jpeg?width=640&amp;amp;cr | why kept: local, llama</description>
     </item></channel></rss>
