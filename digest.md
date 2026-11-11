@@ -1,5 +1,1 @@
-- CUDA: Add OCP FP8 support (#28413) — https://github.com/ggml-org/llama.cpp/commit/9e9619d030bbe6b584d826a0a6cf06e38251f52b (score 11)
-- cuda : use MMVF for BF16 matrices of few rows at small batch sizes (#… — https://github.com/ggml-org/llama.cpp/commit/459ab1cdd3c566168c814b6f50cb1a7e6eb79914 (score 9)
-- cuda : fattn mma head sizes 40 72 (#30285) — https://github.com/ggml-org/llama.cpp/commit/9d7b2d7397155e83934b71c01224a69516b19a2c (score 7)
-- fix(cua-vmm): boot cold when a guest cannot take a restored identity;… — https://github.com/trycua/cua/commit/82412afdca85c7fca0ca3c63d1be3f080fb0e9c2 (score 4)
-- cuda : add sm70 FlashAttention config case for DKQ=256, DV=256, ncols… — https://github.com/ggml-org/llama.cpp/commit/77e2db8cabdb83f8da59d8584a381b2299d8a171 (score 2)
+- chore(main): release cua-sdk 0.24.2 (#7359) — https://github.com/trycua/cua/commit/6f798dd25caeaa6bcb1b7f6924b1e4356c4588bb (score 5)
