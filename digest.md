@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.11 (#7377) — https://github.com/trycua/cua/commit/34a61fcf633d70da05a3ee3550663511415c6f68 (score 5)
-- Mod ttkciar is harassing this sub — https://www.reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub/ (score 4)
+- IFM/PAN2 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face/ (score 6)
