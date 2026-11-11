@@ -1,1 +1,1 @@
-- llama.cpp: Add FP8 KV-cache — https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/ (score 4)
+- chore(cua-driver): advance published installer version to 0.47.8 (#7351) — https://github.com/trycua/cua/commit/805219fb90fd681ca072d6de6891087c4ffdac8d (score 5)
