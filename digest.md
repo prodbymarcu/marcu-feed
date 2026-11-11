@@ -1,2 +1,2 @@
-- Qwen4 Is Coming — Preview Now Live on Alibaba Token Plan — https://www.reddit.com/r/LocalLLaMA/comments/1xt5q27/qwen4_is_coming_preview_now_live_on_alibaba_token/ (score 9)
-- chore(main): release cua-driver-rs 0.47.6 (#7331) — https://github.com/trycua/cua/commit/c8dc7835abcb714e85a4feaca0083bc1ac49a744 (score 5)
+- chore(main): release cua-sdk 0.24.1 (#7332) — https://github.com/trycua/cua/commit/6fe00ee8ae37d8d0a41096aff10ade8bd8145f23 (score 5)
+- fix(cua-driver): hover background Hyprland apps through the agent sea… — https://github.com/trycua/cua/commit/252bdbf8011c97adfa08ebbdf5fd05a796ad81bb (score 4)
