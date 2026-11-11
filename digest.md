@@ -1,2 +1,1 @@
-- server: fix --cors-origins handling + protect against DNS rebinding (… — https://github.com/ggml-org/llama.cpp/commit/2cbe0ec429b849a88664e0f62388fc92a5abd699 (score 2)
-- ci: move test models to ggml-org-dev (#32096) — https://github.com/ggml-org/llama.cpp/commit/664f031f492f7c14a147cfe6372e3915abacf731 (score 2)
+- aws-emulator — https://simonwillison.net/2026/Nov/11/aws-emulator/ (score 4)
