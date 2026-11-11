@@ -1,16 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I&#x27;m releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggi</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/</link>
-      <guid isPermaLink="false">t3_1xtpc2v</guid>
-      <pubDate>Wed, 11 Nov 2026 14:17:44 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bTdzbmpidzN3MDFpMZ5un8Va9DN4s6XoVSFdCpja6HydJjaQal3CtJzwcqYl.png?width=64 | why kept: model, video, local, llama</description>
-    </item>
-    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.12 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/61e1e2cb4dbc9d3f36fc8003f1436cdea89584df</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/61e1e2cb4dbc9d3f36fc8003f1436cdea89584df</guid>
-      <pubDate>Wed, 11 Nov 2026 14:17:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.12 (#7397)
+      <title>chore(cua-driver): advance published installer version to 0.47.13 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/e51f57407cac353702d166f24ac776875bbd0b02</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e51f57407cac353702d166f24ac776875bbd0b02</guid>
+      <pubDate>Wed, 11 Nov 2026 14:49:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.13 (#7398)
 
 Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.47.14 (#7394)</title>
+      <link>https://github.com/trycua/cua/commit/7da90c3b5d123821f5ff2b8996a933a0a1f9a826</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7da90c3b5d123821f5ff2b8996a933a0a1f9a826</guid>
+      <pubDate>Wed, 11 Nov 2026 14:49:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.14 (#7394)
+
+* chore(main): release cua-driver-rs 0.47.14
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>

@@ -1,2 +1,2 @@
-- I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time.  — https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/ (score 8)
-- chore(cua-driver): advance published installer version to 0.47.12 (#7… — https://github.com/trycua/cua/commit/61e1e2cb4dbc9d3f36fc8003f1436cdea89584df (score 5)
+- chore(cua-driver): advance published installer version to 0.47.13 (#7… — https://github.com/trycua/cua/commit/e51f57407cac353702d166f24ac776875bbd0b02 (score 5)
+- chore(main): release cua-driver-rs 0.47.14 (#7394) — https://github.com/trycua/cua/commit/7da90c3b5d123821f5ff2b8996a933a0a1f9a826 (score 5)
