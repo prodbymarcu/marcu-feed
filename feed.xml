@@ -1,24 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.4 (#7313)</title>
-      <link>https://github.com/trycua/cua/commit/51c5603e07f99f9a5ff794ab513c4ca0fda96106</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51c5603e07f99f9a5ff794ab513c4ca0fda96106</guid>
-      <pubDate>Tue, 10 Nov 2026 19:18:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.4 (#7313)
+      <title>chore(main): release cua-spaces 0.33.0 (#7303)</title>
+      <link>https://github.com/trycua/cua/commit/9428c87417b1a6ae0222cbf76714cd59c74260b8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9428c87417b1a6ae0222cbf76714cd59c74260b8</guid>
+      <pubDate>Tue, 10 Nov 2026 20:23:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-spaces 0.33.0 (#7303)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.47.5 (#7312)</title>
-      <link>https://github.com/trycua/cua/commit/e936317a55bc51717c35af9707b69390dd3f5cef</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e936317a55bc51717c35af9707b69390dd3f5cef</guid>
-      <pubDate>Tue, 10 Nov 2026 19:18:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.5 (#7312)
-
-* chore(main): release cua-driver-rs 0.47.5
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-release-bot[bot]@users.noreply.github.com&amp;gt;
+Co-authored-by: cua-agents[bot] &amp;lt;347252628+ | why kept: agent</description>
     </item></channel></rss>

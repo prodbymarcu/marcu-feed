@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.47.4 (#7313) — https://github.com/trycua/cua/commit/51c5603e07f99f9a5ff794ab513c4ca0fda96106 (score 5)
-- chore(main): release cua-driver-rs 0.47.5 (#7312) — https://github.com/trycua/cua/commit/e936317a55bc51717c35af9707b69390dd3f5cef (score 5)
+- chore(main): release cua-spaces 0.33.0 (#7303) — https://github.com/trycua/cua/commit/9428c87417b1a6ae0222cbf76714cd59c74260b8 (score 2)
