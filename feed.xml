@@ -1,16 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>DNA Factory: yet another LLM training framework</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/</link>
-      <guid isPermaLink="false">t3_1xskn3z</guid>
-      <pubDate>Tue, 10 Nov 2026 23:20:56 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hpuuf56jsr0i1.png?width=140&amp;amp;height=127&amp;amp;auto=webp&amp;amp;s=393ad6e2c9a875 | why kept: local, llama, fine-tun</description>
-    </item>
-    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.6 (#7340)</title>
-      <link>https://github.com/trycua/cua/commit/94a4ecf04e44cf734c41f23094ec6c7e55cfee36</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/94a4ecf04e44cf734c41f23094ec6c7e55cfee36</guid>
-      <pubDate>Tue, 10 Nov 2026 23:20:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.6 (#7340)
+      <title>fix(cua-driver): check the cells a verify-linux.sh run declared (#7343)</title>
+      <link>https://github.com/trycua/cua/commit/86ea4e509473104b0b3a26c246e71c10a6cc1e92</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/86ea4e509473104b0b3a26c246e71c10a6cc1e92</guid>
+      <pubDate>Tue, 10 Nov 2026 23:36:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): check the cells a verify-linux.sh run declared (#7343)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* test(cua-driver): cover foreground and refused filter runs in the evidence checker
+
+The checker fixture now writes cases | why kept: runs</description>
     </item></channel></rss>

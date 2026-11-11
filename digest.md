@@ -1,2 +1,1 @@
-- DNA Factory: yet another LLM training framework — https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/ (score 6)
-- chore(cua-driver): advance published installer version to 0.47.6 (#7340) — https://github.com/trycua/cua/commit/94a4ecf04e44cf734c41f23094ec6c7e55cfee36 (score 5)
+- fix(cua-driver): check the cells a verify-linux.sh run declared (#7343) — https://github.com/trycua/cua/commit/86ea4e509473104b0b3a26c246e71c10a6cc1e92 (score 2)
