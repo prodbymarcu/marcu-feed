@@ -1,1 +1,3 @@
-- Show HN: Klad, a paint app your coding agent can drive (source-available) — https://github.com/klad-app/klad (score 4)
+- chore(cua-driver): advance published installer version to 0.47.11 (#7… — https://github.com/trycua/cua/commit/7ad4225fe42f5de938dcd17d1905d6b4716885d4 (score 5)
+- chore(main): release cua-driver-rs 0.47.13 (#7391) — https://github.com/trycua/cua/commit/01df64326f94f5b1f52b02d444a83382552875b0 (score 5)
+- llama : reuse graph result instances across scheduler reserves (#32089) — https://github.com/ggml-org/llama.cpp/commit/cb44fdb1892eebca072e0949875a60c11245a8bb (score 2)

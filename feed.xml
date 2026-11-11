@@ -1,7 +1,33 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Show HN: Klad, a paint app your coding agent can drive (source-available)</title>
-      <link>https://github.com/klad-app/klad</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50454951</guid>
-      <pubDate>Wed, 11 Nov 2026 12:58:04 +0000</pubDate>
-      <description>&lt;p&gt;I&#x27;ve been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. You | why kept: model, agent</description>
+      <title>chore(cua-driver): advance published installer version to 0.47.11 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/7ad4225fe42f5de938dcd17d1905d6b4716885d4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ad4225fe42f5de938dcd17d1905d6b4716885d4</guid>
+      <pubDate>Wed, 11 Nov 2026 13:13:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.11 (#7392)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.47.13 (#7391)</title>
+      <link>https://github.com/trycua/cua/commit/01df64326f94f5b1f52b02d444a83382552875b0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01df64326f94f5b1f52b02d444a83382552875b0</guid>
+      <pubDate>Wed, 11 Nov 2026 13:13:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.13 (#7391)
+
+* chore(main): release cua-driver-rs 0.47.13
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
+    </item>
+    <item>
+      <title>llama : reuse graph result instances across scheduler reserves (#32089)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/cb44fdb1892eebca072e0949875a60c11245a8bb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cb44fdb1892eebca072e0949875a60c11245a8bb</guid>
+      <pubDate>Wed, 11 Nov 2026 13:13:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : reuse graph result instances across scheduler reserves (#32089)
+
+Allocate gf_res_reserve and both gf_res_prev entries once in the llama_context constructor. Add llm_graph_result::set_max_ | why kept: llama</description>
     </item></channel></rss>
