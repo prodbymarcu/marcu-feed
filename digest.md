@@ -1,1 +1,2 @@
-- IFM/PAN2 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xtb199/ifmpan2_hugging_face/ (score 6)
+- Strata vs Basalt more differences than speed. — https://www.reddit.com/r/LocalLLaMA/comments/1xsp6ub/strata_vs_basalt_more_differences_than_speed/ (score 11)
+- Anyone else not using using "preserve_thinking" ? — https://www.reddit.com/r/LocalLLaMA/comments/1xtf9xp/anyone_else_not_using_using_preserve_thinking/ (score 6)
