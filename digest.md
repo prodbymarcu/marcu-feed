@@ -1,1 +1,1 @@
-- What tasks have you moved from cloud models to local models? — https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/ (score 8)
+- fix(hyprland-plugin): upstream Omarchy's IME popup guard and text-cho… — https://github.com/trycua/cua/commit/1a39968f433e49cefcf8f69fd8c35b25d412a54a (score 2)

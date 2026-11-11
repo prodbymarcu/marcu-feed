@@ -1,7 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>What tasks have you moved from cloud models to local models?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/</link>
-      <guid isPermaLink="false">t3_1xt0ah5</guid>
-      <pubDate>Tue, 10 Nov 2026 21:12:34 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There&amp;#39;s a lot of discussion about running models locally, but I&amp;#39;m interested in what people actually use them for once the setup is done.&lt;/p&gt; &lt;p&gt;Are there tasks where you&amp;#39;ve completely stopped u | why kept: model, claude, local, llama</description>
+      <title>fix(hyprland-plugin): upstream Omarchy&#x27;s IME popup guard and text-cho…</title>
+      <link>https://github.com/trycua/cua/commit/1a39968f433e49cefcf8f69fd8c35b25d412a54a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1a39968f433e49cefcf8f69fd8c35b25d412a54a</guid>
+      <pubDate>Tue, 10 Nov 2026 21:28:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(hyprland-plugin): upstream Omarchy&amp;#39;s IME popup guard and text-chord typing check (#7320)
+
+Omarchy&amp;#39;s cua-hyprland-plugin package carries a downstream.patch with two
+behaviours the upst | why kept: agent</description>
     </item></channel></rss>
