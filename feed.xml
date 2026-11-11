@@ -1,13 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(cua-driver): bump pinned claude-code to a patched version (#7357)</title>
-      <link>https://github.com/trycua/cua/commit/2a4f53a9e8a64c1abdcaf9bf6b7f6080edac0871</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2a4f53a9e8a64c1abdcaf9bf6b7f6080edac0871</guid>
-      <pubDate>Wed, 11 Nov 2026 04:56:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): bump pinned claude-code to a patched version (#7357)
+      <title>vulkan: allow dequantized KV optimization with CM2 (#31526)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d2b3eb9b6030d1cb6a2c05fa07cc71b85da69f34</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d2b3eb9b6030d1cb6a2c05fa07cc71b85da69f34</guid>
+      <pubDate>Wed, 11 Nov 2026 05:12:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: allow dequantized KV optimization with CM2 (#31526)
 
-* Bump pinned claude-code to a patched version
+* additional FA test cases
 
-2.1.224 -&amp;gt; 2.1.322 in the MCP compat release probe (and its lockfile).
+Assisted-by: Codex
 
-Co | why kept: claude</description>
+* vulkan: allow dequantized KV optimization with CM2
+
+Enable the KV dequantization opt | why kept: codex, quant</description>
     </item></channel></rss>

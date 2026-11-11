@@ -1,1 +1,1 @@
-- ci(cua-driver): bump pinned claude-code to a patched version (#7357) — https://github.com/trycua/cua/commit/2a4f53a9e8a64c1abdcaf9bf6b7f6080edac0871 (score 2)
+- vulkan: allow dequantized KV optimization with CM2 (#31526) — https://github.com/ggml-org/llama.cpp/commit/d2b3eb9b6030d1cb6a2c05fa07cc71b85da69f34 (score 4)
