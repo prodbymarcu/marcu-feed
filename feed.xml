@@ -1,32 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: keep downloads in Discover during search and fix their progress w…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/1d81992784448f66891d1bcde17852e920198f10</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1d81992784448f66891d1bcde17852e920198f10</guid>
-      <pubDate>Wed, 11 Nov 2026 17:29:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: keep downloads in Discover during search and fix their progress with a draft (#31467)
+      <title>docs: update image link in README.md (#32038)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/dd00306bcf9c8df0f2ef9c2bb62d9b61f318e47b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd00306bcf9c8df0f2ef9c2bb62d9b61f318e47b</guid>
+      <pubDate>Wed, 11 Nov 2026 17:46:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: update image link in README.md (#32038)
 
-* ui : keep downloads in Discover sidebar during search, sort base-org repos first
+* Update image link in README.md
 
-- Show the sticky Do | why kept: model, claude</description>
+I guess the image in the main README is now this one https://github.com/ggml-org/llama-brand/blob/master/logo/svg/ | why kept: llama</description>
     </item>
     <item>
-      <title>ui: take the logo and favicons from the llama-brand package (#32039)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/bd717e08f38f9715a315adfdc431fb3424095f06</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bd717e08f38f9715a315adfdc431fb3424095f06</guid>
-      <pubDate>Wed, 11 Nov 2026 17:29:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: take the logo and favicons from the llama-brand package (#32039)
+      <title>feat(spaces): setup shows each agent connection step live, connects C…</title>
+      <link>https://github.com/trycua/cua/commit/d2c5abbb3b4b4cbece4079ad59da74e99dc7b473</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d2c5abbb3b4b4cbece4079ad59da74e99dc7b473</guid>
+      <pubDate>Wed, 11 Nov 2026 17:46:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): setup shows each agent connection step live, connects Cua Driver and sets up This Mac (CUA-4067) (#7389)
 
-* ui : take the logo and favicons from llama-brand
-
-The web UI&amp;#39;s logo mark and favicons now come from llama-brand, added  | why kept: llama</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): pass delivery_mode foreground in the GTK3 invoke_men…</title>
-      <link>https://github.com/trycua/cua/commit/36351a6648d33d14c8b80b9814f911d5e9206a8c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36351a6648d33d14c8b80b9814f911d5e9206a8c</guid>
-      <pubDate>Wed, 11 Nov 2026 17:29:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): pass delivery_mode foreground in the GTK3 invoke_menu foreground harness (#7401)
-
-Default delivery on X11 now refuses invoke_menu with background_unavailable
-(#7386-#7388), which | why kept: claude</description>
+* feat(spaces): setup&amp;#39;s agents step shows each connection step live, co | why kept: agent</description>
     </item></channel></rss>

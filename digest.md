@@ -1,3 +1,2 @@
-- ui: keep downloads in Discover during search and fix their progress w… — https://github.com/ggml-org/llama.cpp/commit/1d81992784448f66891d1bcde17852e920198f10 (score 4)
-- ui: take the logo and favicons from the llama-brand package (#32039) — https://github.com/ggml-org/llama.cpp/commit/bd717e08f38f9715a315adfdc431fb3424095f06 (score 2)
-- fix(cua-driver): pass delivery_mode foreground in the GTK3 invoke_men… — https://github.com/trycua/cua/commit/36351a6648d33d14c8b80b9814f911d5e9206a8c (score 2)
+- docs: update image link in README.md (#32038) — https://github.com/ggml-org/llama.cpp/commit/dd00306bcf9c8df0f2ef9c2bb62d9b61f318e47b (score 2)
+- feat(spaces): setup shows each agent connection step live, connects C… — https://github.com/trycua/cua/commit/d2c5abbb3b4b4cbece4079ad59da74e99dc7b473 (score 2)
