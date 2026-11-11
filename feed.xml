@@ -1,7 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/</link>
-      <guid isPermaLink="false">t3_1xt2mjk</guid>
-      <pubDate>Wed, 11 Nov 2026 07:21:34 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve been trying to get some of the newer MoE models running on my Intel Arc GPUs, mainly DeepSeek V4.1 Flash and GLM 5.3 Flash. Intel support for these models is still pretty limited, and while I could | why kept: model, inference, llama</description>
+      <title>LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/</link>
+      <guid isPermaLink="false">t3_1xsoaeo</guid>
+      <pubDate>Wed, 11 Nov 2026 07:38:00 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/HmDk__cB68zK_SYAeMU6uY96NltZZ02nWMU-0qWMWVM.png?width=640&amp;amp;crop= | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.47.10 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/d6640fa19ddab09dd3014f09019f057e75295bb8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d6640fa19ddab09dd3014f09019f057e75295bb8</guid>
+      <pubDate>Wed, 11 Nov 2026 07:38:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.10 (#7368)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

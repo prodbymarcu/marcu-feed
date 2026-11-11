@@ -1,1 +1,2 @@
-- XeMaya, an Intel Arc inference engine to run DeepSeek V4.1 and GLM 5.3 — https://www.reddit.com/r/LocalLLaMA/comments/1xt2mjk/xemaya_an_intel_arc_inference_engine_to_run/ (score 6)
+- LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning — https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/ (score 6)
+- chore(cua-driver): advance published installer version to 0.47.10 (#7… — https://github.com/trycua/cua/commit/d6640fa19ddab09dd3014f09019f057e75295bb8 (score 5)
