@@ -1,2 +1,1 @@
-- New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs — https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/ (score 16)
-- chat: allow TTS model to provide custom text normalizer via jinja (#3… — https://github.com/ggml-org/llama.cpp/commit/f7b886fe6fe5d4cdafaac0d60d7cfa84ae43961d (score 2)
+- [Paper] Tree-Ising: Repairing Language Models with Bit-Level Ising Edits — https://www.reddit.com/r/LocalLLaMA/comments/1xthtwt/paper_treeising_repairing_language_models_with/ (score 8)
