@@ -1,23 +1,27 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>You can now train your own LLMs with less memory, on your gaming GPUs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/</link>
-      <guid isPermaLink="false">t3_1xtgnh9</guid>
-      <pubDate>Wed, 11 Nov 2026 08:09:40 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR: You can train your own 27B model on a 3090 with 24GB VRAM, though you would have to go through hundreds of billions of tokens for it to be good. I am working on conversion of existing models. | why kept: qwen, model, qwen</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.47.10 in Cua Spaces (#7375)</title>
-      <link>https://github.com/trycua/cua/commit/4544ad5070419a6577cc14eaf50c0b3a7856bd09</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4544ad5070419a6577cc14eaf50c0b3a7856bd09</guid>
-      <pubDate>Wed, 11 Nov 2026 08:09:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.10 in Cua Spaces (#7375)
+      <title>llama : remove non-fused GDN and ubatch-dependent graph nodes (#32078)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/ccd360f060a0f17b87ee0d4c5d91ee84cfdff484</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ccd360f060a0f17b87ee0d4c5d91ee84cfdff484</guid>
+      <pubDate>Wed, 11 Nov 2026 08:26:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : remove non-fused GDN and ubatch-dependent graph nodes (#32078)
 
-Cua Driver 0.47.10 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+- remove build_delta_net_chunking and build_delta_net_autoregressive
+- always use the fused gated delta net
+- make graph_ma | why kept: llama</description>
     </item>
     <item>
-      <title>Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/</link>
-      <guid isPermaLink="false">t3_1xtdft2</guid>
-      <pubDate>Wed, 11 Nov 2026 08:09:40 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ubpuh6fray0i1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;am | why kept: local, llama</description>
+      <title>devops : add missing MKL runtime DLLs to the Windows SYCL release pac…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/b326dd6752ba818899a2349100dc5c967ce405ad</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b326dd6752ba818899a2349100dc5c967ce405ad</guid>
+      <pubDate>Wed, 11 Nov 2026 08:26:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;devops : add missing MKL runtime DLLs to the Windows SYCL release package (#32005)
+
+ggml-sycl.dll built with oneAPI 2026.2 imports mkl_intel_thread.3.dll and libimalloc.dll, which are not part of | why kept: llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): stamp the window-local point on macOS 27 background …</title>
+      <link>https://github.com/trycua/cua/commit/a00a44bb04a7777cd0c65cf0f722e23b1b1790ad</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a00a44bb04a7777cd0c65cf0f722e23b1b1790ad</guid>
+      <pubDate>Wed, 11 Nov 2026 08:26:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): stamp the window-local point on macOS 27 background drags (#7372)&lt;/pre&gt; | why kept: local</description>
     </item></channel></rss>

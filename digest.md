@@ -1,3 +1,3 @@
-- You can now train your own LLMs with less memory, on your gaming GPUs — https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/ (score 9)
-- fix(spaces-macos): bundle Cua Driver 0.47.10 in Cua Spaces (#7375) — https://github.com/trycua/cua/commit/4544ad5070419a6577cc14eaf50c0b3a7856bd09 (score 5)
-- Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step — https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/ (score 4)
+- llama : remove non-fused GDN and ubatch-dependent graph nodes (#32078) — https://github.com/ggml-org/llama.cpp/commit/ccd360f060a0f17b87ee0d4c5d91ee84cfdff484 (score 2)
+- devops : add missing MKL runtime DLLs to the Windows SYCL release pac… — https://github.com/ggml-org/llama.cpp/commit/b326dd6752ba818899a2349100dc5c967ce405ad (score 2)
+- fix(cua-driver): stamp the window-local point on macOS 27 background … — https://github.com/trycua/cua/commit/a00a44bb04a7777cd0c65cf0f722e23b1b1790ad (score 2)
