@@ -1,1 +1,2 @@
-- aws-emulator — https://simonwillison.net/2026/Nov/11/aws-emulator/ (score 4)
+- US and China "may" collaborate on AI. The jokes write themselves — https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/ (score 4)
+- Gemini Decisions API — https://simonwillison.net/2026/Nov/11/gemini-decisions-api/ (score 2)

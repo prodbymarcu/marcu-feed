@@ -1,8 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>aws-emulator</title>
-      <link>https://simonwillison.net/2026/Nov/11/aws-emulator/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/11/aws-emulator/</guid>
-      <pubDate>Wed, 11 Nov 2026 16:26:03 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/aws/aws-emulator&quot;&gt;aws-emulator&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to  | why kept: agent, local</description>
+      <title>US and China &quot;may&quot; collaborate on AI. The jokes write themselves</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtqsuu/us_and_china_may_collaborate_on_ai_the_jokes/</link>
+      <guid isPermaLink="false">t3_1xtqsuu</guid>
+      <pubDate>Wed, 11 Nov 2026 17:14:02 +0000</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fatboy93&quot;&gt; /u/fatboy93 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reuters.com/world/china/us-china-should-stay-clear-eyed-ai-cooperation-competition-bessent-says-2026-11-11/&quot;&gt;[link]&lt;/ | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Gemini Decisions API</title>
+      <link>https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/11/gemini-decisions-api/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:14:02 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/&quot;&gt;Gemini Decisions API&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+Google join &lt;a href=&quot;https://simonwillison.net/2026/Sep/21/jev/&quot;&gt;Jev&lt;/a&gt; and &lt;a href=&quot;https:/ | why kept: model</description>
     </item></channel></rss>
