@@ -1,15 +1,32 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>vulkan: allow dequantized KV optimization with CM2 (#31526)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d2b3eb9b6030d1cb6a2c05fa07cc71b85da69f34</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d2b3eb9b6030d1cb6a2c05fa07cc71b85da69f34</guid>
-      <pubDate>Wed, 11 Nov 2026 05:12:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: allow dequantized KV optimization with CM2 (#31526)
+      <title>NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/</link>
+      <guid isPermaLink="false">t3_1xtdwps</guid>
+      <pubDate>Wed, 11 Nov 2026 05:28:41 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/LFt9xWx0UdyhRJkFkn-HQ8OLQiyvZRf8ITvO0Rx4lvQ.jpeg?width=640&amp;amp;crop | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.47.9 (#7363)</title>
+      <link>https://github.com/trycua/cua/commit/dd8b95bde9a14808c9d2cc908cbdd3bf3f524bf9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd8b95bde9a14808c9d2cc908cbdd3bf3f524bf9</guid>
+      <pubDate>Wed, 11 Nov 2026 05:28:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.9 (#7363)
 
-* additional FA test cases
+* chore(main): release cua-driver-rs 0.47.9
 
-Assisted-by: Codex
+* chore(cua-driver-rs): synchronize generated release files
 
-* vulkan: allow dequantized KV optimization with CM2
+---------
 
-Enable the KV dequantization opt | why kept: codex, quant</description>
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(cua-driver/linux): never remove XI2 master pairs; pool them inste…</title>
+      <link>https://github.com/trycua/cua/commit/e1c2a0851a4a41fcae2e359ec5f8f956d3f5f950</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e1c2a0851a4a41fcae2e359ec5f8f956d3f5f950</guid>
+      <pubDate>Wed, 11 Nov 2026 05:28:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver/linux): never remove XI2 master pairs; pool them instead (#7358)
+
+Ending a session that used background input removed the session&amp;#39;s XInput2
+master pair (XIRemoveMaster). Every  | why kept: free</description>
     </item></channel></rss>

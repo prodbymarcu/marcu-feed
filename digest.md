@@ -1,1 +1,3 @@
-- vulkan: allow dequantized KV optimization with CM2 (#31526) — https://github.com/ggml-org/llama.cpp/commit/d2b3eb9b6030d1cb6a2c05fa07cc71b85da69f34 (score 4)
+- NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs — https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/ (score 6)
+- chore(main): release cua-driver-rs 0.47.9 (#7363) — https://github.com/trycua/cua/commit/dd8b95bde9a14808c9d2cc908cbdd3bf3f524bf9 (score 5)
+- fix(cua-driver/linux): never remove XI2 master pairs; pool them inste… — https://github.com/trycua/cua/commit/e1c2a0851a4a41fcae2e359ec5f8f956d3f5f950 (score 2)
