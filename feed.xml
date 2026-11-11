@@ -1,11 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>perf(cua-driver): strip symbols and fat LTO for release builds (#7316)</title>
-      <link>https://github.com/trycua/cua/commit/865c7bcd63488e7fdbbd31809065004ae9da1f49</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/865c7bcd63488e7fdbbd31809065004ae9da1f49</guid>
-      <pubDate>Tue, 10 Nov 2026 23:04:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(cua-driver): strip symbols and fat LTO for release builds (#7316)
+      <title>DNA Factory: yet another LLM training framework</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/</link>
+      <guid isPermaLink="false">t3_1xskn3z</guid>
+      <pubDate>Tue, 10 Nov 2026 23:20:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hpuuf56jsr0i1.png?width=140&amp;amp;height=127&amp;amp;auto=webp&amp;amp;s=393ad6e2c9a875 | why kept: local, llama, fine-tun</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.47.6 (#7340)</title>
+      <link>https://github.com/trycua/cua/commit/94a4ecf04e44cf734c41f23094ec6c7e55cfee36</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/94a4ecf04e44cf734c41f23094ec6c7e55cfee36</guid>
+      <pubDate>Tue, 10 Nov 2026 23:20:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.6 (#7340)
 
-* cua-driver: strip symbols and use fat LTO for release builds
-
-Release binaries ship in the PyPI wheels. PyPI rejected 0.4 | why kept: claude</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

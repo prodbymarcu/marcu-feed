@@ -1,1 +1,2 @@
-- perf(cua-driver): strip symbols and fat LTO for release builds (#7316) — https://github.com/trycua/cua/commit/865c7bcd63488e7fdbbd31809065004ae9da1f49 (score 2)
+- DNA Factory: yet another LLM training framework — https://www.reddit.com/r/LocalLLaMA/comments/1xskn3z/dna_factory_yet_another_llm_training_framework/ (score 6)
+- chore(cua-driver): advance published installer version to 0.47.6 (#7340) — https://github.com/trycua/cua/commit/94a4ecf04e44cf734c41f23094ec6c7e55cfee36 (score 5)
