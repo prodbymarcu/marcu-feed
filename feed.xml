@@ -1,33 +1,29 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Open-source method (MACaQ) beats Unsloth GGUFs!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/</link>
-      <guid isPermaLink="false">t3_1xto0fa</guid>
-      <pubDate>Wed, 11 Nov 2026 13:29:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/tJixhmGxI2CxZG7_o64et2Vl0hMihSSbZ-XSWW78B58.png?width=140&amp;amp;height=70 | why kept: unsloth, qwen, qwen, local, llama</description>
+      <title>fix(cua-driver): Linux X11 background hotkey to an inactive Qt window…</title>
+      <link>https://github.com/trycua/cua/commit/a2a2fd648faf1cf2d9e9f1f461e629a1741c182c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a2a2fd648faf1cf2d9e9f1f461e629a1741c182c</guid>
+      <pubDate>Wed, 11 Nov 2026 13:46:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): Linux X11 background hotkey to an inactive Qt window fires or refuses (#7370) (#7388)
+
+Qt runs a QAction or QShortcut shortcut only in its active window. Without
+the agent&amp;#39;s  | why kept: agent, runs</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.47.10 (#7364)</title>
-      <link>https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/630d27859141de96a74e2b3d986f77a536a6e348</guid>
-      <pubDate>Wed, 11 Nov 2026 13:29:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.10 (#7364)
-
-* chore(main): release cua-driver-rs 0.47.10
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
+      <title>llm 0.37.2</title>
+      <link>https://simonwillison.net/2026/Nov/11/llm/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/11/llm/</guid>
+      <pubDate>Wed, 11 Nov 2026 13:46:09 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm/releases/tag/0.37.2&quot;&gt;llm 0.37.2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Fixes a security issue reported by &lt;a href=&quot;https://github.com/BluePlexus&quot;&gt;Daniel de Araujo&lt;/a&gt; in &lt;a href=&quot;https://githu | why kept: model</description>
     </item>
     <item>
-      <title>fix(cua-driver): Linux X11 background scroll on Qt moves the list or …</title>
-      <link>https://github.com/trycua/cua/commit/21da4d18b501f4d4782b79c0a65e6fd56f8eabb6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/21da4d18b501f4d4782b79c0a65e6fd56f8eabb6</guid>
-      <pubDate>Wed, 11 Nov 2026 13:29:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): Linux X11 background scroll on Qt moves the list or refuses (#7369) (#7387)
+      <title>fix(cua-driver): Hyprland plugin kit for 0.57 (Omarchy edge) (#7390)</title>
+      <link>https://github.com/trycua/cua/commit/9e7256bfbb5ded8dc800484e43846b2df938af6d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9e7256bfbb5ded8dc800484e43846b2df938af6d</guid>
+      <pubDate>Wed, 11 Nov 2026 13:46:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): Hyprland plugin kit for 0.57 (Omarchy edge) (#7390)
 
-Two causes, one per X server:
+* fix(cua-driver): CI to build and qualify the Hyprland plugin kit on Omarchy edge (0.57) and stable (0.56)
 
-- Without the agent&amp;#39;s own pointer device (Xvfb, Xtigervnc, no writ | why kept: agent</description>
+Profiles accept  | why kept: runs</description>
     </item></channel></rss>

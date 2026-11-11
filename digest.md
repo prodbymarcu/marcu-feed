@@ -1,3 +1,3 @@
-- Open-source method (MACaQ) beats Unsloth GGUFs! — https://www.reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs/ (score 16)
-- chore(main): release cua-driver-rs 0.47.10 (#7364) — https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348 (score 5)
-- fix(cua-driver): Linux X11 background scroll on Qt moves the list or … — https://github.com/trycua/cua/commit/21da4d18b501f4d4782b79c0a65e6fd56f8eabb6 (score 2)
+- fix(cua-driver): Linux X11 background hotkey to an inactive Qt window… — https://github.com/trycua/cua/commit/a2a2fd648faf1cf2d9e9f1f461e629a1741c182c (score 4)
+- llm 0.37.2 — https://simonwillison.net/2026/Nov/11/llm/ (score 2)
+- fix(cua-driver): Hyprland plugin kit for 0.57 (Omarchy edge) (#7390) — https://github.com/trycua/cua/commit/9e7256bfbb5ded8dc800484e43846b2df938af6d (score 2)
