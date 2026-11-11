@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.24.2 (#7359) — https://github.com/trycua/cua/commit/6f798dd25caeaa6bcb1b7f6924b1e4356c4588bb (score 5)
+- Qwen4-Max Preview is out on API access. No word on weights release yet — https://www.reddit.com/r/LocalLLaMA/comments/1xtcrgm/qwen4max_preview_is_out_on_api_access_no_word_on/ (score 11)
