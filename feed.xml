@@ -1,20 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>docs: update image link in README.md (#32038)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/dd00306bcf9c8df0f2ef9c2bb62d9b61f318e47b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd00306bcf9c8df0f2ef9c2bb62d9b61f318e47b</guid>
-      <pubDate>Wed, 11 Nov 2026 17:46:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: update image link in README.md (#32038)
-
-* Update image link in README.md
-
-I guess the image in the main README is now this one https://github.com/ggml-org/llama-brand/blob/master/logo/svg/ | why kept: llama</description>
-    </item>
-    <item>
-      <title>feat(spaces): setup shows each agent connection step live, connects C…</title>
-      <link>https://github.com/trycua/cua/commit/d2c5abbb3b4b4cbece4079ad59da74e99dc7b473</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d2c5abbb3b4b4cbece4079ad59da74e99dc7b473</guid>
-      <pubDate>Wed, 11 Nov 2026 17:46:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(spaces): setup shows each agent connection step live, connects Cua Driver and sets up This Mac (CUA-4067) (#7389)
-
-* feat(spaces): setup&amp;#39;s agents step shows each connection step live, co | why kept: agent</description>
+      <title>Nvidia is Preparing to Oust Nvidia CEO Jensen Huang</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/</link>
+      <guid isPermaLink="false">t3_1xtvsi7</guid>
+      <pubDate>Wed, 11 Nov 2026 18:01:45 +0000</pubDate>
+      <description>&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/fallingdowndizzyvr&quot;&gt; /u/fallingdowndizzyvr &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt;  | why kept: local, llama</description>
     </item></channel></rss>

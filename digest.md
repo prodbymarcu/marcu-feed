@@ -1,2 +1,1 @@
-- docs: update image link in README.md (#32038) — https://github.com/ggml-org/llama.cpp/commit/dd00306bcf9c8df0f2ef9c2bb62d9b61f318e47b (score 2)
-- feat(spaces): setup shows each agent connection step live, connects C… — https://github.com/trycua/cua/commit/d2c5abbb3b4b4cbece4079ad59da74e99dc7b473 (score 2)
+- Nvidia is Preparing to Oust Nvidia CEO Jensen Huang — https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/ (score 4)
