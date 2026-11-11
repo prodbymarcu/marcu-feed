@@ -1,1 +1,2 @@
-- Nvidia is Preparing to Oust Nvidia CEO Jensen Huang — https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/ (score 4)
+- ci: only run Hyprland requalify in trycua/cua (#7405) — https://github.com/trycua/cua/commit/7c873b136807078a45cc9c990e6813de238bc138 (score 7)
+- fix(spaces): the Codex sign-in row says what to do (CUA-4089) (#7406) — https://github.com/trycua/cua/commit/5aba792b2962a5fd547720c59c68220268fc48d5 (score 4)
