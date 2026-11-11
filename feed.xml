@@ -1,32 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>NVIDIA reportedly cancels GeForce RTX 5080 24GB launch, brings back 16GB model over GDDR7 costs</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/</link>
-      <guid isPermaLink="false">t3_1xtdwps</guid>
-      <pubDate>Wed, 11 Nov 2026 05:28:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/LFt9xWx0UdyhRJkFkn-HQ8OLQiyvZRf8ITvO0Rx4lvQ.jpeg?width=640&amp;amp;crop | why kept: model, local, llama</description>
+      <title>Zyphra/ZONOS3-Mini · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xtb9gw</guid>
+      <pubDate>Wed, 11 Nov 2026 05:44:37 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/zfLqcBueIxiLB74Xkg3n6VVOC-d4YEcSN0bSIi77CJA.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: model, voice, local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.47.9 (#7363)</title>
-      <link>https://github.com/trycua/cua/commit/dd8b95bde9a14808c9d2cc908cbdd3bf3f524bf9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd8b95bde9a14808c9d2cc908cbdd3bf3f524bf9</guid>
-      <pubDate>Wed, 11 Nov 2026 05:28:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.9 (#7363)
+      <title>fix(spaces-macos): bundle cua 0.24.2 in Cua Spaces (#7361)</title>
+      <link>https://github.com/trycua/cua/commit/7b3ed7d013572046ae3bbf0464bccf8c2528ca5c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b3ed7d013572046ae3bbf0464bccf8c2528ca5c</guid>
+      <pubDate>Wed, 11 Nov 2026 05:44:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.24.2 in Cua Spaces (#7361)
 
-* chore(main): release cua-driver-rs 0.47.9
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>fix(cua-driver/linux): never remove XI2 master pairs; pool them inste…</title>
-      <link>https://github.com/trycua/cua/commit/e1c2a0851a4a41fcae2e359ec5f8f956d3f5f950</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e1c2a0851a4a41fcae2e359ec5f8f956d3f5f950</guid>
-      <pubDate>Wed, 11 Nov 2026 05:28:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver/linux): never remove XI2 master pairs; pool them instead (#7358)
-
-Ending a session that used background input removed the session&amp;#39;s XInput2
-master pair (XIRemoveMaster). Every  | why kept: free</description>
+cua 0.24.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
