@@ -1,14 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/</link>
-      <guid isPermaLink="false">t3_1xtju4x</guid>
-      <pubDate>Wed, 11 Nov 2026 10:49:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NlT_14f5clq3N6hHGL5qDYLF1LtPrOr4a4fEJV5UNg8.jpeg?width=640&amp;amp;crop=smart&amp; | why kept: model, local, llama</description>
+      <title>apt-install: fall back to archive.ubuntu.com after a failed attempt (…</title>
+      <link>https://github.com/trycua/cua/commit/c60458d9e2f75e2bdd7a5c167b7cb44123f7cad1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c60458d9e2f75e2bdd7a5c167b7cb44123f7cad1</guid>
+      <pubDate>Wed, 11 Nov 2026 11:06:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;apt-install: fall back to archive.ubuntu.com after a failed attempt (#7385)
+
+The runners&amp;#39; default mirror (azure.archive.ubuntu.com) failed to resolve on
+11 Nov 2026, so three attempts in a ro | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>[Bi-Weekly Megathread] Project Showcase</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/</link>
-      <guid isPermaLink="false">t3_1xtjze2</guid>
-      <pubDate>Wed, 11 Nov 2026 10:49:37 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;Do you have something you&amp;#39;d like to share with the&lt;/strong&gt; &lt;a href=&quot;/r/LocalLLaMA&quot;&gt;r/LocalLLaMA&lt;/a&gt; &lt;strong&gt;community. This is the place for it!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Recommendation on presentation:&lt; | why kept: local, llama</description>
+      <title>cd-cua-sdk: let the second CDN mirror replace the rewritten checksums…</title>
+      <link>https://github.com/trycua/cua/commit/d8ccf21cdf1ddbfc3e81f790db5c9c2981805684</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d8ccf21cdf1ddbfc3e81f790db5c9c2981805684</guid>
+      <pubDate>Wed, 11 Nov 2026 11:06:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cd-cua-sdk: let the second CDN mirror replace the rewritten checksums.txt (#7384)
+
+attach-xcframework rewrites checksums.txt after the first mirror copied it,
+so the second mirror (and every late | why kept: trycua, claude</description>
     </item></channel></rss>

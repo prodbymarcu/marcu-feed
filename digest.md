@@ -1,2 +1,2 @@
-- NVIDIA GeForce RTX 5080 24 GB Reportedly Cancelled, 16 GB Model Remains — https://www.reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly/ (score 6)
-- [Bi-Weekly Megathread] Project Showcase — https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/ (score 4)
+- apt-install: fall back to archive.ubuntu.com after a failed attempt (… — https://github.com/trycua/cua/commit/c60458d9e2f75e2bdd7a5c167b7cb44123f7cad1 (score 7)
+- cd-cua-sdk: let the second CDN mirror replace the rewritten checksums… — https://github.com/trycua/cua/commit/d8ccf21cdf1ddbfc3e81f790db5c9c2981805684 (score 7)
