@@ -1,2 +1,3 @@
-- LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning — https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/ (score 6)
-- chore(cua-driver): advance published installer version to 0.47.10 (#7… — https://github.com/trycua/cua/commit/d6640fa19ddab09dd3014f09019f057e75295bb8 (score 5)
+- You can now train your own LLMs with less memory, on your gaming GPUs — https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/ (score 9)
+- fix(spaces-macos): bundle Cua Driver 0.47.10 in Cua Spaces (#7375) — https://github.com/trycua/cua/commit/4544ad5070419a6577cc14eaf50c0b3a7856bd09 (score 5)
+- Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step — https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/ (score 4)

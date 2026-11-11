@@ -1,16 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>LingBot-Touch - a robbyant Collection - A Foundation Model for Heterogeneous Tactile Representation Learning</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/</link>
-      <guid isPermaLink="false">t3_1xsoaeo</guid>
-      <pubDate>Wed, 11 Nov 2026 07:38:00 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xsoaeo/lingbottouch_a_robbyant_collection_a_foundation/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/HmDk__cB68zK_SYAeMU6uY96NltZZ02nWMU-0qWMWVM.png?width=640&amp;amp;crop= | why kept: model, local, llama</description>
+      <title>You can now train your own LLMs with less memory, on your gaming GPUs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory/</link>
+      <guid isPermaLink="false">t3_1xtgnh9</guid>
+      <pubDate>Wed, 11 Nov 2026 08:09:40 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;strong&gt;TL;DR: You can train your own 27B model on a 3090 with 24GB VRAM, though you would have to go through hundreds of billions of tokens for it to be good. I am working on conversion of existing models. | why kept: qwen, model, qwen</description>
     </item>
     <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.10 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/d6640fa19ddab09dd3014f09019f057e75295bb8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d6640fa19ddab09dd3014f09019f057e75295bb8</guid>
-      <pubDate>Wed, 11 Nov 2026 07:38:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.10 (#7368)
+      <title>fix(spaces-macos): bundle Cua Driver 0.47.10 in Cua Spaces (#7375)</title>
+      <link>https://github.com/trycua/cua/commit/4544ad5070419a6577cc14eaf50c0b3a7856bd09</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4544ad5070419a6577cc14eaf50c0b3a7856bd09</guid>
+      <pubDate>Wed, 11 Nov 2026 08:09:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.10 in Cua Spaces (#7375)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Cua Driver 0.47.10 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Asked SenseNova-U1.5-8B-MoT how to make a closed terrarium, and it drew a picture for every step</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/</link>
+      <guid isPermaLink="false">t3_1xtdft2</guid>
+      <pubDate>Wed, 11 Nov 2026 08:09:40 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtdft2/asked_sensenovau158bmot_how_to_make_a_closed/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ubpuh6fray0i1.jpeg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;am | why kept: local, llama</description>
     </item></channel></rss>
