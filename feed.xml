@@ -1,20 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.7 (#7347)</title>
-      <link>https://github.com/trycua/cua/commit/a53970919fe7d7c885b46f09ffa0f15689dfae27</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a53970919fe7d7c885b46f09ffa0f15689dfae27</guid>
-      <pubDate>Wed, 11 Nov 2026 00:08:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.7 (#7347)
+      <title>ci: enable KVM via the udev rule and require it for the bench verify …</title>
+      <link>https://github.com/trycua/cua/commit/9618606a6d7779f4782c1b7c5454d03c9ac39d9b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9618606a6d7779f4782c1b7c5454d03c9ac39d9b</guid>
+      <pubDate>Wed, 11 Nov 2026 00:24:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: enable KVM via the udev rule and require it for the bench verify (#7342)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+The osworld containerdisk verify ran under TCG and timed out. Add
+scripts/images/enable-kvm.sh (the documented static | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>ci: keep the Actions cache budget for main&#x27;s Rust caches (#7321)</title>
-      <link>https://github.com/trycua/cua/commit/ca2670e51eff57d5e6a1b7b4033d5fcb278d5c8a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ca2670e51eff57d5e6a1b7b4033d5fcb278d5c8a</guid>
-      <pubDate>Wed, 11 Nov 2026 00:08:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: keep the Actions cache budget for main&amp;#39;s Rust caches (#7321)
-
-* ci: keep the Actions cache budget for main (hygiene sweep, PR-close cleanup, cache warm)
-
-Prune closed-PR, tag and branch c | why kept: claude</description>
+      <title>Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/</link>
+      <guid isPermaLink="false">t3_1xt82mz</guid>
+      <pubDate>Wed, 11 Nov 2026 00:24:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RbF4WffielSMwfTTgqCRgD-eK-O6hAHhk2rsHrNqA8g.png?width=640&amp;amp;crop=sma | why kept: agent, local, llama</description>
     </item></channel></rss>

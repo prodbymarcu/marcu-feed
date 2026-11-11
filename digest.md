@@ -1,2 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.47.7 (#7347) — https://github.com/trycua/cua/commit/a53970919fe7d7c885b46f09ffa0f15689dfae27 (score 5)
-- ci: keep the Actions cache budget for main's Rust caches (#7321) — https://github.com/trycua/cua/commit/ca2670e51eff57d5e6a1b7b4033d5fcb278d5c8a (score 2)
+- ci: enable KVM via the udev rule and require it for the bench verify … — https://github.com/trycua/cua/commit/9618606a6d7779f4782c1b7c5454d03c9ac39d9b (score 7)
+- Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons — https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/ (score 6)
