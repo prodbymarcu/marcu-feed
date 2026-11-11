@@ -1,2 +1,1 @@
-- Unsloth Dynamic V3.1 released for Qwen3.8-27B, DeepSeek-V4.1-Flash-1017 and Qwen3.8-Flash-Next — https://www.reddit.com/r/LocalLLaMA/comments/1xtmcoe/unsloth_dynamic_v31_released_for_qwen3827b/ (score 16)
-- chore(main): release cua-driver-rs 0.47.12 (#7381) — https://github.com/trycua/cua/commit/f6b88bf323170b1f131c037d9205225a4b69e7ef (score 5)
+- Show HN: Klad, a paint app your coding agent can drive (source-available) — https://github.com/klad-app/klad (score 4)
