@@ -1,16 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Zyphra/ZONOS3-Mini · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xtb9gw</guid>
-      <pubDate>Wed, 11 Nov 2026 05:44:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/zfLqcBueIxiLB74Xkg3n6VVOC-d4YEcSN0bSIi77CJA.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: model, voice, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.47.10 (#7364)</title>
+      <link>https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/630d27859141de96a74e2b3d986f77a536a6e348</guid>
+      <pubDate>Wed, 11 Nov 2026 06:01:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.10 (#7364)
+
+* chore(main): release cua-driver-rs 0.47.10
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(spaces-macos): bundle cua 0.24.2 in Cua Spaces (#7361)</title>
-      <link>https://github.com/trycua/cua/commit/7b3ed7d013572046ae3bbf0464bccf8c2528ca5c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b3ed7d013572046ae3bbf0464bccf8c2528ca5c</guid>
-      <pubDate>Wed, 11 Nov 2026 05:44:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.24.2 in Cua Spaces (#7361)
-
-cua 0.24.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>Ernie 5.5 Flash will be released in two weeks</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/</link>
+      <guid isPermaLink="false">t3_1xted8w</guid>
+      <pubDate>Wed, 11 Nov 2026 06:01:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qlnfcig0ny0i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=90d0fa9429d59e3 | why kept: local, llama</description>
     </item></channel></rss>

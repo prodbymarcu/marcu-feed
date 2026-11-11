@@ -1,2 +1,2 @@
-- Zyphra/ZONOS3-Mini · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face/ (score 8)
-- fix(spaces-macos): bundle cua 0.24.2 in Cua Spaces (#7361) — https://github.com/trycua/cua/commit/7b3ed7d013572046ae3bbf0464bccf8c2528ca5c (score 5)
+- chore(main): release cua-driver-rs 0.47.10 (#7364) — https://github.com/trycua/cua/commit/630d27859141de96a74e2b3d986f77a536a6e348 (score 5)
+- Ernie 5.5 Flash will be released in two weeks — https://www.reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks/ (score 4)
