@@ -1,2 +1,2 @@
-- ci: only run Hyprland requalify in trycua/cua (#7405) — https://github.com/trycua/cua/commit/7c873b136807078a45cc9c990e6813de238bc138 (score 7)
-- fix(spaces): the Codex sign-in row says what to do (CUA-4089) (#7406) — https://github.com/trycua/cua/commit/5aba792b2962a5fd547720c59c68220268fc48d5 (score 4)
+- [2610.29162v1] Why is AI-generated language so hard to understand? — https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/ (score 4)
+- ci: stop pinning Python 3.9 now that ubuntu-latest is 26.04 (#7408) — https://github.com/trycua/cua/commit/fd866bdf6f687b57de61fcf0a4d2b0354f26e62a (score 4)

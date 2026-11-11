@@ -1,21 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: only run Hyprland requalify in trycua/cua (#7405)</title>
-      <link>https://github.com/trycua/cua/commit/7c873b136807078a45cc9c990e6813de238bc138</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7c873b136807078a45cc9c990e6813de238bc138</guid>
-      <pubDate>Wed, 11 Nov 2026 18:33:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: only run Hyprland requalify in trycua/cua (#7405)
-
-Copies of the repo (a private docs mirror) ran the workflow and opened a tracking issue in the wrong repo.
-
-Co-authored-by: Claude Opus 5.5  | why kept: trycua, claude</description>
+      <title>[2610.29162v1] Why is AI-generated language so hard to understand?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/</link>
+      <guid isPermaLink="false">t3_1xtux72</guid>
+      <pubDate>Wed, 11 Nov 2026 18:49:43 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop= | why kept: local, llama</description>
     </item>
     <item>
-      <title>fix(spaces): the Codex sign-in row says what to do (CUA-4089) (#7406)</title>
-      <link>https://github.com/trycua/cua/commit/5aba792b2962a5fd547720c59c68220268fc48d5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5aba792b2962a5fd547720c59c68220268fc48d5</guid>
-      <pubDate>Wed, 11 Nov 2026 18:33:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): the Codex sign-in row says what to do (CUA-4089) (#7406)
+      <title>ci: stop pinning Python 3.9 now that ubuntu-latest is 26.04 (#7408)</title>
+      <link>https://github.com/trycua/cua/commit/fd866bdf6f687b57de61fcf0a4d2b0354f26e62a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd866bdf6f687b57de61fcf0a4d2b0354f26e62a</guid>
+      <pubDate>Wed, 11 Nov 2026 18:49:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: stop pinning Python 3.9 now that ubuntu-latest is 26.04 (#7408)
 
-The row read &amp;#39;Save a Codex sign-in to Keyvault so jobs on your other
-computers can use it&amp;#39; beside a Get a code butto | why kept: claude, codex</description>
+ubuntu-latest resolves to Ubuntu 26.04, where actions/setup-python has no
+3.9 build, so &amp;quot;CI: License direction&amp;quot; fail | why kept: local, runs</description>
     </item></channel></rss>
