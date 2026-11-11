@@ -1,3 +1,1 @@
-- chore(main): release cua-sdk 0.24.0 (#7315) — https://github.com/trycua/cua/commit/d7e768563f14d2361d9a723a3afc3a56268f61eb (score 7)
-- chore(cua-driver): advance published installer version to 0.47.5 (#7328) — https://github.com/trycua/cua/commit/3cb322225fcd2d957e9e60e60dc30e5dacfae728 (score 5)
-- ci(spaces): cap the app library job at 120 min and time-box cache res… — https://github.com/trycua/cua/commit/41a64dacd167a01abf48168d1c8d5959047041b9 (score 2)
+- What tasks have you moved from cloud models to local models? — https://www.reddit.com/r/LocalLLaMA/comments/1xt0ah5/what_tasks_have_you_moved_from_cloud_models_to/ (score 8)
