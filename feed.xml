@@ -1,29 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): Linux X11 background hotkey to an inactive Qt window…</title>
-      <link>https://github.com/trycua/cua/commit/a2a2fd648faf1cf2d9e9f1f461e629a1741c182c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a2a2fd648faf1cf2d9e9f1f461e629a1741c182c</guid>
-      <pubDate>Wed, 11 Nov 2026 13:46:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): Linux X11 background hotkey to an inactive Qt window fires or refuses (#7370) (#7388)
-
-Qt runs a QAction or QShortcut shortcut only in its active window. Without
-the agent&amp;#39;s  | why kept: agent, runs</description>
+      <title>I&#x27;m releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggi</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/</link>
+      <guid isPermaLink="false">t3_1xtpc2v</guid>
+      <pubDate>Wed, 11 Nov 2026 14:17:44 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bTdzbmpidzN3MDFpMZ5un8Va9DN4s6XoVSFdCpja6HydJjaQal3CtJzwcqYl.png?width=64 | why kept: model, video, local, llama</description>
     </item>
     <item>
-      <title>llm 0.37.2</title>
-      <link>https://simonwillison.net/2026/Nov/11/llm/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/11/llm/</guid>
-      <pubDate>Wed, 11 Nov 2026 13:46:09 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm/releases/tag/0.37.2&quot;&gt;llm 0.37.2&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Fixes a security issue reported by &lt;a href=&quot;https://github.com/BluePlexus&quot;&gt;Daniel de Araujo&lt;/a&gt; in &lt;a href=&quot;https://githu | why kept: model</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): Hyprland plugin kit for 0.57 (Omarchy edge) (#7390)</title>
-      <link>https://github.com/trycua/cua/commit/9e7256bfbb5ded8dc800484e43846b2df938af6d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9e7256bfbb5ded8dc800484e43846b2df938af6d</guid>
-      <pubDate>Wed, 11 Nov 2026 13:46:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): Hyprland plugin kit for 0.57 (Omarchy edge) (#7390)
+      <title>chore(cua-driver): advance published installer version to 0.47.12 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/61e1e2cb4dbc9d3f36fc8003f1436cdea89584df</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/61e1e2cb4dbc9d3f36fc8003f1436cdea89584df</guid>
+      <pubDate>Wed, 11 Nov 2026 14:17:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.12 (#7397)
 
-* fix(cua-driver): CI to build and qualify the Hyprland plugin kit on Omarchy edge (0.57) and stable (0.56)
-
-Profiles accept  | why kept: runs</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

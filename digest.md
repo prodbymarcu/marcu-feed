@@ -1,3 +1,2 @@
-- fix(cua-driver): Linux X11 background hotkey to an inactive Qt window… — https://github.com/trycua/cua/commit/a2a2fd648faf1cf2d9e9f1f461e629a1741c182c (score 4)
-- llm 0.37.2 — https://simonwillison.net/2026/Nov/11/llm/ (score 2)
-- fix(cua-driver): Hyprland plugin kit for 0.57 (Omarchy edge) (#7390) — https://github.com/trycua/cua/commit/9e7256bfbb5ded8dc800484e43846b2df938af6d (score 2)
+- I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time.  — https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/ (score 8)
+- chore(cua-driver): advance published installer version to 0.47.12 (#7… — https://github.com/trycua/cua/commit/61e1e2cb4dbc9d3f36fc8003f1436cdea89584df (score 5)
