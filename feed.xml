@@ -1,43 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(cua-driver): freeze Cua Perception and cut its CI cost (#7479)</title>
-      <link>https://github.com/trycua/cua/commit/a967d132d1ee0633f72e730d9541f9c8d3fecc92</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a967d132d1ee0633f72e730d9541f9c8d3fecc92</guid>
-      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): freeze Cua Perception and cut its CI cost (#7479)
-
-Perception (parse_visual_regions, the cua-perception extension) is frozen: no
-new work or model releases. Docs and the skill pac | why kept: model, agent, runs, free</description>
+      <title>Oh I wonder what this model is used for...</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xug3mz/oh_i_wonder_what_this_model_is_used_for/</link>
+      <guid isPermaLink="false">t3_1xug3mz</guid>
+      <pubDate>Thu, 12 Nov 2026 11:37:43 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xug3mz/oh_i_wonder_what_this_model_is_used_for/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/7iharpolc71i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=04c3b9e5f115518ee9b5f | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.47.20 (#7486)</title>
-      <link>https://github.com/trycua/cua/commit/271ea2c365e68d5fe64a50f771949c6469faca3c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/271ea2c365e68d5fe64a50f771949c6469faca3c</guid>
-      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.20 (#7486)
-
-* chore(main): release cua-driver-rs 0.47.20
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
-    </item>
-    <item>
-      <title>The CIA got rid of Jensen</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xudwsh/the_cia_got_rid_of_jensen/</link>
-      <guid isPermaLink="false">t3_1xudwsh</guid>
-      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xudwsh/the_cia_got_rid_of_jensen/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/48w096h6x61i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2dcf7835c83923482fdd923a1301a0516d | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>server : cancel MCP tool calls on client disconnect or timeout (#32025)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d8c8cc4d9b225e4a3bc552a8ecec949cd255bb39</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d8c8cc4d9b225e4a3bc552a8ecec949cd255bb39</guid>
-      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : cancel MCP tool calls on client disconnect or timeout (#32025)
-
-* server : cancel MCP tool calls on client disconnect or timeout
-
-* server : shorten MCP cancellation tests and fix a type | why kept: tool call</description>
+      <title>[Paper] e-means: outperforming k-means (in one-tenth the epochs)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/paper_emeans_outperforming_kmeans_in_onetenth_the/</link>
+      <guid isPermaLink="false">t3_1xu92md</guid>
+      <pubDate>Thu, 12 Nov 2026 11:37:43 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/paper_emeans_outperforming_kmeans_in_onetenth_the/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/tdde8f46p51i1.png?width=140&amp;amp;height=83&amp;amp;auto=webp&amp;amp;s=2b2e245ccf0b | why kept: local, llama</description>
     </item></channel></rss>
