@@ -1,2 +1,1 @@
-- So this will be true in couple of years? — https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/ (score 4)
-- POV: Jensen Huang after building nvidia for 33 years — https://www.reddit.com/r/LocalLLaMA/comments/1xul4p2/pov_jensen_huang_after_building_nvidia_for_33/ (score 4)
+- chore(main): release cua-driver-rs 0.47.23 (#7505) — https://github.com/trycua/cua/commit/228b5a4de7b669a731c91c7f3b0444b280718ddb (score 5)

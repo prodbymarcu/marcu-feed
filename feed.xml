@@ -1,14 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>So this will be true in couple of years?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/</link>
-      <guid isPermaLink="false">t3_1xukt9t</guid>
-      <pubDate>Thu, 12 Nov 2026 14:17:48 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/vhw2849k781i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=80aea713e5afc9f22a9a | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>POV: Jensen Huang after building nvidia for 33 years</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xul4p2/pov_jensen_huang_after_building_nvidia_for_33/</link>
-      <guid isPermaLink="false">t3_1xul4p2</guid>
-      <pubDate>Thu, 12 Nov 2026 14:17:48 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xul4p2/pov_jensen_huang_after_building_nvidia_for_33/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/MHl1NmIwM3M5ODFpMdp5yqsOt7GztaxOOn5QhiDIOBOl6ymijtDF3XpTz7SU.png?widt | why kept: local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.47.23 (#7505)</title>
+      <link>https://github.com/trycua/cua/commit/228b5a4de7b669a731c91c7f3b0444b280718ddb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/228b5a4de7b669a731c91c7f3b0444b280718ddb</guid>
+      <pubDate>Thu, 12 Nov 2026 14:33:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.23 (#7505)
+
+* chore(main): release cua-driver-rs 0.47.23
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>
