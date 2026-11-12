@@ -1,17 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Meet the people behind MOSS-Image, plus a few answers from their AMA here</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/</link>
-      <guid isPermaLink="false">t3_1xuad5c</guid>
-      <pubDate>Thu, 12 Nov 2026 06:49:36 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eXkxdDZ1dm8yNjFpMVARlyyC4eElvUvrEMnZgdq9ydNeoU4YGKYO-E1dtJGo.png?width= | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>fix(lume): refuse writable VM starts when host free space is unsafe (…</title>
-      <link>https://github.com/trycua/cua/commit/a8f7ab2df35096ea3cf67d4773efd01c23e84da4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a8f7ab2df35096ea3cf67d4773efd01c23e84da4</guid>
-      <pubDate>Thu, 12 Nov 2026 06:49:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(lume): refuse writable VM starts when host free space is unsafe (#7457)
+      <title>chore(cua-driver): advance published installer version to 0.47.19 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/1cf2bc95b26373d872f31334ac940d64325ca4cf</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1cf2bc95b26373d872f31334ac940d64325ca4cf</guid>
+      <pubDate>Thu, 12 Nov 2026 07:21:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.19 (#7460)
 
-A guest write into a sparse or cloned disk image allocates host blocks, but
-the guest only sees the image&amp;#39;s logica | why kept: free</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
