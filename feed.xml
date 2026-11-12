@@ -1,53 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(pypi): check requires_dist of every trycua PyPI project in the gua…</title>
-      <link>https://github.com/trycua/cua/commit/508d4ab0c7b4d119a44c8cb1764031a82f40c61f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/508d4ab0c7b4d119a44c8cb1764031a82f40c61f</guid>
-      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(pypi): check requires_dist of every trycua PyPI project in the guard (#7476)
-
-Adds cua-computer-server, cua-mcp-server, cua-auto and cua-fleet, and
---also-project for one-offs.
-
-Refs CUA-4110
- | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>chore(main): release sandbox 0.10.2 (#7472)</title>
-      <link>https://github.com/trycua/cua/commit/1dcced3e50c51fd79290b57b88da41d15c356803</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1dcced3e50c51fd79290b57b88da41d15c356803</guid>
-      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.10.2 (#7472)
-
-* chore(main): release sandbox 0.10.2
-
-* chore(sandbox): synchronize release metadata
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release bench 0.4.2 (#7473)</title>
-      <link>https://github.com/trycua/cua/commit/a7c5ff49bc4547a08647c15432734b9d883c8e40</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a7c5ff49bc4547a08647c15432734b9d883c8e40</guid>
-      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.2 (#7473)
-
-* chore(main): release bench 0.4.2
-
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
-    </item>
-    <item>
-      <title>ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly (#7471)</title>
-      <link>https://github.com/trycua/cua/commit/36c576698e7265a84fb3469c8b9d2c9824df6931</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36c576698e7265a84fb3469c8b9d2c9824df6931</guid>
-      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly (#7471)
-
-Every build still attaches its wheels to its GitHub release; only the new
-pypi-promote.yml uploads them to PyPI. It runs Mo | why kept: runs</description>
+      <title>Nvidia&#x27;s Jensen Huang Resigns as CEO, Colette Kress Named Interim</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/</link>
+      <guid isPermaLink="false">t3_1xudeev</guid>
+      <pubDate>Thu, 12 Nov 2026 09:46:06 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/R32wVYwtPRPs1Q6Cu95skh2ArgKashFTqmvj5dcYPkQ.jpeg?width=640&amp;amp;cr | why kept: local, llama</description>
     </item></channel></rss>

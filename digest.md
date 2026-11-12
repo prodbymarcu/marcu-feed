@@ -1,4 +1,1 @@
-- ci(pypi): check requires_dist of every trycua PyPI project in the gua… — https://github.com/trycua/cua/commit/508d4ab0c7b4d119a44c8cb1764031a82f40c61f (score 7)
-- chore(main): release sandbox 0.10.2 (#7472) — https://github.com/trycua/cua/commit/1dcced3e50c51fd79290b57b88da41d15c356803 (score 5)
-- chore(main): release bench 0.4.2 (#7473) — https://github.com/trycua/cua/commit/a7c5ff49bc4547a08647c15432734b9d883c8e40 (score 5)
-- ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly (#7471) — https://github.com/trycua/cua/commit/36c576698e7265a84fb3469c8b9d2c9824df6931 (score 2)
+- Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim — https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/ (score 4)
