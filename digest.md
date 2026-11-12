@@ -1,2 +1,2 @@
-- llama : prune (#30565) — https://github.com/ggml-org/llama.cpp/commit/8ca5a8008b57aa39f2601546c0d07912045080a5 (score 2)
-- fix(cua-driver): declare each platform's accepted browser defaults (#… — https://github.com/trycua/cua/commit/52306ab4517bba9eb3c2a2edb258471eedd69d46 (score 2)
+- So this will be true in couple of years? — https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/ (score 4)
+- POV: Jensen Huang after building nvidia for 33 years — https://www.reddit.com/r/LocalLLaMA/comments/1xul4p2/pov_jensen_huang_after_building_nvidia_for_33/ (score 4)

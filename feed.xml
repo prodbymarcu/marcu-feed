@@ -1,23 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : prune (#30565)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8ca5a8008b57aa39f2601546c0d07912045080a5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8ca5a8008b57aa39f2601546c0d07912045080a5</guid>
-      <pubDate>Thu, 12 Nov 2026 14:01:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : prune (#30565)
-
-* llama : remove deprecated `llama_set_warmup`
-
-Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4.1-Flash-1017-GGUF (Mac Studio, M5 Ultra, 256GB)
-
-* llama : remove remaining | why kept: llama</description>
+      <title>So this will be true in couple of years?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/</link>
+      <guid isPermaLink="false">t3_1xukt9t</guid>
+      <pubDate>Thu, 12 Nov 2026 14:17:48 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/vhw2849k781i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=80aea713e5afc9f22a9a | why kept: local, llama</description>
     </item>
     <item>
-      <title>fix(cua-driver): declare each platform&#x27;s accepted browser defaults (#…</title>
-      <link>https://github.com/trycua/cua/commit/52306ab4517bba9eb3c2a2edb258471eedd69d46</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/52306ab4517bba9eb3c2a2edb258471eedd69d46</guid>
-      <pubDate>Thu, 12 Nov 2026 14:01:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): declare each platform&amp;#39;s accepted browser defaults (#7504)
-
-A BrowserPlatform method with a default body silently becomes a no-op on any
-platform that never overrides it, whic | why kept: agent</description>
+      <title>POV: Jensen Huang after building nvidia for 33 years</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xul4p2/pov_jensen_huang_after_building_nvidia_for_33/</link>
+      <guid isPermaLink="false">t3_1xul4p2</guid>
+      <pubDate>Thu, 12 Nov 2026 14:17:48 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xul4p2/pov_jensen_huang_after_building_nvidia_for_33/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/MHl1NmIwM3M5ODFpMdp5yqsOt7GztaxOOn5QhiDIOBOl6ymijtDF3XpTz7SU.png?widt | why kept: local, llama</description>
     </item></channel></rss>
