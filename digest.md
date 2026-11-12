@@ -1,1 +1,1 @@
-- The Jev Revolution: What Engineers Are Already Building with System One Models — https://latent.space/p/jev-revolution/ (score 2)
+- chore(main): release cua-driver-rs 0.47.17 (#7427) — https://github.com/trycua/cua/commit/ee1f7f5faabe9ae0629e894640d0619d5bbcd849 (score 5)
