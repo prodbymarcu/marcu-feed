@@ -1,17 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[2610.29162v1] Why is AI-generated language so hard to understand?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/</link>
-      <guid isPermaLink="false">t3_1xtux72</guid>
-      <pubDate>Wed, 11 Nov 2026 18:49:43 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=640&amp;amp;crop= | why kept: local, llama</description>
+      <title>New Paper -&gt; Unless Told Otherwise, an Open Language Model Says OpenAI Made It</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/</link>
+      <guid isPermaLink="false">t3_1xtpqxm</guid>
+      <pubDate>Wed, 11 Nov 2026 19:05:59 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi all I&amp;#39;ve just started &lt;a href=&quot;/r/LLMPsychology&quot;&gt;r/LLMPsychology&lt;/a&gt; as I want to pursue research in this area with my own local hardware, and work with other people also exploring how AI minds think | why kept: model, local, hardware</description>
     </item>
     <item>
-      <title>ci: stop pinning Python 3.9 now that ubuntu-latest is 26.04 (#7408)</title>
-      <link>https://github.com/trycua/cua/commit/fd866bdf6f687b57de61fcf0a4d2b0354f26e62a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd866bdf6f687b57de61fcf0a4d2b0354f26e62a</guid>
-      <pubDate>Wed, 11 Nov 2026 18:49:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: stop pinning Python 3.9 now that ubuntu-latest is 26.04 (#7408)
-
-ubuntu-latest resolves to Ubuntu 26.04, where actions/setup-python has no
-3.9 build, so &amp;quot;CI: License direction&amp;quot; fail | why kept: local, runs</description>
+      <title>Architecture trends: From full to local attention</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/</link>
+      <guid isPermaLink="false">t3_1xtvxtp</guid>
+      <pubDate>Wed, 11 Nov 2026 19:05:59 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/bjcpjuye921i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=56f1fce69ca | why kept: local, llama</description>
     </item></channel></rss>

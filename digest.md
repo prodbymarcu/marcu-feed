@@ -1,2 +1,2 @@
-- [2610.29162v1] Why is AI-generated language so hard to understand? — https://www.reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard/ (score 4)
-- ci: stop pinning Python 3.9 now that ubuntu-latest is 26.04 (#7408) — https://github.com/trycua/cua/commit/fd866bdf6f687b57de61fcf0a4d2b0354f26e62a (score 4)
+- New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It — https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/ (score 6)
+- Architecture trends: From full to local attention — https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/ (score 4)
