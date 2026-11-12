@@ -1,2 +1,2 @@
-- chore(main): release cua-driver-rs 0.47.21 (#7493) — https://github.com/trycua/cua/commit/ef24fe1baf182fe15a454da589dba08dc2f1c585 (score 5)
-- fix(ci): check a release PR's changelog on the merge queue commit, ad… — https://github.com/trycua/cua/commit/2959a5b6052b6b256df8a40c34efdb326935b0e6 (score 2)
+- qwen3.8-flash shows us a glimpse of whats possible for smaller hardware — https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/ (score 11)
+- MetaEncoder - a facebook Collection - One Encoder for Retrieval and Decision Making — https://www.reddit.com/r/LocalLLaMA/comments/1xu8eie/metaencoder_a_facebook_collection_one_encoder_for/ (score 4)
