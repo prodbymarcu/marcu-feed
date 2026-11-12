@@ -1,1 +1,3 @@
-- DeepSeek has Two Numbers for Active Parameter Count. How? — https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter/ (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.47.18 in Cua Spaces (#7445) — https://github.com/trycua/cua/commit/18dfe55689b966ac2fcbc2e12e3c90c3a5b69847 (score 5)
+- chore(cua-driver): advance published installer version to 0.47.18 (#7… — https://github.com/trycua/cua/commit/00f7352b35972c94511c090730146a4a54298adc (score 5)
+- fix(cua-driver): load libxkbcommon's 1.0 text functions at run time s… — https://github.com/trycua/cua/commit/b9e38d1ac1eb9e5683e0b7394ecf50b360da2881 (score 2)

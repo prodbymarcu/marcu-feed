@@ -1,7 +1,28 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>DeepSeek has Two Numbers for Active Parameter Count. How?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter/</link>
-      <guid isPermaLink="false">t3_1xtmrii</guid>
-      <pubDate>Thu, 12 Nov 2026 04:41:37 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi. It is frequently mentioned that DeepSeek v4.1 Flash has 8B &amp;quot;input&amp;quot; active parameters (aka prefill), and 16B output/decoding active parameters.&lt;/p&gt; &lt;p&gt;I have only read this about DeepSeek, and  | why kept: model</description>
+      <title>fix(spaces-macos): bundle Cua Driver 0.47.18 in Cua Spaces (#7445)</title>
+      <link>https://github.com/trycua/cua/commit/18dfe55689b966ac2fcbc2e12e3c90c3a5b69847</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/18dfe55689b966ac2fcbc2e12e3c90c3a5b69847</guid>
+      <pubDate>Thu, 12 Nov 2026 04:58:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.18 in Cua Spaces (#7445)
+
+Cua Driver 0.47.18 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.47.18 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/00f7352b35972c94511c090730146a4a54298adc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/00f7352b35972c94511c090730146a4a54298adc</guid>
+      <pubDate>Thu, 12 Nov 2026 04:58:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.18 (#7446)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): load libxkbcommon&#x27;s 1.0 text functions at run time s…</title>
+      <link>https://github.com/trycua/cua/commit/b9e38d1ac1eb9e5683e0b7394ecf50b360da2881</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b9e38d1ac1eb9e5683e0b7394ecf50b360da2881</guid>
+      <pubDate>Thu, 12 Nov 2026 04:58:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): load libxkbcommon&amp;#39;s 1.0 text functions at run time so the driver starts on Ubuntu 20.04 (#6498)
+
+libxkbcommon&amp;#39;s V_1.0.0 version node holds two functions,
+xkb_utf32_to_key | why kept: runs</description>
     </item></channel></rss>
