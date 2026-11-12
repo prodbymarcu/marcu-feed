@@ -1,2 +1,2 @@
-- moein99/P2Echo · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/ (score 6)
-- chore(main): release cua-sdk 0.27.0 (#7492) — https://github.com/trycua/cua/commit/62677ab0113ea08ae0fba61cdb0cb4891bb298a0 (score 5)
+- fix(spaces-macos): bundle cua 0.26.0 in Cua Spaces (#7489) — https://github.com/trycua/cua/commit/7a7dba0971db6361dd23760c74beacd2060261b6 (score 5)
+- fix(cua-driver): start the GTK3 disabled-control case's behavioral vi… — https://github.com/trycua/cua/commit/c5a3022e4ba3298a2801bd59befc3d5fc532e8ee (score 2)

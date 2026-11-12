@@ -1,22 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>moein99/P2Echo · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xu95lt</guid>
-      <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Fi4PgX6GmZmy8D66X-6bbnaLgI7USNMgrjUOBqg8uvg.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;a | why kept: model, local, llama</description>
+      <title>fix(spaces-macos): bundle cua 0.26.0 in Cua Spaces (#7489)</title>
+      <link>https://github.com/trycua/cua/commit/7a7dba0971db6361dd23760c74beacd2060261b6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7a7dba0971db6361dd23760c74beacd2060261b6</guid>
+      <pubDate>Thu, 12 Nov 2026 12:57:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.26.0 in Cua Spaces (#7489)
+
+cua 0.26.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item>
     <item>
-      <title>chore(main): release cua-sdk 0.27.0 (#7492)</title>
-      <link>https://github.com/trycua/cua/commit/62677ab0113ea08ae0fba61cdb0cb4891bb298a0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/62677ab0113ea08ae0fba61cdb0cb4891bb298a0</guid>
-      <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.0 (#7492)
+      <title>fix(cua-driver): start the GTK3 disabled-control case&#x27;s behavioral vi…</title>
+      <link>https://github.com/trycua/cua/commit/c5a3022e4ba3298a2801bd59befc3d5fc532e8ee</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c5a3022e4ba3298a2801bd59befc3d5fc532e8ee</guid>
+      <pubDate>Thu, 12 Nov 2026 12:57:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): start the GTK3 disabled-control case&amp;#39;s behavioral video (#7498)
 
-* chore(main): release cua-sdk 0.27.0
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+The case declared recording evidence but never started the clip, so the
+E2E report rejected it as a pending v | why kept: video</description>
     </item></channel></rss>
