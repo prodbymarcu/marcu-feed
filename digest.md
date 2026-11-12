@@ -1,1 +1,2 @@
-- CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cry — https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/ (score 4)
+- chore(main): release cua-driver-rs 0.47.22 (#7503) — https://github.com/trycua/cua/commit/57edfe91a88fb8c9f97ce161ddeafefe533cd3de (score 5)
+- Simplest Local Agentic Setup — https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/ (score 4)
