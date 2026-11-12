@@ -1,1 +1,2 @@
-- Curated list of resources for the topic of Quantization for beginners — https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/ (score 6)
+- llama : prune (#30565) — https://github.com/ggml-org/llama.cpp/commit/8ca5a8008b57aa39f2601546c0d07912045080a5 (score 2)
+- fix(cua-driver): declare each platform's accepted browser defaults (#… — https://github.com/trycua/cua/commit/52306ab4517bba9eb3c2a2edb258471eedd69d46 (score 2)

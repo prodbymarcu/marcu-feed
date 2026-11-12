@@ -1,7 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Curated list of resources for the topic of Quantization for beginners</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/</link>
-      <guid isPermaLink="false">t3_1xu6tth</guid>
-      <pubDate>Thu, 12 Nov 2026 13:45:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/uquw9qh4z41i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6df8509e09fd00c7b3 | why kept: local, quant, llama</description>
+      <title>llama : prune (#30565)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/8ca5a8008b57aa39f2601546c0d07912045080a5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8ca5a8008b57aa39f2601546c0d07912045080a5</guid>
+      <pubDate>Thu, 12 Nov 2026 14:01:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : prune (#30565)
+
+* llama : remove deprecated `llama_set_warmup`
+
+Assisted-by: dsh:llama.cpp/ggml-org/DeepSeek-V4.1-Flash-1017-GGUF (Mac Studio, M5 Ultra, 256GB)
+
+* llama : remove remaining | why kept: llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): declare each platform&#x27;s accepted browser defaults (#…</title>
+      <link>https://github.com/trycua/cua/commit/52306ab4517bba9eb3c2a2edb258471eedd69d46</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/52306ab4517bba9eb3c2a2edb258471eedd69d46</guid>
+      <pubDate>Thu, 12 Nov 2026 14:01:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): declare each platform&amp;#39;s accepted browser defaults (#7504)
+
+A BrowserPlatform method with a default body silently becomes a no-op on any
+platform that never overrides it, whic | why kept: agent</description>
     </item></channel></rss>
