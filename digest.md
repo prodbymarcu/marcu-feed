@@ -1,3 +1,5 @@
-- fix(spaces-macos): bundle Cua Driver 0.47.18 in Cua Spaces (#7445) — https://github.com/trycua/cua/commit/18dfe55689b966ac2fcbc2e12e3c90c3a5b69847 (score 5)
-- chore(cua-driver): advance published installer version to 0.47.18 (#7… — https://github.com/trycua/cua/commit/00f7352b35972c94511c090730146a4a54298adc (score 5)
-- fix(cua-driver): load libxkbcommon's 1.0 text functions at run time s… — https://github.com/trycua/cua/commit/b9e38d1ac1eb9e5683e0b7394ecf50b360da2881 (score 2)
+- huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face/ (score 11)
+- chore(main): release cua-driver-rs 0.47.19 (#7448) — https://github.com/trycua/cua/commit/56a69039b77ac95e62aebcc6ddf68fd4e052769b (score 5)
+- chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules/ (score 4)
+- ggml : route GATED_DELTA_NET to the SpacemiT RVV kernel (#31897) — https://github.com/ggml-org/llama.cpp/commit/a8575a3ef4e2631d0540b2879fff86ad8411dbf6 (score 2)
+- ggml-cpu: use the 4x4 simd_gemm tile on ARM NEON (#32128) — https://github.com/ggml-org/llama.cpp/commit/ab4a77b9ad2198e4d1cf9359e3218660937e969a (score 2)
