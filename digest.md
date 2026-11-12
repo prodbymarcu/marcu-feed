@@ -1,2 +1,1 @@
-- Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R] — https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/ (score 4)
-- I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and r — https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/ (score 2)
+- Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail — https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/ (score 2)
