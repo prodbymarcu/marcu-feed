@@ -1,15 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.25.1 (#7430)</title>
-      <link>https://github.com/trycua/cua/commit/902a250714615687d3e8766591c780a3be6327a7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/902a250714615687d3e8766591c780a3be6327a7</guid>
-      <pubDate>Thu, 12 Nov 2026 00:57:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.25.1 (#7430)
+      <title>fix(spaces-macos): bundle cua 0.25.0 in Cua Spaces (#7426)</title>
+      <link>https://github.com/trycua/cua/commit/0c1891bffabaae8a47aa058d8687d034e8037647</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c1891bffabaae8a47aa058d8687d034e8037647</guid>
+      <pubDate>Thu, 12 Nov 2026 01:13:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.25.0 in Cua Spaces (#7426)
 
-* chore(main): release cua-sdk 0.25.1
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+cua 0.25.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

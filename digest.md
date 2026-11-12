@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.25.1 (#7430) — https://github.com/trycua/cua/commit/902a250714615687d3e8766591c780a3be6327a7 (score 5)
+- fix(spaces-macos): bundle cua 0.25.0 in Cua Spaces (#7426) — https://github.com/trycua/cua/commit/0c1891bffabaae8a47aa058d8687d034e8037647 (score 5)
