@@ -1,1 +1,4 @@
-- Title: CUDA: few-row MMQ for BS 2-24 (#31533) — https://github.com/ggml-org/llama.cpp/commit/0fb8f157702702f33f4e018de8701b2569a1bc28 (score 2)
+- After four years of development, are LLMs capable of writing high-quality prose? — https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/ (score 8)
+- Alleged GeForce RTX 5090 with 96GB listed for sale in China — https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/ (score 6)
+- ci(pypi): add the PyPI retention rule and a delete-list guard (#7470) — https://github.com/trycua/cua/commit/47e45b7092d9755b3273a49672d81d4351d4703a (score 2)
+- fix(sandbox): unpin cua-driver in the driver extra so installs resolv… — https://github.com/trycua/cua/commit/934d527c41320cd17461367f6fe171175eb2b978 (score 2)

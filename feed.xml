@@ -1,11 +1,35 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Title: CUDA: few-row MMQ for BS 2-24 (#31533)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0fb8f157702702f33f4e018de8701b2569a1bc28</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0fb8f157702702f33f4e018de8701b2569a1bc28</guid>
-      <pubDate>Thu, 12 Nov 2026 08:25:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Title: CUDA: few-row MMQ for BS 2-24 (#31533)
+      <title>After four years of development, are LLMs capable of writing high-quality prose?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/</link>
+      <guid isPermaLink="false">t3_1xub4s2</guid>
+      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have been following the evolution of LLMs since the days of GPT-3.5, and I have been actively using local LLMs since the release of Gemma 2.&lt;/p&gt; &lt;p&gt;I read a great deal, including this subreddit. I have pe | why kept: model, local, runs, fine-tun</description>
+    </item>
+    <item>
+      <title>Alleged GeForce RTX 5090 with 96GB listed for sale in China</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/</link>
+      <guid isPermaLink="false">t3_1xucffq</guid>
+      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/QubAXfNfXVH4z75ey0mR4oQFg75kwzvoIvwjqoY0b1A.jpeg?width=640&amp;amp;crop=s | why kept: video, local, llama</description>
+    </item>
+    <item>
+      <title>ci(pypi): add the PyPI retention rule and a delete-list guard (#7470)</title>
+      <link>https://github.com/trycua/cua/commit/47e45b7092d9755b3273a49672d81d4351d4703a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/47e45b7092d9755b3273a49672d81d4351d4703a</guid>
+      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(pypi): add the PyPI retention rule and a delete-list guard (#7470)
 
-* CUDA: few-row MMQ for 2-24 src1 columns
+docs/pypi-retention.md states the rule: the newest patch of every minor
+stays on PyPI for good, nothing younger than 90 days | why kept: claude</description>
+    </item>
+    <item>
+      <title>fix(sandbox): unpin cua-driver in the driver extra so installs resolv…</title>
+      <link>https://github.com/trycua/cua/commit/934d527c41320cd17461367f6fe171175eb2b978</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/934d527c41320cd17461367f6fe171175eb2b978</guid>
+      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): unpin cua-driver in the driver extra so installs resolve (#7464)
 
-New int8 MMA kernel for quantized mat-muls with 2-24 src1 columns, e.g. speculative decoding verify passe | why kept: quant</description>
+* fix(sandbox): use a cua-driver range in the driver extra so installs resolve
+
+The exact cua-driver pin made pip i | why kept: claude</description>
     </item></channel></rss>
