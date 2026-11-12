@@ -1,1 +1,3 @@
-- DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results — https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/ (score 4)
+- chore(main): release cua-driver-rs 0.47.16 (#7416) — https://github.com/trycua/cua/commit/493b6f8dd835f227af4db187f51c99416c47164f (score 5)
+- I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0) — https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/ (score 4)
+- Modern Web Guidance 1.0: The web platform expertise your coding agent is missing — https://developer.chrome.com/blog/modern-web-guidance-v1 (score 2)

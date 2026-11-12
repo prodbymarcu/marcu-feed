@@ -1,7 +1,30 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/</link>
-      <guid isPermaLink="false">t3_1xtyxl9</guid>
-      <pubDate>Wed, 11 Nov 2026 21:30:04 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/9ncvc7y7w21i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6959475b91fcacc | why kept: local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.47.16 (#7416)</title>
+      <link>https://github.com/trycua/cua/commit/493b6f8dd835f227af4db187f51c99416c47164f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/493b6f8dd835f227af4db187f51c99416c47164f</guid>
+      <pubDate>Wed, 11 Nov 2026 21:45:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.16 (#7416)
+
+* chore(main): release cua-driver-rs 0.47.16
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
+    </item>
+    <item>
+      <title>I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/</link>
+      <guid isPermaLink="false">t3_1xtzwxf</guid>
+      <pubDate>Wed, 11 Nov 2026 21:45:59 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/emJxbmszaW0yMzFpMb6-hNctCFtYF8Gl9qgiWWG6vmdSWxoYGdJFNmcRTCWK.png?wid | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Modern Web Guidance 1.0: The web platform expertise your coding agent is missing</title>
+      <link>https://developer.chrome.com/blog/modern-web-guidance-v1</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50460398</guid>
+      <pubDate>Wed, 11 Nov 2026 21:45:59 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://developer.chrome.com/blog/modern-web-guidance-v1&quot;&gt;https://developer.chrome.com/blog/modern-web-guidance-v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50460398&quot;&gt;https://news.ycombi | why kept: agent</description>
     </item></channel></rss>
