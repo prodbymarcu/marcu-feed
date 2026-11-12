@@ -1,7 +1,34 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Jensen Huang&#x27;s mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/</link>
-      <guid isPermaLink="false">t3_1xujb7c</guid>
-      <pubDate>Thu, 12 Nov 2026 17:13:38 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ljwah0sjx71i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0424e9900923b | why kept: local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.47.24 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/a689a915bcbda50c498dfb333d57b990cfa737a5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a689a915bcbda50c498dfb333d57b990cfa737a5</guid>
+      <pubDate>Thu, 12 Nov 2026 17:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.24 (#7528)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.27.1 (#7524)</title>
+      <link>https://github.com/trycua/cua/commit/19acc2e2d49617b1973ad1ca031dff403c7ef121</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/19acc2e2d49617b1973ad1ca031dff403c7ef121</guid>
+      <pubDate>Thu, 12 Nov 2026 17:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.1 (#7524)
+
+* chore(main): release cua-sdk 0.27.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>server: skip LAN address tests when the host cannot reach it [no ci] …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e9701014703d251593b23ce1703db8a7299dad0f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e9701014703d251593b23ce1703db8a7299dad0f</guid>
+      <pubDate>Thu, 12 Nov 2026 17:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: skip LAN address tests when the host cannot reach it [no ci] (#32166)
+
+The same-origin tests over the LAN address block forever on the Metal
+runners: the request to the host&amp;#39;s own LAN | why kept: runs</description>
     </item></channel></rss>

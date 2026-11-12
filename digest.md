@@ -1,1 +1,3 @@
-- Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are  — https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/ (score 4)
+- chore(cua-driver): advance published installer version to 0.47.24 (#7… — https://github.com/trycua/cua/commit/a689a915bcbda50c498dfb333d57b990cfa737a5 (score 5)
+- chore(main): release cua-sdk 0.27.1 (#7524) — https://github.com/trycua/cua/commit/19acc2e2d49617b1973ad1ca031dff403c7ef121 (score 5)
+- server: skip LAN address tests when the host cannot reach it [no ci] … — https://github.com/ggml-org/llama.cpp/commit/e9701014703d251593b23ce1703db8a7299dad0f (score 2)
