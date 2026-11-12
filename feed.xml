@@ -1,15 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.18 (#7443)</title>
-      <link>https://github.com/trycua/cua/commit/4f2aa028d1232b752cb3c4319686ef5c30bff3e3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4f2aa028d1232b752cb3c4319686ef5c30bff3e3</guid>
-      <pubDate>Thu, 12 Nov 2026 03:21:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.18 (#7443)
+      <title>fix(spaces-macos): bundle cua 0.25.2 in Cua Spaces (#7441)</title>
+      <link>https://github.com/trycua/cua/commit/268ac5e747eaf8d34606f3df9b521c98d357bc92</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/268ac5e747eaf8d34606f3df9b521c98d357bc92</guid>
+      <pubDate>Thu, 12 Nov 2026 03:37:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.25.2 in Cua Spaces (#7441)
 
-* chore(main): release cua-driver-rs 0.47.18
+cua 0.25.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ui: install llama-brand from a GitHub tarball instead of git (#32112)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d90cfd4a9b3d813ebbdb32efc9f268f733a03fa7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d90cfd4a9b3d813ebbdb32efc9f268f733a03fa7</guid>
+      <pubDate>Thu, 12 Nov 2026 03:37:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: install llama-brand from a GitHub tarball instead of git (#32112)
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
+npm 11.20 refuses git dependencies by default (EALLOWGIT), so npm ci
+failed on fresh installs. Pin llama-brand to the same c | why kept: claude, llama</description>
     </item></channel></rss>

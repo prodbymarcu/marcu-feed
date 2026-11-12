@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.47.18 (#7443) — https://github.com/trycua/cua/commit/4f2aa028d1232b752cb3c4319686ef5c30bff3e3 (score 5)
+- fix(spaces-macos): bundle cua 0.25.2 in Cua Spaces (#7441) — https://github.com/trycua/cua/commit/268ac5e747eaf8d34606f3df9b521c98d357bc92 (score 5)
+- ui: install llama-brand from a GitHub tarball instead of git (#32112) — https://github.com/ggml-org/llama.cpp/commit/d90cfd4a9b3d813ebbdb32efc9f268f733a03fa7 (score 4)
