@@ -1,2 +1,2 @@
-- Oh I wonder what this model is used for... — https://www.reddit.com/r/LocalLLaMA/comments/1xug3mz/oh_i_wonder_what_this_model_is_used_for/ (score 6)
-- [Paper] e-means: outperforming k-means (in one-tenth the epochs) — https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/paper_emeans_outperforming_kmeans_in_onetenth_the/ (score 4)
+- chore(main): release cua-driver-rs 0.47.21 (#7493) — https://github.com/trycua/cua/commit/ef24fe1baf182fe15a454da589dba08dc2f1c585 (score 5)
+- fix(ci): check a release PR's changelog on the merge queue commit, ad… — https://github.com/trycua/cua/commit/2959a5b6052b6b256df8a40c34efdb326935b0e6 (score 2)

@@ -1,14 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Oh I wonder what this model is used for...</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xug3mz/oh_i_wonder_what_this_model_is_used_for/</link>
-      <guid isPermaLink="false">t3_1xug3mz</guid>
-      <pubDate>Thu, 12 Nov 2026 11:37:43 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xug3mz/oh_i_wonder_what_this_model_is_used_for/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/7iharpolc71i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=04c3b9e5f115518ee9b5f | why kept: model, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.47.21 (#7493)</title>
+      <link>https://github.com/trycua/cua/commit/ef24fe1baf182fe15a454da589dba08dc2f1c585</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ef24fe1baf182fe15a454da589dba08dc2f1c585</guid>
+      <pubDate>Thu, 12 Nov 2026 11:53:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.21 (#7493)
+
+* chore(main): release cua-driver-rs 0.47.21
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item>
     <item>
-      <title>[Paper] e-means: outperforming k-means (in one-tenth the epochs)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/paper_emeans_outperforming_kmeans_in_onetenth_the/</link>
-      <guid isPermaLink="false">t3_1xu92md</guid>
-      <pubDate>Thu, 12 Nov 2026 11:37:43 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu92md/paper_emeans_outperforming_kmeans_in_onetenth_the/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/tdde8f46p51i1.png?width=140&amp;amp;height=83&amp;amp;auto=webp&amp;amp;s=2b2e245ccf0b | why kept: local, llama</description>
+      <title>fix(ci): check a release PR&#x27;s changelog on the merge queue commit, ad…</title>
+      <link>https://github.com/trycua/cua/commit/2959a5b6052b6b256df8a40c34efdb326935b0e6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2959a5b6052b6b256df8a40c34efdb326935b0e6</guid>
+      <pubDate>Thu, 12 Nov 2026 11:53:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): check a release PR&amp;#39;s changelog on the merge queue commit, add changelog addenda (#7494)
+
+* fix(ci): check a release PR&amp;#39;s changelog on the merge queue commit, add changelog addend | why kept: runs</description>
     </item></channel></rss>
