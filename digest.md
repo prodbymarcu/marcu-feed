@@ -1,3 +1,2 @@
-- chore(main): release cua-driver-rs 0.47.16 (#7416) — https://github.com/trycua/cua/commit/493b6f8dd835f227af4db187f51c99416c47164f (score 5)
-- I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0) — https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/ (score 4)
-- Modern Web Guidance 1.0: The web platform expertise your coding agent is missing — https://developer.chrome.com/blog/modern-web-guidance-v1 (score 2)
+- Would you pick your strongest model to coordinate other agents? Results from WorkflowArena [R] — https://www.reddit.com/r/MachineLearning/comments/1xt9hbe/would_you_pick_your_strongest_model_to_coordinate/ (score 4)
+- I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and r — https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/ (score 2)
