@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.25.0 (#7403) — https://github.com/trycua/cua/commit/4cf88bae51fe7fd8f0518048de113eba1e42a452 (score 5)
+- The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind. — https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/ (score 4)
