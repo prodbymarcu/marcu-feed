@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.47.22 (#7… — https://github.com/trycua/cua/commit/fd4505cff155965d356690dbd85e14d2eb7dd815 (score 5)
-- Jensen today at Nvidia board meeting — https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/ (score 4)
+- chore(main): release cua-driver-rs 0.47.24 (#7510) — https://github.com/trycua/cua/commit/b168ff39fef15d993ab66facce9b0027ea556dce (score 5)

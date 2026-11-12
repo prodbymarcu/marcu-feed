@@ -1,16 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.22 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/fd4505cff155965d356690dbd85e14d2eb7dd815</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd4505cff155965d356690dbd85e14d2eb7dd815</guid>
-      <pubDate>Thu, 12 Nov 2026 15:06:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.22 (#7509)
+      <title>chore(main): release cua-driver-rs 0.47.24 (#7510)</title>
+      <link>https://github.com/trycua/cua/commit/b168ff39fef15d993ab66facce9b0027ea556dce</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b168ff39fef15d993ab66facce9b0027ea556dce</guid>
+      <pubDate>Thu, 12 Nov 2026 15:37:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.24 (#7510)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Jensen today at Nvidia board meeting</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/</link>
-      <guid isPermaLink="false">t3_1xumhm3</guid>
-      <pubDate>Thu, 12 Nov 2026 15:06:17 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eXM4cGxlaG5pODFpMeHzCKFvy6os1yex9QKi-6XTUhtgcTPK00fnc_cGn7EO.jpeg?width=640&amp;am | why kept: local, llama</description>
+* chore(main): release cua-driver-rs 0.47.24
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>
