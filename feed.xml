@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it&#x27;s ~1.18x faster than retail</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/</link>
-      <guid isPermaLink="false">t3_1xu1dkz</guid>
-      <pubDate>Wed, 11 Nov 2026 22:33:40 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Kate&amp;#39;s writeup is wild. The 8GB CMP 170HX apparently ships with ~80GB of HBM onboard, just fused off. Software unlocks got people to 64GB. She used voltage fault injection to get past the fuse lock, the | why kept: inference</description>
+      <title>chore(main): release cua-sdk 0.25.0 (#7403)</title>
+      <link>https://github.com/trycua/cua/commit/4cf88bae51fe7fd8f0518048de113eba1e42a452</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4cf88bae51fe7fd8f0518048de113eba1e42a452</guid>
+      <pubDate>Wed, 11 Nov 2026 23:05:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.25.0 (#7403)
+
+* chore(main): release cua-sdk 0.25.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

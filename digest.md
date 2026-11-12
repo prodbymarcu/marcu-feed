@@ -1,1 +1,1 @@
-- Someone voltage-glitched a CMP 170HX mining card into a working A100-80G, and it's ~1.18x faster than retail — https://www.reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card/ (score 2)
+- chore(main): release cua-sdk 0.25.0 (#7403) — https://github.com/trycua/cua/commit/4cf88bae51fe7fd8f0518048de113eba1e42a452 (score 5)
