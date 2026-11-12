@@ -1,2 +1,1 @@
-- New Paper -> Unless Told Otherwise, an Open Language Model Says OpenAI Made It — https://www.reddit.com/r/LocalLLaMA/comments/1xtpqxm/new_paper_unless_told_otherwise_an_open_language/ (score 6)
-- Architecture trends: From full to local attention — https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/ (score 4)
+- opencl: add decomposed FA for Adreno (#32046) — https://github.com/ggml-org/llama.cpp/commit/e1f7593c32e8dd782fc7addb908d0911260511ae (score 4)
