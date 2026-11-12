@@ -1,2 +1,2 @@
-- sycl : use cached device-id in set_main_device (#32013) — https://github.com/ggml-org/llama.cpp/commit/f3d7725a7727456c20fbe66b23602e8aef88650f (score 6)
-- Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your — https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/ (score 4)
+- Qwen4 is coming, pull requests spoted on github — https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github/ (score 11)
+- chore(main): release cua-sdk 0.25.2 (#7437) — https://github.com/trycua/cua/commit/94b6fdd45811cb4a8090748e1a4dad9b5b1032e6 (score 5)

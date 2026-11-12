@@ -1,17 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>sycl : use cached device-id in set_main_device (#32013)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/f3d7725a7727456c20fbe66b23602e8aef88650f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f3d7725a7727456c20fbe66b23602e8aef88650f</guid>
-      <pubDate>Thu, 12 Nov 2026 02:01:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;sycl : use cached device-id in set_main_device (#32013)
-
-ggml_sycl_set_main_device() runs at the start of every graph compute. Its
-early-return check called dpct::get_current_device_id(), which l | why kept: claude, local, runs</description>
+      <title>Qwen4 is coming, pull requests spoted on github</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github/</link>
+      <guid isPermaLink="false">t3_1xu5p6p</guid>
+      <pubDate>Thu, 12 Nov 2026 02:17:40 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The first one was on &lt;a href=&quot;https://github.com/alibaba/rtp-llm/pull/1681&quot;&gt;RTP-LLM &lt;/a&gt;&lt;br/&gt; The second one was from llama.cpp &lt;a href=&quot;https://github.com/ggml-org/llama.cpp/pull/32082&quot;&gt;https://github.com/ | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/</link>
-      <guid isPermaLink="false">t3_1xu4n7b</guid>
-      <pubDate>Thu, 12 Nov 2026 02:01:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hluc9ko7c41i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp; | why kept: local, llama</description>
+      <title>chore(main): release cua-sdk 0.25.2 (#7437)</title>
+      <link>https://github.com/trycua/cua/commit/94b6fdd45811cb4a8090748e1a4dad9b5b1032e6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/94b6fdd45811cb4a8090748e1a4dad9b5b1032e6</guid>
+      <pubDate>Thu, 12 Nov 2026 02:17:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.25.2 (#7437)
+
+* chore(main): release cua-sdk 0.25.2
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
