@@ -1,1 +1,1 @@
-- server: use the moved test model in the router CORS test (#32117) — https://github.com/ggml-org/llama.cpp/commit/dd6b945be2188da875ab05a259ce94c6b2736e64 (score 4)
+- fix(spaces-macos): bundle Cua Driver 0.47.13 in Cua Spaces (#7395) — https://github.com/trycua/cua/commit/3f3ccd48bd7db73d41132d7f45a92a96eca05100 (score 5)

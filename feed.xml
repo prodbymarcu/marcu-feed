@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server: use the moved test model in the router CORS test (#32117)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/dd6b945be2188da875ab05a259ce94c6b2736e64</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd6b945be2188da875ab05a259ce94c6b2736e64</guid>
-      <pubDate>Wed, 11 Nov 2026 20:09:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: use the moved test model in the router CORS test (#32117)
+      <title>fix(spaces-macos): bundle Cua Driver 0.47.13 in Cua Spaces (#7395)</title>
+      <link>https://github.com/trycua/cua/commit/3f3ccd48bd7db73d41132d7f45a92a96eca05100</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3f3ccd48bd7db73d41132d7f45a92a96eca05100</guid>
+      <pubDate>Wed, 11 Nov 2026 20:25:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.13 in Cua Spaces (#7395)
 
-test_router_restricted_cors_same_origin_reaches_child still named
-ggml-org/tinygemma3-GGUF, which the router no longer finds sin | why kept: model, claude</description>
+Cua Driver 0.47.13 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
     </item></channel></rss>
