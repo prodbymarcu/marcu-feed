@@ -1,25 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.27.0 in Cua Spaces (#7500)</title>
-      <link>https://github.com/trycua/cua/commit/0266f05d4a325263aa59e6d2fb7c73e66d7e695a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0266f05d4a325263aa59e6d2fb7c73e66d7e695a</guid>
-      <pubDate>Thu, 12 Nov 2026 16:09:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.0 in Cua Spaces (#7500)
-
-cua 0.27.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>New Model &quot;Ernie 5.5 Flash Preview&quot; hits strongly at a low parameter count (280B, 14B Active)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/</link>
-      <guid isPermaLink="false">t3_1xune1i</guid>
-      <pubDate>Thu, 12 Nov 2026 16:09:34 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/1qfiy88ml81i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6144c029606 | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.47.22 in Cua Spaces (#7518)</title>
-      <link>https://github.com/trycua/cua/commit/2aab2f60f62fb7350404a4296244633ce9bfc473</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2aab2f60f62fb7350404a4296244633ce9bfc473</guid>
-      <pubDate>Thu, 12 Nov 2026 16:09:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.22 in Cua Spaces (#7518)
-
-Cua Driver 0.47.22 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+      <title>Jensen Huang&#x27;s mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/</link>
+      <guid isPermaLink="false">t3_1xujb7c</guid>
+      <pubDate>Thu, 12 Nov 2026 17:13:38 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ljwah0sjx71i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0424e9900923b | why kept: local, llama</description>
     </item></channel></rss>

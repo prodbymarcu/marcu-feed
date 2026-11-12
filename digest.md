@@ -1,3 +1,1 @@
-- fix(spaces-macos): bundle cua 0.27.0 in Cua Spaces (#7500) — https://github.com/trycua/cua/commit/0266f05d4a325263aa59e6d2fb7c73e66d7e695a (score 7)
-- New Model "Ernie 5.5 Flash Preview" hits strongly at a low parameter count (280B, 14B Active) — https://www.reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at/ (score 6)
-- fix(spaces-macos): bundle Cua Driver 0.47.22 in Cua Spaces (#7518) — https://github.com/trycua/cua/commit/2aab2f60f62fb7350404a4296244633ce9bfc473 (score 5)
+- Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are  — https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/ (score 4)
