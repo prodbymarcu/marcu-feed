@@ -1,2 +1,1 @@
-- Qwen4 is coming, pull requests spoted on github — https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github/ (score 11)
-- chore(main): release cua-sdk 0.25.2 (#7437) — https://github.com/trycua/cua/commit/94b6fdd45811cb4a8090748e1a4dad9b5b1032e6 (score 5)
+- llama : avoid touching unused graph metadata pages (#32043) — https://github.com/ggml-org/llama.cpp/commit/4fffab623eb37ca13a220489970b8915d5a5233c (score 2)

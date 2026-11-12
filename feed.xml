@@ -1,22 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen4 is coming, pull requests spoted on github</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu5p6p/qwen4_is_coming_pull_requests_spoted_on_github/</link>
-      <guid isPermaLink="false">t3_1xu5p6p</guid>
-      <pubDate>Thu, 12 Nov 2026 02:17:40 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;The first one was on &lt;a href=&quot;https://github.com/alibaba/rtp-llm/pull/1681&quot;&gt;RTP-LLM &lt;/a&gt;&lt;br/&gt; The second one was from llama.cpp &lt;a href=&quot;https://github.com/ggml-org/llama.cpp/pull/32082&quot;&gt;https://github.com/ | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.25.2 (#7437)</title>
-      <link>https://github.com/trycua/cua/commit/94b6fdd45811cb4a8090748e1a4dad9b5b1032e6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/94b6fdd45811cb4a8090748e1a4dad9b5b1032e6</guid>
-      <pubDate>Thu, 12 Nov 2026 02:17:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.25.2 (#7437)
+      <title>llama : avoid touching unused graph metadata pages (#32043)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4fffab623eb37ca13a220489970b8915d5a5233c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4fffab623eb37ca13a220489970b8915d5a5233c</guid>
+      <pubDate>Thu, 12 Nov 2026 02:50:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : avoid touching unused graph metadata pages (#32043)
 
-* chore(main): release cua-sdk 0.25.2
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Each graph result reserves metadata for max_nodes, but many graphs use
+only a fraction of that capacity.  The vector resize initialize | why kept: llama</description>
     </item></channel></rss>
