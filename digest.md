@@ -1,1 +1,1 @@
-- fix(vmm): skip resolv.conf removal for containers without one (#7429) — https://github.com/trycua/cua/commit/4a5f90baf4478943f08c8b38724c7ee8b06d7667 (score 2)
+- docs(agents): drop the local-ci sign-off instruction from agent guida… — https://github.com/trycua/cua/commit/6fa37c16f1aa5279db725ae7497383da5fc6b19f (score 4)

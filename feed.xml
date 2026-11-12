@@ -1,10 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(vmm): skip resolv.conf removal for containers without one (#7429)</title>
-      <link>https://github.com/trycua/cua/commit/4a5f90baf4478943f08c8b38724c7ee8b06d7667</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a5f90baf4478943f08c8b38724c7ee8b06d7667</guid>
-      <pubDate>Thu, 12 Nov 2026 05:46:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(vmm): skip resolv.conf removal for containers without one (#7429)
+      <title>docs(agents): drop the local-ci sign-off instruction from agent guida…</title>
+      <link>https://github.com/trycua/cua/commit/6fa37c16f1aa5279db725ae7497383da5fc6b19f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6fa37c16f1aa5279db725ae7497383da5fc6b19f</guid>
+      <pubDate>Thu, 12 Nov 2026 06:02:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs(agents): drop the local-ci sign-off instruction from agent guidance (#7450)
 
-Deleting a container always started the engine helper to remove a
-resolv.conf, even when none was ever written. Only remove  | why kept: claude</description>
+Agents no longer run bin/ci --signoff by hand or check the local-ci status
+before approving. Verification already | why kept: agent, local</description>
     </item></channel></rss>
