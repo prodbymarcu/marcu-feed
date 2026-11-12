@@ -1,1 +1,3 @@
-- Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim — https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/ (score 4)
+- fix(cua-driver): render macOS cursors on every display and remove all… — https://github.com/trycua/cua/commit/8fb8d67e3bdecd3b030298c945929efe4f02cb77 (score 9)
+- qwen3.5: merge tensors on convert also (#32102) — https://github.com/ggml-org/llama.cpp/commit/3ba1ce0e28d991800e1585b7d3533f77213939d6 (score 7)
+- fix(cua-driver): deprecate Computer History, removal after 26 Nov 202… — https://github.com/trycua/cua/commit/0b6922bad2363be5215c9e527307c2ff6657b3be (score 2)

@@ -1,7 +1,32 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Nvidia&#x27;s Jensen Huang Resigns as CEO, Colette Kress Named Interim</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/</link>
-      <guid isPermaLink="false">t3_1xudeev</guid>
-      <pubDate>Thu, 12 Nov 2026 09:46:06 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/R32wVYwtPRPs1Q6Cu95skh2ArgKashFTqmvj5dcYPkQ.jpeg?width=640&amp;amp;cr | why kept: local, llama</description>
+      <title>fix(cua-driver): render macOS cursors on every display and remove all…</title>
+      <link>https://github.com/trycua/cua/commit/8fb8d67e3bdecd3b030298c945929efe4f02cb77</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8fb8d67e3bdecd3b030298c945929efe4f02cb77</guid>
+      <pubDate>Thu, 12 Nov 2026 10:02:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): render macOS cursors on every display and remove all action marks (#7458)
+
+* fix(cua-driver): render agent cursors on every macOS display
+
+Create a transparent surface per active | why kept: trycua, agent, local</description>
+    </item>
+    <item>
+      <title>qwen3.5: merge tensors on convert also (#32102)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/3ba1ce0e28d991800e1585b7d3533f77213939d6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3ba1ce0e28d991800e1585b7d3533f77213939d6</guid>
+      <pubDate>Thu, 12 Nov 2026 10:02:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen3.5: merge tensors on convert also (#32102)
+
+* qwen3.5: merge tensors on convert also
+
+* Remove conversion test for qwen3.5&lt;/pre&gt; | why kept: qwen, qwen</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): deprecate Computer History, removal after 26 Nov 202…</title>
+      <link>https://github.com/trycua/cua/commit/0b6922bad2363be5215c9e527307c2ff6657b3be</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b6922bad2363be5215c9e527307c2ff6657b3be</guid>
+      <pubDate>Thu, 12 Nov 2026 10:02:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): deprecate Computer History, removal after 26 Nov 2026 (#7478)
+
+Agents no longer get a call to history_status / history_query in the server
+instructions, the bundled skills or the | why kept: agent</description>
     </item></channel></rss>
