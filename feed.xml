@@ -1,11 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml-backend : prefetch only inputs computed by earlier splits (#32100)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/3bce8bd50c8f1c6bb0c784e3a87f640882091077</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3bce8bd50c8f1c6bb0c784e3a87f640882091077</guid>
-      <pubDate>Thu, 12 Nov 2026 04:25:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-backend : prefetch only inputs computed by earlier splits (#32100)
-
-* ggml-backend : prefetch only inputs computed by earlier splits
-
-The copy callback of a split runs after the prefetch and | why kept: runs, llama</description>
+      <title>DeepSeek has Two Numbers for Active Parameter Count. How?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter/</link>
+      <guid isPermaLink="false">t3_1xtmrii</guid>
+      <pubDate>Thu, 12 Nov 2026 04:41:37 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi. It is frequently mentioned that DeepSeek v4.1 Flash has 8B &amp;quot;input&amp;quot; active parameters (aka prefill), and 16B output/decoding active parameters.&lt;/p&gt; &lt;p&gt;I have only read this about DeepSeek, and  | why kept: model</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- ggml-backend : prefetch only inputs computed by earlier splits (#32100) — https://github.com/ggml-org/llama.cpp/commit/3bce8bd50c8f1c6bb0c784e3a87f640882091077 (score 4)
+- DeepSeek has Two Numbers for Active Parameter Count. How? — https://www.reddit.com/r/LocalLLaMA/comments/1xtmrii/deepseek_has_two_numbers_for_active_parameter/ (score 2)
