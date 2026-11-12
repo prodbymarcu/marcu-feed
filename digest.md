@@ -1,2 +1,2 @@
-- Edge0/Edge0-145B-q3k · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face/ (score 4)
-- feat(cua-sdk): ship cua-cli on PyPI as a thin wheel that fetches the … — https://github.com/trycua/cua/commit/b890fcada5e762fa5bd2820548ae1fffa63f452c (score 2)
+- I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P] — https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/ (score 8)
+- Sharding vs replicas across multiple GPUs, just trying to plan this right [R] — https://www.reddit.com/r/MachineLearning/comments/1xuc62q/sharding_vs_replicas_across_multiple_gpus_just/ (score 2)
