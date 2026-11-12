@@ -1,9 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.47.19 in Cua Spaces (#7465)</title>
-      <link>https://github.com/trycua/cua/commit/d5e8f2cbf828fae530cb03bfa29cc451d5b24c41</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d5e8f2cbf828fae530cb03bfa29cc451d5b24c41</guid>
-      <pubDate>Thu, 12 Nov 2026 08:09:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.19 in Cua Spaces (#7465)
+      <title>Title: CUDA: few-row MMQ for BS 2-24 (#31533)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0fb8f157702702f33f4e018de8701b2569a1bc28</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0fb8f157702702f33f4e018de8701b2569a1bc28</guid>
+      <pubDate>Thu, 12 Nov 2026 08:25:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Title: CUDA: few-row MMQ for BS 2-24 (#31533)
 
-Cua Driver 0.47.19 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+* CUDA: few-row MMQ for 2-24 src1 columns
+
+New int8 MMA kernel for quantized mat-muls with 2-24 src1 columns, e.g. speculative decoding verify passe | why kept: quant</description>
     </item></channel></rss>

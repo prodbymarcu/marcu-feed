@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.47.19 in Cua Spaces (#7465) — https://github.com/trycua/cua/commit/d5e8f2cbf828fae530cb03bfa29cc451d5b24c41 (score 5)
+- Title: CUDA: few-row MMQ for BS 2-24 (#31533) — https://github.com/ggml-org/llama.cpp/commit/0fb8f157702702f33f4e018de8701b2569a1bc28 (score 2)
