@@ -1,19 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.25.2 in Cua Spaces (#7441)</title>
-      <link>https://github.com/trycua/cua/commit/268ac5e747eaf8d34606f3df9b521c98d357bc92</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/268ac5e747eaf8d34606f3df9b521c98d357bc92</guid>
-      <pubDate>Thu, 12 Nov 2026 03:37:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.25.2 in Cua Spaces (#7441)
+      <title>fix(spaces-macos): bundle Cua Driver 0.47.17 in Cua Spaces (#7439)</title>
+      <link>https://github.com/trycua/cua/commit/3fb7aefeaad2c9faf44c2195b2f7bd02fa1dd64c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3fb7aefeaad2c9faf44c2195b2f7bd02fa1dd64c</guid>
+      <pubDate>Thu, 12 Nov 2026 03:53:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.17 in Cua Spaces (#7439)
 
-cua 0.25.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+Cua Driver 0.47.17 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
     </item>
     <item>
-      <title>ui: install llama-brand from a GitHub tarball instead of git (#32112)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d90cfd4a9b3d813ebbdb32efc9f268f733a03fa7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d90cfd4a9b3d813ebbdb32efc9f268f733a03fa7</guid>
-      <pubDate>Thu, 12 Nov 2026 03:37:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: install llama-brand from a GitHub tarball instead of git (#32112)
+      <title>ui: add search_chats tool (#32051)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/b19f1d9e63797cc5de2755f7f4504e7612712da4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b19f1d9e63797cc5de2755f7f4504e7612712da4</guid>
+      <pubDate>Thu, 12 Nov 2026 03:53:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add search_chats tool (#32051)
 
-npm 11.20 refuses git dependencies by default (EALLOWGIT), so npm ci
-failed on fresh installs. Pin llama-brand to the same c | why kept: claude, llama</description>
+* ui: add search_chats tool
+
+* add from_timestamp / to_timestamp
+
+* ui: search_chats review fixes
+
+- keep search_chats disabled on import, copy tool policy on  | why kept: claude, local</description>
     </item></channel></rss>
