@@ -1,3 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.47.24 (#7… — https://github.com/trycua/cua/commit/a689a915bcbda50c498dfb333d57b990cfa737a5 (score 5)
-- chore(main): release cua-sdk 0.27.1 (#7524) — https://github.com/trycua/cua/commit/19acc2e2d49617b1973ad1ca031dff403c7ef121 (score 5)
-- server: skip LAN address tests when the host cannot reach it [no ci] … — https://github.com/ggml-org/llama.cpp/commit/e9701014703d251593b23ce1703db8a7299dad0f (score 2)
+- thinkingmachines/Inkling-2-Small is released! — https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/ (score 4)

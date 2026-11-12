@@ -1,34 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.24 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/a689a915bcbda50c498dfb333d57b990cfa737a5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a689a915bcbda50c498dfb333d57b990cfa737a5</guid>
-      <pubDate>Thu, 12 Nov 2026 17:29:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.24 (#7528)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.27.1 (#7524)</title>
-      <link>https://github.com/trycua/cua/commit/19acc2e2d49617b1973ad1ca031dff403c7ef121</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/19acc2e2d49617b1973ad1ca031dff403c7ef121</guid>
-      <pubDate>Thu, 12 Nov 2026 17:29:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.1 (#7524)
-
-* chore(main): release cua-sdk 0.27.1
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>server: skip LAN address tests when the host cannot reach it [no ci] …</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e9701014703d251593b23ce1703db8a7299dad0f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e9701014703d251593b23ce1703db8a7299dad0f</guid>
-      <pubDate>Thu, 12 Nov 2026 17:29:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: skip LAN address tests when the host cannot reach it [no ci] (#32166)
-
-The same-origin tests over the LAN address block forever on the Metal
-runners: the request to the host&amp;#39;s own LAN | why kept: runs</description>
+      <title>thinkingmachines/Inkling-2-Small is released!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/</link>
+      <guid isPermaLink="false">t3_1xuqplg</guid>
+      <pubDate>Thu, 12 Nov 2026 18:01:41 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/0Iv21akXSUKp2u-DqMkcbUItLv1_AzOoz1LKSYjDr5o.png?width=640&amp;amp;crop=smart&amp; | why kept: local, llama</description>
     </item></channel></rss>
