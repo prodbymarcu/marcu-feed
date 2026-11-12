@@ -1,2 +1,1 @@
-- fix(spaces-macos): bundle cua 0.26.0 in Cua Spaces (#7489) — https://github.com/trycua/cua/commit/7a7dba0971db6361dd23760c74beacd2060261b6 (score 5)
-- fix(cua-driver): start the GTK3 disabled-control case's behavioral vi… — https://github.com/trycua/cua/commit/c5a3022e4ba3298a2801bd59befc3d5fc532e8ee (score 2)
+- CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cry — https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/ (score 4)
