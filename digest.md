@@ -1,2 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.47.17 in Cua Spaces (#7439) — https://github.com/trycua/cua/commit/3fb7aefeaad2c9faf44c2195b2f7bd02fa1dd64c (score 5)
-- ui: add search_chats tool (#32051) — https://github.com/ggml-org/llama.cpp/commit/b19f1d9e63797cc5de2755f7f4504e7612712da4 (score 4)
+- ggml : dispatch SpacemiT Q4_1 32x256 through the HP kernel (#31929) — https://github.com/ggml-org/llama.cpp/commit/81f21f4b27fc8252f11404a006744045aac5ea6e (score 2)

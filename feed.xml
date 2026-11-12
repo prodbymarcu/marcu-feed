@@ -1,24 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.47.17 in Cua Spaces (#7439)</title>
-      <link>https://github.com/trycua/cua/commit/3fb7aefeaad2c9faf44c2195b2f7bd02fa1dd64c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3fb7aefeaad2c9faf44c2195b2f7bd02fa1dd64c</guid>
-      <pubDate>Thu, 12 Nov 2026 03:53:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.17 in Cua Spaces (#7439)
+      <title>ggml : dispatch SpacemiT Q4_1 32x256 through the HP kernel (#31929)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/81f21f4b27fc8252f11404a006744045aac5ea6e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81f21f4b27fc8252f11404a006744045aac5ea6e</guid>
+      <pubDate>Thu, 12 Nov 2026 04:09:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : dispatch SpacemiT Q4_1 32x256 through the HP kernel (#31929)
 
-Cua Driver 0.47.17 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
-    </item>
-    <item>
-      <title>ui: add search_chats tool (#32051)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/b19f1d9e63797cc5de2755f7f4504e7612712da4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b19f1d9e63797cc5de2755f7f4504e7612712da4</guid>
-      <pubDate>Thu, 12 Nov 2026 03:53:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add search_chats tool (#32051)
+The 32x256 pack already keeps a separate uint8 zero point. Complete the M1 path and use the same HP kernel as Q4_0.
 
-* ui: add search_chats tool
-
-* add from_timestamp / to_timestamp
-
-* ui: search_chats review fixes
-
-- keep search_chats disabled on import, copy tool policy on  | why kept: claude, local</description>
+Assisted- | why kept: codex</description>
     </item></channel></rss>
