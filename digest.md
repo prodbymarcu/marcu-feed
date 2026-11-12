@@ -1,1 +1,1 @@
-- ggml : dispatch SpacemiT Q4_1 32x256 through the HP kernel (#31929) — https://github.com/ggml-org/llama.cpp/commit/81f21f4b27fc8252f11404a006744045aac5ea6e (score 2)
+- ggml-backend : prefetch only inputs computed by earlier splits (#32100) — https://github.com/ggml-org/llama.cpp/commit/3bce8bd50c8f1c6bb0c784e3a87f640882091077 (score 4)
