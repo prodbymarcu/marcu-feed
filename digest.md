@@ -1,2 +1,2 @@
-- qwen3.8-flash shows us a glimpse of whats possible for smaller hardware — https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/ (score 11)
-- MetaEncoder - a facebook Collection - One Encoder for Retrieval and Decision Making — https://www.reddit.com/r/LocalLLaMA/comments/1xu8eie/metaencoder_a_facebook_collection_one_encoder_for/ (score 4)
+- moein99/P2Echo · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/ (score 6)
+- chore(main): release cua-sdk 0.27.0 (#7492) — https://github.com/trycua/cua/commit/62677ab0113ea08ae0fba61cdb0cb4891bb298a0 (score 5)

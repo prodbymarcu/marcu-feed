@@ -1,14 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qwen3.8-flash shows us a glimpse of whats possible for smaller hardware</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xugw1p/qwen38flash_shows_us_a_glimpse_of_whats_possible/</link>
-      <guid isPermaLink="false">t3_1xugw1p</guid>
-      <pubDate>Thu, 12 Nov 2026 12:09:57 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Normally active params matters more than total param if you want coherent behavior(not world knowledge) &lt;/p&gt; &lt;p&gt;a 4b models attepting to handle complex rules and lots and lots of instructions all at once of | why kept: qwen, model, qwen, hardware</description>
+      <title>moein99/P2Echo · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xu95lt</guid>
+      <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu95lt/moein99p2echo_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Fi4PgX6GmZmy8D66X-6bbnaLgI7USNMgrjUOBqg8uvg.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;a | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>MetaEncoder - a facebook Collection - One Encoder for Retrieval and Decision Making</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu8eie/metaencoder_a_facebook_collection_one_encoder_for/</link>
-      <guid isPermaLink="false">t3_1xu8eie</guid>
-      <pubDate>Thu, 12 Nov 2026 12:09:57 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu8eie/metaencoder_a_facebook_collection_one_encoder_for/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/mhKfre-xIrqSlNpt-dhdIQQ8hbK3UGlc8s3SUhmgjvY.png?width=640&amp;amp;cro | why kept: local, llama</description>
+      <title>chore(main): release cua-sdk 0.27.0 (#7492)</title>
+      <link>https://github.com/trycua/cua/commit/62677ab0113ea08ae0fba61cdb0cb4891bb298a0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/62677ab0113ea08ae0fba61cdb0cb4891bb298a0</guid>
+      <pubDate>Thu, 12 Nov 2026 12:41:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.0 (#7492)
+
+* chore(main): release cua-sdk 0.27.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
