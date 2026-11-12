@@ -1,1 +1,1 @@
-- fix(spaces): forward create_space CPU and memory limits (#7428) — https://github.com/trycua/cua/commit/f2201ac55ce19fb513c4b53569d04d2016bce4b8 (score 2)
+- chore(main): release cua-sdk 0.25.1 (#7430) — https://github.com/trycua/cua/commit/902a250714615687d3e8766591c780a3be6327a7 (score 5)

@@ -1,10 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): forward create_space CPU and memory limits (#7428)</title>
-      <link>https://github.com/trycua/cua/commit/f2201ac55ce19fb513c4b53569d04d2016bce4b8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f2201ac55ce19fb513c4b53569d04d2016bce4b8</guid>
-      <pubDate>Thu, 12 Nov 2026 00:41:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): forward create_space CPU and memory limits (#7428)
+      <title>chore(main): release cua-sdk 0.25.1 (#7430)</title>
+      <link>https://github.com/trycua/cua/commit/902a250714615687d3e8766591c780a3be6327a7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/902a250714615687d3e8766591c780a3be6327a7</guid>
+      <pubDate>Thu, 12 Nov 2026 00:57:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.25.1 (#7430)
 
-The create_space MCP tool accepted no CPU or memory arguments, so
-callers could not size a Space at creation. Add the optional inp | why kept: claude</description>
+* chore(main): release cua-sdk 0.25.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
