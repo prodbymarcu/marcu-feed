@@ -1,1 +1,4 @@
-- chore(main): release cua-sdk 0.26.0 (#7484) — https://github.com/trycua/cua/commit/7dc3cc437aff028789acb89ddbb81992e19b53b9 (score 5)
+- ci(cua-driver): freeze Cua Perception and cut its CI cost (#7479) — https://github.com/trycua/cua/commit/a967d132d1ee0633f72e730d9541f9c8d3fecc92 (score 8)
+- chore(main): release cua-driver-rs 0.47.20 (#7486) — https://github.com/trycua/cua/commit/271ea2c365e68d5fe64a50f771949c6469faca3c (score 5)
+- The CIA got rid of Jensen — https://www.reddit.com/r/LocalLLaMA/comments/1xudwsh/the_cia_got_rid_of_jensen/ (score 4)
+- server : cancel MCP tool calls on client disconnect or timeout (#32025) — https://github.com/ggml-org/llama.cpp/commit/d8c8cc4d9b225e4a3bc552a8ecec949cd255bb39 (score 2)

@@ -1,15 +1,43 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.26.0 (#7484)</title>
-      <link>https://github.com/trycua/cua/commit/7dc3cc437aff028789acb89ddbb81992e19b53b9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7dc3cc437aff028789acb89ddbb81992e19b53b9</guid>
-      <pubDate>Thu, 12 Nov 2026 10:49:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.26.0 (#7484)
+      <title>ci(cua-driver): freeze Cua Perception and cut its CI cost (#7479)</title>
+      <link>https://github.com/trycua/cua/commit/a967d132d1ee0633f72e730d9541f9c8d3fecc92</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a967d132d1ee0633f72e730d9541f9c8d3fecc92</guid>
+      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): freeze Cua Perception and cut its CI cost (#7479)
 
-* chore(main): release cua-sdk 0.26.0
+Perception (parse_visual_regions, the cua-perception extension) is frozen: no
+new work or model releases. Docs and the skill pac | why kept: model, agent, runs, free</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.47.20 (#7486)</title>
+      <link>https://github.com/trycua/cua/commit/271ea2c365e68d5fe64a50f771949c6469faca3c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/271ea2c365e68d5fe64a50f771949c6469faca3c</guid>
+      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.20 (#7486)
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(main): release cua-driver-rs 0.47.20
+
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-relea | why kept: trycua</description>
+    </item>
+    <item>
+      <title>The CIA got rid of Jensen</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xudwsh/the_cia_got_rid_of_jensen/</link>
+      <guid isPermaLink="false">t3_1xudwsh</guid>
+      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xudwsh/the_cia_got_rid_of_jensen/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/48w096h6x61i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2dcf7835c83923482fdd923a1301a0516d | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>server : cancel MCP tool calls on client disconnect or timeout (#32025)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d8c8cc4d9b225e4a3bc552a8ecec949cd255bb39</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d8c8cc4d9b225e4a3bc552a8ecec949cd255bb39</guid>
+      <pubDate>Thu, 12 Nov 2026 11:21:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : cancel MCP tool calls on client disconnect or timeout (#32025)
+
+* server : cancel MCP tool calls on client disconnect or timeout
+
+* server : shorten MCP cancellation tests and fix a type | why kept: tool call</description>
     </item></channel></rss>
