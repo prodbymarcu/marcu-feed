@@ -1,1 +1,1 @@
-- qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model — https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/ (score 8)
+- fix(cua-driver): repoint example pins after PyPI pruning (#7462) — https://github.com/trycua/cua/commit/7c553ee89fbbf7689d462b9c1a3f17cd9c1c6135 (score 4)

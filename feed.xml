@@ -1,7 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/</link>
-      <guid isPermaLink="false">t3_1xu8685</guid>
-      <pubDate>Thu, 12 Nov 2026 07:38:07 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/qlcrNCxg-rqJ-tS7XlsH818oj9qf3FpS7HKdZx1Jv7I.png?width=640&amp;amp;crop=sma | why kept: model, agent, local, llama</description>
+      <title>fix(cua-driver): repoint example pins after PyPI pruning (#7462)</title>
+      <link>https://github.com/trycua/cua/commit/7c553ee89fbbf7689d462b9c1a3f17cd9c1c6135</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7c553ee89fbbf7689d462b9c1a3f17cd9c1c6135</guid>
+      <pubDate>Thu, 12 Nov 2026 07:53:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): repoint example pins after PyPI pruning (#7462)
+
+PyPI pruning (2026-11-11) deleted cua-driver 0.19.2, 0.12.3 and 0.12.4, which
+broke the contract bindings job. Repoint the agent- | why kept: agent, claude</description>
     </item></channel></rss>
