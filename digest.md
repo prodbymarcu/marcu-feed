@@ -1,1 +1,1 @@
-- The regulation of local AI could/should be viewed as the largest censorship implementation in the history of mankind. — https://www.reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed/ (score 4)
+- The Jev Revolution: What Engineers Are Already Building with System One Models — https://latent.space/p/jev-revolution/ (score 2)
