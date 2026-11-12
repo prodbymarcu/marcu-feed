@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : avoid touching unused graph metadata pages (#32043)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/4fffab623eb37ca13a220489970b8915d5a5233c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4fffab623eb37ca13a220489970b8915d5a5233c</guid>
-      <pubDate>Thu, 12 Nov 2026 02:50:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : avoid touching unused graph metadata pages (#32043)
-
-Each graph result reserves metadata for max_nodes, but many graphs use
-only a fraction of that capacity.  The vector resize initialize | why kept: llama</description>
+      <title>I gave an agent a lakehouse and control of my garden</title>
+      <link>https://jatorre.github.io/garden/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50415162</guid>
+      <pubDate>Thu, 12 Nov 2026 03:06:22 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://jatorre.github.io/garden/&quot;&gt;https://jatorre.github.io/garden/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50415162&quot;&gt;https://news.ycombinator.com/item?id=50415162&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points:  | why kept: agent</description>
     </item></channel></rss>
