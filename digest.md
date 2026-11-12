@@ -1,1 +1,1 @@
-- thinkingmachines/Inkling-2-Small is released! — https://www.reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released/ (score 4)
+- fix(spaces-macos): bundle cua 0.27.1 in Cua Spaces (#7532) — https://github.com/trycua/cua/commit/775fa27508ff307ed44fc3b4c7bff835dbba0e7e (score 5)
