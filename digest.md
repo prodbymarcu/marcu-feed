@@ -1,1 +1,3 @@
-- fix(vmm): skip resolv.conf removal for containers without one (#7429) — https://github.com/trycua/cua/commit/4a5f90baf4478943f08c8b38724c7ee8b06d7667 (score 2)
+- chore(cua-driver): advance published installer version to 0.47.17 (#7… — https://github.com/trycua/cua/commit/35a8de84f3c5cc9fafde716d8ed827b475f6a5da (score 5)
+- fix(images): list [omarchy] first in the Omarchy image's pacman.conf … — https://github.com/trycua/cua/commit/2c048fd8c327c072c871ac2b612d86a060703093 (score 2)
+- fix(vmm): gate container-only code so cua-vmm builds with any backend… — https://github.com/trycua/cua/commit/6637de44fb669fea965ee0197ced5ac6a95cf11e (score 2)
