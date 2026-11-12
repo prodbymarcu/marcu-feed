@@ -1,47 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>huawei-csl/Qwen3.6-35B-A3B-MACaQ-R-GGUF · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xu7cyr</guid>
-      <pubDate>Thu, 12 Nov 2026 05:29:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu7cyr/huaweicslqwen3635ba3bmacaqrgguf_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RSp40pqN9ZPJRdqLXQVk0fNHHa7mO6rAfT8i9m3iBg0.png?width=640&amp;amp;crop=sma | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.47.19 (#7448)</title>
-      <link>https://github.com/trycua/cua/commit/56a69039b77ac95e62aebcc6ddf68fd4e052769b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/56a69039b77ac95e62aebcc6ddf68fd4e052769b</guid>
-      <pubDate>Thu, 12 Nov 2026 05:29:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.19 (#7448)
+      <title>fix(vmm): skip resolv.conf removal for containers without one (#7429)</title>
+      <link>https://github.com/trycua/cua/commit/4a5f90baf4478943f08c8b38724c7ee8b06d7667</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a5f90baf4478943f08c8b38724c7ee8b06d7667</guid>
+      <pubDate>Thu, 12 Nov 2026 05:46:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(vmm): skip resolv.conf removal for containers without one (#7429)
 
-* chore(main): release cua-driver-rs 0.47.19
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chat : refactor gemma4 to build loose schema rules and clean up by aldehir · Pull Request #31915 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules/</link>
-      <guid isPermaLink="false">t3_1xu6td8</guid>
-      <pubDate>Thu, 12 Nov 2026 05:29:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu6td8/chat_refactor_gemma4_to_build_loose_schema_rules/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/mrKQcBgUsiRhNpoLe3ewVmrQV20HC6l7VjvLFNZa8Rw.png?width=640&amp;amp;crop | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>ggml : route GATED_DELTA_NET to the SpacemiT RVV kernel (#31897)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a8575a3ef4e2631d0540b2879fff86ad8411dbf6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a8575a3ef4e2631d0540b2879fff86ad8411dbf6</guid>
-      <pubDate>Thu, 12 Nov 2026 05:29:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : route GATED_DELTA_NET to the SpacemiT RVV kernel (#31897)
-
-The SpacemiT compute case was commented out, so the op stayed on the scalar CPU path. Type dispatch stays with the other ops, and | why kept: codex</description>
-    </item>
-    <item>
-      <title>ggml-cpu: use the 4x4 simd_gemm tile on ARM NEON (#32128)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ab4a77b9ad2198e4d1cf9359e3218660937e969a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ab4a77b9ad2198e4d1cf9359e3218660937e969a</guid>
-      <pubDate>Thu, 12 Nov 2026 05:29:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-cpu: use the 4x4 simd_gemm tile on ARM NEON (#32128)
-
-Assisted-by: Claude Fable 5.2&lt;/pre&gt; | why kept: claude</description>
+Deleting a container always started the engine helper to remove a
+resolv.conf, even when none was ever written. Only remove  | why kept: claude</description>
     </item></channel></rss>
