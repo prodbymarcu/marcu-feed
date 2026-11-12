@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.15 (#7402) — https://github.com/trycua/cua/commit/465aab0bc2909e6300d7e386986370b17654a24c (score 5)
+- DeepSeek V4.1 Flash 1017 exl3 2.9bpw APEX 2025 benchmark results — https://www.reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025/ (score 4)
