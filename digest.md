@@ -1,3 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.47.17 (#7… — https://github.com/trycua/cua/commit/35a8de84f3c5cc9fafde716d8ed827b475f6a5da (score 5)
-- fix(images): list [omarchy] first in the Omarchy image's pacman.conf … — https://github.com/trycua/cua/commit/2c048fd8c327c072c871ac2b612d86a060703093 (score 2)
-- fix(vmm): gate container-only code so cua-vmm builds with any backend… — https://github.com/trycua/cua/commit/6637de44fb669fea965ee0197ced5ac6a95cf11e (score 2)
+- sycl : use cached device-id in set_main_device (#32013) — https://github.com/ggml-org/llama.cpp/commit/f3d7725a7727456c20fbe66b23602e8aef88650f (score 6)
+- Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your — https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/ (score 4)

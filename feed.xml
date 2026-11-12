@@ -1,29 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.47.17 (#7…</title>
-      <link>https://github.com/trycua/cua/commit/35a8de84f3c5cc9fafde716d8ed827b475f6a5da</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/35a8de84f3c5cc9fafde716d8ed827b475f6a5da</guid>
-      <pubDate>Thu, 12 Nov 2026 01:45:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.17 (#7438)
+      <title>sycl : use cached device-id in set_main_device (#32013)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/f3d7725a7727456c20fbe66b23602e8aef88650f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f3d7725a7727456c20fbe66b23602e8aef88650f</guid>
+      <pubDate>Thu, 12 Nov 2026 02:01:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;sycl : use cached device-id in set_main_device (#32013)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+ggml_sycl_set_main_device() runs at the start of every graph compute. Its
+early-return check called dpct::get_current_device_id(), which l | why kept: claude, local, runs</description>
     </item>
     <item>
-      <title>fix(images): list [omarchy] first in the Omarchy image&#x27;s pacman.conf …</title>
-      <link>https://github.com/trycua/cua/commit/2c048fd8c327c072c871ac2b612d86a060703093</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2c048fd8c327c072c871ac2b612d86a060703093</guid>
-      <pubDate>Thu, 12 Nov 2026 01:45:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(images): list [omarchy] first in the Omarchy image&amp;#39;s pacman.conf (#7434)
-
-Omarchy&amp;#39;s own pacman-edge.conf lists [omarchy] before [core]/[extra] so its
-patched builds (hyprland 0.57.2-2 | why kept: claude</description>
-    </item>
-    <item>
-      <title>fix(vmm): gate container-only code so cua-vmm builds with any backend…</title>
-      <link>https://github.com/trycua/cua/commit/6637de44fb669fea965ee0197ced5ac6a95cf11e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6637de44fb669fea965ee0197ced5ac6a95cf11e</guid>
-      <pubDate>Thu, 12 Nov 2026 01:45:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(vmm): gate container-only code so cua-vmm builds with any backend feature set (#7433)
-
-cua-ci depends on cua-vmm with only the lume feature, which failed to
-compile (storage.rs and auto.rs us | why kept: claude</description>
+      <title>Gemma4-31b latent space discovery: Caring and Contempt for user controlled by the same 3 neurons! Plus, how to find your own steering recipes and export to GGUF steering vector for</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/</link>
+      <guid isPermaLink="false">t3_1xu4n7b</guid>
+      <pubDate>Thu, 12 Nov 2026 02:01:37 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hluc9ko7c41i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp; | why kept: local, llama</description>
     </item></channel></rss>
