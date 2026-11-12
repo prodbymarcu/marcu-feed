@@ -1,1 +1,1 @@
-- I gave an agent a lakehouse and control of my garden — https://jatorre.github.io/garden/ (score 2)
+- chore(main): release cua-driver-rs 0.47.18 (#7443) — https://github.com/trycua/cua/commit/4f2aa028d1232b752cb3c4319686ef5c30bff3e3 (score 5)
