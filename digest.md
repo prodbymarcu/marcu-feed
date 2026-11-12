@@ -1,1 +1,1 @@
-- fix(cua-driver): repoint example pins after PyPI pruning (#7462) — https://github.com/trycua/cua/commit/7c553ee89fbbf7689d462b9c1a3f17cd9c1c6135 (score 4)
+- fix(spaces-macos): bundle Cua Driver 0.47.19 in Cua Spaces (#7465) — https://github.com/trycua/cua/commit/d5e8f2cbf828fae530cb03bfa29cc451d5b24c41 (score 5)

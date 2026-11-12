@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): repoint example pins after PyPI pruning (#7462)</title>
-      <link>https://github.com/trycua/cua/commit/7c553ee89fbbf7689d462b9c1a3f17cd9c1c6135</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7c553ee89fbbf7689d462b9c1a3f17cd9c1c6135</guid>
-      <pubDate>Thu, 12 Nov 2026 07:53:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): repoint example pins after PyPI pruning (#7462)
+      <title>fix(spaces-macos): bundle Cua Driver 0.47.19 in Cua Spaces (#7465)</title>
+      <link>https://github.com/trycua/cua/commit/d5e8f2cbf828fae530cb03bfa29cc451d5b24c41</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d5e8f2cbf828fae530cb03bfa29cc451d5b24c41</guid>
+      <pubDate>Thu, 12 Nov 2026 08:09:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.19 in Cua Spaces (#7465)
 
-PyPI pruning (2026-11-11) deleted cua-driver 0.19.2, 0.12.3 and 0.12.4, which
-broke the contract bindings job. Repoint the agent- | why kept: agent, claude</description>
+Cua Driver 0.47.19 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
     </item></channel></rss>
