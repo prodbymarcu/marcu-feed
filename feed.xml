@@ -1,22 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.22 (#7503)</title>
-      <link>https://github.com/trycua/cua/commit/57edfe91a88fb8c9f97ce161ddeafefe533cd3de</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/57edfe91a88fb8c9f97ce161ddeafefe533cd3de</guid>
-      <pubDate>Thu, 12 Nov 2026 13:29:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.22 (#7503)
-
-* chore(main): release cua-driver-rs 0.47.22
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Simplest Local Agentic Setup</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/</link>
-      <guid isPermaLink="false">t3_1xty1vc</guid>
-      <pubDate>Thu, 12 Nov 2026 13:29:35 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TL;DR simplest reasonable agentic setup&lt;br/&gt; Currently Pi Agent, Bonsai 2 9B, SearXNG&lt;br/&gt; Any suggestions ?&lt;/p&gt; &lt;p&gt;Hi all &lt;/p&gt; &lt;p&gt;So I have a secondary workstation with line 24GB of RAM and 12GB VRAM&lt;/p&gt; &lt; | why kept: agent, local</description>
+      <title>Curated list of resources for the topic of Quantization for beginners</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/</link>
+      <guid isPermaLink="false">t3_1xu6tth</guid>
+      <pubDate>Thu, 12 Nov 2026 13:45:51 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/uquw9qh4z41i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6df8509e09fd00c7b3 | why kept: local, quant, llama</description>
     </item></channel></rss>

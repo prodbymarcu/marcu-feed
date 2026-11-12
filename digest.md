@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.22 (#7503) — https://github.com/trycua/cua/commit/57edfe91a88fb8c9f97ce161ddeafefe533cd3de (score 5)
-- Simplest Local Agentic Setup — https://www.reddit.com/r/LocalLLaMA/comments/1xty1vc/simplest_local_agentic_setup/ (score 4)
+- Curated list of resources for the topic of Quantization for beginners — https://www.reddit.com/r/LocalLLaMA/comments/1xu6tth/curated_list_of_resources_for_the_topic_of/ (score 6)
