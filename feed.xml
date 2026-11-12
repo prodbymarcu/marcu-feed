@@ -1,13 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>opencl: add decomposed FA for Adreno (#32046)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e1f7593c32e8dd782fc7addb908d0911260511ae</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e1f7593c32e8dd782fc7addb908d0911260511ae</guid>
-      <pubDate>Wed, 11 Nov 2026 19:21:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: add decomposed FA for Adreno (#32046)
+      <title>server: use the moved test model in the router CORS test (#32117)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/dd6b945be2188da875ab05a259ce94c6b2736e64</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dd6b945be2188da875ab05a259ce94c6b2736e64</guid>
+      <pubDate>Wed, 11 Nov 2026 20:09:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: use the moved test model in the router CORS test (#32117)
 
-* opencl: add decomposed FA
-
-Assisted-by: Claude Opus 5.5
-Co-authored-by: Hongqiang Wang &amp;lt;wangh@qti.qualcomm.com&amp;gt;
-Co-authored-by: Shaofei Qi &amp; | why kept: claude, codex</description>
+test_router_restricted_cors_same_origin_reaches_child still named
+ggml-org/tinygemma3-GGUF, which the router no longer finds sin | why kept: model, claude</description>
     </item></channel></rss>

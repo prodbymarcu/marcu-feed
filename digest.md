@@ -1,1 +1,1 @@
-- opencl: add decomposed FA for Adreno (#32046) — https://github.com/ggml-org/llama.cpp/commit/e1f7593c32e8dd782fc7addb908d0911260511ae (score 4)
+- server: use the moved test model in the router CORS test (#32117) — https://github.com/ggml-org/llama.cpp/commit/dd6b945be2188da875ab05a259ce94c6b2736e64 (score 4)
