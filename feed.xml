@@ -1,14 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won&#x27;t do [P]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/</link>
-      <guid isPermaLink="false">t3_1xu1pg4</guid>
-      <pubDate>Thu, 12 Nov 2026 10:34:05 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TL;DR: After a manic 7-day sprint, I open-sourced a local video retrieval engine built to search massive unstructured video portals by visual poses, clothing details, camera angles, and motion cadence—ignor | why kept: model, video, local, fine-tun</description>
-    </item>
-    <item>
-      <title>Sharding vs replicas across multiple GPUs, just trying to plan this right [R]</title>
-      <link>https://www.reddit.com/r/MachineLearning/comments/1xuc62q/sharding_vs_replicas_across_multiple_gpus_just/</link>
-      <guid isPermaLink="false">t3_1xuc62q</guid>
-      <pubDate>Thu, 12 Nov 2026 10:34:05 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey all, I’m planning a small multi-GPU setup across two boxes, with a mix of long-context and short-chat workloads. Should a bigger model be sharded across all the cards, or is it better to run smaller ind | why kept: model</description>
+      <title>chore(main): release cua-sdk 0.26.0 (#7484)</title>
+      <link>https://github.com/trycua/cua/commit/7dc3cc437aff028789acb89ddbb81992e19b53b9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7dc3cc437aff028789acb89ddbb81992e19b53b9</guid>
+      <pubDate>Thu, 12 Nov 2026 10:49:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.26.0 (#7484)
+
+* chore(main): release cua-sdk 0.26.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

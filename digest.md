@@ -1,2 +1,1 @@
-- I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P] — https://www.reddit.com/r/MachineLearning/comments/1xu1pg4/i_finetuned_eva02_in_a_week_to_build_a_neural/ (score 8)
-- Sharding vs replicas across multiple GPUs, just trying to plan this right [R] — https://www.reddit.com/r/MachineLearning/comments/1xuc62q/sharding_vs_replicas_across_multiple_gpus_just/ (score 2)
+- chore(main): release cua-sdk 0.26.0 (#7484) — https://github.com/trycua/cua/commit/7dc3cc437aff028789acb89ddbb81992e19b53b9 (score 5)
