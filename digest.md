@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.47.24 (#7510) — https://github.com/trycua/cua/commit/b168ff39fef15d993ab66facce9b0027ea556dce (score 5)
+- chore(cua-driver): advance published installer version to 0.47.23 (#7… — https://github.com/trycua/cua/commit/d2b064599d0eb05a5ca3601014a1943a77907a3e (score 5)
+- Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master — https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa/ (score 2)

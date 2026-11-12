@@ -1,15 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.47.24 (#7510)</title>
-      <link>https://github.com/trycua/cua/commit/b168ff39fef15d993ab66facce9b0027ea556dce</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b168ff39fef15d993ab66facce9b0027ea556dce</guid>
-      <pubDate>Thu, 12 Nov 2026 15:37:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.47.24 (#7510)
+      <title>chore(cua-driver): advance published installer version to 0.47.23 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/d2b064599d0eb05a5ca3601014a1943a77907a3e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d2b064599d0eb05a5ca3601014a1943a77907a3e</guid>
+      <pubDate>Thu, 12 Nov 2026 15:53:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.47.23 (#7520)
 
-* chore(main): release cua-driver-rs 0.47.24
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Intel Arc Vulkan prefill got a dedicated FA kernel in llama.cpp master</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xumdj4/intel_arc_vulkan_prefill_got_a_dedicated_fa/</link>
+      <guid isPermaLink="false">t3_1xumdj4</guid>
+      <pubDate>Thu, 12 Nov 2026 15:53:41 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We have a new dedicated &lt;a href=&quot;https://github.com/ggml-org/llama.cpp/pull/29357&quot;&gt;Vulkan Flash Attention prefill kernel for Intel Arc&lt;/a&gt; and Xe, delivering massive prefill acceleration on supported platfo | why kept: llama</description>
     </item></channel></rss>
