@@ -1,4 +1,1 @@
-- KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-dive — https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/ (score 20)
-- mtmd: require a 2x2 spatial merge for the Qwen-VL projectors (#32130) — https://github.com/ggml-org/llama.cpp/commit/08f49598c189d7fbf42bcbdc62ca3b3bf1758771 (score 7)
-- server: keep the server awake while a request uses its state (#32133) — https://github.com/ggml-org/llama.cpp/commit/09452cdeddfff66d16b8ac81a6c66291215448b4 (score 4)
-- mtmd: read the MiniCPM-V projection width from ne[1] (#32132) — https://github.com/ggml-org/llama.cpp/commit/72f4603c7c46b43fcec6d6761aeb488c4f382a64 (score 2)
+- fix(release): replay the Cua Spaces release PR onto main so the share… — https://github.com/trycua/cua/commit/5e0d72a5fc64c65f16179c6c64d038df90b9006c (score 2)

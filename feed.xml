@@ -1,37 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/</link>
-      <guid isPermaLink="false">t3_1xu9onk</guid>
-      <pubDate>Thu, 12 Nov 2026 06:17:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/4ycpy0nao51i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=457aeceb0866a518b | why kept: qwen, mlx, qwen, local, quant, mlx</description>
-    </item>
-    <item>
-      <title>mtmd: require a 2x2 spatial merge for the Qwen-VL projectors (#32130)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/08f49598c189d7fbf42bcbdc62ca3b3bf1758771</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/08f49598c189d7fbf42bcbdc62ca3b3bf1758771</guid>
-      <pubDate>Thu, 12 Nov 2026 06:17:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: require a 2x2 spatial merge for the Qwen-VL projectors (#32130)
+      <title>fix(release): replay the Cua Spaces release PR onto main so the share…</title>
+      <link>https://github.com/trycua/cua/commit/5e0d72a5fc64c65f16179c6c64d038df90b9006c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5e0d72a5fc64c65f16179c6c64d038df90b9006c</guid>
+      <pubDate>Thu, 12 Nov 2026 06:33:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(release): replay the Cua Spaces release PR onto main so the shared manifest stops conflicting (#7455)
 
-The Qwen2-VL, Qwen2.5-VL, Qwen3-VL and Ling3-VL graphs build their
-input with a temporal merge that assumes a 2x2 patch grid | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>server: keep the server awake while a request uses its state (#32133)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/09452cdeddfff66d16b8ac81a6c66291215448b4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/09452cdeddfff66d16b8ac81a6c66291215448b4</guid>
-      <pubDate>Thu, 12 Nov 2026 06:17:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: keep the server awake while a request uses its state (#32133)
-
-With --sleep-idle-seconds, a handler passes wait_until_no_sleep()
-while the server is awake, then keeps using the server sta | why kept: model, free</description>
-    </item>
-    <item>
-      <title>mtmd: read the MiniCPM-V projection width from ne[1] (#32132)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/72f4603c7c46b43fcec6d6761aeb488c4f382a64</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/72f4603c7c46b43fcec6d6761aeb488c4f382a64</guid>
-      <pubDate>Thu, 12 Nov 2026 06:17:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: read the MiniCPM-V projection width from ne[1] (#32132)
-
-The MiniCPM-V resampler ends with build_mm(mm_model_proj), whose output
-width is ne[1], while n_mmproj_embd() returns ne[0]. Both ar | why kept: model</description>
+The release-please sync step only replayed release branches that carried a
+marker VERSIO | why kept: claude</description>
     </item></channel></rss>
