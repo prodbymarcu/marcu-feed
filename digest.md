@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.47.17 (#7427) — https://github.com/trycua/cua/commit/ee1f7f5faabe9ae0629e894640d0619d5bbcd849 (score 5)
+- fix(spaces): forward create_space CPU and memory limits (#7428) — https://github.com/trycua/cua/commit/f2201ac55ce19fb513c4b53569d04d2016bce4b8 (score 2)
