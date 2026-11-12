@@ -1,35 +1,53 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>After four years of development, are LLMs capable of writing high-quality prose?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/</link>
-      <guid isPermaLink="false">t3_1xub4s2</guid>
-      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have been following the evolution of LLMs since the days of GPT-3.5, and I have been actively using local LLMs since the release of Gemma 2.&lt;/p&gt; &lt;p&gt;I read a great deal, including this subreddit. I have pe | why kept: model, local, runs, fine-tun</description>
+      <title>ci(pypi): check requires_dist of every trycua PyPI project in the gua…</title>
+      <link>https://github.com/trycua/cua/commit/508d4ab0c7b4d119a44c8cb1764031a82f40c61f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/508d4ab0c7b4d119a44c8cb1764031a82f40c61f</guid>
+      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(pypi): check requires_dist of every trycua PyPI project in the guard (#7476)
+
+Adds cua-computer-server, cua-mcp-server, cua-auto and cua-fleet, and
+--also-project for one-offs.
+
+Refs CUA-4110
+ | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>Alleged GeForce RTX 5090 with 96GB listed for sale in China</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/</link>
-      <guid isPermaLink="false">t3_1xucffq</guid>
-      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/QubAXfNfXVH4z75ey0mR4oQFg75kwzvoIvwjqoY0b1A.jpeg?width=640&amp;amp;crop=s | why kept: video, local, llama</description>
+      <title>chore(main): release sandbox 0.10.2 (#7472)</title>
+      <link>https://github.com/trycua/cua/commit/1dcced3e50c51fd79290b57b88da41d15c356803</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1dcced3e50c51fd79290b57b88da41d15c356803</guid>
+      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.10.2 (#7472)
+
+* chore(main): release sandbox 0.10.2
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
     </item>
     <item>
-      <title>ci(pypi): add the PyPI retention rule and a delete-list guard (#7470)</title>
-      <link>https://github.com/trycua/cua/commit/47e45b7092d9755b3273a49672d81d4351d4703a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/47e45b7092d9755b3273a49672d81d4351d4703a</guid>
-      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(pypi): add the PyPI retention rule and a delete-list guard (#7470)
+      <title>chore(main): release bench 0.4.2 (#7473)</title>
+      <link>https://github.com/trycua/cua/commit/a7c5ff49bc4547a08647c15432734b9d883c8e40</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a7c5ff49bc4547a08647c15432734b9d883c8e40</guid>
+      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.2 (#7473)
 
-docs/pypi-retention.md states the rule: the newest patch of every minor
-stays on PyPI for good, nothing younger than 90 days | why kept: claude</description>
+* chore(main): release bench 0.4.2
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(sandbox): unpin cua-driver in the driver extra so installs resolv…</title>
-      <link>https://github.com/trycua/cua/commit/934d527c41320cd17461367f6fe171175eb2b978</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/934d527c41320cd17461367f6fe171175eb2b978</guid>
-      <pubDate>Thu, 12 Nov 2026 08:41:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): unpin cua-driver in the driver extra so installs resolve (#7464)
+      <title>ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly (#7471)</title>
+      <link>https://github.com/trycua/cua/commit/36c576698e7265a84fb3469c8b9d2c9824df6931</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36c576698e7265a84fb3469c8b9d2c9824df6931</guid>
+      <pubDate>Thu, 12 Nov 2026 08:57:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly (#7471)
 
-* fix(sandbox): use a cua-driver range in the driver extra so installs resolve
-
-The exact cua-driver pin made pip i | why kept: claude</description>
+Every build still attaches its wheels to its GitHub release; only the new
+pypi-promote.yml uploads them to PyPI. It runs Mo | why kept: runs</description>
     </item></channel></rss>

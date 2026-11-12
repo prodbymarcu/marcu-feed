@@ -1,4 +1,4 @@
-- After four years of development, are LLMs capable of writing high-quality prose? — https://www.reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable/ (score 8)
-- Alleged GeForce RTX 5090 with 96GB listed for sale in China — https://www.reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for/ (score 6)
-- ci(pypi): add the PyPI retention rule and a delete-list guard (#7470) — https://github.com/trycua/cua/commit/47e45b7092d9755b3273a49672d81d4351d4703a (score 2)
-- fix(sandbox): unpin cua-driver in the driver extra so installs resolv… — https://github.com/trycua/cua/commit/934d527c41320cd17461367f6fe171175eb2b978 (score 2)
+- ci(pypi): check requires_dist of every trycua PyPI project in the gua… — https://github.com/trycua/cua/commit/508d4ab0c7b4d119a44c8cb1764031a82f40c61f (score 7)
+- chore(main): release sandbox 0.10.2 (#7472) — https://github.com/trycua/cua/commit/1dcced3e50c51fd79290b57b88da41d15c356803 (score 5)
+- chore(main): release bench 0.4.2 (#7473) — https://github.com/trycua/cua/commit/a7c5ff49bc4547a08647c15432734b9d883c8e40 (score 5)
+- ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly (#7471) — https://github.com/trycua/cua/commit/36c576698e7265a84fb3469c8b9d2c9824df6931 (score 2)
