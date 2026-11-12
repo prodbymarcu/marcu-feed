@@ -1,32 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): render macOS cursors on every display and remove all…</title>
-      <link>https://github.com/trycua/cua/commit/8fb8d67e3bdecd3b030298c945929efe4f02cb77</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8fb8d67e3bdecd3b030298c945929efe4f02cb77</guid>
-      <pubDate>Thu, 12 Nov 2026 10:02:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): render macOS cursors on every display and remove all action marks (#7458)
-
-* fix(cua-driver): render agent cursors on every macOS display
-
-Create a transparent surface per active | why kept: trycua, agent, local</description>
+      <title>Edge0/Edge0-145B-q3k · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xuczw4</guid>
+      <pubDate>Thu, 12 Nov 2026 10:17:41 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuczw4/edge0edge0145bq3k_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/PpJuSzPSdQ6IKvFSoCnthkl8urTpCx1aqszwteZHVR8.png?width=640&amp;amp;crop=smart&amp;amp;auto=we | why kept: local, llama</description>
     </item>
     <item>
-      <title>qwen3.5: merge tensors on convert also (#32102)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/3ba1ce0e28d991800e1585b7d3533f77213939d6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3ba1ce0e28d991800e1585b7d3533f77213939d6</guid>
-      <pubDate>Thu, 12 Nov 2026 10:02:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen3.5: merge tensors on convert also (#32102)
+      <title>feat(cua-sdk): ship cua-cli on PyPI as a thin wheel that fetches the …</title>
+      <link>https://github.com/trycua/cua/commit/b890fcada5e762fa5bd2820548ae1fffa63f452c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b890fcada5e762fa5bd2820548ae1fffa63f452c</guid>
+      <pubDate>Thu, 12 Nov 2026 10:17:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-sdk): ship cua-cli on PyPI as a thin wheel that fetches the signed CLI (#7474)
 
-* qwen3.5: merge tensors on convert also
+* ci(pypi): promote Cua Driver and cua SDK wheels to PyPI weekly
 
-* Remove conversion test for qwen3.5&lt;/pre&gt; | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): deprecate Computer History, removal after 26 Nov 202…</title>
-      <link>https://github.com/trycua/cua/commit/0b6922bad2363be5215c9e527307c2ff6657b3be</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b6922bad2363be5215c9e527307c2ff6657b3be</guid>
-      <pubDate>Thu, 12 Nov 2026 10:02:03 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): deprecate Computer History, removal after 26 Nov 2026 (#7478)
-
-Agents no longer get a call to history_status / history_query in the server
-instructions, the bundled skills or the | why kept: agent</description>
+Every build still attaches its wheels to | why kept: runs</description>
     </item></channel></rss>
