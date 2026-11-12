@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.47.19 (#7… — https://github.com/trycua/cua/commit/1cf2bc95b26373d872f31334ac940d64325ca4cf (score 5)
+- qvac/BotPsy-0.8B · Hugging Face - On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model — https://www.reddit.com/r/LocalLLaMA/comments/1xu8685/qvacbotpsy08b_hugging_face_ondevice_personal/ (score 8)
