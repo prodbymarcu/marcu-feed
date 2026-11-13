@@ -1,4 +1,1 @@
-- feat(cua): Windows 11 on Apple silicon built locally, ISO downloaded … — https://github.com/trycua/cua/commit/49bf362196b9dc8b420e11f771969cd6d61a1f8c (score 6)
-- chore(main): release cua-sdk 0.27.2 (#7558) — https://github.com/trycua/cua/commit/198458b3b69dc1937d3c8154a08d59d320eb17ee (score 5)
-- fix(spaces-macos): bundle Cua Driver 0.47.24 in Cua Spaces (#7526) — https://github.com/trycua/cua/commit/762c6405f72e72c6a28c55ea2a619679f59cc58f (score 5)
-- ci(cua-sdk): build the xcframework slices on parallel runners (#7547) — https://github.com/trycua/cua/commit/22d2f7a732c84af3c12ffb0ef5cec67be9ed1d97 (score 4)
+- chore(main): release sandbox 0.11.0 (#7564) — https://github.com/trycua/cua/commit/71ee086cefe33b71ff553889595631a99c977e0e (score 5)
