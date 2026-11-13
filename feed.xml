@@ -1,7 +1,43 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Uncensored models are awesome</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xutb77/uncensored_models_are_awesome/</link>
-      <guid isPermaLink="false">t3_1xutb77</guid>
-      <pubDate>Thu, 12 Nov 2026 22:02:09 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Has anyone been experimenting with ablated or uncensored variants of open-source models like DeepSeek V4.1 Flash, Qwen 3.8 27B, or GLM 5.3 flash?&lt;/p&gt; &lt;p&gt;It&amp;#39;s so refreshing to have models that just do wh | why kept: qwen, model, qwen</description>
+      <title>feat(cua): Windows 11 on Apple silicon built locally, ISO downloaded …</title>
+      <link>https://github.com/trycua/cua/commit/49bf362196b9dc8b420e11f771969cd6d61a1f8c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/49bf362196b9dc8b420e11f771969cd6d61a1f8c</guid>
+      <pubDate>Thu, 12 Nov 2026 22:18:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua): Windows 11 on Apple silicon built locally, ISO downloaded automatically (QEMU+HVF); Windows 10, Server 2019 and 2025 from an ISO (#6631)
+
+* cua-sandbox: build Windows images with WHPX  | why kept: model, claude, local</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.27.2 (#7558)</title>
+      <link>https://github.com/trycua/cua/commit/198458b3b69dc1937d3c8154a08d59d320eb17ee</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/198458b3b69dc1937d3c8154a08d59d320eb17ee</guid>
+      <pubDate>Thu, 12 Nov 2026 22:18:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.2 (#7558)
+
+* chore(main): release cua-sdk 0.27.2
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.47.24 in Cua Spaces (#7526)</title>
+      <link>https://github.com/trycua/cua/commit/762c6405f72e72c6a28c55ea2a619679f59cc58f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/762c6405f72e72c6a28c55ea2a619679f59cc58f</guid>
+      <pubDate>Thu, 12 Nov 2026 22:18:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.47.24 in Cua Spaces (#7526)
+
+Cua Driver 0.47.24 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ci(cua-sdk): build the xcframework slices on parallel runners (#7547)</title>
+      <link>https://github.com/trycua/cua/commit/22d2f7a732c84af3c12ffb0ef5cec67be9ed1d97</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/22d2f7a732c84af3c12ffb0ef5cec67be9ed1d97</guid>
+      <pubDate>Thu, 12 Nov 2026 22:18:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-sdk): build the xcframework slices on parallel runners (#7547)
+
+The xcframework job built four Rust targets one after the other on one
+macOS runner, about 25 minutes each (1h40 to 2h30 in  | why kept: claude, runs</description>
     </item></channel></rss>
