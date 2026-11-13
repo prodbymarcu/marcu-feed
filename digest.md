@@ -1,2 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.49.4 in Cua Spaces (#7652) — https://github.com/trycua/cua/commit/2323b99db38819e45e07be489b27beffd36702a0 (score 5)
-- Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility — https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/ (score 4)
+- Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Fla — https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/ (score 13)
+- chore(main): release cua-driver-rs 0.49.5 (#7650) — https://github.com/trycua/cua/commit/94bc14727a04610666b1c612db46afa619e81a93 (score 5)
