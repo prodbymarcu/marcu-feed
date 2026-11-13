@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/</link>
-      <guid isPermaLink="false">t3_1xvbn2m</guid>
-      <pubDate>Fri, 13 Nov 2026 11:27:22 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dTg1a25oNDlrZTFpMapFYESdjE_gXHkL_a0u2WVB9qkzxN6CPntOxBrzUPM5.png?w | why kept: qwen, qwen, local, llama</description>
+      <title>I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/</link>
+      <guid isPermaLink="false">t3_1xvbqqa</guid>
+      <pubDate>Fri, 13 Nov 2026 12:15:58 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TLDR: Qwen3.8-27B UD_4_XL quant with 13.23% less KL divergence than unsloth (on my small testset, I just have a single 5090, feel free to test more). Technically it performs 4% better on my LiveCodeBench be | why kept: unsloth, qwen, qwen, free, quant</description>
     </item></channel></rss>

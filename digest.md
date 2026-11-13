@@ -1,1 +1,1 @@
-- Qwen3.5-9B running on a PS4’s GPU, offline, using its own MTP head for speculative decoding — https://www.reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its/ (score 11)
+- I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better  — https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/ (score 16)
