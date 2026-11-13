@@ -1,1 +1,1 @@
-- feat(cua-driver): add OpenJev decision model adapter (#7636) — https://github.com/trycua/cua/commit/d8d2bb33746e448f43f94932bfa4874cf01e1a43 (score 9)
+- DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark — https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/ (score 6)
