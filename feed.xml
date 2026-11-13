@@ -1,7 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/</link>
-      <guid isPermaLink="false">t3_1xvbqqa</guid>
-      <pubDate>Fri, 13 Nov 2026 12:15:58 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;TLDR: Qwen3.8-27B UD_4_XL quant with 13.23% less KL divergence than unsloth (on my small testset, I just have a single 5090, feel free to test more). Technically it performs 4% better on my LiveCodeBench be | why kept: unsloth, qwen, qwen, free, quant</description>
+      <title>feat(cua-driver): add OpenJev decision model adapter (#7636)</title>
+      <link>https://github.com/trycua/cua/commit/d8d2bb33746e448f43f94932bfa4874cf01e1a43</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d8d2bb33746e448f43f94932bfa4874cf01e1a43</guid>
+      <pubDate>Fri, 13 Nov 2026 12:47:25 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): add OpenJev decision model adapter (#7636)
+
+* feat(cua-driver): add OpenJev decision model adapter
+
+(cherry picked from commit 97cd02c2645404968ef10b1c8103ea3a932c77bf)
+
+* test( | why kept: trycua, model, agent</description>
     </item></channel></rss>

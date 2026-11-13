@@ -1,1 +1,1 @@
-- I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better  — https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/ (score 16)
+- feat(cua-driver): add OpenJev decision model adapter (#7636) — https://github.com/trycua/cua/commit/d8d2bb33746e448f43f94932bfa4874cf01e1a43 (score 9)
