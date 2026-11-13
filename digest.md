@@ -1,1 +1,1 @@
-- chore(main): release sandbox 0.11.0 (#7564) — https://github.com/trycua/cua/commit/71ee086cefe33b71ff553889595631a99c977e0e (score 5)
+- chore(main): release cua-driver-rs 0.48.0 (#7559) — https://github.com/trycua/cua/commit/b4a62a31cd54328e86649a9ae004c7da460731b5 (score 5)

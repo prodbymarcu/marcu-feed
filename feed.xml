@@ -1,15 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release sandbox 0.11.0 (#7564)</title>
-      <link>https://github.com/trycua/cua/commit/71ee086cefe33b71ff553889595631a99c977e0e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/71ee086cefe33b71ff553889595631a99c977e0e</guid>
-      <pubDate>Thu, 12 Nov 2026 22:34:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.0 (#7564)
+      <title>chore(main): release cua-driver-rs 0.48.0 (#7559)</title>
+      <link>https://github.com/trycua/cua/commit/b4a62a31cd54328e86649a9ae004c7da460731b5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b4a62a31cd54328e86649a9ae004c7da460731b5</guid>
+      <pubDate>Thu, 12 Nov 2026 23:06:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.48.0 (#7559)
 
-* chore(main): release sandbox 0.11.0
+* chore(main): release cua-driver-rs 0.48.0
 
-* chore(sandbox): synchronize release metadata
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
