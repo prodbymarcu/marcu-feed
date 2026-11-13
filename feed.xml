@@ -1,14 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Stories coming out about Jensen</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/</link>
-      <guid isPermaLink="false">t3_1xuvexw</guid>
-      <pubDate>Thu, 12 Nov 2026 23:22:12 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/65on3u19ea1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=101f91dbd35373886c8b813c94110 | why kept: local, llama</description>
+      <title>US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/</link>
+      <guid isPermaLink="false">t3_1xuwf9w</guid>
+      <pubDate>Fri, 13 Nov 2026 00:11:12 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/2qKhBxA5TrhYyHZ4q-VdxPm6h9m3nXNEzgaYvFULGTg.jpeg?width=640&amp;amp;crop=sm | why kept: local, llama</description>
     </item>
     <item>
-      <title>‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/</link>
-      <guid isPermaLink="false">t3_1xuxxmb</guid>
-      <pubDate>Thu, 12 Nov 2026 23:22:12 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/u8kf9Egko9oeV-MaKaMlkhAC2MymtRUrEZsgIgcAJJM.jpeg?width=640&amp;amp;cr | why kept: local, llama</description>
+      <title>fix(ci): install cross targets for the pinned Rust toolchain (#7571)</title>
+      <link>https://github.com/trycua/cua/commit/1d40e4d7ff53ddd336becd67fa01d18baaa78c59</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1d40e4d7ff53ddd336becd67fa01d18baaa78c59</guid>
+      <pubDate>Fri, 13 Nov 2026 00:11:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): install cross targets for the pinned Rust toolchain (#7571)
+
+cd-cua-spacesd and cd-image-windows installed floating stable with targets:,
+but cargo uses the 1.97.1 pin from rust-toolchai | why kept: claude</description>
     </item></channel></rss>

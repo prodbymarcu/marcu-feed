@@ -1,2 +1,2 @@
-- Stories coming out about Jensen — https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/ (score 4)
-- ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return — https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/ (score 4)
+- US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say — https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/ (score 4)
+- fix(ci): install cross targets for the pinned Rust toolchain (#7571) — https://github.com/trycua/cua/commit/1d40e4d7ff53ddd336becd67fa01d18baaa78c59 (score 2)
