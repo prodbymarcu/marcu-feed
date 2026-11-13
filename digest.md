@@ -1,1 +1,3 @@
-- I trained DiffusionGemma to be an abstract expressionist — https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/ (score 6)
+- chore(main): release cua-driver-rs 0.49.4 (#7634) — https://github.com/trycua/cua/commit/96c1e9d25420f646206db7cdf72469a48a0b818f (score 5)
+- CXMT almost tripling RAM production from 2025 to 2028 — https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/ (score 4)
+- Look what my son gave me! — https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/ (score 4)

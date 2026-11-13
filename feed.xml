@@ -1,7 +1,29 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I trained DiffusionGemma to be an abstract expressionist</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/</link>
-      <guid isPermaLink="false">t3_1xv5svo</guid>
-      <pubDate>Fri, 13 Nov 2026 10:23:39 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/e0rvo28r6d1i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s | why kept: model, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.49.4 (#7634)</title>
+      <link>https://github.com/trycua/cua/commit/96c1e9d25420f646206db7cdf72469a48a0b818f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/96c1e9d25420f646206db7cdf72469a48a0b818f</guid>
+      <pubDate>Fri, 13 Nov 2026 11:11:25 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.4 (#7634)
+
+* chore(main): release cua-driver-rs 0.49.4
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>CXMT almost tripling RAM production from 2025 to 2028</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/</link>
+      <guid isPermaLink="false">t3_1xvam8o</guid>
+      <pubDate>Fri, 13 Nov 2026 11:11:25 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/4zifixg4de1i1.png?width=140&amp;amp;height=40&amp;amp;auto=webp&amp;amp;s=a101d862c5ce1 | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Look what my son gave me!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/</link>
+      <guid isPermaLink="false">t3_1xvbcfp</guid>
+      <pubDate>Fri, 13 Nov 2026 11:11:25 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/6jtwj6ufhe1i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=651c8754526222179 | why kept: local, llama</description>
     </item></channel></rss>
