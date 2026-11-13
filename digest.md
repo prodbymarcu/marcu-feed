@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.49.7 (#7662) — https://github.com/trycua/cua/commit/724b6e1b4d45b83cfdfaff855e420d427b11edc4 (score 5)
+- I ran the same Halloween animation prompt through five coding agents on one local Qwen model — https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/ (score 17)

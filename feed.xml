@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.49.7 (#7662)</title>
-      <link>https://github.com/trycua/cua/commit/724b6e1b4d45b83cfdfaff855e420d427b11edc4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/724b6e1b4d45b83cfdfaff855e420d427b11edc4</guid>
-      <pubDate>Fri, 13 Nov 2026 17:52:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.7 (#7662)
-
-* chore(main): release cua-driver-rs 0.49.7
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>I ran the same Halloween animation prompt through five coding agents on one local Qwen model</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/</link>
+      <guid isPermaLink="false">t3_1xv5dsb</guid>
+      <pubDate>Fri, 13 Nov 2026 18:40:35 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/emtoZjFyMjk3ZDFpMRdArGDjp4CG7e6A0uKu1M5VYrpmR7j769tX6vVE0LXE.png? | why kept: qwen, model, agent, claude, qwen, local</description>
     </item></channel></rss>
