@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.27.1 in Cua Spaces (#7532) — https://github.com/trycua/cua/commit/775fa27508ff307ed44fc3b4c7bff835dbba0e7e (score 5)
+- Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100 — https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/ (score 6)

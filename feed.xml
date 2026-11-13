@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.27.1 in Cua Spaces (#7532)</title>
-      <link>https://github.com/trycua/cua/commit/775fa27508ff307ed44fc3b4c7bff835dbba0e7e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/775fa27508ff307ed44fc3b4c7bff835dbba0e7e</guid>
-      <pubDate>Thu, 12 Nov 2026 18:49:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.1 in Cua Spaces (#7532)
-
-cua 0.27.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my le</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/</link>
+      <guid isPermaLink="false">t3_1xus81t</guid>
+      <pubDate>Thu, 12 Nov 2026 19:05:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/vzjsgibin91i1.jpeg?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=928601dac6 | why kept: local, runs, llama</description>
     </item></channel></rss>
