@@ -1,1 +1,1 @@
-- Edge0-145B: Open-Source On-Device AI with 145B Parameters — https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/ (score 4)
+- Uncensored models are awesome — https://www.reddit.com/r/LocalLLaMA/comments/1xutb77/uncensored_models_are_awesome/ (score 9)
