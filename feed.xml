@@ -1,16 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>inferencekit: open-source plugin to optimize any model on any hardware using coding agents</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/</link>
-      <guid isPermaLink="false">t3_1xut6z0</guid>
-      <pubDate>Fri, 13 Nov 2026 10:07:14 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/d4v25ckhv91i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad679c6f759310 | why kept: model, agent, local, inference, llama, hardware</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.49.3 in Cua Spaces (#7629)</title>
-      <link>https://github.com/trycua/cua/commit/4a4827d2436b4079b2334240afbe023c795e93f7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a4827d2436b4079b2334240afbe023c795e93f7</guid>
-      <pubDate>Fri, 13 Nov 2026 10:07:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.3 in Cua Spaces (#7629)
-
-Cua Driver 0.49.3 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+      <title>I trained DiffusionGemma to be an abstract expressionist</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/</link>
+      <guid isPermaLink="false">t3_1xv5svo</guid>
+      <pubDate>Fri, 13 Nov 2026 10:23:39 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/e0rvo28r6d1i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s | why kept: model, local, llama</description>
     </item></channel></rss>

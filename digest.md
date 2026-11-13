@@ -1,2 +1,1 @@
-- inferencekit: open-source plugin to optimize any model on any hardware using coding agents — https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/ (score 12)
-- fix(spaces-macos): bundle Cua Driver 0.49.3 in Cua Spaces (#7629) — https://github.com/trycua/cua/commit/4a4827d2436b4079b2334240afbe023c795e93f7 (score 5)
+- I trained DiffusionGemma to be an abstract expressionist — https://www.reddit.com/r/LocalLLaMA/comments/1xv5svo/i_trained_diffusiongemma_to_be_an_abstract/ (score 6)
