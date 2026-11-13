@@ -1,17 +1,207 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/</link>
-      <guid isPermaLink="false">t3_1xuwf9w</guid>
-      <pubDate>Fri, 13 Nov 2026 00:11:12 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/2qKhBxA5TrhYyHZ4q-VdxPm6h9m3nXNEzgaYvFULGTg.jpeg?width=640&amp;amp;crop=sm | why kept: local, llama</description>
+      <title>Artificial Analysis updated Qwen 3.8 Flash Next score as 29</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next/</link>
+      <guid isPermaLink="false">t3_1xuxzfs</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Between GPT-6 Luna Max (28) and Claude Haiku 5.5 High (30). Comparing to other Qwen 3.8, the model is closer to max (34) than to 27B (20).&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://artificialanalysis.ai/models/qwen3-8-flash- | why kept: qwen, model, claude, qwen, local, llama</description>
     </item>
     <item>
-      <title>fix(ci): install cross targets for the pinned Rust toolchain (#7571)</title>
-      <link>https://github.com/trycua/cua/commit/1d40e4d7ff53ddd336becd67fa01d18baaa78c59</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1d40e4d7ff53ddd336becd67fa01d18baaa78c59</guid>
-      <pubDate>Fri, 13 Nov 2026 00:11:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): install cross targets for the pinned Rust toolchain (#7571)
+      <title>llama.cpp v1.0 is here 🦙</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/</link>
+      <guid isPermaLink="false">t3_1xv8t2e</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eW0xMW5peWZ1ZDFpMafK4pOEu-N2r3Uia0w1ovYp4DXddxR7DXF1uOv2zHkc.png?width=640&amp;amp;crop=smart&amp;amp; | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>If open weights dry up, what are you archiving?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuthme/if_open_weights_dry_up_what_are_you_archiving/</link>
+      <guid isPermaLink="false">t3_1xuthme</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;With Jensen out at NVIDIA, the &amp;quot;local AI is dangerous&amp;quot; narrative picking up steam, the possible ban on Chinese models, and hosted models locking down RE/cyber work, I&amp;#39;m starting to think about | why kept: model, agent, local</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.49.2 in Cua Spaces (#7622)</title>
+      <link>https://github.com/trycua/cua/commit/a67fe1806b819a3121727aa3e6ede959ae21968d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a67fe1806b819a3121727aa3e6ede959ae21968d</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.2 in Cua Spaces (#7622)
 
-cd-cua-spacesd and cd-image-windows installed floating stable with targets:,
-but cargo uses the 1.97.1 pin from rust-toolchai | why kept: claude</description>
+Cua Driver 0.49.2 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.49.2 (#7619)</title>
+      <link>https://github.com/trycua/cua/commit/fa71a398f5f08232a85176fe87a9094975170220</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fa71a398f5f08232a85176fe87a9094975170220</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.2 (#7619)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.49.3 (#7616)</title>
+      <link>https://github.com/trycua/cua/commit/63bd9cdb82d6160b05a965d2d0e26e0a3c17cdc2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/63bd9cdb82d6160b05a965d2d0e26e0a3c17cdc2</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.3 (#7616)
+
+* chore(main): release cua-driver-rs 0.49.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.27.4 in Cua Spaces (#7610)</title>
+      <link>https://github.com/trycua/cua/commit/f4c72198c0e2f642b52c9cb0253c8da9d188116c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f4c72198c0e2f642b52c9cb0253c8da9d188116c</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.4 in Cua Spaces (#7610)
+
+cua 0.27.4 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.49.2 (#7607)</title>
+      <link>https://github.com/trycua/cua/commit/5488db9591abd5c4bb61c12265fbb66326fbb360</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5488db9591abd5c4bb61c12265fbb66326fbb360</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.2 (#7607)
+
+* chore(main): release cua-driver-rs 0.49.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.27.4 (#7609)</title>
+      <link>https://github.com/trycua/cua/commit/0352bdc1ca364348469d882870418cbf39fd2bf7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0352bdc1ca364348469d882870418cbf39fd2bf7</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.4 (#7609)
+
+* chore(main): release cua-sdk 0.27.4
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.27.3 in Cua Spaces (#7599)</title>
+      <link>https://github.com/trycua/cua/commit/e857dc71e00cdd81b3b0f66bb8ee6dd4b2da6a59</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e857dc71e00cdd81b3b0f66bb8ee6dd4b2da6a59</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.3 in Cua Spaces (#7599)
+
+cua 0.27.3 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.49.1 in Cua Spaces (#7576)</title>
+      <link>https://github.com/trycua/cua/commit/0b88e39d1de5feea59a515344143b0e1ecbd903c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b88e39d1de5feea59a515344143b0e1ecbd903c</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.1 in Cua Spaces (#7576)
+
+Cua Driver 0.49.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release sandbox 0.11.2 (#7601)</title>
+      <link>https://github.com/trycua/cua/commit/7afa33d697f120ddfd8f6a66e958215f334cb5c8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7afa33d697f120ddfd8f6a66e958215f334cb5c8</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.2 (#7601)
+
+* chore(main): release sandbox 0.11.2
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release bench 0.4.4 (#7602)</title>
+      <link>https://github.com/trycua/cua/commit/2a492a0960620129117f1f487a7aa088ab2f6f91</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2a492a0960620129117f1f487a7aa088ab2f6f91</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.4 (#7602)
+
+* chore(main): release bench 0.4.4
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.49.1 (#7595)</title>
+      <link>https://github.com/trycua/cua/commit/9489fd39824e0911540d431e467438395b317a77</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9489fd39824e0911540d431e467438395b317a77</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.1 (#7595)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.27.3 (#7583)</title>
+      <link>https://github.com/trycua/cua/commit/257e55a9fd1a36c2b56a5eb1d035b9632bff5d99</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/257e55a9fd1a36c2b56a5eb1d035b9632bff5d99</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.3 (#7583)
+
+* chore(main): release cua-sdk 0.27.3
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>llama.cpp : bump version to 1.0.0 by ggerganov · Pull Request #32190 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv3cyt/llamacpp_bump_version_to_100_by_ggerganov_pull/</link>
+      <guid isPermaLink="false">t3_1xv3cyt</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv3cyt/llamacpp_bump_version_to_100_by_ggerganov_pull/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZwOA-6Kly7M9Tc_hl0TxhGeSrPBtyUwQnW2ZBIj6sw0.png?width=640&amp;amp;crop=s | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>They are going to lock the new GPUs.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv72te/they_are_going_to_lock_the_new_gpus/</link>
+      <guid isPermaLink="false">t3_1xv72te</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv72te/they_are_going_to_lock_the_new_gpus/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Dw0zIl9_YG6jch9ZQK3KBCRuWoNbEx76G62Q-PKM60I.jpeg?width=640&amp;amp;crop=smart&amp;amp;a | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Google is asking</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/</link>
+      <guid isPermaLink="false">t3_1xv2e0a</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/medelgm8ac1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=eb3bb477ff66b13f9ce0ad7d0b616ec96a0deae7&quot; al | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuwszo/us_intel_isnt_sure_if_businesswoman_spied_on/</link>
+      <guid isPermaLink="false">t3_1xuwszo</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuwszo/us_intel_isnt_sure_if_businesswoman_spied_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/2qKhBxA5TrhYyHZ4q-VdxPm6h9m3nXNEzgaYvFULGTg.jpeg?width=640&amp;amp;crop=sm | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Edge0-145B: Open-Source On-Device AI with 145B Parameters</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xuwlya/edge0145b_opensource_ondevice_ai_with_145b/</link>
+      <guid isPermaLink="false">t3_1xuwlya</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xuwlya/edge0145b_opensource_ondevice_ai_with_145b/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/8wVYJLvtLuSZbiMgXJurLuNONs1CamPKgXW9t6Km-Is.png?width=640&amp;amp;crop=smart | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Gemma 4 E2B on a 8GB RAM netbook</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xutkqv/gemma_4_e2b_on_a_8gb_ram_netbook/</link>
+      <guid isPermaLink="false">t3_1xutkqv</guid>
+      <pubDate>Fri, 13 Nov 2026 09:19:56 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xutkqv/gemma_4_e2b_on_a_8gb_ram_netbook/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/g85bgf1ym91i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a428ffa1ed33e141afbd5fb8b1 | why kept: local, llama</description>
     </item></channel></rss>
