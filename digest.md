@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.48.0 (#7559) — https://github.com/trycua/cua/commit/b4a62a31cd54328e86649a9ae004c7da460731b5 (score 5)
+- Stories coming out about Jensen — https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/ (score 4)
+- ‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return — https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/ (score 4)
