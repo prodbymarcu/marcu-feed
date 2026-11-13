@@ -1,2 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.49.4 (#7651) — https://github.com/trycua/cua/commit/adb681b23153fde81f1963c055415fffb26a0c49 (score 5)
-- e-means: 10x faster k-means at equal loss — https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/ (score 4)
+- fix(spaces-macos): bundle Cua Driver 0.49.4 in Cua Spaces (#7652) — https://github.com/trycua/cua/commit/2323b99db38819e45e07be489b27beffd36702a0 (score 5)
+- Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility — https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/ (score 4)

@@ -1,16 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.49.4 (#7651)</title>
-      <link>https://github.com/trycua/cua/commit/adb681b23153fde81f1963c055415fffb26a0c49</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/adb681b23153fde81f1963c055415fffb26a0c49</guid>
-      <pubDate>Fri, 13 Nov 2026 13:52:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.4 (#7651)
+      <title>fix(spaces-macos): bundle Cua Driver 0.49.4 in Cua Spaces (#7652)</title>
+      <link>https://github.com/trycua/cua/commit/2323b99db38819e45e07be489b27beffd36702a0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2323b99db38819e45e07be489b27beffd36702a0</guid>
+      <pubDate>Fri, 13 Nov 2026 14:40:28 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.4 in Cua Spaces (#7652)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Cua Driver 0.49.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item>
     <item>
-      <title>e-means: 10x faster k-means at equal loss</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/</link>
-      <guid isPermaLink="false">t3_1xvbith</guid>
-      <pubDate>Fri, 13 Nov 2026 13:52:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/wnUbxWgXNdkYdh91mN_lC6Hle6pIzYuUz9bCX5VAkVI.png?width=640&amp;amp;crop=smart&amp;amp | why kept: local, llama</description>
+      <title>Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/</link>
+      <guid isPermaLink="false">t3_1xvcbbh</guid>
+      <pubDate>Fri, 13 Nov 2026 14:40:28 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvcbbh/nvidia_privately_confirmed_it_could_track_chips/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Dw0zIl9_YG6jch9ZQK3KBCRuWoNbEx76G62Q-PKM60I.jpeg?width=640&amp;amp;crop | why kept: local, llama</description>
     </item></channel></rss>
