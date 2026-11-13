@@ -1,1 +1,1 @@
-- Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit — https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/ (score 4)
+- Edge0-145B: Open-Source On-Device AI with 145B Parameters — https://www.reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b/ (score 4)
