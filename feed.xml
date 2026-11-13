@@ -1,16 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/</link>
-      <guid isPermaLink="false">t3_1xv7fku</guid>
-      <pubDate>Fri, 13 Nov 2026 09:35:18 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/8NexKOdMNGuw0dDaC4Bo-Vpl6eyn0zfw_EgkJqBqjtA.png?width=140&amp;amp;heigh | why kept: model, local, llama</description>
+      <title>inferencekit: open-source plugin to optimize any model on any hardware using coding agents</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/</link>
+      <guid isPermaLink="false">t3_1xut6z0</guid>
+      <pubDate>Fri, 13 Nov 2026 10:07:14 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/d4v25ckhv91i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ad679c6f759310 | why kept: model, agent, local, inference, llama, hardware</description>
     </item>
     <item>
-      <title>chore(cua-driver): advance published installer version to 0.49.3 (#7625)</title>
-      <link>https://github.com/trycua/cua/commit/1dda00da1510a32167689a3bdd6f8d1d7a2e1ffe</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1dda00da1510a32167689a3bdd6f8d1d7a2e1ffe</guid>
-      <pubDate>Fri, 13 Nov 2026 09:35:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.3 (#7625)
+      <title>fix(spaces-macos): bundle Cua Driver 0.49.3 in Cua Spaces (#7629)</title>
+      <link>https://github.com/trycua/cua/commit/4a4827d2436b4079b2334240afbe023c795e93f7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a4827d2436b4079b2334240afbe023c795e93f7</guid>
+      <pubDate>Fri, 13 Nov 2026 10:07:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.3 in Cua Spaces (#7629)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Cua Driver 0.49.3 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>

@@ -1,2 +1,2 @@
-- Perplexity releases Decider v1.3 (26B) and Decider Flash v1.3 (5B): open-weight (Apache 2.0) classification/decision mod — https://www.reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider/ (score 6)
-- chore(cua-driver): advance published installer version to 0.49.3 (#7625) — https://github.com/trycua/cua/commit/1dda00da1510a32167689a3bdd6f8d1d7a2e1ffe (score 5)
+- inferencekit: open-source plugin to optimize any model on any hardware using coding agents — https://www.reddit.com/r/LocalLLaMA/comments/1xut6z0/inferencekit_opensource_plugin_to_optimize_any/ (score 12)
+- fix(spaces-macos): bundle Cua Driver 0.49.3 in Cua Spaces (#7629) — https://github.com/trycua/cua/commit/4a4827d2436b4079b2334240afbe023c795e93f7 (score 5)
