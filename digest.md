@@ -1,1 +1,2 @@
-- DeepSeek flash max is the first model to reach >1% on challenging SWE-sweep bug finding benchmark — https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/ (score 6)
+- chore(cua-driver): advance published installer version to 0.49.4 (#7651) — https://github.com/trycua/cua/commit/adb681b23153fde81f1963c055415fffb26a0c49 (score 5)
+- e-means: 10x faster k-means at equal loss — https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/ (score 4)

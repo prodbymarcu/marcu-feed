@@ -1,7 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>DeepSeek flash max is the first model to reach &gt;1% on challenging SWE-sweep bug finding benchmark</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/</link>
-      <guid isPermaLink="false">t3_1xvcgxq</guid>
-      <pubDate>Fri, 13 Nov 2026 13:20:25 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/b0q561b1pe1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f072b169eadf | why kept: model, local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.49.4 (#7651)</title>
+      <link>https://github.com/trycua/cua/commit/adb681b23153fde81f1963c055415fffb26a0c49</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/adb681b23153fde81f1963c055415fffb26a0c49</guid>
+      <pubDate>Fri, 13 Nov 2026 13:52:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.4 (#7651)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>e-means: 10x faster k-means at equal loss</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/</link>
+      <guid isPermaLink="false">t3_1xvbith</guid>
+      <pubDate>Fri, 13 Nov 2026 13:52:50 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/wnUbxWgXNdkYdh91mN_lC6Hle6pIzYuUz9bCX5VAkVI.png?width=640&amp;amp;crop=smart&amp;amp | why kept: local, llama</description>
     </item></channel></rss>
