@@ -1,2 +1,2 @@
-- Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Fla — https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/ (score 13)
-- chore(main): release cua-driver-rs 0.49.5 (#7650) — https://github.com/trycua/cua/commit/94bc14727a04610666b1c612db46afa619e81a93 (score 5)
+- chore(cua-driver): advance published installer version to 0.49.5 (#7657) — https://github.com/trycua/cua/commit/2ad826c265d9039b97f9b3178179ffde30f459f6 (score 5)
+- chore(main): release cua-driver-rs 0.49.6 (#7656) — https://github.com/trycua/cua/commit/c4ae485f165bc1a14f9eb8d1a7514b61fe37b7a8 (score 5)
