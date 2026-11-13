@@ -1,1 +1,1 @@
-- I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too) — https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/ (score 4)
+- chore(main): release cua-driver-rs 0.49.7 (#7662) — https://github.com/trycua/cua/commit/724b6e1b4d45b83cfdfaff855e420d427b11edc4 (score 5)
