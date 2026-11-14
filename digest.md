@@ -1,1 +1,1 @@
-- LLM's might be bad at jokes but they still make me laugh a lot — https://www.reddit.com/r/LocalLLaMA/comments/1xvsi2i/llms_might_be_bad_at_jokes_but_they_still_make_me/ (score 4)
+- KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech — https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/ (score 4)
