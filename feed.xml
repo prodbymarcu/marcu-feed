@@ -1,31 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>IBM trains two small open models to ignore orders hidden in documents</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/</link>
-      <guid isPermaLink="false">t3_1xw09tu</guid>
-      <pubDate>Sat, 14 Nov 2026 07:45:49 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/jKDiyYlMH9q9-sxqyLuDwYt6Ed8Igc-G2BfjfuDd18s.jpeg?width=640&amp;amp;cr | why kept: model, local, llama</description>
+      <title>How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/</link>
+      <guid isPermaLink="false">t3_1xw0xeu</guid>
+      <pubDate>Sat, 14 Nov 2026 08:17:18 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/87ipy7w9kk1i1.gif?width=320&amp;amp;crop=smart&amp;amp;s=ea779ed9843169b176468b6b4b22596 | why kept: qwen, model, qwen, local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.49.11 (#7723)</title>
-      <link>https://github.com/trycua/cua/commit/b3dafe7f47ab40a5d00c5023855317a2e901c062</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b3dafe7f47ab40a5d00c5023855317a2e901c062</guid>
-      <pubDate>Sat, 14 Nov 2026 07:45:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.11 (#7723)
+      <title>mtmd : allow custom video decoder (#32188)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e3483e40b02326383a54a23ae71f2bfa9f81181a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e3483e40b02326383a54a23ae71f2bfa9f81181a</guid>
+      <pubDate>Sat, 14 Nov 2026 08:17:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : allow custom video decoder (#32188)
 
-* chore(main): release cua-driver-rs 0.49.11
+* mtmd : allow custom video decoder
 
-* chore(cua-driver-rs): synchronize generated release files
+* also adapt to wllama requirements
+
+* clean up
+
+* add test
 
 ---------
 
-Co-authored-by: cua-relea | why kept: trycua</description>
-    </item>
-    <item>
-      <title>mtmd : avoid padding-only Whisper audio chunks (#30403)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0cce7580b8169c044def5a01d6cbe61fff7c2b45</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0cce7580b8169c044def5a01d6cbe61fff7c2b45</guid>
-      <pubDate>Sat, 14 Nov 2026 07:45:49 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : avoid padding-only Whisper audio chunks (#30403)
-
-Assisted-by: Claude Opus 5&lt;/pre&gt; | why kept: claude</description>
+Co-authored-by: Xuan Son Nguyen &amp;lt;son@hu | why kept: video, llama</description>
     </item></channel></rss>

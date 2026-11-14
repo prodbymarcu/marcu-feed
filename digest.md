@@ -1,3 +1,2 @@
-- IBM trains two small open models to ignore orders hidden in documents — https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/ (score 6)
-- chore(main): release cua-driver-rs 0.49.11 (#7723) — https://github.com/trycua/cua/commit/b3dafe7f47ab40a5d00c5023855317a2e901c062 (score 5)
-- mtmd : avoid padding-only Whisper audio chunks (#30403) — https://github.com/ggml-org/llama.cpp/commit/0cce7580b8169c044def5a01d6cbe61fff7c2b45 (score 2)
+- How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models? — https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/ (score 13)
+- mtmd : allow custom video decoder (#32188) — https://github.com/ggml-org/llama.cpp/commit/e3483e40b02326383a54a23ae71f2bfa9f81181a (score 4)
