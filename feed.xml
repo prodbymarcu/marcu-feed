@@ -1,7 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>For long context does high quant matter?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvud3r/for_long_context_does_high_quant_matter/</link>
-      <guid isPermaLink="false">t3_1xvud3r</guid>
-      <pubDate>Sat, 14 Nov 2026 12:18:22 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Question: if I&amp;#39;m regularly at higher context - say 300-400k - do higher quant versions of the same model perform better? I&amp;#39;m thinking something like Qwen Flash Next q6 and q8. I recently swapped fro | why kept: qwen, model, qwen, quant</description>
+      <title>DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/</link>
+      <guid isPermaLink="false">t3_1xvhzq9</guid>
+      <pubDate>Sat, 14 Nov 2026 12:34:15 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/vag2yxzipf1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5a6e9ada3d38357eaac1 | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Qwen4 Flash wishlist</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist/</link>
+      <guid isPermaLink="false">t3_1xw36op</guid>
+      <pubDate>Sat, 14 Nov 2026 12:34:15 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;After using 3.8QFN for some time I have to the conclusion that my wish list for QF4 now only consists of these points.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;The model can talk to you in a human understandable language&lt;/p&gt;&lt;/li&gt; &lt; | why kept: qwen, model, qwen</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.49.11 in Cua Spaces (#7729)</title>
+      <link>https://github.com/trycua/cua/commit/ad25016e49faa3f4bb7da45cd6906b6b030851ab</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ad25016e49faa3f4bb7da45cd6906b6b030851ab</guid>
+      <pubDate>Sat, 14 Nov 2026 12:34:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.11 in Cua Spaces (#7729)
+
+Cua Driver 0.49.11 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
     </item></channel></rss>

@@ -1,1 +1,3 @@
-- For long context does high quant matter? — https://www.reddit.com/r/LocalLLaMA/comments/1xvud3r/for_long_context_does_high_quant_matter/ (score 11)
+- DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance — https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/ (score 11)
+- Qwen4 Flash wishlist — https://www.reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist/ (score 9)
+- fix(spaces-macos): bundle Cua Driver 0.49.11 in Cua Spaces (#7729) — https://github.com/trycua/cua/commit/ad25016e49faa3f4bb7da45cd6906b6b030851ab (score 5)
