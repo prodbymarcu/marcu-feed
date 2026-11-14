@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.49.7 (#7671) — https://github.com/trycua/cua/commit/a5401b2bcc92dfb7c1f791fb26372343bcc11aac (score 5)
-- [Boole-32B-A2.5B-preview] 9GB 1.8-bit MoE, 565 token/s on 1 RTX 5090 — https://www.reddit.com/r/LocalLLaMA/comments/1xv3h93/boole32ba25bpreview_9gb_18bit_moe_565_tokens_on_1/ (score 4)
+- Vellium 1.9.5: visual novels that actually work on a 12B local model — https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/ (score 8)

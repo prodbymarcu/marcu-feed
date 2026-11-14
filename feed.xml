@@ -1,16 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.49.7 (#7671)</title>
-      <link>https://github.com/trycua/cua/commit/a5401b2bcc92dfb7c1f791fb26372343bcc11aac</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a5401b2bcc92dfb7c1f791fb26372343bcc11aac</guid>
-      <pubDate>Fri, 13 Nov 2026 19:44:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.7 (#7671)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>[Boole-32B-A2.5B-preview] 9GB 1.8-bit MoE, 565 token/s on 1 RTX 5090</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv3h93/boole32ba25bpreview_9gb_18bit_moe_565_tokens_on_1/</link>
-      <guid isPermaLink="false">t3_1xv3h93</guid>
-      <pubDate>Fri, 13 Nov 2026 19:44:11 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv3h93/boole32ba25bpreview_9gb_18bit_moe_565_tokens_on_1/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/VdV67R4fotsgySTKjmK8Ug8xDIXluRxNZ0BGO7Mrpbc.png?width=140&amp;amp;hei | why kept: local, llama</description>
+      <title>Vellium 1.9.5: visual novels that actually work on a 12B local model</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/</link>
+      <guid isPermaLink="false">t3_1xvihou</guid>
+      <pubDate>Fri, 13 Nov 2026 20:00:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5usruc36uf1i1.png?width=140&amp;amp;height=84&amp;amp;auto=webp&amp;amp;s=6a89297a46b8 | why kept: model, local, free, llama</description>
     </item></channel></rss>
