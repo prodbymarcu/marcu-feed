@@ -1,14 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Nace quants vs Unsloth Dynamic v3.1, has anyone compared them on actual tasks?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvz070/nace_quants_vs_unsloth_dynamic_v31_has_anyone/</link>
-      <guid isPermaLink="false">t3_1xvz070</guid>
-      <pubDate>Sat, 14 Nov 2026 11:45:53 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Two quant updates landed in the last day: the Nace weight-space quants claiming up to 2x better KL divergence, and Unsloth&amp;#39;s Dynamic v3.1 for Qwen3.8-27B. I&amp;#39;ve been trying to work out how much KL re | why kept: unsloth, qwen, qwen, quant, tool call</description>
-    </item>
-    <item>
-      <title>ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/</link>
-      <guid isPermaLink="false">t3_1xw29ic</guid>
-      <pubDate>Sat, 14 Nov 2026 11:45:53 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/tNL8sxlmgIr7QjVf7YyfHRotEiljivEqGKO122QDvFg.png?width=640&amp;amp;crop=sm | why kept: model, agent, local, llama</description>
+      <title>For long context does high quant matter?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvud3r/for_long_context_does_high_quant_matter/</link>
+      <guid isPermaLink="false">t3_1xvud3r</guid>
+      <pubDate>Sat, 14 Nov 2026 12:18:22 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Question: if I&amp;#39;m regularly at higher context - say 300-400k - do higher quant versions of the same model perform better? I&amp;#39;m thinking something like Qwen Flash Next q6 and q8. I recently swapped fro | why kept: qwen, model, qwen, quant</description>
     </item></channel></rss>
