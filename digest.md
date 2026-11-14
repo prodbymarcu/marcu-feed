@@ -1,2 +1,2 @@
-- DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance — https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/ (score 11)
-- Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a des — https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/ (score 8)
+- chore(cua-driver): advance published installer version to 0.49.7 (#7671) — https://github.com/trycua/cua/commit/a5401b2bcc92dfb7c1f791fb26372343bcc11aac (score 5)
+- [Boole-32B-A2.5B-preview] 9GB 1.8-bit MoE, 565 token/s on 1 RTX 5090 — https://www.reddit.com/r/LocalLLaMA/comments/1xv3h93/boole32ba25bpreview_9gb_18bit_moe_565_tokens_on_1/ (score 4)
