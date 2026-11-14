@@ -1,1 +1,3 @@
-- feat(cua-driver): shorter shared parameter descriptions (#7765) — https://github.com/trycua/cua/commit/efec1417472f1cfd72ad5d83fe0d57e20aeedea9 (score 2)
+- Hot take: frontier models haven’t actually become much smarter — https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/ (score 4)
+- The GOAT — https://www.reddit.com/r/LocalLLaMA/comments/1xwedkk/the_goat/ (score 4)
+- fix(cua-agent-setup): bundle the cua-driver skill from its release so… — https://github.com/trycua/cua/commit/6fc85a57b4052f22261a5d62e494fef14798e60d (score 2)

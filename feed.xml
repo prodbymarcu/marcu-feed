@@ -1,12 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver): shorter shared parameter descriptions (#7765)</title>
-      <link>https://github.com/trycua/cua/commit/efec1417472f1cfd72ad5d83fe0d57e20aeedea9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/efec1417472f1cfd72ad5d83fe0d57e20aeedea9</guid>
-      <pubDate>Sat, 14 Nov 2026 16:19:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): shorter shared parameter descriptions (#7765)
+      <title>Hot take: frontier models haven’t actually become much smarter</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/</link>
+      <guid isPermaLink="false">t3_1xwegdi</guid>
+      <pubDate>Sat, 14 Nov 2026 17:23:13 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I know this is a controversial take, but I would like to hear others’ opinions: LLMs have become much more useful, but I’m not convinced their “raw intelligence” has improved nearly as much as their overall | why kept: model, local</description>
+    </item>
+    <item>
+      <title>The GOAT</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwedkk/the_goat/</link>
+      <guid isPermaLink="false">t3_1xwedkk</guid>
+      <pubDate>Sat, 14 Nov 2026 17:23:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwedkk/the_goat/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/P8sF0JLKu3d0plUJPqs7HMfJVMxF0swIB-AcZuZIblI.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4ec7835ca5bf | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-agent-setup): bundle the cua-driver skill from its release so…</title>
+      <link>https://github.com/trycua/cua/commit/6fc85a57b4052f22261a5d62e494fef14798e60d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6fc85a57b4052f22261a5d62e494fef14798e60d</guid>
+      <pubDate>Sat, 14 Nov 2026 17:23:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-agent-setup): bundle the cua-driver skill from its release source (#7774)
 
-* feat(cua-driver): shorter shared parameter descriptions
+* test(cua-agent-setup): bundled skills match their canonical sources
 
-The session, post_action_wait, element_token and generic delivery_mode
- | why kept: agent</description>
+* fix(cua-agent-setup): bundle the cua-dr | why kept: agent</description>
     </item></channel></rss>
