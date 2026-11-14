@@ -1,1 +1,1 @@
-- modules for my opensource (GPL3) harness have evolved to the point where this is possible. this is a full fledged videog — https://www.reddit.com/r/LocalLLaMA/comments/1xvbq3s/modules_for_my_opensource_gpl3_harness_have/ (score 6)
+- chore(main): release cua-driver-rs 0.49.8 (#7677) — https://github.com/trycua/cua/commit/040698e196d6a37d14703dc56157242b8b4c84a3 (score 5)
