@@ -1,3 +1,3 @@
-- fix(spaces-macos): bundle Cua Driver 0.49.10 in Cua Spaces (#7720) — https://github.com/trycua/cua/commit/91c6a18a97c45b27a179ddbbff964f3a9c276a62 (score 5)
-- chore(cua-driver): advance published installer version to 0.49.10 (#7… — https://github.com/trycua/cua/commit/31b182b1c50ac3f286031b18ec22dda3fa85a14c (score 5)
-- Why are LLMs still so bad at jokes? — https://www.reddit.com/r/LocalLLaMA/comments/1xvm8r3/why_are_llms_still_so_bad_at_jokes/ (score 2)
+- IBM trains two small open models to ignore orders hidden in documents — https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/ (score 6)
+- chore(main): release cua-driver-rs 0.49.11 (#7723) — https://github.com/trycua/cua/commit/b3dafe7f47ab40a5d00c5023855317a2e901c062 (score 5)
+- mtmd : avoid padding-only Whisper audio chunks (#30403) — https://github.com/ggml-org/llama.cpp/commit/0cce7580b8169c044def5a01d6cbe61fff7c2b45 (score 2)
