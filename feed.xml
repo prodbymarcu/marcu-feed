@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Why don’t we have national open AI models?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/</link>
-      <guid isPermaLink="false">t3_1xw4ue3</guid>
-      <pubDate>Sat, 14 Nov 2026 10:57:16 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Deepseek spent about $6m on 4.1 apparently. Published all of their work.&lt;/p&gt; &lt;p&gt;US gov says don’t trust China, blah blah…&lt;/p&gt; &lt;p&gt;As a US citizen why are we not training national open source?&lt;/p&gt; &lt;p&gt;The cost | why kept: model, local, llama</description>
+      <title>SPARK 2.6 4b and 1.7b Fixed a reasoning loop by editing one row of weights.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvwi81/spark_26_4b_and_17b_fixed_a_reasoning_loop_by/</link>
+      <guid isPermaLink="false">t3_1xvwi81</guid>
+      <pubDate>Sat, 14 Nov 2026 11:13:37 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Just put my first two models up on Hugging Face.&lt;/p&gt; &lt;p&gt;I used Qwen4 to do direct weight editing and fixed the reasoning loop problem. Got up to a 97% reduction on the 1.7B and a solid drop on the full 4B.&lt; | why kept: qwen, model, qwen</description>
+    </item>
+    <item>
+      <title>Curated list of resources: Theory, Code and math for Reinforcement Learning for beginners</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvwuhi/curated_list_of_resources_theory_code_and_math/</link>
+      <guid isPermaLink="false">t3_1xvwuhi</guid>
+      <pubDate>Sat, 14 Nov 2026 11:13:37 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvwuhi/curated_list_of_resources_theory_code_and_math/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ocm7dyoebj1i1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;a | why kept: local, llama</description>
     </item></channel></rss>

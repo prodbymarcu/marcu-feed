@@ -1,1 +1,2 @@
-- Why don’t we have national open AI models? — https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/ (score 6)
+- SPARK 2.6 4b and 1.7b Fixed a reasoning loop by editing one row of weights. — https://www.reddit.com/r/LocalLLaMA/comments/1xvwi81/spark_26_4b_and_17b_fixed_a_reasoning_loop_by/ (score 9)
+- Curated list of resources: Theory, Code and math for Reinforcement Learning for beginners — https://www.reddit.com/r/LocalLLaMA/comments/1xvwuhi/curated_list_of_resources_theory_code_and_math/ (score 4)
