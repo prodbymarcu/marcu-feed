@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.49.11 (#7723) — https://github.com/trycua/cua/commit/b3dafe7f47ab40a5d00c5023855317a2e901c062 (score 5)
+- nex-agi/Nex-N2.6 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/ (score 8)
+- fix(cua-sandbox): allow cua-driver 0.50 (#7767) — https://github.com/trycua/cua/commit/e31ab7705de2806bd22492b70867cb5fb767f224 (score 7)
