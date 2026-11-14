@@ -1,1 +1,1 @@
-- Finally clicked for me: local AI is the future, not cloud AI — https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/ (score 8)
+- server : Fix connection reuse after streamed responses (#30492) — https://github.com/ggml-org/llama.cpp/commit/cf9a9957dae4801dde95d174ec1ac1b4cac84bf8 (score 2)

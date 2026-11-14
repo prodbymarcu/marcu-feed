@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Finally clicked for me: local AI is the future, not cloud AI</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/</link>
-      <guid isPermaLink="false">t3_1xwf8bb</guid>
-      <pubDate>Sat, 14 Nov 2026 18:11:23 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Maybe this is kind of obvious to others, but it just dawned on me even though I&amp;#39;ve been lurking this sub since the original LLaMA. I was watching &lt;a href=&quot;https://www.youtube.com/watch?v=jHT4iHJxzOI&quot;&gt;th | why kept: video, local, llama, hardware</description>
+      <title>server : Fix connection reuse after streamed responses (#30492)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/cf9a9957dae4801dde95d174ec1ac1b4cac84bf8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cf9a9957dae4801dde95d174ec1ac1b4cac84bf8</guid>
+      <pubDate>Sat, 14 Nov 2026 18:43:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : Fix connection reuse after streamed responses (#30492)
+
+Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
     </item></channel></rss>
