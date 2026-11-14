@@ -1,1 +1,1 @@
-- KittenML/kitten-tts-2-mini · Hugging Face - Text-to-Speech — https://www.reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech/ (score 4)
+- spec + model: refactor DFlash based speculative decoding methods  (#3… — https://github.com/ggml-org/llama.cpp/commit/32bdc3a89e6528d3e419024c833c5dabf32c7541 (score 4)
