@@ -1,1 +1,4 @@
-- fix(core): upgrade dnspython and the OpenTelemetry stack (CVE-2026-12… — https://github.com/trycua/cua/commit/79c4a8dd7e0de599cd29739f6c04523aca54835c (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.49.9 in Cua Spaces (#7658) — https://github.com/trycua/cua/commit/a3c567c59c0202e6d8df08beefb6381aaec7dfa7 (score 5)
+- chore(main): release bench 0.4.5 (#7702) — https://github.com/trycua/cua/commit/da7a1ce1b03f9cb77ca4ef1a08541d32619d1485 (score 5)
+- chore(main): release sandbox 0.11.3 (#7703) — https://github.com/trycua/cua/commit/6bb370d1daefd650c679ae05a8b86b600c27b7c4 (score 5)
+- fix(cua-driver): report a background web press the page ignored (#7694) — https://github.com/trycua/cua/commit/a486f930ad4597e961828d00cff467b89ba3f711 (score 2)
