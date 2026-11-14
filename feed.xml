@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Jensen thought he saved the world, 3 weeks later he resigned</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/</link>
-      <guid isPermaLink="false">t3_1xw9fsu</guid>
-      <pubDate>Sat, 14 Nov 2026 13:39:24 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/Z25pcDNndXplbTFpMUlp2K6SyoNhL3qF1PFKzxfDtGyIwtniVJmVFNcmWCMH.png?wi | why kept: local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.49.11 (#7723)</title>
+      <link>https://github.com/trycua/cua/commit/b3dafe7f47ab40a5d00c5023855317a2e901c062</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b3dafe7f47ab40a5d00c5023855317a2e901c062</guid>
+      <pubDate>Sat, 14 Nov 2026 13:55:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.11 (#7723)
+
+* chore(main): release cua-driver-rs 0.49.11
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>

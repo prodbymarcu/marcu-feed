@@ -1,1 +1,1 @@
-- Jensen thought he saved the world, 3 weeks later he resigned — https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/ (score 4)
+- chore(main): release cua-driver-rs 0.49.11 (#7723) — https://github.com/trycua/cua/commit/b3dafe7f47ab40a5d00c5023855317a2e901c062 (score 5)
