@@ -1,2 +1,4 @@
-- nex-agi/Nex-N2.6 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/ (score 8)
-- fix(cua-sandbox): allow cua-driver 0.50 (#7767) — https://github.com/trycua/cua/commit/e31ab7705de2806bd22492b70867cb5fb767f224 (score 7)
+- Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support — https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/ (score 8)
+- Ai Rig finally done and stable, perfect winter heater — https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/ (score 6)
+- chore(main): release sandbox 0.11.4 (#7770) — https://github.com/trycua/cua/commit/3d0e5c6e52864f10bb4db5a97753fff283babaeb (score 5)
+- chore(main): release bench 0.4.6 (#7769) — https://github.com/trycua/cua/commit/3e6a6b412ca2b35d31201732c1bf1ac8b30ca19a (score 5)
