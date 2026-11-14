@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.49.8 (#7677) — https://github.com/trycua/cua/commit/040698e196d6a37d14703dc56157242b8b4c84a3 (score 5)
+- Computer use programs/Pi extensions — https://www.reddit.com/r/LocalLLaMA/comments/1xvfg2n/computer_use_programspi_extensions/ (score 19)

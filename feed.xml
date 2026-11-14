@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.49.8 (#7677)</title>
-      <link>https://github.com/trycua/cua/commit/040698e196d6a37d14703dc56157242b8b4c84a3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/040698e196d6a37d14703dc56157242b8b4c84a3</guid>
-      <pubDate>Fri, 13 Nov 2026 21:20:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.8 (#7677)
-
-* chore(main): release cua-driver-rs 0.49.8
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Computer use programs/Pi extensions</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvfg2n/computer_use_programspi_extensions/</link>
+      <guid isPermaLink="false">t3_1xvfg2n</guid>
+      <pubDate>Fri, 13 Nov 2026 22:08:13 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I&amp;#39;ve eard much stuff about Codex and CC computer use, is there any decent program/Pi Agent extension that I can install and use to let my local models control my pc. I am using Qwen3.6-35BA3B on PolyStr | why kept: qwen, model, agent, qwen, codex, local</description>
     </item></channel></rss>
