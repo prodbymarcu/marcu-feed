@@ -1,7 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/</link>
-      <guid isPermaLink="false">t3_1xvst4u</guid>
-      <pubDate>Sat, 14 Nov 2026 00:01:37 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/uFceIj2wUgiQSSe1-AvturCiqcP3WLL-4yLduG4UCzY.png?width=640&amp;amp;crop=sm | why kept: local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.49.9 (#7691)</title>
+      <link>https://github.com/trycua/cua/commit/7239c061386959b6e89212796fb7b13c15ff08a5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7239c061386959b6e89212796fb7b13c15ff08a5</guid>
+      <pubDate>Sat, 14 Nov 2026 00:49:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.9 (#7691)
+
+* chore(main): release cua-driver-rs 0.49.9
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ERNIE 5.5 Flash Base · ERNIE</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/</link>
+      <guid isPermaLink="false">t3_1xvuclv</guid>
+      <pubDate>Sat, 14 Nov 2026 00:49:12 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I guess some may like to read this.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/yahbluez&quot;&gt; /u/yahbluez &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://ernie.baidu.com/release/er | why kept: local, llama</description>
     </item></channel></rss>

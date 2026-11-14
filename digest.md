@@ -1,1 +1,2 @@
-- salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/ (score 4)
+- chore(main): release cua-driver-rs 0.49.9 (#7691) — https://github.com/trycua/cua/commit/7239c061386959b6e89212796fb7b13c15ff08a5 (score 5)
+- ERNIE 5.5 Flash Base · ERNIE — https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/ (score 4)
