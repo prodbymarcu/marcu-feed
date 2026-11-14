@@ -1,1 +1,1 @@
-- Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event — https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/ (score 11)
+- LLM's might be bad at jokes but they still make me laugh a lot — https://www.reddit.com/r/LocalLLaMA/comments/1xvsi2i/llms_might_be_bad_at_jokes_but_they_still_make_me/ (score 4)
