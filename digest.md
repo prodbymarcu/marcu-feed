@@ -1,1 +1,1 @@
-- Vellium 1.9.5: visual novels that actually work on a 12B local model — https://www.reddit.com/r/LocalLLaMA/comments/1xvihou/vellium_195_visual_novels_that_actually_work_on_a/ (score 8)
+- modules for my opensource (GPL3) harness have evolved to the point where this is possible. this is a full fledged videog — https://www.reddit.com/r/LocalLLaMA/comments/1xvbq3s/modules_for_my_opensource_gpl3_harness_have/ (score 6)
