@@ -1,1 +1,2 @@
-- Computer use programs/Pi extensions — https://www.reddit.com/r/LocalLLaMA/comments/1xvfg2n/computer_use_programspi_extensions/ (score 19)
+- Voice dictation with one model. — https://www.reddit.com/r/LocalLLaMA/comments/1xvia6x/voice_dictation_with_one_model/ (score 11)
+- chore(cua-driver): advance published installer version to 0.49.8 (#7685) — https://github.com/trycua/cua/commit/c372e5fb2bae944974e903fbf117c61f4ced696e (score 5)
