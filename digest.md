@@ -1,2 +1,1 @@
-- SPARK 2.6 4b and 1.7b Fixed a reasoning loop by editing one row of weights. — https://www.reddit.com/r/LocalLLaMA/comments/1xvwi81/spark_26_4b_and_17b_fixed_a_reasoning_loop_by/ (score 9)
-- Curated list of resources: Theory, Code and math for Reinforcement Learning for beginners — https://www.reddit.com/r/LocalLLaMA/comments/1xvwuhi/curated_list_of_resources_theory_code_and_math/ (score 4)
+- Do you believe there will be a divergence between local and frontier model power? — https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/ (score 6)
