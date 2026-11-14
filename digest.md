@@ -1,1 +1,1 @@
-- server : Fix connection reuse after streamed responses (#30492) — https://github.com/ggml-org/llama.cpp/commit/cf9a9957dae4801dde95d174ec1ac1b4cac84bf8 (score 2)
+- feat: add Inkling 2 support (text + vision) (#32217) — https://github.com/ggml-org/llama.cpp/commit/5c008e00085f4d3e394f9a1be649284999de1326 (score 8)

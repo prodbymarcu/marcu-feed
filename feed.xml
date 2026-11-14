@@ -1,9 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server : Fix connection reuse after streamed responses (#30492)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/cf9a9957dae4801dde95d174ec1ac1b4cac84bf8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cf9a9957dae4801dde95d174ec1ac1b4cac84bf8</guid>
-      <pubDate>Sat, 14 Nov 2026 18:43:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : Fix connection reuse after streamed responses (#30492)
+      <title>feat: add Inkling 2 support (text + vision) (#32217)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/5c008e00085f4d3e394f9a1be649284999de1326</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5c008e00085f4d3e394f9a1be649284999de1326</guid>
+      <pubDate>Sat, 14 Nov 2026 18:59:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat: add Inkling 2 support (text + vision) (#32217)
 
-Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
+* convert : add Inkling2 text GGUF conversion
+
+Assisted-by: Codex
+
+* llama : implement Inkling2 text inference
+
+Assisted-by: Codex
+
+* tests : | why kept: codex, quant, inference, llama</description>
     </item></channel></rss>
