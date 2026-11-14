@@ -1,1 +1,2 @@
-- Do you believe there will be a divergence between local and frontier model power? — https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/ (score 6)
+- Nace quants vs Unsloth Dynamic v3.1, has anyone compared them on actual tasks? — https://www.reddit.com/r/LocalLLaMA/comments/1xvz070/nace_quants_vs_unsloth_dynamic_v31_has_anyone/ (score 16)
+- ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0) — https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/ (score 8)

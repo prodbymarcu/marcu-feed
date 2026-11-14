@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Do you believe there will be a divergence between local and frontier model power?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvsp7p/do_you_believe_there_will_be_a_divergence_between/</link>
-      <guid isPermaLink="false">t3_1xvsp7p</guid>
-      <pubDate>Sat, 14 Nov 2026 11:29:30 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Right now, local models have somewhat kept up with frontier, being months behind last frontier models.&lt;/p&gt; &lt;p&gt;The issue is, I think the divide is going to be end up being hardware. Model improvements will s | why kept: model, local, hardware</description>
+      <title>Nace quants vs Unsloth Dynamic v3.1, has anyone compared them on actual tasks?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvz070/nace_quants_vs_unsloth_dynamic_v31_has_anyone/</link>
+      <guid isPermaLink="false">t3_1xvz070</guid>
+      <pubDate>Sat, 14 Nov 2026 11:45:53 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Two quant updates landed in the last day: the Nace weight-space quants claiming up to 2x better KL divergence, and Unsloth&amp;#39;s Dynamic v3.1 for Qwen3.8-27B. I&amp;#39;ve been trying to work out how much KL re | why kept: unsloth, qwen, qwen, quant, tool call</description>
+    </item>
+    <item>
+      <title>ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/</link>
+      <guid isPermaLink="false">t3_1xw29ic</guid>
+      <pubDate>Sat, 14 Nov 2026 11:45:53 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/tNL8sxlmgIr7QjVf7YyfHRotEiljivEqGKO122QDvFg.png?width=640&amp;amp;crop=sm | why kept: model, agent, local, llama</description>
     </item></channel></rss>
