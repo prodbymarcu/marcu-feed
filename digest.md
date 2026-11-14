@@ -1,1 +1,1 @@
-- Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B) — https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/ (score 13)
+- chore(main): release cua-driver-rs 0.49.10 (#7706) — https://github.com/trycua/cua/commit/fb2b0df98ef42d8f9c4bbb4a2b447a3e9e3ed3f4 (score 5)

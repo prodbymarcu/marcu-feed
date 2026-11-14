@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/</link>
-      <guid isPermaLink="false">t3_1xvxyhj</guid>
-      <pubDate>Sat, 14 Nov 2026 05:05:40 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/mgob4mdonj1i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8c19109de59be | why kept: qwen, model, qwen, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.49.10 (#7706)</title>
+      <link>https://github.com/trycua/cua/commit/fb2b0df98ef42d8f9c4bbb4a2b447a3e9e3ed3f4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fb2b0df98ef42d8f9c4bbb4a2b447a3e9e3ed3f4</guid>
+      <pubDate>Sat, 14 Nov 2026 05:21:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.49.10 (#7706)
+
+* chore(main): release cua-driver-rs 0.49.10
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>
