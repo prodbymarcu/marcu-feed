@@ -1,4 +1,1 @@
-- Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support — https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/ (score 8)
-- Ai Rig finally done and stable, perfect winter heater — https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/ (score 6)
-- chore(main): release sandbox 0.11.4 (#7770) — https://github.com/trycua/cua/commit/3d0e5c6e52864f10bb4db5a97753fff283babaeb (score 5)
-- chore(main): release bench 0.4.6 (#7769) — https://github.com/trycua/cua/commit/3e6a6b412ca2b35d31201732c1bf1ac8b30ca19a (score 5)
+- chore(main): release cua-driver-rs 0.50.0 (#7753) — https://github.com/trycua/cua/commit/ba69f28b4c2880501abe22d2761fd58405b40ec1 (score 5)

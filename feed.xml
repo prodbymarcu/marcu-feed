@@ -1,44 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/</link>
-      <guid isPermaLink="false">t3_1xwan2j</guid>
-      <pubDate>Sat, 14 Nov 2026 15:31:57 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Quick update on tandem.cpp, my patch set for llama.cpp that runs MoE models too big for your VRAM faster. It keeps the hot experts on the GPU and lets the CPU help with the rest. Repo: &lt;a href=&quot;https://gith | why kept: model, runs, quant, llama</description>
-    </item>
-    <item>
-      <title>Ai Rig finally done and stable, perfect winter heater</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/</link>
-      <guid isPermaLink="false">t3_1xwc3m7</guid>
-      <pubDate>Sat, 14 Nov 2026 15:31:57 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/222u81unwm1i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e76a2e5b9f3339 | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release sandbox 0.11.4 (#7770)</title>
-      <link>https://github.com/trycua/cua/commit/3d0e5c6e52864f10bb4db5a97753fff283babaeb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3d0e5c6e52864f10bb4db5a97753fff283babaeb</guid>
-      <pubDate>Sat, 14 Nov 2026 15:31:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.4 (#7770)
+      <title>chore(main): release cua-driver-rs 0.50.0 (#7753)</title>
+      <link>https://github.com/trycua/cua/commit/ba69f28b4c2880501abe22d2761fd58405b40ec1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ba69f28b4c2880501abe22d2761fd58405b40ec1</guid>
+      <pubDate>Sat, 14 Nov 2026 15:47:31 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.50.0 (#7753)
 
-* chore(main): release sandbox 0.11.4
+* chore(main): release cua-driver-rs 0.50.0
 
-* chore(sandbox): synchronize release metadata
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release bench 0.4.6 (#7769)</title>
-      <link>https://github.com/trycua/cua/commit/3e6a6b412ca2b35d31201732c1bf1ac8b30ca19a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3e6a6b412ca2b35d31201732c1bf1ac8b30ca19a</guid>
-      <pubDate>Sat, 14 Nov 2026 15:31:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.6 (#7769)
-
-* chore(main): release bench 0.4.6
-
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
