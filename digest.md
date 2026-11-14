@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.49.10 (#7706) — https://github.com/trycua/cua/commit/fb2b0df98ef42d8f9c4bbb4a2b447a3e9e3ed3f4 (score 5)
+- sensenova/SenseNova-Loop-9B-Preview · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/ (score 13)
