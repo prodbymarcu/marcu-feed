@@ -1,2 +1,1 @@
-- convert : pplx-decider must match qwen3.5 model_type (#32156) — https://github.com/ggml-org/llama.cpp/commit/a9a5d216e620fe6166d1ab53adf7fdd82962c94c (score 11)
-- The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware — https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/ (score 6)
+- chore(cua-driver): advance published installer version to 0.49.11 (#7… — https://github.com/trycua/cua/commit/362e57ae539ca93a9b4019732ccba04cd335dcae (score 5)
