@@ -1,1 +1,2 @@
-- I ran the same Halloween animation prompt through five coding agents on one local Qwen model — https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/ (score 17)
+- DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance — https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/ (score 11)
+- Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a des — https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/ (score 8)

@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I ran the same Halloween animation prompt through five coding agents on one local Qwen model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/</link>
-      <guid isPermaLink="false">t3_1xv5dsb</guid>
-      <pubDate>Fri, 13 Nov 2026 18:40:35 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/emtoZjFyMjk3ZDFpMRdArGDjp4CG7e6A0uKu1M5VYrpmR7j769tX6vVE0LXE.png? | why kept: qwen, model, agent, claude, qwen, local</description>
+      <title>DeepSeek v4.1 Flash vs Qwen 3.8 Flash Next Performance</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/</link>
+      <guid isPermaLink="false">t3_1xvhzq9</guid>
+      <pubDate>Fri, 13 Nov 2026 19:28:46 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvhzq9/deepseek_v41_flash_vs_qwen_38_flash_next/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/vag2yxzipf1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5a6e9ada3d38357eaac1 | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a desktop CPU</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/</link>
+      <guid isPermaLink="false">t3_1xvdmzb</guid>
+      <pubDate>Fri, 13 Nov 2026 19:28:46 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;We just released Tontaube V1.1, a text-to-speech model built for long-form audio (audiobooks, articles, voice agents) with zero-shot voice cloning. Our previous V1 release needed a lot of VRAM because of it | why kept: model, agent, voice, runs</description>
     </item></channel></rss>
