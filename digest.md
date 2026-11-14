@@ -1,2 +1,2 @@
-- Voice dictation with one model. — https://www.reddit.com/r/LocalLLaMA/comments/1xvia6x/voice_dictation_with_one_model/ (score 11)
-- chore(cua-driver): advance published installer version to 0.49.8 (#7685) — https://github.com/trycua/cua/commit/c372e5fb2bae944974e903fbf117c61f4ced696e (score 5)
+- Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, — https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/ (score 4)
+- mi50 32gb or v100 32gb? — https://www.reddit.com/r/LocalLLaMA/comments/1xv1opf/mi50_32gb_or_v100_32gb/ (score 4)
