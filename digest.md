@@ -1,1 +1,1 @@
-- spec + model: refactor DFlash based speculative decoding methods  (#3… — https://github.com/ggml-org/llama.cpp/commit/32bdc3a89e6528d3e419024c833c5dabf32c7541 (score 4)
+- fix(core): upgrade dnspython and the OpenTelemetry stack (CVE-2026-12… — https://github.com/trycua/cua/commit/79c4a8dd7e0de599cd29739f6c04523aca54835c (score 2)

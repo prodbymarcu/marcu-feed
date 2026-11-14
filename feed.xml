@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>spec + model: refactor DFlash based speculative decoding methods  (#3…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/32bdc3a89e6528d3e419024c833c5dabf32c7541</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/32bdc3a89e6528d3e419024c833c5dabf32c7541</guid>
-      <pubDate>Sat, 14 Nov 2026 04:01:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;spec + model: refactor DFlash based speculative decoding methods  (#32016)
+      <title>fix(core): upgrade dnspython and the OpenTelemetry stack (CVE-2026-12…</title>
+      <link>https://github.com/trycua/cua/commit/79c4a8dd7e0de599cd29739f6c04523aca54835c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/79c4a8dd7e0de599cd29739f6c04523aca54835c</guid>
+      <pubDate>Sat, 14 Nov 2026 04:17:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(core): upgrade dnspython and the OpenTelemetry stack (CVE-2026-128089, CVE-2026-126360) (#7699)
 
-* dflash : move the DSpark markov head and backbone graphs to dspark.cpp
-
-Move-only: build_dspark_markov_head, graph_ds | why kept: model, llama</description>
+dnspython 2.8.0 -&amp;gt; 2.9.2 and opentelemetry api/sdk/exporters/proto 1.37-1.44 -&amp;gt; 1.45.2 a | why kept: claude</description>
     </item></channel></rss>
