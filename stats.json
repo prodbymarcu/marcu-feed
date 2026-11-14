@@ -1,16 +1,17 @@
 {
- "fetched": 190,
- "new": 4,
+ "fetched": 180,
+ "new": 6,
  "dropped_kill": 0,
- "dropped_low": 2,
+ "dropped_low": 6,
  "errors": [
-  "ml-community: <HTTPError 429: 'Too Many Requests'>"
+  "ml-community: <HTTPError 429: 'Too Many Requests'>",
+  "mlx-releases: IncompleteRead(768760 bytes read, 15371 more expected)"
  ],
  "brain": {
   "sent": 0,
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 2,
- "at": "2026-11-14T18:06:19Z"
+ "kept": 0,
+ "at": "2026-11-14T18:22:34Z"
 }
