@@ -1,1 +1,1 @@
-- [Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents — https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/ (score 6)
+- chore(cua-driver): advance published installer version to 0.49.9 (#7692) — https://github.com/trycua/cua/commit/069a91abdfbc7f1e65d2dad0a835d29b39a3b7ce (score 5)
