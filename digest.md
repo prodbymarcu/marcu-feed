@@ -1,2 +1,2 @@
-- How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models? — https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/ (score 13)
-- mtmd : allow custom video decoder (#32188) — https://github.com/ggml-org/llama.cpp/commit/e3483e40b02326383a54a23ae71f2bfa9f81181a (score 4)
+- convert : pplx-decider must match qwen3.5 model_type (#32156) — https://github.com/ggml-org/llama.cpp/commit/a9a5d216e620fe6166d1ab53adf7fdd82962c94c (score 11)
+- The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware — https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/ (score 6)
