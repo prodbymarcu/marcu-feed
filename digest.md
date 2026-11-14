@@ -1,2 +1,1 @@
-- Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, — https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/ (score 4)
-- mi50 32gb or v100 32gb? — https://www.reddit.com/r/LocalLLaMA/comments/1xv1opf/mi50_32gb_or_v100_32gb/ (score 4)
+- salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/ (score 4)
