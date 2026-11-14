@@ -1,15 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.50.0 (#7753)</title>
-      <link>https://github.com/trycua/cua/commit/ba69f28b4c2880501abe22d2761fd58405b40ec1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ba69f28b4c2880501abe22d2761fd58405b40ec1</guid>
-      <pubDate>Sat, 14 Nov 2026 15:47:31 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.50.0 (#7753)
+      <title>feat(cua-driver): shorter shared parameter descriptions (#7765)</title>
+      <link>https://github.com/trycua/cua/commit/efec1417472f1cfd72ad5d83fe0d57e20aeedea9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/efec1417472f1cfd72ad5d83fe0d57e20aeedea9</guid>
+      <pubDate>Sat, 14 Nov 2026 16:19:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): shorter shared parameter descriptions (#7765)
 
-* chore(main): release cua-driver-rs 0.50.0
+* feat(cua-driver): shorter shared parameter descriptions
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+The session, post_action_wait, element_token and generic delivery_mode
+ | why kept: agent</description>
     </item></channel></rss>

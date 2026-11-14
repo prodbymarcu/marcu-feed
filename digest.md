@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.50.0 (#7753) — https://github.com/trycua/cua/commit/ba69f28b4c2880501abe22d2761fd58405b40ec1 (score 5)
+- feat(cua-driver): shorter shared parameter descriptions (#7765) — https://github.com/trycua/cua/commit/efec1417472f1cfd72ad5d83fe0d57e20aeedea9 (score 2)
