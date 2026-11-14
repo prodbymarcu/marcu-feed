@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.49.12 (#7733) — https://github.com/trycua/cua/commit/31185b10a5166880c450f2139c102b1726837f5a (score 5)
+- Why don’t we have national open AI models? — https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/ (score 6)
