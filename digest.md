@@ -1,1 +1,2 @@
-- ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0) — https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/ (score 8)
+- qwen2vl : apply FFN weight scales (#32241) — https://github.com/ggml-org/llama.cpp/commit/d0764c5ee23a889680147c9342d2b9002cb87b82 (score 9)
+- tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU — https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/ (score 6)

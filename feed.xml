@@ -1,7 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ARC 1.0: A decision model for routing AI agents across cloud and local models (0.6B, Apache 2.0)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/</link>
-      <guid isPermaLink="false">t3_1xw29ic</guid>
-      <pubDate>Sat, 14 Nov 2026 12:50:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw29ic/arc_10_a_decision_model_for_routing_ai_agents/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/tNL8sxlmgIr7QjVf7YyfHRotEiljivEqGKO122QDvFg.png?width=640&amp;amp;crop=sm | why kept: model, agent, local, llama</description>
+      <title>qwen2vl : apply FFN weight scales (#32241)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d0764c5ee23a889680147c9342d2b9002cb87b82</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d0764c5ee23a889680147c9342d2b9002cb87b82</guid>
+      <pubDate>Sat, 14 Nov 2026 13:06:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen2vl : apply FFN weight scales (#32241)
+
+The qwen2vl graph passed NULL for the ffn_up/gate/down scales, so the
+per-tensor NVFP4 scales loaded by the generic pass were never applied
+and the mod | why kept: qwen, model, qwen</description>
+    </item>
+    <item>
+      <title>tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/</link>
+      <guid isPermaLink="false">t3_1xw7zrg</guid>
+      <pubDate>Sat, 14 Nov 2026 13:06:19 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I made a small English text-to-speech model called tiny-voca. It has 4.5M parameters, two voices, and it runs in your browser. &lt;/p&gt; &lt;p&gt;Try it here, nothing is sent to a server: &lt;a href=&quot;https://tiny-voca.n4 | why kept: model, voice, runs</description>
     </item></channel></rss>
