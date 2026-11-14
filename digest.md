@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.49.9 (#7692) — https://github.com/trycua/cua/commit/069a91abdfbc7f1e65d2dad0a835d29b39a3b7ce (score 5)
+- Crazy there's a probable connection between my desktop running Qwen 3.8 27B and a major geo-economic-political event — https://www.reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my/ (score 11)
