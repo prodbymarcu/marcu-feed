@@ -1,14 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Qwen 3.8 Flash Next for gamedev - it&#x27;s very capable!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/</link>
-      <guid isPermaLink="false">t3_1xvyol3</guid>
-      <pubDate>Sat, 14 Nov 2026 06:57:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5pz45e1uoj1i1.png?width=140&amp;amp;height=69&amp;amp;auto=webp&amp;amp;s=dd459a0bc9437d | why kept: qwen, qwen, local, llama</description>
+      <title>fix(spaces-macos): bundle Cua Driver 0.49.10 in Cua Spaces (#7720)</title>
+      <link>https://github.com/trycua/cua/commit/91c6a18a97c45b27a179ddbbff964f3a9c276a62</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/91c6a18a97c45b27a179ddbbff964f3a9c276a62</guid>
+      <pubDate>Sat, 14 Nov 2026 07:13:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.49.10 in Cua Spaces (#7720)
+
+Cua Driver 0.49.10 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
     </item>
     <item>
-      <title>Is anyone using decision models as a permission checker?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvxziy/is_anyone_using_decision_models_as_a_permission/</link>
-      <guid isPermaLink="false">t3_1xvxziy</guid>
-      <pubDate>Sat, 14 Nov 2026 06:57:15 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Don&amp;#39;t run with dangerous full permissions, unless you are prepared to let the agent fuck your shit up. So says conventional wisdom.&lt;/p&gt; &lt;p&gt;But also, I am definitely running with full permissions. When I | why kept: model, agent</description>
+      <title>chore(cua-driver): advance published installer version to 0.49.10 (#7…</title>
+      <link>https://github.com/trycua/cua/commit/31b182b1c50ac3f286031b18ec22dda3fa85a14c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/31b182b1c50ac3f286031b18ec22dda3fa85a14c</guid>
+      <pubDate>Sat, 14 Nov 2026 07:13:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.49.10 (#7719)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Why are LLMs still so bad at jokes?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvm8r3/why_are_llms_still_so_bad_at_jokes/</link>
+      <guid isPermaLink="false">t3_1xvm8r3</guid>
+      <pubDate>Sat, 14 Nov 2026 07:13:39 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I remembered that this was one of my evaluation approaches from 2 years ago to test a model&amp;#39;s general capability. I remember wondering in the near future how bad things could get if models could begin t | why kept: model</description>
     </item></channel></rss>

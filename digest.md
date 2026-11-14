@@ -1,2 +1,3 @@
-- Qwen 3.8 Flash Next for gamedev - it's very capable! — https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/ (score 11)
-- Is anyone using decision models as a permission checker? — https://www.reddit.com/r/LocalLLaMA/comments/1xvxziy/is_anyone_using_decision_models_as_a_permission/ (score 4)
+- fix(spaces-macos): bundle Cua Driver 0.49.10 in Cua Spaces (#7720) — https://github.com/trycua/cua/commit/91c6a18a97c45b27a179ddbbff964f3a9c276a62 (score 5)
+- chore(cua-driver): advance published installer version to 0.49.10 (#7… — https://github.com/trycua/cua/commit/31b182b1c50ac3f286031b18ec22dda3fa85a14c (score 5)
+- Why are LLMs still so bad at jokes? — https://www.reddit.com/r/LocalLLaMA/comments/1xvm8r3/why_are_llms_still_so_bad_at_jokes/ (score 2)
