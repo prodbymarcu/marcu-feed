@@ -1,2 +1,1 @@
-- qwen2vl : apply FFN weight scales (#32241) — https://github.com/ggml-org/llama.cpp/commit/d0764c5ee23a889680147c9342d2b9002cb87b82 (score 9)
-- tiny-voca: a fully open 4.5M-parameter TTS (code, weights, dataset). Runs 70x real time on a CPU — https://www.reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code/ (score 6)
+- Jensen thought he saved the world, 3 weeks later he resigned — https://www.reddit.com/r/LocalLLaMA/comments/1xw9fsu/jensen_thought_he_saved_the_world_3_weeks_later/ (score 4)
