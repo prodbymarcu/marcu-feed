@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.49.9 (#7691) — https://github.com/trycua/cua/commit/7239c061386959b6e89212796fb7b13c15ff08a5 (score 5)
-- ERNIE 5.5 Flash Base · ERNIE — https://www.reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie/ (score 4)
+- [Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents — https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/ (score 6)
