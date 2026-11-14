@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>sensenova/SenseNova-Loop-9B-Preview · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xvysss</guid>
-      <pubDate>Sat, 14 Nov 2026 06:09:12 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/DqBmCaAAmzoPzVI5jKHVNZIyeRH4YfAj8DA19YtD19I.png?width=640&amp;amp;crop=sma | why kept: qwen, model, qwen, local, llama</description>
+      <title>Qwen 3.8 Flash Next for gamedev - it&#x27;s very capable!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/</link>
+      <guid isPermaLink="false">t3_1xvyol3</guid>
+      <pubDate>Sat, 14 Nov 2026 06:57:15 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5pz45e1uoj1i1.png?width=140&amp;amp;height=69&amp;amp;auto=webp&amp;amp;s=dd459a0bc9437d | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Is anyone using decision models as a permission checker?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvxziy/is_anyone_using_decision_models_as_a_permission/</link>
+      <guid isPermaLink="false">t3_1xvxziy</guid>
+      <pubDate>Sat, 14 Nov 2026 06:57:15 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Don&amp;#39;t run with dangerous full permissions, unless you are prepared to let the agent fuck your shit up. So says conventional wisdom.&lt;/p&gt; &lt;p&gt;But also, I am definitely running with full permissions. When I | why kept: model, agent</description>
     </item></channel></rss>

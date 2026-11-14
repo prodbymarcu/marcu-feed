@@ -1,1 +1,2 @@
-- sensenova/SenseNova-Loop-9B-Preview · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face/ (score 13)
+- Qwen 3.8 Flash Next for gamedev - it's very capable! — https://www.reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable/ (score 11)
+- Is anyone using decision models as a permission checker? — https://www.reddit.com/r/LocalLLaMA/comments/1xvxziy/is_anyone_using_decision_models_as_a_permission/ (score 4)
