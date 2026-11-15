@@ -1,1 +1,1 @@
-- RustingStrata runs Flint 40B on a 12 GB card: 64 tok/s decode, 1.3x llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xw5nzn/rustingstrata_runs_flint_40b_on_a_12_gb_card_64/ (score 6)
+- chore(main): release cua-driver-rs 0.51.4 (#7812) — https://github.com/trycua/cua/commit/436cc8f80863ea8258781007778b7ba2adb0876b (score 5)
