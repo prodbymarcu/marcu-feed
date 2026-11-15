@@ -1,1 +1,2 @@
-- chore(main): release cua-sdk 0.27.7 (#7872) — https://github.com/trycua/cua/commit/a459181d859143d33beffb21c654eb33d756012b (score 5)
+- I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the  — https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/ (score 8)
+- Someone should do an analysis on the rate of Self-promo here. — https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/ (score 4)
