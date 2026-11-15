@@ -1,2 +1,1 @@
-- ANT is going to see some crazy action when Qwen 4 releases. — https://www.reddit.com/r/LocalLLaMA/comments/1xx3xv6/ant_is_going_to_see_some_crazy_action_when_qwen_4/ (score 11)
-- fix(cua-driver): pin that the desktop lane frees before the detached … — https://github.com/trycua/cua/commit/1f9b3184d3978c11ca06b121aee27e4b284275f9 (score 4)
+- chore(main): release cua-sdk 0.27.6 (#7862) — https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491 (score 5)

@@ -1,17 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ANT is going to see some crazy action when Qwen 4 releases.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx3xv6/ant_is_going_to_see_some_crazy_action_when_qwen_4/</link>
-      <guid isPermaLink="false">t3_1xx3xv6</guid>
-      <pubDate>Sun, 15 Nov 2026 15:01:44 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx3xv6/ant_is_going_to_see_some_crazy_action_when_qwen_4/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/k41x2co7st1i1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0e587de995 | why kept: qwen, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): pin that the desktop lane frees before the detached …</title>
-      <link>https://github.com/trycua/cua/commit/1f9b3184d3978c11ca06b121aee27e4b284275f9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1f9b3184d3978c11ca06b121aee27e4b284275f9</guid>
-      <pubDate>Sun, 15 Nov 2026 15:01:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): pin that the desktop lane frees before the detached window watch (#7858)
+      <title>chore(main): release cua-sdk 0.27.6 (#7862)</title>
+      <link>https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6a5a8564de0ee3d35419e1f64157bda6101c8491</guid>
+      <pubDate>Sun, 15 Nov 2026 15:17:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.6 (#7862)
 
-A macOS action holds the process-wide desktop lane through its input and
-report window only. The rest of | why kept: runs, free</description>
+* chore(main): release cua-sdk 0.27.6
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
