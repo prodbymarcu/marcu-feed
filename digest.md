@@ -1,2 +1,3 @@
-- fix(cua-sandbox): allow cua-driver 0.51 (#7781) — https://github.com/trycua/cua/commit/1569bea5977d61d38b5f341bb7632cc809e2f464 (score 7)
-- fix(spaces-macos): bundle cua 0.27.5 in Cua Spaces (#7779) — https://github.com/trycua/cua/commit/5a5080666b7149105ac4232f9b103208f5f61132 (score 5)
+- datasette-llm 0.1a11 — https://simonwillison.net/2026/Nov/14/datasette-llm/ (score 6)
+- chore(main): release sandbox 0.11.5 (#7785) — https://github.com/trycua/cua/commit/80c5fdfc8d4a863b5670dfa3874dd432d567586b (score 5)
+- chore(main): release bench 0.4.7 (#7784) — https://github.com/trycua/cua/commit/c35b9bbf1716ee37ad7baf2bd17850d958fde977 (score 5)

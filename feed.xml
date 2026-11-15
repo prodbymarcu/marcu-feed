@@ -1,20 +1,38 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-sandbox): allow cua-driver 0.51 (#7781)</title>
-      <link>https://github.com/trycua/cua/commit/1569bea5977d61d38b5f341bb7632cc809e2f464</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1569bea5977d61d38b5f341bb7632cc809e2f464</guid>
-      <pubDate>Sat, 14 Nov 2026 19:31:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): allow cua-driver 0.51 (#7781)
-
-Raise the cua-sandbox driver extra to &amp;gt;=0.37.0,&amp;lt;0.52 so the cua-driver 0.51.0 release PR passes the driver range test.
-
-Co-authored-by: Fran | why kept: trycua, claude</description>
+      <title>datasette-llm 0.1a11</title>
+      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
+      <pubDate>Sat, 14 Nov 2026 19:47:41 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-llm/releases/tag/0.1a11&quot;&gt;datasette-llm 0.1a11&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;code&gt;datasette-llm&lt;/code&gt; is the intermediate plugin for Datasette that supports configuring LLMs | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>fix(spaces-macos): bundle cua 0.27.5 in Cua Spaces (#7779)</title>
-      <link>https://github.com/trycua/cua/commit/5a5080666b7149105ac4232f9b103208f5f61132</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a5080666b7149105ac4232f9b103208f5f61132</guid>
-      <pubDate>Sat, 14 Nov 2026 19:31:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.5 in Cua Spaces (#7779)
+      <title>chore(main): release sandbox 0.11.5 (#7785)</title>
+      <link>https://github.com/trycua/cua/commit/80c5fdfc8d4a863b5670dfa3874dd432d567586b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/80c5fdfc8d4a863b5670dfa3874dd432d567586b</guid>
+      <pubDate>Sat, 14 Nov 2026 19:47:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.5 (#7785)
 
-cua 0.27.5 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+* chore(main): release sandbox 0.11.5
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release bench 0.4.7 (#7784)</title>
+      <link>https://github.com/trycua/cua/commit/c35b9bbf1716ee37ad7baf2bd17850d958fde977</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c35b9bbf1716ee37ad7baf2bd17850d958fde977</guid>
+      <pubDate>Sat, 14 Nov 2026 19:47:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.7 (#7784)
+
+* chore(main): release bench 0.4.7
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
     </item></channel></rss>
