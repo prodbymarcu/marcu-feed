@@ -1,3 +1,1 @@
-- Nace quants vs Unsloth Dynamic v3.1, has anyone compared them on actual tasks? — https://www.reddit.com/r/LocalLLaMA/comments/1xvz070/nace_quants_vs_unsloth_dynamic_v31_has_anyone/ (score 16)
-- My LumaBrowser project is nearing 150 stars on Github! Not a big accomplishment I know, but in return here is a video sh — https://www.reddit.com/r/LocalLLaMA/comments/1xw8af1/my_lumabrowser_project_is_nearing_150_stars_on/ (score 8)
-- fix(cua-driver): refuse a live label held by another transport with s… — https://github.com/trycua/cua/commit/ac9c092abfc29517ec6e63513ad675a73f019b77 (score 2)
+- chore(main): release cua-driver-rs 0.51.5 (#7815) — https://github.com/trycua/cua/commit/22784304d73be28e3bfaf0268886b08cafaa66d7 (score 5)
