@@ -1,2 +1,3 @@
-- Ninfer and GGUF of Qwen3.8-27B-UD-Q3_K_XL ASCII-Condensed — https://www.reddit.com/r/LocalLLaMA/comments/1xwx74l/ninfer_and_gguf_of_qwen3827budq3_k_xl/ (score 12)
-- Vimoo 1.0 - a Vimoo-AI Collection - Open-source video generation model family for text-to-video (T2V) and image-to-video — https://www.reddit.com/r/LocalLLaMA/comments/1xwwqwz/vimoo_10_a_vimooai_collection_opensource_video/ (score 8)
+- Probable GLM model — https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/ (score 6)
+- X3Guard: A 150M parameter prompt guard — https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/ (score 6)
+- I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! ! — https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/ (score 4)

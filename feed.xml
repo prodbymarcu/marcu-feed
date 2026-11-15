@@ -1,14 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Ninfer and GGUF of Qwen3.8-27B-UD-Q3_K_XL ASCII-Condensed</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwx74l/ninfer_and_gguf_of_qwen3827budq3_k_xl/</link>
-      <guid isPermaLink="false">t3_1xwx74l</guid>
-      <pubDate>Sun, 15 Nov 2026 11:01:45 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;I&amp;#39;ve put on HF a condensed version of Unsloth Q3_K_XL &lt;a href=&quot;https://github.com/bsaleh03/ASCII-Condensed-prune-tools&quot;&gt;ASCII-Condensed&lt;/a&gt; from bsaleh03 with only ASCII + Latin-1 / Latin-Ext | why kept: unsloth, qwen, qwen</description>
+      <title>Probable GLM model</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/</link>
+      <guid isPermaLink="false">t3_1xwy3ka</guid>
+      <pubDate>Sun, 15 Nov 2026 11:17:16 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/k7ife2j2ms1i1.png?width=140&amp;amp;height=126&amp;amp;auto=webp&amp;amp;s=912371f57bce10bb7c9ef8dd5620fca1437a65a5&quot;  | why kept: model, local, llama</description>
     </item>
     <item>
-      <title>Vimoo 1.0 - a Vimoo-AI Collection - Open-source video generation model family for text-to-video (T2V) and image-to-video (I2V)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwwqwz/vimoo_10_a_vimooai_collection_opensource_video/</link>
-      <guid isPermaLink="false">t3_1xwwqwz</guid>
-      <pubDate>Sun, 15 Nov 2026 11:01:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwwqwz/vimoo_10_a_vimooai_collection_opensource_video/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/HMUFUWYUUi-U5b8LIU6kPYOp5CnJybhIVC5Rc0siyYE.png?width=640&amp;amp;crop=s | why kept: model, video, local, llama</description>
+      <title>X3Guard: A 150M parameter prompt guard</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/</link>
+      <guid isPermaLink="false">t3_1xwyp7w</guid>
+      <pubDate>Sun, 15 Nov 2026 11:17:16 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/QdEHuI6FFlBhZWTdrklytnmg96jkIWYTksNjqVqRTrs.png?width=640&amp;amp;crop=smart&amp;amp; | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/</link>
+      <guid isPermaLink="false">t3_1xwxzgj</guid>
+      <pubDate>Sun, 15 Nov 2026 11:17:16 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qop0ivudms1i1.jpeg?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=6313b380dd9d1 | why kept: local, llama</description>
     </item></channel></rss>
