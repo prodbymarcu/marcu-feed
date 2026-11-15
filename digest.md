@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.51.4 (#7812) — https://github.com/trycua/cua/commit/436cc8f80863ea8258781007778b7ba2adb0876b (score 5)
+- I know it’s very expensive but is anyone using a dgx station b300 ? Is it that good for local llms ? — https://www.reddit.com/r/LocalLLaMA/comments/1xw2ter/i_know_its_very_expensive_but_is_anyone_using_a/ (score 4)

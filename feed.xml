@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.51.4 (#7812)</title>
-      <link>https://github.com/trycua/cua/commit/436cc8f80863ea8258781007778b7ba2adb0876b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/436cc8f80863ea8258781007778b7ba2adb0876b</guid>
-      <pubDate>Sun, 15 Nov 2026 02:28:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.51.4 (#7812)
-
-* chore(main): release cua-driver-rs 0.51.4
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>I know it’s very expensive but is anyone using a dgx station b300 ? Is it that good for local llms ?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw2ter/i_know_its_very_expensive_but_is_anyone_using_a/</link>
+      <guid isPermaLink="false">t3_1xw2ter</guid>
+      <pubDate>Sun, 15 Nov 2026 02:44:16 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’d like to know what real users get out of them, speed wise and also concurrent users.&lt;br/&gt; I’m talking about the workstation not the data center dgx b300 of course :)&lt;br/&gt; Thanks !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON -- | why kept: local, llama</description>
     </item></channel></rss>
