@@ -1,2 +1,4 @@
-- Does the new hugging face Llama windows app work? — https://www.reddit.com/r/LocalLLaMA/comments/1xw5an0/does_the_new_hugging_face_llama_windows_app_work/ (score 11)
-- The best (and AMD-est) computer I've ever owned — https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/ (score 4)
+- Best sub 80b total or 6b active MoE for document intelligence? — https://www.reddit.com/r/LocalLLaMA/comments/1xwre6c/best_sub_80b_total_or_6b_active_moe_for_document/ (score 9)
+- EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters — https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/ (score 6)
+- chore(main): release cua-driver-rs 0.51.6 (#7820) — https://github.com/trycua/cua/commit/974d5f149dec52f5119dd76ffd2f9e267ace5eda (score 5)
+- chore(cua-driver): advance published installer version to 0.51.5 (#7817) — https://github.com/trycua/cua/commit/5b3101347386b7efc21bbd6c6e7269acc8cd5d86 (score 5)
