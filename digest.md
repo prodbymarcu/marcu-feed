@@ -1,1 +1,3 @@
-- feat: add Inkling 2 support (text + vision) (#32217) — https://github.com/ggml-org/llama.cpp/commit/5c008e00085f4d3e394f9a1be649284999de1326 (score 8)
+- LFM2.5-24B-A2B + Hermes is awesome! — https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/ (score 11)
+- fix(cua-driver): keep a text row that repeats an unindexed group's na… — https://github.com/trycua/cua/commit/f46065190ac5d0a16583f7f74ea1155762276b86 (score 5)
+- model : metal : workaround fusion for LFM3 (#32296) — https://github.com/ggml-org/llama.cpp/commit/e574a17b062be51b98e239ccd3d3743e3d902333 (score 4)
