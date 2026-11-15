@@ -1,2 +1,2 @@
-- Latest version of strata made my Qwen3.8-Flash-Next dumb and useless — https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/ (score 18)
-- Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace — https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/ (score 4)
+- 13-GPU ASRock Mining Motherboard for Local LLMs? — https://www.reddit.com/r/LocalLLaMA/comments/1xwv5p4/13gpu_asrock_mining_motherboard_for_local_llms/ (score 4)
+- feat(jev-use): stop bounded native no-progress loops (#7834) — https://github.com/trycua/cua/commit/d83e33324c450fc112c68b88b0c7e37cc83fd966 (score 2)

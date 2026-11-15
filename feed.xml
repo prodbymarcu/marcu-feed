@@ -1,14 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Latest version of strata made my Qwen3.8-Flash-Next dumb and useless</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/</link>
-      <guid isPermaLink="false">t3_1xwttcw</guid>
-      <pubDate>Sun, 15 Nov 2026 07:33:18 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/hbwsi2vj5r1i1.png?width=140&amp;amp;height=75&amp;amp;auto=webp&amp;amp;s=38249d6dfb889 | why kept: unsloth, qwen, model, qwen, local, llama</description>
+      <title>13-GPU ASRock Mining Motherboard for Local LLMs?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwv5p4/13gpu_asrock_mining_motherboard_for_local_llms/</link>
+      <guid isPermaLink="false">t3_1xwv5p4</guid>
+      <pubDate>Sun, 15 Nov 2026 08:37:21 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwv5p4/13gpu_asrock_mining_motherboard_for_local_llms/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5hk0ahf60s1i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8d8e5e92356e6 | why kept: local, llama</description>
     </item>
     <item>
-      <title>Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/</link>
-      <guid isPermaLink="false">t3_1xwu5jt</guid>
-      <pubDate>Sun, 15 Nov 2026 07:33:18 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/zwcbeSSTvQticM_NZRUtzACAAhJOcp8aty5HkRRqnWY.png?width=140&amp;amp;height=75&amp;amp;auto | why kept: local, llama</description>
+      <title>feat(jev-use): stop bounded native no-progress loops (#7834)</title>
+      <link>https://github.com/trycua/cua/commit/d83e33324c450fc112c68b88b0c7e37cc83fd966</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d83e33324c450fc112c68b88b0c7e37cc83fd966</guid>
+      <pubDate>Sun, 15 Nov 2026 08:37:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(jev-use): stop bounded native no-progress loops (#7834)
+
+* feat(jev-use): stop bounded native no-progress loops
+
+Native jev-use runs now abstain with reason=no_progress when a short
+window s | why kept: runs</description>
     </item></channel></rss>
