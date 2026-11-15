@@ -1,1 +1,2 @@
-- chore(main): release cua-sdk 0.27.6 (#7862) — https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491 (score 5)
+- MoE offload on a 3090: prefill 345 -> 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B) — https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/ (score 11)
+- mtmd: support higgs v3 STT and vibevoice-ASR (#32329) — https://github.com/ggml-org/llama.cpp/commit/fc504f91d8cfdfcd9b0fedcf14600fd2b0e63420 (score 2)

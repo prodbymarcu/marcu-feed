@@ -1,15 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.27.6 (#7862)</title>
-      <link>https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6a5a8564de0ee3d35419e1f64157bda6101c8491</guid>
-      <pubDate>Sun, 15 Nov 2026 15:17:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.6 (#7862)
+      <title>MoE offload on a 3090: prefill 345 -&gt; 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/</link>
+      <guid isPermaLink="false">t3_1xx1owx</guid>
+      <pubDate>Sun, 15 Nov 2026 15:33:15 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5dlnj6wict1i1.gif?frame=1&amp;amp;width=140&amp;amp;height=45&amp;amp;auto=webp&amp;amp;s=f65b32 | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>mtmd: support higgs v3 STT and vibevoice-ASR (#32329)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/fc504f91d8cfdfcd9b0fedcf14600fd2b0e63420</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fc504f91d8cfdfcd9b0fedcf14600fd2b0e63420</guid>
+      <pubDate>Sun, 15 Nov 2026 15:33:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support higgs v3 STT and vibevoice-ASR (#32329)
 
-* chore(main): release cua-sdk 0.27.6
+* mtmd: support higgs v3 and vibevoice-ASR
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* use proper mapping
 
----------
+* address review comment
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+* nits
+
+* rm hacky get_audio_length, add mtmd_he | why kept: voice</description>
     </item></channel></rss>
