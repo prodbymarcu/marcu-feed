@@ -1,25 +1,37 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release bench 0.4.9 (#7850)</title>
-      <link>https://github.com/trycua/cua/commit/ea37e132e96a9ad3d2e14c8b375d7bd6e9643b6d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ea37e132e96a9ad3d2e14c8b375d7bd6e9643b6d</guid>
-      <pubDate>Sun, 15 Nov 2026 13:41:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.9 (#7850)
+      <title>model : read qwen3vl output head size from the tensor (#32349)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/18b74fa41dcac1f55ae1371fe58153f7225941f6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/18b74fa41dcac1f55ae1371fe58153f7225941f6</guid>
+      <pubDate>Sun, 15 Nov 2026 13:57:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : read qwen3vl output head size from the tensor (#32349)
 
-* chore(main): release bench 0.4.9
-
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
+Allows Qwen3-ForcedAligner, whose output head (5000 timestamp classes) is smaller than the vocab.&lt;/pre&gt; | why kept: qwen, model, qwen</description>
     </item>
     <item>
-      <title>fix(cua-sdk): the per-platform release archives keep cua executable (…</title>
-      <link>https://github.com/trycua/cua/commit/9c31f57bed7abd1e3c3dd668100d88350fa8fd6f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c31f57bed7abd1e3c3dd668100d88350fa8fd6f</guid>
-      <pubDate>Sun, 15 Nov 2026 13:41:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sdk): the per-platform release archives keep cua executable (fixes #5709) (#6866)
+      <title>[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/</link>
+      <guid isPermaLink="false">t3_1xx2vi0</guid>
+      <pubDate>Sun, 15 Nov 2026 13:57:39 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dzlmeXIyamRodDFpMcNJOd1EiFaJC5GTyme9hEuaQy34dVDwhu3zRDsImhkG.png?width=64 | why kept: voice, local, llama</description>
+    </item>
+    <item>
+      <title>mtmd: add zonos3-mini TTS model (#32020)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/7ae3c6b231e38057e825ff257bb734e456633d9a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ae3c6b231e38057e825ff257bb734e456633d9a</guid>
+      <pubDate>Sun, 15 Nov 2026 13:57:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: add zonos3-mini TTS model (#32020)
 
-download-artifact drops file modes, and only the cua-cli archives had the
-executable bit restored, so cu | why kept: claude, runs</description>
+* zonos3 init
+
+* add audio gen pipeline
+
+* fix string_format
+
+* add default voice as gguf metadata
+
+* better ref
+
+* support voice clone
+
+* add delivery p | why kept: model, voice</description>
     </item></channel></rss>

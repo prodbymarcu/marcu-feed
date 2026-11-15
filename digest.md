@@ -1,2 +1,3 @@
-- chore(main): release bench 0.4.9 (#7850) — https://github.com/trycua/cua/commit/ea37e132e96a9ad3d2e14c8b375d7bd6e9643b6d (score 5)
-- fix(cua-sdk): the per-platform release archives keep cua executable (… — https://github.com/trycua/cua/commit/9c31f57bed7abd1e3c3dd668100d88350fa8fd6f (score 4)
+- model : read qwen3vl output head size from the tensor (#32349) — https://github.com/ggml-org/llama.cpp/commit/18b74fa41dcac1f55ae1371fe58153f7225941f6 (score 9)
+- [audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat — https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/ (score 6)
+- mtmd: add zonos3-mini TTS model (#32020) — https://github.com/ggml-org/llama.cpp/commit/7ae3c6b231e38057e825ff257bb734e456633d9a (score 4)
