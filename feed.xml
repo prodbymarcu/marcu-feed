@@ -1,22 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/</link>
-      <guid isPermaLink="false">t3_1xx5fng</guid>
-      <pubDate>Sun, 15 Nov 2026 16:53:12 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi! for those who might not know the solution:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;it takes any MoE GGUF llama.cpp can load, whatever the quant. No repacking, no special format&lt;/li&gt; &lt;li&gt;it runs on whatever you have: NVIDIA, AMD,  | why kept: qwen, model, qwen, runs, quant, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.52.1 (#7852)</title>
-      <link>https://github.com/trycua/cua/commit/43561f96cb635a3c5a0be8725cb9e58fcf40fa1a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/43561f96cb635a3c5a0be8725cb9e58fcf40fa1a</guid>
-      <pubDate>Sun, 15 Nov 2026 16:53:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.1 (#7852)
+      <title>chore(main): release cua-sdk 0.27.7 (#7872)</title>
+      <link>https://github.com/trycua/cua/commit/a459181d859143d33beffb21c654eb33d756012b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a459181d859143d33beffb21c654eb33d756012b</guid>
+      <pubDate>Sun, 15 Nov 2026 17:25:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.7 (#7872)
 
-* chore(main): release cua-driver-rs 0.52.1
+* chore(main): release cua-sdk 0.27.7
 
-* chore(cua-driver-rs): synchronize generated release files
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
 ---------
 
-Co-authored-by: cua-release | why kept: trycua</description>
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

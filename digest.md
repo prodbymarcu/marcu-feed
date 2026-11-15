@@ -1,2 +1,1 @@
-- BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model — https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/ (score 15)
-- chore(main): release cua-driver-rs 0.52.1 (#7852) — https://github.com/trycua/cua/commit/43561f96cb635a3c5a0be8725cb9e58fcf40fa1a (score 5)
+- chore(main): release cua-sdk 0.27.7 (#7872) — https://github.com/trycua/cua/commit/a459181d859143d33beffb21c654eb33d756012b (score 5)
