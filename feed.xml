@@ -1,7 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I know it’s very expensive but is anyone using a dgx station b300 ? Is it that good for local llms ?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw2ter/i_know_its_very_expensive_but_is_anyone_using_a/</link>
-      <guid isPermaLink="false">t3_1xw2ter</guid>
-      <pubDate>Sun, 15 Nov 2026 02:44:16 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I’d like to know what real users get out of them, speed wise and also concurrent users.&lt;br/&gt; I’m talking about the workstation not the data center dgx b300 of course :)&lt;br/&gt; Thanks !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON -- | why kept: local, llama</description>
+      <title>Nace quants vs Unsloth Dynamic v3.1, has anyone compared them on actual tasks?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xvz070/nace_quants_vs_unsloth_dynamic_v31_has_anyone/</link>
+      <guid isPermaLink="false">t3_1xvz070</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:57 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Two quant updates landed in the last day: the Nace weight-space quants claiming up to 2x better KL divergence, and Unsloth&amp;#39;s Dynamic v3.1 for Qwen3.8-27B. I&amp;#39;ve been trying to work out how much KL re | why kept: unsloth, qwen, qwen, quant, tool call</description>
+    </item>
+    <item>
+      <title>My LumaBrowser project is nearing 150 stars on Github! Not a big accomplishment I know, but in return here is a video showing some of its &quot;Anthropic/OpenAI in a box&quot; abilities. Hot</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw8af1/my_lumabrowser_project_is_nearing_150_stars_on/</link>
+      <guid isPermaLink="false">t3_1xw8af1</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:57 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw8af1/my_lumabrowser_project_is_nearing_150_stars_on/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dHZ5Mm16NjM2bTFpMYc1nkoeCPdIbhXrXHH7J1tjtXCuhPM1pxDjbiQOo3aJ.png?wid | why kept: model, video, local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): refuse a live label held by another transport with s…</title>
+      <link>https://github.com/trycua/cua/commit/ac9c092abfc29517ec6e63513ad675a73f019b77</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ac9c092abfc29517ec6e63513ad675a73f019b77</guid>
+      <pubDate>Sun, 15 Nov 2026 03:00:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse a live label held by another transport with session_owned_by_other_transport (#7811)
+
+* test(cua-driver): refuse a live label from another transport as owned, not ended
+
+* | why kept: agent</description>
     </item></channel></rss>

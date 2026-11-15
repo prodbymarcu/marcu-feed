@@ -1,1 +1,3 @@
-- I know it’s very expensive but is anyone using a dgx station b300 ? Is it that good for local llms ? — https://www.reddit.com/r/LocalLLaMA/comments/1xw2ter/i_know_its_very_expensive_but_is_anyone_using_a/ (score 4)
+- Nace quants vs Unsloth Dynamic v3.1, has anyone compared them on actual tasks? — https://www.reddit.com/r/LocalLLaMA/comments/1xvz070/nace_quants_vs_unsloth_dynamic_v31_has_anyone/ (score 16)
+- My LumaBrowser project is nearing 150 stars on Github! Not a big accomplishment I know, but in return here is a video sh — https://www.reddit.com/r/LocalLLaMA/comments/1xw8af1/my_lumabrowser_project_is_nearing_150_stars_on/ (score 8)
+- fix(cua-driver): refuse a live label held by another transport with s… — https://github.com/trycua/cua/commit/ac9c092abfc29517ec6e63513ad675a73f019b77 (score 2)
