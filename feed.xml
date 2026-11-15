@@ -1,11 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: close fork pull requests that change CI workflow files (#7833)</title>
-      <link>https://github.com/trycua/cua/commit/20000a69f32b8c25dfaf6108748e03155fa08d16</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/20000a69f32b8c25dfaf6108748e03155fa08d16</guid>
-      <pubDate>Sun, 15 Nov 2026 06:44:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: close fork pull requests that change CI workflow files (#7833)
-
-* ci: close fork pull requests that change CI workflow files
-
-A scheduled job (every 10 minutes, from the default branch) close | why kept: claude, runs</description>
+      <title>[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/</link>
+      <guid isPermaLink="false">t3_1xwt3ri</guid>
+      <pubDate>Sun, 15 Nov 2026 07:01:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ui3qjsm7gr1i1.png?width=140&amp;amp;height=69&amp;amp;auto=webp&amp;amp;s=2014a3f3e7952661 | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>Placing an implant into AI brain with Lazarus: Anatomy of a trojan</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/</link>
+      <guid isPermaLink="false">t3_1xwsrp1</guid>
+      <pubDate>Sun, 15 Nov 2026 07:01:13 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/7DW5whh2U78VMG4DChlVuOgNxuXVa1s-ip8PJnYXJqU.png?width=140&amp;amp;height= | why kept: local, llama</description>
     </item></channel></rss>

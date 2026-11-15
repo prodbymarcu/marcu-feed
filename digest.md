@@ -1,1 +1,2 @@
-- ci: close fork pull requests that change CI workflow files (#7833) — https://github.com/trycua/cua/commit/20000a69f32b8c25dfaf6108748e03155fa08d16 (score 4)
+- [Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon — https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/ (score 6)
+- Placing an implant into AI brain with Lazarus: Anatomy of a trojan — https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/ (score 4)
