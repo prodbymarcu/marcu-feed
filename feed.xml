@@ -1,24 +1,48 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>MoE offload on a 3090: prefill 345 -&gt; 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/</link>
-      <guid isPermaLink="false">t3_1xx1owx</guid>
-      <pubDate>Sun, 15 Nov 2026 15:33:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5dlnj6wict1i1.gif?frame=1&amp;amp;width=140&amp;amp;height=45&amp;amp;auto=webp&amp;amp;s=f65b32 | why kept: qwen, qwen, local, llama</description>
+      <title>fix(spaces): pass saved custom endpoints to persistent agents (#7417)</title>
+      <link>https://github.com/trycua/cua/commit/7b3a88d6752a039cd077510ce02cd98591c8e23b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b3a88d6752a039cd077510ce02cd98591c8e23b</guid>
+      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): pass saved custom endpoints to persistent agents (#7417)
+
+* fix(agents): allow saved keyless Hermes endpoints
+
+* fix(spaces): apply saved connections to persistent agents&lt;/pre&gt; | why kept: hermes, agent, hermes</description>
     </item>
     <item>
-      <title>mtmd: support higgs v3 STT and vibevoice-ASR (#32329)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fc504f91d8cfdfcd9b0fedcf14600fd2b0e63420</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fc504f91d8cfdfcd9b0fedcf14600fd2b0e63420</guid>
-      <pubDate>Sun, 15 Nov 2026 15:33:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support higgs v3 STT and vibevoice-ASR (#32329)
+      <title>Llama.cpp performance improvement over time (Gemma4 models)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/</link>
+      <guid isPermaLink="false">t3_1xx607x</guid>
+      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/sgekm82a5u1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6ac3afac160 | why kept: model, local, llama, hardware</description>
+    </item>
+    <item>
+      <title>fix(cua-cli): two fixes re-landed from #6199 and #6230 (#7864)</title>
+      <link>https://github.com/trycua/cua/commit/a49f60ae8a106735e2568f9f54594e830c2af816</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a49f60ae8a106735e2568f9f54594e830c2af816</guid>
+      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-cli): two fixes re-landed from #6199 and #6230 (#7864)
 
-* mtmd: support higgs v3 and vibevoice-ASR
+Re-lands @Iflaqbhat&amp;#39;s reviewed changes on current main:
+- the local host&amp;#39;s saved token is used after consent, only for the  | why kept: claude, local, runs</description>
+    </item>
+    <item>
+      <title>fix(sandbox): preserve registry identity for QEMU image layers (#7865)</title>
+      <link>https://github.com/trycua/cua/commit/2509cba9f3769807c7fb3a5c752de93e5f6697a1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2509cba9f3769807c7fb3a5c752de93e5f6697a1</guid>
+      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): preserve registry identity for QEMU image layers (#7865)
 
-* use proper mapping
+Re-lands #6255 from @chrisohearn on current main: a registry VM image with
+layers boots through the SDK as vm:&amp;lt;ref&amp;gt;,  | why kept: claude, local</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): skip the glide wait for a cursor turned off at runti…</title>
+      <link>https://github.com/trycua/cua/commit/9780148ff4c5413645a5e41f7bbff39d86928809</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9780148ff4c5413645a5e41f7bbff39d86928809</guid>
+      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): skip the glide wait for a cursor turned off at runtime (#7860)
 
-* address review comment
-
-* nits
-
-* rm hacky get_audio_length, add mtmd_he | why kept: voice</description>
+set_agent_cursor_enabled(false) only hides the cursor. macOS and Windows
+still glided it and waited for the arriva | why kept: agent</description>
     </item></channel></rss>

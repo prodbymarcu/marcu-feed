@@ -1,2 +1,5 @@
-- MoE offload on a 3090: prefill 345 -> 466 t/s by tuning cudaMemcpy (Qwen3.6 35B-A3B) — https://www.reddit.com/r/LocalLLaMA/comments/1xx1owx/moe_offload_on_a_3090_prefill_345_466_ts_by/ (score 11)
-- mtmd: support higgs v3 STT and vibevoice-ASR (#32329) — https://github.com/ggml-org/llama.cpp/commit/fc504f91d8cfdfcd9b0fedcf14600fd2b0e63420 (score 2)
+- fix(spaces): pass saved custom endpoints to persistent agents (#7417) — https://github.com/trycua/cua/commit/7b3a88d6752a039cd077510ce02cd98591c8e23b (score 9)
+- Llama.cpp performance improvement over time (Gemma4 models) — https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/ (score 8)
+- fix(cua-cli): two fixes re-landed from #6199 and #6230 (#7864) — https://github.com/trycua/cua/commit/a49f60ae8a106735e2568f9f54594e830c2af816 (score 6)
+- fix(sandbox): preserve registry identity for QEMU image layers (#7865) — https://github.com/trycua/cua/commit/2509cba9f3769807c7fb3a5c752de93e5f6697a1 (score 4)
+- fix(cua-driver): skip the glide wait for a cursor turned off at runti… — https://github.com/trycua/cua/commit/9780148ff4c5413645a5e41f7bbff39d86928809 (score 2)
