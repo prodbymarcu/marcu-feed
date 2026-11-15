@@ -1,9 +1,55 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-sandbox): allow cua-driver 0.52 in the driver extra (#7840)</title>
-      <link>https://github.com/trycua/cua/commit/a7d317373f80372c0bc93a130c0e22f5383ba61d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a7d317373f80372c0bc93a130c0e22f5383ba61d</guid>
-      <pubDate>Sun, 15 Nov 2026 10:13:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): allow cua-driver 0.52 in the driver extra (#7840)
+      <title>ISTA Qwen3.8 27b on 3060 12gb</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwx7uq/ista_qwen38_27b_on_3060_12gb/</link>
+      <guid isPermaLink="false">t3_1xwx7uq</guid>
+      <pubDate>Sun, 15 Nov 2026 10:29:12 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey guys &lt;/p&gt; &lt;p&gt;I am a seasoned local llm user and I ain&amp;#39;t quite ram rich like only 16gb ddr4 🥀&lt;/p&gt; &lt;p&gt;So I can&amp;#39;t run qwen3.8 flash next on my 3060 &lt;/p&gt; &lt;p&gt;This guy felt the best for me yet &lt;/p&gt; &lt;p | why kept: qwen, agent, qwen, local, quant</description>
+    </item>
+    <item>
+      <title>chore(main): release sandbox 0.11.6 (#7841)</title>
+      <link>https://github.com/trycua/cua/commit/00f1de71979e6826b921d6cc50625fc4ec62e696</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/00f1de71979e6826b921d6cc50625fc4ec62e696</guid>
+      <pubDate>Sun, 15 Nov 2026 10:29:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.6 (#7841)
 
-Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+* chore(main): release sandbox 0.11.6
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release bench 0.4.8 (#7842)</title>
+      <link>https://github.com/trycua/cua/commit/bb879f5ac173f51484e8236bb41bf748b0476e12</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bb879f5ac173f51484e8236bb41bf748b0476e12</guid>
+      <pubDate>Sun, 15 Nov 2026 10:29:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.8 (#7842)
+
+* chore(main): release bench 0.4.8
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Spotted a very interesting detail about Intel&#x27;s upcoming CPU platform (LGA 1954)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/</link>
+      <guid isPermaLink="false">t3_1xwxbjk</guid>
+      <pubDate>Sun, 15 Nov 2026 10:29:12 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/4rc3za5h9s1i1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6ab02d8dc1fc74 | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>ggml-cpu: add x86 VNNI Q2_0 dot product (#26348)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/b54752df40e4d8e53d34ef5a598336b4e4871d39</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b54752df40e4d8e53d34ef5a598336b4e4871d39</guid>
+      <pubDate>Sun, 15 Nov 2026 10:29:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-cpu: add x86 VNNI Q2_0 dot product (#26348)
+
+* ggml-cpu: use VNNI for Q2_0 dot products
+
+Keep the upstream AVX2 unpacking, accumulation, and fallback. Use VNNI for the integer dot product on | why kept: codex, quant</description>
     </item></channel></rss>

@@ -1,1 +1,5 @@
-- fix(cua-sandbox): allow cua-driver 0.52 in the driver extra (#7840) — https://github.com/trycua/cua/commit/a7d317373f80372c0bc93a130c0e22f5383ba61d (score 2)
+- ISTA Qwen3.8 27b on 3060 12gb — https://www.reddit.com/r/LocalLLaMA/comments/1xwx7uq/ista_qwen38_27b_on_3060_12gb/ (score 13)
+- chore(main): release sandbox 0.11.6 (#7841) — https://github.com/trycua/cua/commit/00f1de71979e6826b921d6cc50625fc4ec62e696 (score 5)
+- chore(main): release bench 0.4.8 (#7842) — https://github.com/trycua/cua/commit/bb879f5ac173f51484e8236bb41bf748b0476e12 (score 5)
+- Spotted a very interesting detail about Intel's upcoming CPU platform (LGA 1954) — https://www.reddit.com/r/LocalLLaMA/comments/1xwxbjk/spotted_a_very_interesting_detail_about_intels/ (score 4)
+- ggml-cpu: add x86 VNNI Q2_0 dot product (#26348) — https://github.com/ggml-org/llama.cpp/commit/b54752df40e4d8e53d34ef5a598336b4e4871d39 (score 4)
