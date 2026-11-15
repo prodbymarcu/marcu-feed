@@ -1,38 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>datasette-llm 0.1a11</title>
-      <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/14/datasette-llm/</guid>
-      <pubDate>Sat, 14 Nov 2026 19:47:41 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-llm/releases/tag/0.1a11&quot;&gt;datasette-llm 0.1a11&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;code&gt;datasette-llm&lt;/code&gt; is the intermediate plugin for Datasette that supports configuring LLMs | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release sandbox 0.11.5 (#7785)</title>
-      <link>https://github.com/trycua/cua/commit/80c5fdfc8d4a863b5670dfa3874dd432d567586b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/80c5fdfc8d4a863b5670dfa3874dd432d567586b</guid>
-      <pubDate>Sat, 14 Nov 2026 19:47:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.5 (#7785)
+      <title>chore(main): release cua-driver-rs 0.51.0 (#7773)</title>
+      <link>https://github.com/trycua/cua/commit/da169ad800ca13452d037e588be4040f55cd9c59</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/da169ad800ca13452d037e588be4040f55cd9c59</guid>
+      <pubDate>Sat, 14 Nov 2026 20:03:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.51.0 (#7773)
 
-* chore(main): release sandbox 0.11.5
+* chore(main): release cua-driver-rs 0.51.0
 
-* chore(sandbox): synchronize release metadata
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release bench 0.4.7 (#7784)</title>
-      <link>https://github.com/trycua/cua/commit/c35b9bbf1716ee37ad7baf2bd17850d958fde977</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c35b9bbf1716ee37ad7baf2bd17850d958fde977</guid>
-      <pubDate>Sat, 14 Nov 2026 19:47:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.7 (#7784)
-
-* chore(main): release bench 0.4.7
-
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

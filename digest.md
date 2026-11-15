@@ -1,3 +1,1 @@
-- datasette-llm 0.1a11 — https://simonwillison.net/2026/Nov/14/datasette-llm/ (score 6)
-- chore(main): release sandbox 0.11.5 (#7785) — https://github.com/trycua/cua/commit/80c5fdfc8d4a863b5670dfa3874dd432d567586b (score 5)
-- chore(main): release bench 0.4.7 (#7784) — https://github.com/trycua/cua/commit/c35b9bbf1716ee37ad7baf2bd17850d958fde977 (score 5)
+- chore(main): release cua-driver-rs 0.51.0 (#7773) — https://github.com/trycua/cua/commit/da169ad800ca13452d037e588be4040f55cd9c59 (score 5)
