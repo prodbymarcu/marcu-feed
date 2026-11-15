@@ -1,2 +1,1 @@
-- Testing agents without running a model in CI: record once, replay with zero calls, judge with a local model only when ne — https://www.reddit.com/r/LocalLLaMA/comments/1xwy5ia/testing_agents_without_running_a_model_in_ci/ (score 8)
-- fix(cua-bench): four cua-bench fixes re-landed from #4561 to #4564 (#… — https://github.com/trycua/cua/commit/6d665496c9209dbbfd2dd472ccc3f36e9a23ff01 (score 4)
+- Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090 — https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/ (score 13)
