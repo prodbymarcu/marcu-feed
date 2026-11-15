@@ -1,2 +1,2 @@
-- Villanova2 - a VillanovaAI Collection — https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/ (score 4)
-- fix(cua-driver): cursor overlay no longer takes the front app (re-lan… — https://github.com/trycua/cua/commit/55e1ae9c6a1b88b9c5e2a078020e9a966c0a78d8 (score 2)
+- chore(main): release bench 0.4.9 (#7850) — https://github.com/trycua/cua/commit/ea37e132e96a9ad3d2e14c8b375d7bd6e9643b6d (score 5)
+- fix(cua-sdk): the per-platform release archives keep cua executable (… — https://github.com/trycua/cua/commit/9c31f57bed7abd1e3c3dd668100d88350fa8fd6f (score 4)

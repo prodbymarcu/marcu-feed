@@ -1,17 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Villanova2 - a VillanovaAI Collection</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/</link>
-      <guid isPermaLink="false">t3_1xx1rbk</guid>
-      <pubDate>Sun, 15 Nov 2026 13:25:20 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4z7kJX4MjO2Opz5IhKwXASok1RvagZD5K_JFQxSfAjQ.png?width=640&amp;amp;crop=smart&amp;amp;au | why kept: local, llama</description>
+      <title>chore(main): release bench 0.4.9 (#7850)</title>
+      <link>https://github.com/trycua/cua/commit/ea37e132e96a9ad3d2e14c8b375d7bd6e9643b6d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ea37e132e96a9ad3d2e14c8b375d7bd6e9643b6d</guid>
+      <pubDate>Sun, 15 Nov 2026 13:41:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.9 (#7850)
+
+* chore(main): release bench 0.4.9
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-rele | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(cua-driver): cursor overlay no longer takes the front app (re-lan…</title>
-      <link>https://github.com/trycua/cua/commit/55e1ae9c6a1b88b9c5e2a078020e9a966c0a78d8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55e1ae9c6a1b88b9c5e2a078020e9a966c0a78d8</guid>
-      <pubDate>Sun, 15 Nov 2026 13:25:20 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): cursor overlay no longer takes the front app (re-land of #7268) (#7645)
+      <title>fix(cua-sdk): the per-platform release archives keep cua executable (…</title>
+      <link>https://github.com/trycua/cua/commit/9c31f57bed7abd1e3c3dd668100d88350fa8fd6f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c31f57bed7abd1e3c3dd668100d88350fa8fd6f</guid>
+      <pubDate>Sun, 15 Nov 2026 13:41:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sdk): the per-platform release archives keep cua executable (fixes #5709) (#6866)
 
-Use the Prohibited activation policy for the overlay so starting the daemon
-leaves the user&amp;#39;s app in  | why kept: claude</description>
+download-artifact drops file modes, and only the cua-cli archives had the
+executable bit restored, so cu | why kept: claude, runs</description>
     </item></channel></rss>
