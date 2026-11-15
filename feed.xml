@@ -1,10 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver): add deepseek-harness to mcp-config and skills insta…</title>
-      <link>https://github.com/trycua/cua/commit/b99b2bf2c078ff794e2dd31381c4b16b6a839c40</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b99b2bf2c078ff794e2dd31381c4b16b6a839c40</guid>
-      <pubDate>Sun, 15 Nov 2026 06:12:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): add deepseek-harness to mcp-config and skills install (#7826)
+      <title>ci: close fork pull requests that change CI workflow files (#7833)</title>
+      <link>https://github.com/trycua/cua/commit/20000a69f32b8c25dfaf6108748e03155fa08d16</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/20000a69f32b8c25dfaf6108748e03155fa08d16</guid>
+      <pubDate>Sun, 15 Nov 2026 06:44:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: close fork pull requests that change CI workflow files (#7833)
 
-mcp-config --client deepseek-harness prints a Cordis patch entry that
-inserts a stdio @deepseek-ai/dsh-mcp-client  | why kept: agent, codex</description>
+* ci: close fork pull requests that change CI workflow files
+
+A scheduled job (every 10 minutes, from the default branch) close | why kept: claude, runs</description>
     </item></channel></rss>

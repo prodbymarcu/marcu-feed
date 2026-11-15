@@ -1,1 +1,1 @@
-- feat(cua-driver): add deepseek-harness to mcp-config and skills insta… — https://github.com/trycua/cua/commit/b99b2bf2c078ff794e2dd31381c4b16b6a839c40 (score 4)
+- ci: close fork pull requests that change CI workflow files (#7833) — https://github.com/trycua/cua/commit/20000a69f32b8c25dfaf6108748e03155fa08d16 (score 4)
