@@ -1,2 +1,1 @@
-- I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the  — https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/ (score 8)
-- Someone should do an analysis on the rate of Self-promo here. — https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/ (score 4)
+- chore(main): release cua-driver-rs 0.52.2 (#7877) — https://github.com/trycua/cua/commit/30fe3953c71806c0ed7354100fc3d624f4bc2443 (score 5)

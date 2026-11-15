@@ -1,14 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I have created a tool to observe what happens inside an LLM. Also allows for the comparison of two quantizations of the same model to see at what point they diverge, token by token</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/</link>
-      <guid isPermaLink="false">t3_1xx7qbf</guid>
-      <pubDate>Sun, 15 Nov 2026 17:41:13 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/YTU2aGRkZXVqdTFpMbuQjYKuS0e50jz76JAFlHw97tpbQhsuU6u19fp57dBZ.png?widt | why kept: model, local, quant, llama</description>
-    </item>
-    <item>
-      <title>Someone should do an analysis on the rate of Self-promo here.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/</link>
-      <guid isPermaLink="false">t3_1xx85mw</guid>
-      <pubDate>Sun, 15 Nov 2026 17:41:13 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think the last 3 posts from here that showed up on my feed were barely veiled self-promos.&lt;/p&gt; &lt;p&gt;I was here when huggingface first started getting popular, and the level of support for running local mode | why kept: model, local</description>
+      <title>chore(main): release cua-driver-rs 0.52.2 (#7877)</title>
+      <link>https://github.com/trycua/cua/commit/30fe3953c71806c0ed7354100fc3d624f4bc2443</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/30fe3953c71806c0ed7354100fc3d624f4bc2443</guid>
+      <pubDate>Sun, 15 Nov 2026 17:57:22 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.2 (#7877)
+
+* chore(main): release cua-driver-rs 0.52.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
