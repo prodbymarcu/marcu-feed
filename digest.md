@@ -1,1 +1,1 @@
-- Is there a community about finetuning and training models? — https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/ (score 8)
+- model: support MiniMax-M3.1 (#32301) — https://github.com/ggml-org/llama.cpp/commit/a68799c6094020a020cee72895b8df36b3b81098 (score 7)

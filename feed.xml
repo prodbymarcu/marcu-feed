@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Is there a community about finetuning and training models?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/</link>
-      <guid isPermaLink="false">t3_1xwyfr8</guid>
-      <pubDate>Sun, 15 Nov 2026 11:33:14 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There seems to be a lot of discussion here about inference and using the models, but is there anywhere where discussion about making them is more common?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a | why kept: model, local, inference, llama</description>
+      <title>model: support MiniMax-M3.1 (#32301)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/a68799c6094020a020cee72895b8df36b3b81098</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a68799c6094020a020cee72895b8df36b3b81098</guid>
+      <pubDate>Sun, 15 Nov 2026 11:49:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model: support MiniMax-M3.1 (#32301)&lt;/pre&gt; | why kept: minimax, model</description>
     </item></channel></rss>
