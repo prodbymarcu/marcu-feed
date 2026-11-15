@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.51.3 (#7810) — https://github.com/trycua/cua/commit/707809befc4b19d2152ca7765aea088f58cb7b18 (score 5)
+- RustingStrata runs Flint 40B on a 12 GB card: 64 tok/s decode, 1.3x llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xw5nzn/rustingstrata_runs_flint_40b_on_a_12_gb_card_64/ (score 6)

@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.51.3 (#7810)</title>
-      <link>https://github.com/trycua/cua/commit/707809befc4b19d2152ca7765aea088f58cb7b18</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/707809befc4b19d2152ca7765aea088f58cb7b18</guid>
-      <pubDate>Sun, 15 Nov 2026 01:56:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.51.3 (#7810)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+      <title>RustingStrata runs Flint 40B on a 12 GB card: 64 tok/s decode, 1.3x llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw5nzn/rustingstrata_runs_flint_40b_on_a_12_gb_card_64/</link>
+      <guid isPermaLink="false">t3_1xw5nzn</guid>
+      <pubDate>Sun, 15 Nov 2026 02:12:14 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I tested new trending Recursive Flint UD-Q5_K_XL (27.9 GiB) on an RTX 3060 12 GB with 30 GB RAM, comparing RustingStrata against llama.cpp using the same model, prompt, and generation settings.&lt;/p&gt; &lt;table&gt;&lt; | why kept: model, runs, llama</description>
     </item></channel></rss>
