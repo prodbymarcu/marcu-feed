@@ -1,3 +1,2 @@
-- LFM2.5-24B-A2B + Hermes is awesome! — https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/ (score 11)
-- fix(cua-driver): keep a text row that repeats an unindexed group's na… — https://github.com/trycua/cua/commit/f46065190ac5d0a16583f7f74ea1155762276b86 (score 5)
-- model : metal : workaround fusion for LFM3 (#32296) — https://github.com/ggml-org/llama.cpp/commit/e574a17b062be51b98e239ccd3d3743e3d902333 (score 4)
+- fix(cua-sandbox): allow cua-driver 0.51 (#7781) — https://github.com/trycua/cua/commit/1569bea5977d61d38b5f341bb7632cc809e2f464 (score 7)
+- fix(spaces-macos): bundle cua 0.27.5 in Cua Spaces (#7779) — https://github.com/trycua/cua/commit/5a5080666b7149105ac4232f9b103208f5f61132 (score 5)

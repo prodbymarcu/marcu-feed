@@ -1,9 +1,10 @@
 {
- "fetched": 185,
+ "fetched": 165,
  "new": 3,
  "dropped_kill": 0,
- "dropped_low": 0,
+ "dropped_low": 1,
  "errors": [
+  "hn-agent: URLError(ConnectionResetError(54, 'Connection reset by peer'))",
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -12,6 +13,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 3,
- "at": "2026-11-15T00:15:27Z"
+ "kept": 2,
+ "at": "2026-11-15T00:31:30Z"
 }

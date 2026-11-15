@@ -1,30 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>LFM2.5-24B-A2B + Hermes is awesome!</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/</link>
-      <guid isPermaLink="false">t3_1xwgiow</guid>
-      <pubDate>Sat, 14 Nov 2026 19:15:27 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I just wanted to share some love for a model that doesn&amp;#39;t seem to get very much: LFM2.5-24B-A2B! (&lt;a href=&quot;https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF&quot;&gt;https://huggingface.co/LiquidAI/LFM2.5-24B | why kept: hermes, model, hermes, hardware</description>
+      <title>fix(cua-sandbox): allow cua-driver 0.51 (#7781)</title>
+      <link>https://github.com/trycua/cua/commit/1569bea5977d61d38b5f341bb7632cc809e2f464</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1569bea5977d61d38b5f341bb7632cc809e2f464</guid>
+      <pubDate>Sat, 14 Nov 2026 19:31:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): allow cua-driver 0.51 (#7781)
+
+Raise the cua-sandbox driver extra to &amp;gt;=0.37.0,&amp;lt;0.52 so the cua-driver 0.51.0 release PR passes the driver range test.
+
+Co-authored-by: Fran | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>fix(cua-driver): keep a text row that repeats an unindexed group&#x27;s na…</title>
-      <link>https://github.com/trycua/cua/commit/f46065190ac5d0a16583f7f74ea1155762276b86</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f46065190ac5d0a16583f7f74ea1155762276b86</guid>
-      <pubDate>Sat, 14 Nov 2026 19:15:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): keep a text row that repeats an unindexed group&amp;#39;s name in the macOS tree (#7780)
+      <title>fix(spaces-macos): bundle cua 0.27.5 in Cua Spaces (#7779)</title>
+      <link>https://github.com/trycua/cua/commit/5a5080666b7149105ac4232f9b103208f5f61132</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a5080666b7149105ac4232f9b103208f5f61132</guid>
+      <pubDate>Sat, 14 Nov 2026 19:31:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.5 in Cua Spaces (#7779)
 
-A named group kept as a display row (#7762) has no element_index, but the
-echo-text pruning  | why kept: trycua</description>
-    </item>
-    <item>
-      <title>model : metal : workaround fusion for LFM3 (#32296)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e574a17b062be51b98e239ccd3d3743e3d902333</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e574a17b062be51b98e239ccd3d3743e3d902333</guid>
-      <pubDate>Sat, 14 Nov 2026 19:15:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : metal : workaround fusion for LFM3 (#32296)
-
-* lfm3 : put the normed tensor first in residual adds to enable norm fusion
-
-Assisted-by: Claude Opus 5.5
-
-* tests : update Metal fusion basel | why kept: model, claude</description>
+cua 0.27.5 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
