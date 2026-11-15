@@ -1,21 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Probable GLM model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/</link>
-      <guid isPermaLink="false">t3_1xwy3ka</guid>
-      <pubDate>Sun, 15 Nov 2026 11:17:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/k7ife2j2ms1i1.png?width=140&amp;amp;height=126&amp;amp;auto=webp&amp;amp;s=912371f57bce10bb7c9ef8dd5620fca1437a65a5&quot;  | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>X3Guard: A 150M parameter prompt guard</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/</link>
-      <guid isPermaLink="false">t3_1xwyp7w</guid>
-      <pubDate>Sun, 15 Nov 2026 11:17:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/QdEHuI6FFlBhZWTdrklytnmg96jkIWYTksNjqVqRTrs.png?width=640&amp;amp;crop=smart&amp;amp; | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/</link>
-      <guid isPermaLink="false">t3_1xwxzgj</guid>
-      <pubDate>Sun, 15 Nov 2026 11:17:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/qop0ivudms1i1.jpeg?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=6313b380dd9d1 | why kept: local, llama</description>
+      <title>Is there a community about finetuning and training models?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/</link>
+      <guid isPermaLink="false">t3_1xwyfr8</guid>
+      <pubDate>Sun, 15 Nov 2026 11:33:14 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;There seems to be a lot of discussion here about inference and using the models, but is there anywhere where discussion about making them is more common?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a | why kept: model, local, inference, llama</description>
     </item></channel></rss>

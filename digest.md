@@ -1,3 +1,1 @@
-- Probable GLM model — https://www.reddit.com/r/LocalLLaMA/comments/1xwy3ka/probable_glm_model/ (score 6)
-- X3Guard: A 150M parameter prompt guard — https://www.reddit.com/r/LocalLLaMA/comments/1xwyp7w/x3guard_a_150m_parameter_prompt_guard/ (score 6)
-- I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! ! — https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/ (score 4)
+- Is there a community about finetuning and training models? — https://www.reddit.com/r/LocalLLaMA/comments/1xwyfr8/is_there_a_community_about_finetuning_and/ (score 8)
