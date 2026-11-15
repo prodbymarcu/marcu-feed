@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.52.0 (#7830) — https://github.com/trycua/cua/commit/ca6a6434ea8469ce08417bf1f639240d7a30352b (score 5)
+- Ninfer and GGUF of Qwen3.8-27B-UD-Q3_K_XL ASCII-Condensed — https://www.reddit.com/r/LocalLLaMA/comments/1xwx74l/ninfer_and_gguf_of_qwen3827budq3_k_xl/ (score 12)
+- Vimoo 1.0 - a Vimoo-AI Collection - Open-source video generation model family for text-to-video (T2V) and image-to-video — https://www.reddit.com/r/LocalLLaMA/comments/1xwwqwz/vimoo_10_a_vimooai_collection_opensource_video/ (score 8)

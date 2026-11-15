@@ -1,15 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.52.0 (#7830)</title>
-      <link>https://github.com/trycua/cua/commit/ca6a6434ea8469ce08417bf1f639240d7a30352b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ca6a6434ea8469ce08417bf1f639240d7a30352b</guid>
-      <pubDate>Sun, 15 Nov 2026 10:45:28 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.0 (#7830)
-
-* chore(main): release cua-driver-rs 0.52.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Ninfer and GGUF of Qwen3.8-27B-UD-Q3_K_XL ASCII-Condensed</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwx74l/ninfer_and_gguf_of_qwen3827budq3_k_xl/</link>
+      <guid isPermaLink="false">t3_1xwx74l</guid>
+      <pubDate>Sun, 15 Nov 2026 11:01:45 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hi,&lt;/p&gt; &lt;p&gt;I&amp;#39;ve put on HF a condensed version of Unsloth Q3_K_XL &lt;a href=&quot;https://github.com/bsaleh03/ASCII-Condensed-prune-tools&quot;&gt;ASCII-Condensed&lt;/a&gt; from bsaleh03 with only ASCII + Latin-1 / Latin-Ext | why kept: unsloth, qwen, qwen</description>
+    </item>
+    <item>
+      <title>Vimoo 1.0 - a Vimoo-AI Collection - Open-source video generation model family for text-to-video (T2V) and image-to-video (I2V)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwwqwz/vimoo_10_a_vimooai_collection_opensource_video/</link>
+      <guid isPermaLink="false">t3_1xwwqwz</guid>
+      <pubDate>Sun, 15 Nov 2026 11:01:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwwqwz/vimoo_10_a_vimooai_collection_opensource_video/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/HMUFUWYUUi-U5b8LIU6kPYOp5CnJybhIVC5Rc0siyYE.png?width=640&amp;amp;crop=s | why kept: model, video, local, llama</description>
     </item></channel></rss>
