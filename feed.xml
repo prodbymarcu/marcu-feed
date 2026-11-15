@@ -1,37 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : read qwen3vl output head size from the tensor (#32349)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/18b74fa41dcac1f55ae1371fe58153f7225941f6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/18b74fa41dcac1f55ae1371fe58153f7225941f6</guid>
-      <pubDate>Sun, 15 Nov 2026 13:57:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : read qwen3vl output head size from the tensor (#32349)
+      <title>fix(teleport): copy browser databases data-only (macOS 27 EPERM) (#4844)</title>
+      <link>https://github.com/trycua/cua/commit/b1632d30af832a7572288007bca63a34842f4da7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b1632d30af832a7572288007bca63a34842f4da7</guid>
+      <pubDate>Sun, 15 Nov 2026 14:45:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(teleport): copy browser databases data-only (macOS 27 EPERM) (#4844)
 
-Allows Qwen3-ForcedAligner, whose output head (5000 timestamp classes) is smaller than the vocab.&lt;/pre&gt; | why kept: qwen, model, qwen</description>
-    </item>
-    <item>
-      <title>[audio.cpp] SoulX-FlashHead + LFM3-Audio + OWSM v4 = Real-Time Local Avatar Chat</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/</link>
-      <guid isPermaLink="false">t3_1xx2vi0</guid>
-      <pubDate>Sun, 15 Nov 2026 13:57:39 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dzlmeXIyamRodDFpMcNJOd1EiFaJC5GTyme9hEuaQy34dVDwhu3zRDsImhkG.png?width=64 | why kept: voice, local, llama</description>
-    </item>
-    <item>
-      <title>mtmd: add zonos3-mini TTS model (#32020)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/7ae3c6b231e38057e825ff257bb734e456633d9a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ae3c6b231e38057e825ff257bb734e456633d9a</guid>
-      <pubDate>Sun, 15 Nov 2026 13:57:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: add zonos3-mini TTS model (#32020)
+* fix(teleport): copy browser databases data-only so macOS 27 provenance does not EPERM
 
-* zonos3 init
-
-* add audio gen pipeline
-
-* fix string_format
-
-* add default voice as gguf metadata
-
-* better ref
-
-* support voice clone
-
-* add delivery p | why kept: model, voice</description>
+Co-Authored-By: Claude Opus 5.5  | why kept: claude</description>
     </item></channel></rss>
