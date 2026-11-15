@@ -1,10 +1,31 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): accept --socket on permissions again so the hosted m…</title>
-      <link>https://github.com/trycua/cua/commit/1107fe5cd0af2b938eab2f855e3d9e4b76a2c2c5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1107fe5cd0af2b938eab2f855e3d9e4b76a2c2c5</guid>
-      <pubDate>Sat, 14 Nov 2026 22:27:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): accept --socket on permissions again so the hosted macOS gate can read daemon permissions (#7796)
+      <title>Microsoft patent describes turning idle gaming GPUs into paid AI training hardware</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming/</link>
+      <guid isPermaLink="false">t3_1xwe9i5</guid>
+      <pubDate>Sat, 14 Nov 2026 22:59:16 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/vIjgcNhaDbmNQ9pU8i2pHWhDIrdLJ7mLa2jYY-PwY8c.jpeg?width=640&amp;amp;crop= | why kept: local, llama, hardware</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.51.2 (#7797)</title>
+      <link>https://github.com/trycua/cua/commit/ce6f08e9183eb0b803efc37d371a85ba89bfecef</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ce6f08e9183eb0b803efc37d371a85ba89bfecef</guid>
+      <pubDate>Sat, 14 Nov 2026 22:59:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.51.2 (#7797)
 
-#7782 started rejecting options a command&amp;#39;s docs entry does not list. The
-h | why kept: trycua</description>
+* chore(main): release cua-driver-rs 0.51.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.51.0 in Cua Spaces (#7794)</title>
+      <link>https://github.com/trycua/cua/commit/3af1df338fda5f52f16834817380a85db9ac9fb5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3af1df338fda5f52f16834817380a85db9ac9fb5</guid>
+      <pubDate>Sat, 14 Nov 2026 22:59:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.51.0 in Cua Spaces (#7794)
+
+Cua Driver 0.51.0 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>

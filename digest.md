@@ -1,1 +1,3 @@
-- fix(cua-driver): accept --socket on permissions again so the hosted m… — https://github.com/trycua/cua/commit/1107fe5cd0af2b938eab2f855e3d9e4b76a2c2c5 (score 5)
+- Microsoft patent describes turning idle gaming GPUs into paid AI training hardware — https://www.reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming/ (score 6)
+- chore(main): release cua-driver-rs 0.51.2 (#7797) — https://github.com/trycua/cua/commit/ce6f08e9183eb0b803efc37d371a85ba89bfecef (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.51.0 in Cua Spaces (#7794) — https://github.com/trycua/cua/commit/3af1df338fda5f52f16834817380a85db9ac9fb5 (score 5)
