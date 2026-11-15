@@ -1,1 +1,6 @@
-- Normies, or the Standard Task Benchmark ??? — https://www.reddit.com/r/LocalLLaMA/comments/1xwha23/normies_or_the_standard_task_benchmark/ (score 2)
+- meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/ (score 8)
+- fix(spaces-macos): bundle Cua Driver 0.51.5 in Cua Spaces (#7807) — https://github.com/trycua/cua/commit/a72f9bb99535f80c93a4fb6afa1981765505ac29 (score 5)
+- Placing an implant into AI brain with Lazarus: Anatomy of a trojan — https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/ (score 4)
+- higurashi-ai/Haru-4B · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/ (score 4)
+- I used local Gemma 4 to moderate a community and it was it is promising — https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/ (score 2)
+- fix(cua-driver-rs): refuse the stale-transform probes from a client t… — https://github.com/trycua/cua/commit/a21cc640c57340321b891017edd98c2bd971295b (score 2)
