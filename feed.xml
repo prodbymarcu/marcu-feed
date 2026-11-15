@@ -1,9 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.51.4 (#7816)</title>
-      <link>https://github.com/trycua/cua/commit/ed9026fd4cbd7ebcf3a44e23c3881752165bc6cb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ed9026fd4cbd7ebcf3a44e23c3881752165bc6cb</guid>
-      <pubDate>Sun, 15 Nov 2026 04:04:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.51.4 (#7816)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+      <title>Does the new hugging face Llama windows app work?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw5an0/does_the_new_hugging_face_llama_windows_app_work/</link>
+      <guid isPermaLink="false">t3_1xw5an0</guid>
+      <pubDate>Sun, 15 Nov 2026 04:20:32 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I have downloaded the new hugging face Llama windows app. &lt;/p&gt; &lt;p&gt;Looked really promising on paper, but I tried to download Qwen3.8-27B-UD-Q3_K_XL.gguf and it always downloaded the 51GB version instead.&lt;/p&gt; | why kept: qwen, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>The best (and AMD-est) computer I&#x27;ve ever owned</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/</link>
+      <guid isPermaLink="false">t3_1xwqvd2</guid>
+      <pubDate>Sun, 15 Nov 2026 04:20:32 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/fhkvb909rq1i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c26cc1f9dcc40781 | why kept: local, llama</description>
     </item></channel></rss>

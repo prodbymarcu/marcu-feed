@@ -1,1 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.51.4 (#7816) — https://github.com/trycua/cua/commit/ed9026fd4cbd7ebcf3a44e23c3881752165bc6cb (score 5)
+- Does the new hugging face Llama windows app work? — https://www.reddit.com/r/LocalLLaMA/comments/1xw5an0/does_the_new_hugging_face_llama_windows_app_work/ (score 11)
+- The best (and AMD-est) computer I've ever owned — https://www.reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned/ (score 4)
