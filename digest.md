@@ -1,2 +1,2 @@
-- [Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon — https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/ (score 6)
-- Placing an implant into AI brain with Lazarus: Anatomy of a trojan — https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/ (score 4)
+- Latest version of strata made my Qwen3.8-Flash-Next dumb and useless — https://www.reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext/ (score 18)
+- Agnes-AI/Agnes-2.5-Pro-Theta • HuggingFace — https://www.reddit.com/r/LocalLLaMA/comments/1xwu5jt/agnesaiagnes25protheta_huggingface/ (score 4)
