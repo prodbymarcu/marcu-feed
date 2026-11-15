@@ -1,3 +1,2 @@
-- CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/ (score 6)
-- chore(cua-driver): advance published installer version to 0.52.0 (#7845) — https://github.com/trycua/cua/commit/d07e294c47398e94c5371ff9c46a21b383ecb585 (score 5)
-- docs: move per-model TTS to /docs, refer it from other pages (#32304) — https://github.com/ggml-org/llama.cpp/commit/75fd7f9ec95b64aef628a709c18cbd4fcbd732cf (score 2)
+- Testing agents without running a model in CI: record once, replay with zero calls, judge with a local model only when ne — https://www.reddit.com/r/LocalLLaMA/comments/1xwy5ia/testing_agents_without_running_a_model_in_ci/ (score 8)
+- fix(cua-bench): four cua-bench fixes re-landed from #4561 to #4564 (#… — https://github.com/trycua/cua/commit/6d665496c9209dbbfd2dd472ccc3f36e9a23ff01 (score 4)

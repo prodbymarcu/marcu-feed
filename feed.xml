@@ -1,23 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>CPU-only boost for Q2_0 on AVX-VNNI · Pull Request #26348 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/</link>
-      <guid isPermaLink="false">t3_1xx0fqn</guid>
-      <pubDate>Sun, 15 Nov 2026 12:37:41 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx0fqn/cpuonly_boost_for_q2_0_on_avxvnni_pull_request/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4FKUyUstZyzNJrYVmnIRKQoxuq2wnbwYeQ840Ls68tw.png?width=640&amp;amp;crop=s | why kept: local, runs, llama</description>
+      <title>Testing agents without running a model in CI: record once, replay with zero calls, judge with a local model only when needed (open source, I&#x27;m the author)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwy5ia/testing_agents_without_running_a_model_in_ci/</link>
+      <guid isPermaLink="false">t3_1xwy5ia</guid>
+      <pubDate>Sun, 15 Nov 2026 12:53:29 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwy5ia/testing_agents_without_running_a_model_in_ci/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/aWo5aW41Z2xuczFpMa3m3JmeoQHTh3VfrGmq8qN0OnYtK8llhan-Q8_1DDX4.png?width | why kept: model, agent, local, llama</description>
     </item>
     <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.0 (#7845)</title>
-      <link>https://github.com/trycua/cua/commit/d07e294c47398e94c5371ff9c46a21b383ecb585</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d07e294c47398e94c5371ff9c46a21b383ecb585</guid>
-      <pubDate>Sun, 15 Nov 2026 12:37:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.0 (#7845)
+      <title>fix(cua-bench): four cua-bench fixes re-landed from #4561 to #4564 (#…</title>
+      <link>https://github.com/trycua/cua/commit/6d665496c9209dbbfd2dd472ccc3f36e9a23ff01</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6d665496c9209dbbfd2dd472ccc3f36e9a23ff01</guid>
+      <pubDate>Sun, 15 Nov 2026 12:53:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-bench): four cua-bench fixes re-landed from #4561 to #4564 (#7849)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>docs: move per-model TTS to /docs, refer it from other pages (#32304)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/75fd7f9ec95b64aef628a709c18cbd4fcbd732cf</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/75fd7f9ec95b64aef628a709c18cbd4fcbd732cf</guid>
-      <pubDate>Sun, 15 Nov 2026 12:37:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;docs: move per-model TTS to /docs, refer it from other pages (#32304)&lt;/pre&gt; | why kept: model</description>
+Applies the reviewed changes from @umutcagand&amp;#39;s four PRs on current main:
+- keyboard action literals keep quotes, b | why kept: agent, claude</description>
     </item></channel></rss>
