@@ -1,2 +1,1 @@
-- 13-GPU ASRock Mining Motherboard for Local LLMs? — https://www.reddit.com/r/LocalLLaMA/comments/1xwv5p4/13gpu_asrock_mining_motherboard_for_local_llms/ (score 4)
-- feat(jev-use): stop bounded native no-progress loops (#7834) — https://github.com/trycua/cua/commit/d83e33324c450fc112c68b88b0c7e37cc83fd966 (score 2)
+- Normies, or the Standard Task Benchmark ??? — https://www.reddit.com/r/LocalLLaMA/comments/1xwha23/normies_or_the_standard_task_benchmark/ (score 2)

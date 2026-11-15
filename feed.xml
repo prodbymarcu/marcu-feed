@@ -1,19 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>13-GPU ASRock Mining Motherboard for Local LLMs?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwv5p4/13gpu_asrock_mining_motherboard_for_local_llms/</link>
-      <guid isPermaLink="false">t3_1xwv5p4</guid>
-      <pubDate>Sun, 15 Nov 2026 08:37:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwv5p4/13gpu_asrock_mining_motherboard_for_local_llms/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/5hk0ahf60s1i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8d8e5e92356e6 | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>feat(jev-use): stop bounded native no-progress loops (#7834)</title>
-      <link>https://github.com/trycua/cua/commit/d83e33324c450fc112c68b88b0c7e37cc83fd966</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d83e33324c450fc112c68b88b0c7e37cc83fd966</guid>
-      <pubDate>Sun, 15 Nov 2026 08:37:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(jev-use): stop bounded native no-progress loops (#7834)
-
-* feat(jev-use): stop bounded native no-progress loops
-
-Native jev-use runs now abstain with reason=no_progress when a short
-window s | why kept: runs</description>
+      <title>Normies, or the Standard Task Benchmark ???</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwha23/normies_or_the_standard_task_benchmark/</link>
+      <guid isPermaLink="false">t3_1xwha23</guid>
+      <pubDate>Sun, 15 Nov 2026 09:09:20 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Is there actually a benchmark for us normies who aren’t rocket scientists or mini-Eulers? Mathematically, we could describe it as a &lt;strong&gt;95% confidence interval benchmark&lt;/strong&gt;. All models that reach  | why kept: model</description>
     </item></channel></rss>
