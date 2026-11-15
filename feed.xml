@@ -1,46 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>meituan-longcat/LongCat-Video-Avatar-1.6 · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xwvrri</guid>
-      <pubDate>Sun, 15 Nov 2026 09:25:23 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/WhNcTqlKYnDUa9qwpwDO-_GsTyPYdlo2aE-1agTAsUY.png?width=640&amp;amp;crop= | why kept: model, video, local, llama</description>
-    </item>
-    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.51.5 in Cua Spaces (#7807)</title>
-      <link>https://github.com/trycua/cua/commit/a72f9bb99535f80c93a4fb6afa1981765505ac29</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a72f9bb99535f80c93a4fb6afa1981765505ac29</guid>
-      <pubDate>Sun, 15 Nov 2026 09:25:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.51.5 in Cua Spaces (#7807)
+      <title>fix(cua-sandbox): allow cua-driver 0.52 in the driver extra (#7840)</title>
+      <link>https://github.com/trycua/cua/commit/a7d317373f80372c0bc93a130c0e22f5383ba61d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a7d317373f80372c0bc93a130c0e22f5383ba61d</guid>
+      <pubDate>Sun, 15 Nov 2026 10:13:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): allow cua-driver 0.52 in the driver extra (#7840)
 
-Cua Driver 0.51.5 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Placing an implant into AI brain with Lazarus: Anatomy of a trojan</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/</link>
-      <guid isPermaLink="false">t3_1xwsrp1</guid>
-      <pubDate>Sun, 15 Nov 2026 09:25:23 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwsrp1/placing_an_implant_into_ai_brain_with_lazarus/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/7DW5whh2U78VMG4DChlVuOgNxuXVa1s-ip8PJnYXJqU.png?width=140&amp;amp;height= | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>higurashi-ai/Haru-4B · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xww5o2</guid>
-      <pubDate>Sun, 15 Nov 2026 09:25:23 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/mg4n7QvBlSSv_tYp8QwCybhUrhZrzA9OBke31D86IAE.png?width=640&amp;amp;crop=smart&amp;amp;auto=we | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>I used local Gemma 4 to moderate a community and it was it is promising</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwvnfr/i_used_local_gemma_4_to_moderate_a_community_and/</link>
-      <guid isPermaLink="false">t3_1xwvnfr</guid>
-      <pubDate>Sun, 15 Nov 2026 09:25:23 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I run a couple of small communities and it&amp;#39;s becoming difficult to moderate them all. So today I built a script on top of my existing app which I use to track the content on those communities.&lt;/p&gt; &lt;p&gt;Th | why kept: local</description>
-    </item>
-    <item>
-      <title>fix(cua-driver-rs): refuse the stale-transform probes from a client t…</title>
-      <link>https://github.com/trycua/cua/commit/a21cc640c57340321b891017edd98c2bd971295b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a21cc640c57340321b891017edd98c2bd971295b</guid>
-      <pubDate>Sun, 15 Nov 2026 09:25:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver-rs): refuse the stale-transform probes from a client that never read the window (#7831)
-
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>
