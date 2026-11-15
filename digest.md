@@ -1,5 +1,3 @@
-- fix(spaces): pass saved custom endpoints to persistent agents (#7417) — https://github.com/trycua/cua/commit/7b3a88d6752a039cd077510ce02cd98591c8e23b (score 9)
-- Llama.cpp performance improvement over time (Gemma4 models) — https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/ (score 8)
-- fix(cua-cli): two fixes re-landed from #6199 and #6230 (#7864) — https://github.com/trycua/cua/commit/a49f60ae8a106735e2568f9f54594e830c2af816 (score 6)
-- fix(sandbox): preserve registry identity for QEMU image layers (#7865) — https://github.com/trycua/cua/commit/2509cba9f3769807c7fb3a5c752de93e5f6697a1 (score 4)
-- fix(cua-driver): skip the glide wait for a cursor turned off at runti… — https://github.com/trycua/cua/commit/9780148ff4c5413645a5e41f7bbff39d86928809 (score 2)
+- fix(spaces-macos): bundle cua 0.27.6 in Cua Spaces (#7866) — https://github.com/trycua/cua/commit/23cd81bf757f09b6a6639f8ebf9ba851a4608ac3 (score 5)
+- chore(main): release sandbox 0.11.7 (#7871) — https://github.com/trycua/cua/commit/f7627a3d1bf61865fdaa9f8d108e5c887964e363 (score 5)
+- chore(main): release cua-sdk 0.27.6 (#7862) — https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491 (score 5)

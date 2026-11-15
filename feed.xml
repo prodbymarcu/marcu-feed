@@ -1,48 +1,39 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): pass saved custom endpoints to persistent agents (#7417)</title>
-      <link>https://github.com/trycua/cua/commit/7b3a88d6752a039cd077510ce02cd98591c8e23b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7b3a88d6752a039cd077510ce02cd98591c8e23b</guid>
-      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): pass saved custom endpoints to persistent agents (#7417)
+      <title>fix(spaces-macos): bundle cua 0.27.6 in Cua Spaces (#7866)</title>
+      <link>https://github.com/trycua/cua/commit/23cd81bf757f09b6a6639f8ebf9ba851a4608ac3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/23cd81bf757f09b6a6639f8ebf9ba851a4608ac3</guid>
+      <pubDate>Sun, 15 Nov 2026 16:37:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.6 in Cua Spaces (#7866)
 
-* fix(agents): allow saved keyless Hermes endpoints
-
-* fix(spaces): apply saved connections to persistent agents&lt;/pre&gt; | why kept: hermes, agent, hermes</description>
+cua 0.27.6 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item>
     <item>
-      <title>Llama.cpp performance improvement over time (Gemma4 models)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/</link>
-      <guid isPermaLink="false">t3_1xx607x</guid>
-      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/sgekm82a5u1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6ac3afac160 | why kept: model, local, llama, hardware</description>
+      <title>chore(main): release sandbox 0.11.7 (#7871)</title>
+      <link>https://github.com/trycua/cua/commit/f7627a3d1bf61865fdaa9f8d108e5c887964e363</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f7627a3d1bf61865fdaa9f8d108e5c887964e363</guid>
+      <pubDate>Sun, 15 Nov 2026 16:37:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.7 (#7871)
+
+* chore(main): release sandbox 0.11.7
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(cua-cli): two fixes re-landed from #6199 and #6230 (#7864)</title>
-      <link>https://github.com/trycua/cua/commit/a49f60ae8a106735e2568f9f54594e830c2af816</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a49f60ae8a106735e2568f9f54594e830c2af816</guid>
-      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-cli): two fixes re-landed from #6199 and #6230 (#7864)
+      <title>chore(main): release cua-sdk 0.27.6 (#7862)</title>
+      <link>https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6a5a8564de0ee3d35419e1f64157bda6101c8491</guid>
+      <pubDate>Sun, 15 Nov 2026 16:37:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.27.6 (#7862)
 
-Re-lands @Iflaqbhat&amp;#39;s reviewed changes on current main:
-- the local host&amp;#39;s saved token is used after consent, only for the  | why kept: claude, local, runs</description>
-    </item>
-    <item>
-      <title>fix(sandbox): preserve registry identity for QEMU image layers (#7865)</title>
-      <link>https://github.com/trycua/cua/commit/2509cba9f3769807c7fb3a5c752de93e5f6697a1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2509cba9f3769807c7fb3a5c752de93e5f6697a1</guid>
-      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): preserve registry identity for QEMU image layers (#7865)
+* chore(main): release cua-sdk 0.27.6
 
-Re-lands #6255 from @chrisohearn on current main: a registry VM image with
-layers boots through the SDK as vm:&amp;lt;ref&amp;gt;,  | why kept: claude, local</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): skip the glide wait for a cursor turned off at runti…</title>
-      <link>https://github.com/trycua/cua/commit/9780148ff4c5413645a5e41f7bbff39d86928809</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9780148ff4c5413645a5e41f7bbff39d86928809</guid>
-      <pubDate>Sun, 15 Nov 2026 16:21:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): skip the glide wait for a cursor turned off at runtime (#7860)
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
-set_agent_cursor_enabled(false) only hides the cursor. macOS and Windows
-still glided it and waited for the arriva | why kept: agent</description>
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
