@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.51.0 (#7793) — https://github.com/trycua/cua/commit/8e285c3689d16bc45549c5facd37162972d4f386 (score 5)
+- fix(cua-driver): accept --socket on permissions again so the hosted m… — https://github.com/trycua/cua/commit/1107fe5cd0af2b938eab2f855e3d9e4b76a2c2c5 (score 5)

@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.51.0 (#7793)</title>
-      <link>https://github.com/trycua/cua/commit/8e285c3689d16bc45549c5facd37162972d4f386</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8e285c3689d16bc45549c5facd37162972d4f386</guid>
-      <pubDate>Sat, 14 Nov 2026 21:23:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.51.0 (#7793)
+      <title>fix(cua-driver): accept --socket on permissions again so the hosted m…</title>
+      <link>https://github.com/trycua/cua/commit/1107fe5cd0af2b938eab2f855e3d9e4b76a2c2c5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1107fe5cd0af2b938eab2f855e3d9e4b76a2c2c5</guid>
+      <pubDate>Sat, 14 Nov 2026 22:27:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): accept --socket on permissions again so the hosted macOS gate can read daemon permissions (#7796)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+#7782 started rejecting options a command&amp;#39;s docs entry does not list. The
+h | why kept: trycua</description>
     </item></channel></rss>
