@@ -1,24 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.51.2 (#7805)</title>
-      <link>https://github.com/trycua/cua/commit/34b806e9f4f372ed61dddd5fef1dcab356a71ae7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/34b806e9f4f372ed61dddd5fef1dcab356a71ae7</guid>
-      <pubDate>Sun, 15 Nov 2026 00:36:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.51.2 (#7805)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.51.3 (#7804)</title>
-      <link>https://github.com/trycua/cua/commit/ebb4f0a5b635b5cd2fc885573de9555ed4f68b11</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ebb4f0a5b635b5cd2fc885573de9555ed4f68b11</guid>
-      <pubDate>Sun, 15 Nov 2026 00:36:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.51.3 (#7804)
-
-* chore(main): release cua-driver-rs 0.51.3
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Qwen3 4B / 8B / 14B at ~2.7 bits per weight with Leech lattice quantization. Beats IQ2_S on quality at the same size, loses on speed [open source, Rust + CUDA]</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xwerbo/qwen3_4b_8b_14b_at_27_bits_per_weight_with_leech/</link>
+      <guid isPermaLink="false">t3_1xwerbo</guid>
+      <pubDate>Sun, 15 Nov 2026 00:52:22 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xwerbo/qwen3_4b_8b_14b_at_27_bits_per_weight_with_leech/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/brlwplybin1i1.png?width=140&amp;amp;height=51&amp;amp;auto=webp&amp;amp;s=206ca9a1fd344 | why kept: qwen, qwen, local, quant, llama</description>
     </item></channel></rss>

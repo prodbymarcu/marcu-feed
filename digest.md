@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.51.2 (#7805) — https://github.com/trycua/cua/commit/34b806e9f4f372ed61dddd5fef1dcab356a71ae7 (score 5)
-- chore(main): release cua-driver-rs 0.51.3 (#7804) — https://github.com/trycua/cua/commit/ebb4f0a5b635b5cd2fc885573de9555ed4f68b11 (score 5)
+- Qwen3 4B / 8B / 14B at ~2.7 bits per weight with Leech lattice quantization. Beats IQ2_S on quality at the same size, lo — https://www.reddit.com/r/LocalLLaMA/comments/1xwerbo/qwen3_4b_8b_14b_at_27_bits_per_weight_with_leech/ (score 13)
