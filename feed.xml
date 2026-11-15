@@ -1,7 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/</link>
-      <guid isPermaLink="false">t3_1xx1cu9</guid>
-      <pubDate>Sun, 15 Nov 2026 13:09:15 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/aDVxeDJsMXo0dDFpMXSsguq7RzI5TbnEdxYNshMh74sYqM9VzKczylkqkXW3.png?w | why kept: qwen, model, qwen, local, llama</description>
+      <title>Villanova2 - a VillanovaAI Collection</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/</link>
+      <guid isPermaLink="false">t3_1xx1rbk</guid>
+      <pubDate>Sun, 15 Nov 2026 13:25:20 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/4z7kJX4MjO2Opz5IhKwXASok1RvagZD5K_JFQxSfAjQ.png?width=640&amp;amp;crop=smart&amp;amp;au | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): cursor overlay no longer takes the front app (re-lan…</title>
+      <link>https://github.com/trycua/cua/commit/55e1ae9c6a1b88b9c5e2a078020e9a966c0a78d8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55e1ae9c6a1b88b9c5e2a078020e9a966c0a78d8</guid>
+      <pubDate>Sun, 15 Nov 2026 13:25:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): cursor overlay no longer takes the front app (re-land of #7268) (#7645)
+
+Use the Prohibited activation policy for the overlay so starting the daemon
+leaves the user&amp;#39;s app in  | why kept: claude</description>
     </item></channel></rss>

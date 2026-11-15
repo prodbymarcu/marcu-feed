@@ -1,1 +1,2 @@
-- Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090 — https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/ (score 13)
+- Villanova2 - a VillanovaAI Collection — https://www.reddit.com/r/LocalLLaMA/comments/1xx1rbk/villanova2_a_villanovaai_collection/ (score 4)
+- fix(cua-driver): cursor overlay no longer takes the front app (re-lan… — https://github.com/trycua/cua/commit/55e1ae9c6a1b88b9c5e2a078020e9a966c0a78d8 (score 2)
