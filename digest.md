@@ -1,3 +1,2 @@
-- fix(spaces-macos): bundle cua 0.27.6 in Cua Spaces (#7866) — https://github.com/trycua/cua/commit/23cd81bf757f09b6a6639f8ebf9ba851a4608ac3 (score 5)
-- chore(main): release sandbox 0.11.7 (#7871) — https://github.com/trycua/cua/commit/f7627a3d1bf61865fdaa9f8d108e5c887964e363 (score 5)
-- chore(main): release cua-sdk 0.27.6 (#7862) — https://github.com/trycua/cua/commit/6a5a8564de0ee3d35419e1f64157bda6101c8491 (score 5)
+- BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model — https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/ (score 15)
+- chore(main): release cua-driver-rs 0.52.1 (#7852) — https://github.com/trycua/cua/commit/43561f96cb635a3c5a0be8725cb9e58fcf40fa1a (score 5)
