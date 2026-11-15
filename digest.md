@@ -1,1 +1,2 @@
-- fix(teleport): copy browser databases data-only (macOS 27 EPERM) (#4844) — https://github.com/trycua/cua/commit/b1632d30af832a7572288007bca63a34842f4da7 (score 2)
+- ANT is going to see some crazy action when Qwen 4 releases. — https://www.reddit.com/r/LocalLLaMA/comments/1xx3xv6/ant_is_going_to_see_some_crazy_action_when_qwen_4/ (score 11)
+- fix(cua-driver): pin that the desktop lane frees before the detached … — https://github.com/trycua/cua/commit/1f9b3184d3978c11ca06b121aee27e4b284275f9 (score 4)
