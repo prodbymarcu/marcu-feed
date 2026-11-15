@@ -1,1 +1,1 @@
-- basal-omni-2.0-mini - typed decision model — https://www.reddit.com/r/LocalLLaMA/comments/1xw4thp/basalomni20mini_typed_decision_model/ (score 6)
+- feat(cua-driver): add deepseek-harness to mcp-config and skills insta… — https://github.com/trycua/cua/commit/b99b2bf2c078ff794e2dd31381c4b16b6a839c40 (score 4)

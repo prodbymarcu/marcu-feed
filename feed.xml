@@ -1,7 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>basal-omni-2.0-mini - typed decision model</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xw4thp/basalomni20mini_typed_decision_model/</link>
-      <guid isPermaLink="false">t3_1xw4thp</guid>
-      <pubDate>Sun, 15 Nov 2026 05:24:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xw4thp/basalomni20mini_typed_decision_model/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/2eGAY96KO14OU5waBMvoycvFylO5lq5YBdY6SSEv9BU.jpeg?width=140&amp;amp;height=78&amp;amp;a | why kept: model, local, llama</description>
+      <title>feat(cua-driver): add deepseek-harness to mcp-config and skills insta…</title>
+      <link>https://github.com/trycua/cua/commit/b99b2bf2c078ff794e2dd31381c4b16b6a839c40</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b99b2bf2c078ff794e2dd31381c4b16b6a839c40</guid>
+      <pubDate>Sun, 15 Nov 2026 06:12:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): add deepseek-harness to mcp-config and skills install (#7826)
+
+mcp-config --client deepseek-harness prints a Cordis patch entry that
+inserts a stdio @deepseek-ai/dsh-mcp-client  | why kept: agent, codex</description>
     </item></channel></rss>
