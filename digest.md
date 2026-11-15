@@ -1,3 +1,2 @@
-- Microsoft patent describes turning idle gaming GPUs into paid AI training hardware — https://www.reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming/ (score 6)
-- chore(main): release cua-driver-rs 0.51.2 (#7797) — https://github.com/trycua/cua/commit/ce6f08e9183eb0b803efc37d371a85ba89bfecef (score 5)
-- fix(spaces-macos): bundle Cua Driver 0.51.0 in Cua Spaces (#7794) — https://github.com/trycua/cua/commit/3af1df338fda5f52f16834817380a85db9ac9fb5 (score 5)
+- chore(cua-driver): advance published installer version to 0.51.2 (#7805) — https://github.com/trycua/cua/commit/34b806e9f4f372ed61dddd5fef1dcab356a71ae7 (score 5)
+- chore(main): release cua-driver-rs 0.51.3 (#7804) — https://github.com/trycua/cua/commit/ebb4f0a5b635b5cd2fc885573de9555ed4f68b11 (score 5)
