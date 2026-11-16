@@ -1,21 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>tandem.cpp v0.3.0: prefill speed improved; Project Maya&#x27;s DeepSeek-V4.1 GGUFs support</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxo0f5/tandemcpp_v030_prefill_speed_improved_project/</link>
-      <guid isPermaLink="false">t3_1xxo0f5</guid>
-      <pubDate>Mon, 16 Nov 2026 12:53:25 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Thanks for the feedback on slow prompt processing. v0.3.0 is out (the first tagged release): &lt;a href=&quot;https://github.com/ewhacc/tandem.cpp&quot;&gt;https://github.com/ewhacc/tandem.cpp&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Previous post: &lt;a  | why kept: model, local, runs, llama</description>
+      <title>fix(spaces-macos): bundle Cua Driver 0.52.7 in Cua Spaces (#7960)</title>
+      <link>https://github.com/trycua/cua/commit/c3a48c0e77486092c69e6672aaa816b0924fec5c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c3a48c0e77486092c69e6672aaa816b0924fec5c</guid>
+      <pubDate>Mon, 16 Nov 2026 13:09:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.7 in Cua Spaces (#7960)
+
+Cua Driver 0.52.7 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item>
     <item>
-      <title>I made a C&amp;C inspired web RTS for us to benchmark our local models with</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/</link>
-      <guid isPermaLink="false">t3_1xxtn9g</guid>
-      <pubDate>Mon, 16 Nov 2026 12:53:25 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZTMzNnIxemkyMDJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?w | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>[Project] Gemma.c - Gemma 1/2/3 + multimodal inference in one C file (CPU only)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxq01s/project_gemmac_gemma_123_multimodal_inference_in/</link>
-      <guid isPermaLink="false">t3_1xxq01s</guid>
-      <pubDate>Mon, 16 Nov 2026 12:53:25 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxq01s/project_gemmac_gemma_123_multimodal_inference_in/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZzJzOWxoOG9jejFpMa8HQiKYC0MOYHXXwG87wfqu0NRmTxkLVX4J8v4R7aRq.png?w | why kept: local, inference, llama</description>
+      <title>chore(main): release cua-driver-rs 0.52.8 (#7957)</title>
+      <link>https://github.com/trycua/cua/commit/9b5c3b7f42094f483bd286f2aa543dc691eafd33</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9b5c3b7f42094f483bd286f2aa543dc691eafd33</guid>
+      <pubDate>Mon, 16 Nov 2026 13:09:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.8 (#7957)
+
+* chore(main): release cua-driver-rs 0.52.8
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

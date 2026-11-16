@@ -1,3 +1,2 @@
-- tandem.cpp v0.3.0: prefill speed improved; Project Maya's DeepSeek-V4.1 GGUFs support — https://www.reddit.com/r/LocalLLaMA/comments/1xxo0f5/tandemcpp_v030_prefill_speed_improved_project/ (score 8)
-- I made a C&C inspired web RTS for us to benchmark our local models with — https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/ (score 6)
-- [Project] Gemma.c - Gemma 1/2/3 + multimodal inference in one C file (CPU only) — https://www.reddit.com/r/LocalLLaMA/comments/1xxq01s/project_gemmac_gemma_123_multimodal_inference_in/ (score 6)
+- fix(spaces-macos): bundle Cua Driver 0.52.7 in Cua Spaces (#7960) — https://github.com/trycua/cua/commit/c3a48c0e77486092c69e6672aaa816b0924fec5c (score 5)
+- chore(main): release cua-driver-rs 0.52.8 (#7957) — https://github.com/trycua/cua/commit/9b5c3b7f42094f483bd286f2aa543dc691eafd33 (score 5)
