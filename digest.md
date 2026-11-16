@@ -1,1 +1,1 @@
-- [Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models — https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/ (score 6)
+- internlm/Sage-S2.1-Flash · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/ (score 6)
