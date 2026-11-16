@@ -1,2 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.52.7 in Cua Spaces (#7960) — https://github.com/trycua/cua/commit/c3a48c0e77486092c69e6672aaa816b0924fec5c (score 5)
-- chore(main): release cua-driver-rs 0.52.8 (#7957) — https://github.com/trycua/cua/commit/9b5c3b7f42094f483bd286f2aa543dc691eafd33 (score 5)
+- Under 9gb model comparison — https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/ (score 2)

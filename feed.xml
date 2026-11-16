@@ -1,24 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.52.7 in Cua Spaces (#7960)</title>
-      <link>https://github.com/trycua/cua/commit/c3a48c0e77486092c69e6672aaa816b0924fec5c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c3a48c0e77486092c69e6672aaa816b0924fec5c</guid>
-      <pubDate>Mon, 16 Nov 2026 13:09:20 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.7 in Cua Spaces (#7960)
-
-Cua Driver 0.52.7 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.52.8 (#7957)</title>
-      <link>https://github.com/trycua/cua/commit/9b5c3b7f42094f483bd286f2aa543dc691eafd33</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9b5c3b7f42094f483bd286f2aa543dc691eafd33</guid>
-      <pubDate>Mon, 16 Nov 2026 13:09:20 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.8 (#7957)
-
-* chore(main): release cua-driver-rs 0.52.8
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Under 9gb model comparison</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/</link>
+      <guid isPermaLink="false">t3_1xxvr5z</guid>
+      <pubDate>Mon, 16 Nov 2026 13:25:52 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Scores are lab-reported so take them with a grain of salt.&lt;/p&gt; &lt;h1&gt;Specs&lt;/h1&gt; &lt;table&gt;&lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;Model&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Org&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Params (total/active)&lt;/th&gt; &lt;th align= | why kept: model</description>
     </item></channel></rss>
