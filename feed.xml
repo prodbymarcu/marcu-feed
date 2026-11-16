@@ -1,21 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(agents): install Hermes dependencies in macOS spaces (#7978)</title>
-      <link>https://github.com/trycua/cua/commit/a090ad5f5e7f3333b0c5649ff96ea1e34c607ac5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a090ad5f5e7f3333b0c5649ff96ea1e34c607ac5</guid>
-      <pubDate>Mon, 16 Nov 2026 16:22:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(agents): install Hermes dependencies in macOS spaces (#7978)
+      <title>fix(cua-sdk): keep HTTP MCP reply waits cancellable (#7980)</title>
+      <link>https://github.com/trycua/cua/commit/d735f383d43a2abecc100c08be23c4540f4cba95</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d735f383d43a2abecc100c08be23c4540f4cba95</guid>
+      <pubDate>Mon, 16 Nov 2026 16:38:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sdk): keep HTTP MCP reply waits cancellable (#7980)
 
-Adds the uv 0.12.18 macOS archives and checksums, with a regression test that
-selects the download for each macOS CPU.
+The request signal and timeout now cover the whole reply, body included, and
+an already-aborted signal sends nothing.
 
-Re-landed | why kept: hermes, agent, hermes, claude</description>
-    </item>
-    <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.9 (#7984)</title>
-      <link>https://github.com/trycua/cua/commit/4c03ef201273796354396df40588c830b8716bec</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4c03ef201273796354396df40588c830b8716bec</guid>
-      <pubDate>Mon, 16 Nov 2026 16:22:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.9 (#7984)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Re-landed from  | why kept: claude</description>
     </item></channel></rss>

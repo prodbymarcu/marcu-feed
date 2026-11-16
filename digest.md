@@ -1,2 +1,1 @@
-- fix(agents): install Hermes dependencies in macOS spaces (#7978) — https://github.com/trycua/cua/commit/a090ad5f5e7f3333b0c5649ff96ea1e34c607ac5 (score 11)
-- chore(cua-driver): advance published installer version to 0.52.9 (#7984) — https://github.com/trycua/cua/commit/4c03ef201273796354396df40588c830b8716bec (score 5)
+- fix(cua-sdk): keep HTTP MCP reply waits cancellable (#7980) — https://github.com/trycua/cua/commit/d735f383d43a2abecc100c08be23c4540f4cba95 (score 2)
