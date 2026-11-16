@@ -1,18 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Karpo-Decision-31B: open multimodal decision model. Ranks #1 on full score on Decision Index, 2x faster than Jev, at 20% lower cost</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxrmt4/karpodecision31b_open_multimodal_decision_model/</link>
-      <guid isPermaLink="false">t3_1xxrmt4</guid>
-      <pubDate>Mon, 16 Nov 2026 16:54:19 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxrmt4/karpodecision31b_open_multimodal_decision_model/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/eyn4rx64pz1i1.jpeg?width=140&amp;amp;height=66&amp;amp;auto=webp&amp;amp;s=c4f6de447b8c5 | why kept: model, local, llama</description>
-    </item>
-    <item>
-      <title>fix(docs): correct the Spaces and sandbox guides that disagreed with …</title>
-      <link>https://github.com/trycua/cua/commit/0a922ea53e176d80552237563f519917f5ee156a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0a922ea53e176d80552237563f519917f5ee156a</guid>
-      <pubDate>Mon, 16 Nov 2026 16:54:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(docs): correct the Spaces and sandbox guides that disagreed with the product (#7977)
-
-* fix(docs): correct the Spaces and sandbox guides that disagreed with the product
-
-- #7901: install and  | why kept: agent</description>
+      <title>Best MoE engine?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine/</link>
+      <guid isPermaLink="false">t3_1xy0d5o</guid>
+      <pubDate>Mon, 16 Nov 2026 17:42:18 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I had been using Strata for about a month, and it was such a huge improvement over llama.cpp for getting it running smoothly and quickly for hardware. &lt;/p&gt; &lt;p&gt;Overtime though, I found that the model would o | why kept: model, runs, llama, hardware</description>
     </item></channel></rss>

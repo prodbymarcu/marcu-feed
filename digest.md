@@ -1,2 +1,1 @@
-- Karpo-Decision-31B: open multimodal decision model. Ranks #1 on full score on Decision Index, 2x faster than Jev, at 20% — https://www.reddit.com/r/LocalLLaMA/comments/1xxrmt4/karpodecision31b_open_multimodal_decision_model/ (score 6)
-- fix(docs): correct the Spaces and sandbox guides that disagreed with … — https://github.com/trycua/cua/commit/0a922ea53e176d80552237563f519917f5ee156a (score 2)
+- Best MoE engine? — https://www.reddit.com/r/LocalLLaMA/comments/1xy0d5o/best_moe_engine/ (score 8)
