@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.52.7 (#7956) — https://github.com/trycua/cua/commit/f601f1d33f53317c44f530a3146a6c9d1cee6ad0 (score 5)
+- Given the flood of new inference engines any recommendations for 2x 7900xtx ? — https://www.reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any/ (score 17)
