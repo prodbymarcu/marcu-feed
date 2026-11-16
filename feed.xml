@@ -1,7 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I am sick of doomposting about demise of local AI</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai/</link>
-      <guid isPermaLink="false">t3_1xxzk23</guid>
-      <pubDate>Mon, 16 Nov 2026 15:33:36 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Everywhere I go, Twitter or Reddit, there are tons of rumors or comments how local is dead and we are never getting open weight Qwen 4, despite Qwen team saying explicitly they are coming, or that Qwen 4 is | why kept: qwen, qwen, local</description>
+      <title>fix(cua-spaces): compile with reduced feature sets (#4846)</title>
+      <link>https://github.com/trycua/cua/commit/c8711718ebc2f4aad364caf3daed74631deab5fa</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8711718ebc2f4aad364caf3daed74631deab5fa</guid>
+      <pubDate>Mon, 16 Nov 2026 15:50:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spaces): compile with reduced feature sets (#4846)
+
+* fix(cua-spaces): compile with reduced feature sets
+
+cua-spaces only compiled with spaces-agents, mcp and spaces-presence on;
+in-repo  | why kept: agent</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): re-land the exit wait and browser_type Enter fixes f…</title>
+      <link>https://github.com/trycua/cua/commit/81423fc06fca78f07c94176a497aeef9bef750bd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81423fc06fca78f07c94176a497aeef9bef750bd</guid>
+      <pubDate>Mon, 16 Nov 2026 15:50:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): re-land the exit wait and browser_type Enter fixes from #4488 and #4499 (#7857)
+
+* fix(cua-driver): wake a pending embedded exit wait only when the daemon exits
+
+Re-lands #4488 f | why kept: claude</description>
     </item></channel></rss>

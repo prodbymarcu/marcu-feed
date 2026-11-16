@@ -1,16 +1,18 @@
 {
- "fetched": 190,
- "new": 1,
+ "fetched": 155,
+ "new": 5,
  "dropped_kill": 0,
- "dropped_low": 0,
+ "dropped_low": 2,
  "errors": [
-  "ml-community: <HTTPError 429: 'Too Many Requests'>"
+  "hn-llm: TimeoutError('The read operation timed out')",
+  "hn-local: <HTTPError 502: 'Bad Gateway'>",
+  "ml-community: <HTTPError 429: 'Too Many Requests'>",
+  "mlx-releases: IncompleteRead(768752 bytes read, 15379 more expected)"
  ],
  "brain": {
-  "sent": 0,
-  "kept": 0,
-  "note": "gate busy or judge skipped"
+  "sent": 3,
+  "kept": 2
  },
- "kept": 1,
- "at": "2026-11-16T20:33:36Z"
+ "kept": 2,
+ "at": "2026-11-16T20:50:19Z"
 }

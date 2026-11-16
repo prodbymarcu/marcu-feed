@@ -1,1 +1,2 @@
-- I am sick of doomposting about demise of local AI — https://www.reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai/ (score 9)
+- fix(cua-spaces): compile with reduced feature sets (#4846) — https://github.com/trycua/cua/commit/c8711718ebc2f4aad364caf3daed74631deab5fa (score 2)
+- fix(cua-driver): re-land the exit wait and browser_type Enter fixes f… — https://github.com/trycua/cua/commit/81423fc06fca78f07c94176a497aeef9bef750bd (score 2)
