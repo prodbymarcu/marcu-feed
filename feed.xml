@@ -1,15 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release sandbox 0.11.8 (#7988)</title>
-      <link>https://github.com/trycua/cua/commit/47882065f0a3658d44cdd29031bb7bc98fdf2d41</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/47882065f0a3658d44cdd29031bb7bc98fdf2d41</guid>
-      <pubDate>Mon, 16 Nov 2026 18:14:20 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.8 (#7988)
+      <title>I don&#x27;t get all the Strata hates around here</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/</link>
+      <guid isPermaLink="false">t3_1xxz46x</guid>
+      <pubDate>Mon, 16 Nov 2026 18:31:14 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s free and original developer clearly had a very good understanding of how computer hardware works and fully leveraged that to write something amazing to be able to run large models on average hardwa | why kept: model, free, hardware</description>
+    </item>
+    <item>
+      <title>mtmd : fix Muse Glimmer vision embedding order (#32433)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9581154a2250cc9e6948e4c2a2fc4b4e19d1a57e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9581154a2250cc9e6948e4c2a2fc4b4e19d1a57e</guid>
+      <pubDate>Mon, 16 Nov 2026 18:31:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : fix Muse Glimmer vision embedding order (#32433)
 
-* chore(main): release sandbox 0.11.8
-
-* chore(sandbox): synchronize release metadata
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
+Assisted-by: Claude&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>

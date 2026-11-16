@@ -1,1 +1,2 @@
-- chore(main): release sandbox 0.11.8 (#7988) — https://github.com/trycua/cua/commit/47882065f0a3658d44cdd29031bb7bc98fdf2d41 (score 5)
+- I don't get all the Strata hates around here — https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/ (score 6)
+- mtmd : fix Muse Glimmer vision embedding order (#32433) — https://github.com/ggml-org/llama.cpp/commit/9581154a2250cc9e6948e4c2a2fc4b4e19d1a57e (score 2)
