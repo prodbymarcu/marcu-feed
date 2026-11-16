@@ -1,1 +1,2 @@
-- Under 9gb model comparison — https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/ (score 2)
+- AMD Loom Fun: Added Radeon 9700 support over the weekend. Benchmarked 48 models with an average 42% speedup over llama.c — https://www.reddit.com/r/LocalLLaMA/comments/1xxuzgg/amd_loom_fun_added_radeon_9700_support_over_the/ (score 8)
+- contributing: mark agents.md and code-review as required (#32416) — https://github.com/ggml-org/llama.cpp/commit/4303cd94aed992aef378497b033188f251086591 (score 2)

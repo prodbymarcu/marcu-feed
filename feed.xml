@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Under 9gb model comparison</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxvr5z/under_9gb_model_comparison/</link>
-      <guid isPermaLink="false">t3_1xxvr5z</guid>
-      <pubDate>Mon, 16 Nov 2026 13:25:52 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Scores are lab-reported so take them with a grain of salt.&lt;/p&gt; &lt;h1&gt;Specs&lt;/h1&gt; &lt;table&gt;&lt;thead&gt; &lt;tr&gt; &lt;th align=&quot;left&quot;&gt;Model&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Org&lt;/th&gt; &lt;th align=&quot;left&quot;&gt;Params (total/active)&lt;/th&gt; &lt;th align= | why kept: model</description>
+      <title>AMD Loom Fun: Added Radeon 9700 support over the weekend. Benchmarked 48 models with an average 42% speedup over llama.cpp.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxuzgg/amd_loom_fun_added_radeon_9700_support_over_the/</link>
+      <guid isPermaLink="false">t3_1xxuzgg</guid>
+      <pubDate>Mon, 16 Nov 2026 13:41:39 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;On Friday I &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/s/4RHJh9XrzK&quot;&gt;posted about AMD Loom&lt;/a&gt;, a new experimental inference stack that includes a runtime, kernel compiler, and inference server. People ca | why kept: model, local, inference, llama</description>
+    </item>
+    <item>
+      <title>contributing: mark agents.md and code-review as required (#32416)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4303cd94aed992aef378497b033188f251086591</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4303cd94aed992aef378497b033188f251086591</guid>
+      <pubDate>Mon, 16 Nov 2026 13:41:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;contributing: mark agents.md and code-review as required (#32416)&lt;/pre&gt; | why kept: agent</description>
     </item></channel></rss>
