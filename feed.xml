@@ -1,14 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Where is QWEN 4 27b ?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxqfe5/where_is_qwen_4_27b/</link>
-      <guid isPermaLink="false">t3_1xxqfe5</guid>
-      <pubDate>Mon, 16 Nov 2026 10:13:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxqfe5/where_is_qwen_4_27b/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/nlp694z3gz1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=14ba78178b94314f513efb5a51702feb3bb0d6a3&quot; | why kept: qwen, model, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>Stop worrying about Qwen 4&#x27;s AA index</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/</link>
-      <guid isPermaLink="false">t3_1xxqfqr</guid>
-      <pubDate>Mon, 16 Nov 2026 10:13:16 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Seriously, we have all been extremely happy and confident with Qwen, even since Qwen 3.6 came out. We might not be frontier level, but even though whatever they are giving us is more than enough for our dai | why kept: qwen, model, qwen, local, fine-tun</description>
+      <title>chore(main): release cua-driver-rs 0.52.7 (#7940)</title>
+      <link>https://github.com/trycua/cua/commit/1cce41e40f58182bb4c09186c15634a6c8436d35</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1cce41e40f58182bb4c09186c15634a6c8436d35</guid>
+      <pubDate>Mon, 16 Nov 2026 10:29:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.7 (#7940)
+
+* chore(main): release cua-driver-rs 0.52.7
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- Where is QWEN 4 27b ? — https://www.reddit.com/r/LocalLLaMA/comments/1xxqfe5/where_is_qwen_4_27b/ (score 13)
-- Stop worrying about Qwen 4's AA index — https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/ (score 13)
+- chore(main): release cua-driver-rs 0.52.7 (#7940) — https://github.com/trycua/cua/commit/1cce41e40f58182bb4c09186c15634a6c8436d35 (score 5)
