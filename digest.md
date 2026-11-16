@@ -1,1 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.52.6 in Cua Spaces (#7935) — https://github.com/trycua/cua/commit/f286d941554013976febc1db671028eede8c1f6a (score 5)
+- Where is QWEN 4 27b ? — https://www.reddit.com/r/LocalLLaMA/comments/1xxqfe5/where_is_qwen_4_27b/ (score 13)
+- Stop worrying about Qwen 4's AA index — https://www.reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index/ (score 13)
