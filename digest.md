@@ -1,2 +1,1 @@
-- [Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent — https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/ (score 8)
-- chore(cua-driver): advance published installer version to 0.52.6 (#7934) — https://github.com/trycua/cua/commit/6dcfa8697bb5ba77f1f7507dd8b3bb496cf193b1 (score 5)
+- [Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models — https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/ (score 6)
