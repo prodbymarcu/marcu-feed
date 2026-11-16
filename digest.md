@@ -1,1 +1,3 @@
-- chore(main): release cua-driver-rs 0.52.9 (#7970) — https://github.com/trycua/cua/commit/f6abedfd53d4114bc6488926bb912a5e529967c0 (score 5)
+- chore(cua-driver): advance published installer version to 0.52.8 (#7974) — https://github.com/trycua/cua/commit/4da4409f3d662267c27eafcbe9065df49f6589e3 (score 5)
+- Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encounterin — https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/ (score 4)
+- nvidia/Nemotron-Labs-Sigma 8B/3B — https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/ (score 2)
