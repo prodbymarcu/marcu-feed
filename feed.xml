@@ -1,7 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/</link>
-      <guid isPermaLink="false">t3_1xxibeh</guid>
-      <pubDate>Mon, 16 Nov 2026 02:13:14 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/c4l0ag0s5x1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=79913074944b97 | why kept: qwen, qwen, local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.52.4 (#7921)</title>
+      <link>https://github.com/trycua/cua/commit/9b9f1d5b9bfdd9c5277ffc67f6e47a4bb6666334</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9b9f1d5b9bfdd9c5277ffc67f6e47a4bb6666334</guid>
+      <pubDate>Mon, 16 Nov 2026 02:45:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.4 (#7921)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.52.3 (#7893)</title>
+      <link>https://github.com/trycua/cua/commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb</guid>
+      <pubDate>Mon, 16 Nov 2026 02:45:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.3 (#7893)
+
+* chore(main): release cua-driver-rs 0.52.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
