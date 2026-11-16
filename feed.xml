@@ -1,8 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>datasette-maplibre 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/15/datasette-maplibre/</guid>
-      <pubDate>Sun, 15 Nov 2026 20:21:14 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0&quot;&gt;datasette-maplibre 0.1a0&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;The first new Datasette geospatial plugin in quite a while! This one combines the excellen | why kept: claude, free</description>
+      <title>1Cat-vLLM vs Strata</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx1u9y/1catvllm_vs_strata/</link>
+      <guid isPermaLink="false">t3_1xx1u9y</guid>
+      <pubDate>Sun, 15 Nov 2026 21:25:44 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Edit: 1Cat-vLLM is a Tesla V100 focused fork of vLLM, and the expert caching work is 1Cat&amp;#39;s original work, which may or may not one day make it to vLLM.&lt;/p&gt; &lt;p&gt;Everyday we see posts about speeds on Stra | why kept: qwen, claude, qwen, quant</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- datasette-maplibre 0.1a0 — https://simonwillison.net/2026/Nov/15/datasette-maplibre/ (score 4)
+- 1Cat-vLLM vs Strata — https://www.reddit.com/r/LocalLLaMA/comments/1xx1u9y/1catvllm_vs_strata/ (score 11)
