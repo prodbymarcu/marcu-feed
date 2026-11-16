@@ -1,1 +1,2 @@
-- Did we hit a wall in context length? — https://www.reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length/ (score 6)
+- llama : deprecate old batch API (#32306) — https://github.com/ggml-org/llama.cpp/commit/a06044b934db085e373286444e0c15b93635a20c (score 2)
+- llama : migrate to `llama_batch_ext` (#32356) — https://github.com/ggml-org/llama.cpp/commit/62a6d3a302165fc06509b5250260677ef8cd28c2 (score 2)
