@@ -1,1 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.52.5 (#7932) — https://github.com/trycua/cua/commit/c741d8b9311fcf12fab600a7972da5204578ff5f (score 5)
+- [Paper & Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent — https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/ (score 8)
+- chore(cua-driver): advance published installer version to 0.52.6 (#7934) — https://github.com/trycua/cua/commit/6dcfa8697bb5ba77f1f7507dd8b3bb496cf193b1 (score 5)

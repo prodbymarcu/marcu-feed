@@ -1,9 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.5 (#7932)</title>
-      <link>https://github.com/trycua/cua/commit/c741d8b9311fcf12fab600a7972da5204578ff5f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c741d8b9311fcf12fab600a7972da5204578ff5f</guid>
-      <pubDate>Mon, 16 Nov 2026 07:33:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.5 (#7932)
+      <title>[Paper &amp; Models] Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/</link>
+      <guid isPermaLink="false">t3_1xxmj9o</guid>
+      <pubDate>Mon, 16 Nov 2026 08:05:41 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxmj9o/paper_models_gamer_a_generalist/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/iyknzc0chy1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bdca6ab0bc9f836ca233f4afaeb14 | why kept: model, agent, local, llama</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.52.6 (#7934)</title>
+      <link>https://github.com/trycua/cua/commit/6dcfa8697bb5ba77f1f7507dd8b3bb496cf193b1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6dcfa8697bb5ba77f1f7507dd8b3bb496cf193b1</guid>
+      <pubDate>Mon, 16 Nov 2026 08:05:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.6 (#7934)
 
 Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
