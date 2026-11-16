@@ -1,15 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>datasette-apps 0.4a0</title>
-      <link>https://simonwillison.net/2026/Nov/15/datasette-apps/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/15/datasette-apps/</guid>
-      <pubDate>Sun, 15 Nov 2026 20:05:37 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-apps/releases/tag/0.4a0&quot;&gt;datasette-apps 0.4a0&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think C | why kept: agent, claude</description>
-    </item>
-    <item>
-      <title>Someone should do an analysis on the rate of Self-promo here.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/</link>
-      <guid isPermaLink="false">t3_1xx85mw</guid>
-      <pubDate>Sun, 15 Nov 2026 20:05:37 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think the last 3 posts from here that showed up on my feed were barely veiled self-promos.&lt;/p&gt; &lt;p&gt;I was here when huggingface first started getting popular, and the level of support for running local mode | why kept: model, local</description>
+      <title>datasette-maplibre 0.1a0</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette-maplibre/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/15/datasette-maplibre/</guid>
+      <pubDate>Sun, 15 Nov 2026 20:21:14 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-maplibre/releases/tag/0.1a0&quot;&gt;datasette-maplibre 0.1a0&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;The first new Datasette geospatial plugin in quite a while! This one combines the excellen | why kept: claude, free</description>
     </item></channel></rss>

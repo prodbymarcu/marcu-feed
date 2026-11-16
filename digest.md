@@ -1,2 +1,1 @@
-- datasette-apps 0.4a0 — https://simonwillison.net/2026/Nov/15/datasette-apps/ (score 4)
-- Someone should do an analysis on the rate of Self-promo here. — https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/ (score 4)
+- datasette-maplibre 0.1a0 — https://simonwillison.net/2026/Nov/15/datasette-maplibre/ (score 4)
