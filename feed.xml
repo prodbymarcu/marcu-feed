@@ -1,14 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>AMD Loom Fun: Added Radeon 9700 support over the weekend. Benchmarked 48 models with an average 42% speedup over llama.cpp.</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxuzgg/amd_loom_fun_added_radeon_9700_support_over_the/</link>
-      <guid isPermaLink="false">t3_1xxuzgg</guid>
-      <pubDate>Mon, 16 Nov 2026 13:41:39 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;On Friday I &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/s/4RHJh9XrzK&quot;&gt;posted about AMD Loom&lt;/a&gt;, a new experimental inference stack that includes a runtime, kernel compiler, and inference server. People ca | why kept: model, local, inference, llama</description>
-    </item>
-    <item>
-      <title>contributing: mark agents.md and code-review as required (#32416)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/4303cd94aed992aef378497b033188f251086591</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4303cd94aed992aef378497b033188f251086591</guid>
-      <pubDate>Mon, 16 Nov 2026 13:41:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;contributing: mark agents.md and code-review as required (#32416)&lt;/pre&gt; | why kept: agent</description>
+      <title>Open weight models account for 30% usage at enterprises to save money</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/</link>
+      <guid isPermaLink="false">t3_1xxxbt9</guid>
+      <pubDate>Mon, 16 Nov 2026 13:57:18 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Growing from nearly zero to 30% since July. Models used mostly to reduce costs on high volume workloads (large batch workloads, coding, etc).&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://x.com/pwendell/status/212237796478461163 | why kept: model, local, llama</description>
     </item></channel></rss>

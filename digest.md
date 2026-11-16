@@ -1,2 +1,1 @@
-- AMD Loom Fun: Added Radeon 9700 support over the weekend. Benchmarked 48 models with an average 42% speedup over llama.c — https://www.reddit.com/r/LocalLLaMA/comments/1xxuzgg/amd_loom_fun_added_radeon_9700_support_over_the/ (score 8)
-- contributing: mark agents.md and code-review as required (#32416) — https://github.com/ggml-org/llama.cpp/commit/4303cd94aed992aef378497b033188f251086591 (score 2)
+- Open weight models account for 30% usage at enterprises to save money — https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/ (score 6)
