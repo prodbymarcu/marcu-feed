@@ -1,12 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-sdk): keep HTTP MCP reply waits cancellable (#7980)</title>
-      <link>https://github.com/trycua/cua/commit/d735f383d43a2abecc100c08be23c4540f4cba95</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d735f383d43a2abecc100c08be23c4540f4cba95</guid>
-      <pubDate>Mon, 16 Nov 2026 16:38:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sdk): keep HTTP MCP reply waits cancellable (#7980)
+      <title>Karpo-Decision-31B: open multimodal decision model. Ranks #1 on full score on Decision Index, 2x faster than Jev, at 20% lower cost</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxrmt4/karpodecision31b_open_multimodal_decision_model/</link>
+      <guid isPermaLink="false">t3_1xxrmt4</guid>
+      <pubDate>Mon, 16 Nov 2026 16:54:19 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxrmt4/karpodecision31b_open_multimodal_decision_model/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/eyn4rx64pz1i1.jpeg?width=140&amp;amp;height=66&amp;amp;auto=webp&amp;amp;s=c4f6de447b8c5 | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>fix(docs): correct the Spaces and sandbox guides that disagreed with …</title>
+      <link>https://github.com/trycua/cua/commit/0a922ea53e176d80552237563f519917f5ee156a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0a922ea53e176d80552237563f519917f5ee156a</guid>
+      <pubDate>Mon, 16 Nov 2026 16:54:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(docs): correct the Spaces and sandbox guides that disagreed with the product (#7977)
 
-The request signal and timeout now cover the whole reply, body included, and
-an already-aborted signal sends nothing.
+* fix(docs): correct the Spaces and sandbox guides that disagreed with the product
 
-Re-landed from  | why kept: claude</description>
+- #7901: install and  | why kept: agent</description>
     </item></channel></rss>
