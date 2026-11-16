@@ -1,3 +1,1 @@
-- you may get your cheap ram and gpu after all, the AI crash has started — https://www.reddit.com/r/LocalLLaMA/comments/1xxspx6/you_may_get_your_cheap_ram_and_gpu_after_all_the/ (score 4)
-- ui: move the web UI to ui/apps/chat and call it Llama Chat (#32032) — https://github.com/ggml-org/llama.cpp/commit/3a7660371dd3788e5a64aeaf4ed87b4c21af1265 (score 4)
-- mtmd: support fish audio s2 (#32330) — https://github.com/ggml-org/llama.cpp/commit/a68c6136bb980d35281ae68d275d6f5318accc4a (score 2)
+- chore(cua-driver): advance published installer version to 0.52.7 (#7956) — https://github.com/trycua/cua/commit/f601f1d33f53317c44f530a3146a6c9d1cee6ad0 (score 5)

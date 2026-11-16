@@ -1,41 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>you may get your cheap ram and gpu after all, the AI crash has started</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxspx6/you_may_get_your_cheap_ram_and_gpu_after_all_the/</link>
-      <guid isPermaLink="false">t3_1xxspx6</guid>
-      <pubDate>Mon, 16 Nov 2026 11:33:30 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxspx6/you_may_get_your_cheap_ram_and_gpu_after_all_the/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/XqLRilgvTJB3HbA0U62OwvNdWhCxDXftU8cGdCushXs.jpeg?width=640&amp;amp;cro | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>ui: move the web UI to ui/apps/chat and call it Llama Chat (#32032)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/3a7660371dd3788e5a64aeaf4ed87b4c21af1265</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3a7660371dd3788e5a64aeaf4ed87b4c21af1265</guid>
-      <pubDate>Mon, 16 Nov 2026 11:33:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move the web UI to ui/apps/chat and call it Llama Chat (#32032)
+      <title>chore(cua-driver): advance published installer version to 0.52.7 (#7956)</title>
+      <link>https://github.com/trycua/cua/commit/f601f1d33f53317c44f530a3146a6c9d1cee6ad0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f601f1d33f53317c44f530a3146a6c9d1cee6ad0</guid>
+      <pubDate>Mon, 16 Nov 2026 12:05:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.7 (#7956)
 
-* ui: move tools/ui to ui/apps/chat
-
-The chat app moves to its own root folder, ui/apps/chat, as the first step of splitting t | why kept: claude, llama</description>
-    </item>
-    <item>
-      <title>mtmd: support fish audio s2 (#32330)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a68c6136bb980d35281ae68d275d6f5318accc4a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a68c6136bb980d35281ae68d275d6f5318accc4a</guid>
-      <pubDate>Mon, 16 Nov 2026 11:33:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support fish audio s2 (#32330)
-
-* add fisk-audio-s2 support
-
-* add voice cloning
-
-* cont merge master
-
-* nits
-
-* nits
-
-* clean up
-
-* nits
-
-* use new batch api&lt;/pre&gt; | why kept: voice</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
