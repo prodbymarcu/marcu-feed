@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Open weight models account for 30% usage at enterprises to save money</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/</link>
-      <guid isPermaLink="false">t3_1xxxbt9</guid>
-      <pubDate>Mon, 16 Nov 2026 13:57:18 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Growing from nearly zero to 30% since July. Models used mostly to reduce costs on high volume workloads (large batch workloads, coding, etc).&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://x.com/pwendell/status/212237796478461163 | why kept: model, local, llama</description>
+      <title>chore(main): release cua-driver-rs 0.52.9 (#7970)</title>
+      <link>https://github.com/trycua/cua/commit/f6abedfd53d4114bc6488926bb912a5e529967c0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f6abedfd53d4114bc6488926bb912a5e529967c0</guid>
+      <pubDate>Mon, 16 Nov 2026 14:29:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.9 (#7970)
+
+* chore(main): release cua-driver-rs 0.52.9
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

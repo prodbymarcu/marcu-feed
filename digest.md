@@ -1,1 +1,1 @@
-- Open weight models account for 30% usage at enterprises to save money — https://www.reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at/ (score 6)
+- chore(main): release cua-driver-rs 0.52.9 (#7970) — https://github.com/trycua/cua/commit/f6abedfd53d4114bc6488926bb912a5e529967c0 (score 5)
