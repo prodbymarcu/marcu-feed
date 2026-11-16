@@ -1,1 +1,1 @@
-- Big labs keep using ideas from r/LocalLLaMA and promoting them as their own — https://www.reddit.com/r/LocalLLaMA/comments/1xxao34/big_labs_keep_using_ideas_from_rlocalllama_and/ (score 4)
+- Why download abliterated Flash Next models when LoRA exists? — https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/ (score 6)
