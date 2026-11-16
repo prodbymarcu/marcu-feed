@@ -1,15 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.28.0 (#7985)</title>
-      <link>https://github.com/trycua/cua/commit/24898c427a6de7a5af7d6a07086628ec2fdb5aa4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/24898c427a6de7a5af7d6a07086628ec2fdb5aa4</guid>
-      <pubDate>Mon, 16 Nov 2026 17:58:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.0 (#7985)
+      <title>chore(main): release sandbox 0.11.8 (#7988)</title>
+      <link>https://github.com/trycua/cua/commit/47882065f0a3658d44cdd29031bb7bc98fdf2d41</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/47882065f0a3658d44cdd29031bb7bc98fdf2d41</guid>
+      <pubDate>Mon, 16 Nov 2026 18:14:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.8 (#7988)
 
-* chore(main): release cua-sdk 0.28.0
+* chore(main): release sandbox 0.11.8
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(sandbox): synchronize release metadata
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.28.0 (#7985) — https://github.com/trycua/cua/commit/24898c427a6de7a5af7d6a07086628ec2fdb5aa4 (score 5)
+- chore(main): release sandbox 0.11.8 (#7988) — https://github.com/trycua/cua/commit/47882065f0a3658d44cdd29031bb7bc98fdf2d41 (score 5)
