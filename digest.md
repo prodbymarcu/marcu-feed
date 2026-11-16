@@ -1,1 +1,1 @@
-- 1Cat-vLLM vs Strata — https://www.reddit.com/r/LocalLLaMA/comments/1xx1u9y/1catvllm_vs_strata/ (score 11)
+- fix(spaces-macos): bundle Cua Driver 0.52.1 in Cua Spaces (#7846) — https://github.com/trycua/cua/commit/2e00a1463f8c70b021fe3cac381ca7ed42105cae (score 5)
