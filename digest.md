@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.52.6 (#7929) — https://github.com/trycua/cua/commit/81d240c3e0ca1734b31ca4d58cb77008b738098d (score 5)
-- ci : use vX.Y.Z tags as docker tags (#32388) — https://github.com/ggml-org/llama.cpp/commit/95db855bce95c0317802b8edd7ab10b05f1f1cc5 (score 4)
+- [Paper & Models] MMFlash: Faster Speculative Decoding for Vision-Language Models — https://www.reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding/ (score 6)
