@@ -1,3 +1,2 @@
-- miHoYo Gamer: A Generalist Game Agent — https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/ (score 6)
-- tests: print the exception message in test-llama-context (#32428) — https://github.com/ggml-org/llama.cpp/commit/e8fbcad855c5d8c315aa1dde231836ae472f5779 (score 2)
-- fix(sandbox): honor shell timeout on Android ADB transport (#7981) — https://github.com/trycua/cua/commit/bf75fc924950f760cdab877ae99e9bb01a865575 (score 2)
+- fix(agents): install Hermes dependencies in macOS spaces (#7978) — https://github.com/trycua/cua/commit/a090ad5f5e7f3333b0c5649ff96ea1e34c607ac5 (score 11)
+- chore(cua-driver): advance published installer version to 0.52.9 (#7984) — https://github.com/trycua/cua/commit/4c03ef201273796354396df40588c830b8716bec (score 5)
