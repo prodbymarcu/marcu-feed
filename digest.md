@@ -1,2 +1,1 @@
-- server: answer reasoning_effort levels the template rejects with 400 … — https://github.com/ggml-org/llama.cpp/commit/a946eb541a6d3051496bdcc451a0fa85772b8dfd (score 7)
-- chore(main): release cua-driver-rs 0.52.4 (#7894) — https://github.com/trycua/cua/commit/5ee5974492839bb3b5a3db8919e3cf517e23ffe3 (score 5)
+- [Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent s — https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/ (score 15)

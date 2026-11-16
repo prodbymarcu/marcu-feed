@@ -1,25 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server: answer reasoning_effort levels the template rejects with 400 …</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a946eb541a6d3051496bdcc451a0fa85772b8dfd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a946eb541a6d3051496bdcc451a0fa85772b8dfd</guid>
-      <pubDate>Mon, 16 Nov 2026 01:09:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: answer reasoning_effort levels the template rejects with 400 (#32332)
-
-The reasoning effort probe already renders every candidate level, but
-it dropped the ones the template raises on, so | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.52.4 (#7894)</title>
-      <link>https://github.com/trycua/cua/commit/5ee5974492839bb3b5a3db8919e3cf517e23ffe3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5ee5974492839bb3b5a3db8919e3cf517e23ffe3</guid>
-      <pubDate>Mon, 16 Nov 2026 01:09:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.4 (#7894)
-
-* chore(main): release cua-driver-rs 0.52.4
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/</link>
+      <guid isPermaLink="false">t3_1xxg12n</guid>
+      <pubDate>Mon, 16 Nov 2026 01:41:15 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;While building and testing WebBrain with local models, getting reliable agent performance usually required keeping two or three separate models in memory at once: * A vision model to in | why kept: qwen, model, agent, qwen, local, hardware</description>
     </item></channel></rss>
