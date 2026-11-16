@@ -1,17 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-bench-rl): bump aiohttp to clear Dependabot CVEs (#7944)</title>
-      <link>https://github.com/trycua/cua/commit/c8a6606062612e47912719463aae49e667b7be8b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8a6606062612e47912719463aae49e667b7be8b</guid>
-      <pubDate>Mon, 16 Nov 2026 11:01:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-bench-rl): bump aiohttp to clear Dependabot CVEs (#7944)
-
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>Censorship is turning me into a true Local LLM believer</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm/</link>
-      <guid isPermaLink="false">t3_1xxsc7u</guid>
-      <pubDate>Mon, 16 Nov 2026 11:01:36 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;451: {&amp;quot;message&amp;quot;:&amp;quot;Provider returned error&amp;quot;,&amp;quot;code&amp;quot;:451,&amp;quot;metadata&amp;quot;:{&amp;quot;raw&amp;quot;:&amp;quot;{\&amp;quot;error\&amp;quot;:{\&amp;quot;message\&amp;quot;:\&amp;quot;The content you provided or  | why kept: local</description>
+      <title>arg : allow up to llama_max_devices() configs for --tensor-split and …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/7804be0634c578d1da1604a2f2320b33f5a65377</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7804be0634c578d1da1604a2f2320b33f5a65377</guid>
+      <pubDate>Mon, 16 Nov 2026 11:17:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;arg : allow up to llama_max_devices() configs for --tensor-split and --fit-target (#13293) (#31435)&lt;/pre&gt; | why kept: llama</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- fix(cua-bench-rl): bump aiohttp to clear Dependabot CVEs (#7944) — https://github.com/trycua/cua/commit/c8a6606062612e47912719463aae49e667b7be8b (score 7)
-- Censorship is turning me into a true Local LLM believer — https://www.reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm/ (score 2)
+- arg : allow up to llama_max_devices() configs for --tensor-split and … — https://github.com/ggml-org/llama.cpp/commit/7804be0634c578d1da1604a2f2320b33f5a65377 (score 2)
