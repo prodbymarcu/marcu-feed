@@ -1,1 +1,3 @@
-- Given the flood of new inference engines any recommendations for 2x 7900xtx ? — https://www.reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any/ (score 17)
+- tandem.cpp v0.3.0: prefill speed improved; Project Maya's DeepSeek-V4.1 GGUFs support — https://www.reddit.com/r/LocalLLaMA/comments/1xxo0f5/tandemcpp_v030_prefill_speed_improved_project/ (score 8)
+- I made a C&C inspired web RTS for us to benchmark our local models with — https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/ (score 6)
+- [Project] Gemma.c - Gemma 1/2/3 + multimodal inference in one C file (CPU only) — https://www.reddit.com/r/LocalLLaMA/comments/1xxq01s/project_gemmac_gemma_123_multimodal_inference_in/ (score 6)

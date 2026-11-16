@@ -1,7 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Given the flood of new inference engines any recommendations for 2x 7900xtx ?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxmr68/given_the_flood_of_new_inference_engines_any/</link>
-      <guid isPermaLink="false">t3_1xxmr68</guid>
-      <pubDate>Mon, 16 Nov 2026 12:37:19 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone as the title says I am looking for inference engines that work well with AMD GPUs. There have been so many new ones that I am sure there is something better then llamacpp which currently hosts  | why kept: qwen, model, qwen, free, inference, llama</description>
+      <title>tandem.cpp v0.3.0: prefill speed improved; Project Maya&#x27;s DeepSeek-V4.1 GGUFs support</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxo0f5/tandemcpp_v030_prefill_speed_improved_project/</link>
+      <guid isPermaLink="false">t3_1xxo0f5</guid>
+      <pubDate>Mon, 16 Nov 2026 12:53:25 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Thanks for the feedback on slow prompt processing. v0.3.0 is out (the first tagged release): &lt;a href=&quot;https://github.com/ewhacc/tandem.cpp&quot;&gt;https://github.com/ewhacc/tandem.cpp&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Previous post: &lt;a  | why kept: model, local, runs, llama</description>
+    </item>
+    <item>
+      <title>I made a C&amp;C inspired web RTS for us to benchmark our local models with</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/</link>
+      <guid isPermaLink="false">t3_1xxtn9g</guid>
+      <pubDate>Mon, 16 Nov 2026 12:53:25 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZTMzNnIxemkyMDJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?w | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>[Project] Gemma.c - Gemma 1/2/3 + multimodal inference in one C file (CPU only)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxq01s/project_gemmac_gemma_123_multimodal_inference_in/</link>
+      <guid isPermaLink="false">t3_1xxq01s</guid>
+      <pubDate>Mon, 16 Nov 2026 12:53:25 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxq01s/project_gemmac_gemma_123_multimodal_inference_in/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZzJzOWxoOG9jejFpMa8HQiKYC0MOYHXXwG87wfqu0NRmTxkLVX4J8v4R7aRq.png?w | why kept: local, inference, llama</description>
     </item></channel></rss>
