@@ -1,15 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.52.5 (#7925)</title>
-      <link>https://github.com/trycua/cua/commit/6463a2fb4273586a13b646fbf4abeb1113c95d73</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6463a2fb4273586a13b646fbf4abeb1113c95d73</guid>
-      <pubDate>Mon, 16 Nov 2026 05:41:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.5 (#7925)
+      <title>chore(main): release cua-driver-rs 0.52.6 (#7929)</title>
+      <link>https://github.com/trycua/cua/commit/81d240c3e0ca1734b31ca4d58cb77008b738098d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81d240c3e0ca1734b31ca4d58cb77008b738098d</guid>
+      <pubDate>Mon, 16 Nov 2026 06:29:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.6 (#7929)
 
-* chore(main): release cua-driver-rs 0.52.5
+* chore(main): release cua-driver-rs 0.52.6
 
 * chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
 Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ci : use vX.Y.Z tags as docker tags (#32388)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/95db855bce95c0317802b8edd7ab10b05f1f1cc5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/95db855bce95c0317802b8edd7ab10b05f1f1cc5</guid>
+      <pubDate>Mon, 16 Nov 2026 06:29:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci : use vX.Y.Z tags as docker tags (#32388)
+
+* ci : use vX.Y.Z tags as docker tags
+
+When the Docker workflow is manually dispatched from a vX.Y.Z tag, use that tag verbatim for the image tags in | why kept: runs, llama</description>
     </item></channel></rss>

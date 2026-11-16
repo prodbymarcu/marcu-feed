@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.52.5 (#7925) — https://github.com/trycua/cua/commit/6463a2fb4273586a13b646fbf4abeb1113c95d73 (score 5)
+- chore(main): release cua-driver-rs 0.52.6 (#7929) — https://github.com/trycua/cua/commit/81d240c3e0ca1734b31ca4d58cb77008b738098d (score 5)
+- ci : use vX.Y.Z tags as docker tags (#32388) — https://github.com/ggml-org/llama.cpp/commit/95db855bce95c0317802b8edd7ab10b05f1f1cc5 (score 4)
