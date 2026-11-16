@@ -1,23 +1,29 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-spaces): compile with reduced feature sets (#4846)</title>
-      <link>https://github.com/trycua/cua/commit/c8711718ebc2f4aad364caf3daed74631deab5fa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8711718ebc2f4aad364caf3daed74631deab5fa</guid>
-      <pubDate>Mon, 16 Nov 2026 15:50:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-spaces): compile with reduced feature sets (#4846)
-
-* fix(cua-spaces): compile with reduced feature sets
-
-cua-spaces only compiled with spaces-agents, mcp and spaces-presence on;
-in-repo  | why kept: agent</description>
+      <title>miHoYo Gamer: A Generalist Game Agent</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/</link>
+      <guid isPermaLink="false">t3_1xxy7eb</guid>
+      <pubDate>Mon, 16 Nov 2026 16:06:49 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/8UIGBF_foa6WQRJuUS3_kZuZ9R79JolVxOWlYJNi5wY.jpeg?width=640&amp;amp;crop=smart&amp;amp; | why kept: agent, local, llama</description>
     </item>
     <item>
-      <title>fix(cua-driver): re-land the exit wait and browser_type Enter fixes f…</title>
-      <link>https://github.com/trycua/cua/commit/81423fc06fca78f07c94176a497aeef9bef750bd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/81423fc06fca78f07c94176a497aeef9bef750bd</guid>
-      <pubDate>Mon, 16 Nov 2026 15:50:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): re-land the exit wait and browser_type Enter fixes from #4488 and #4499 (#7857)
+      <title>tests: print the exception message in test-llama-context (#32428)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e8fbcad855c5d8c315aa1dde231836ae472f5779</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e8fbcad855c5d8c315aa1dde231836ae472f5779</guid>
+      <pubDate>Mon, 16 Nov 2026 16:06:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests: print the exception message in test-llama-context (#32428)
 
-* fix(cua-driver): wake a pending embedded exit wait only when the daemon exits
+A case that throws only reported &amp;quot;unhandled exception&amp;quot;, which hides
+the cause of the intermittent failures on the Vulk | why kept: llama</description>
+    </item>
+    <item>
+      <title>fix(sandbox): honor shell timeout on Android ADB transport (#7981)</title>
+      <link>https://github.com/trycua/cua/commit/bf75fc924950f760cdab877ae99e9bb01a865575</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bf75fc924950f760cdab877ae99e9bb01a865575</guid>
+      <pubDate>Mon, 16 Nov 2026 16:06:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(sandbox): honor shell timeout on Android ADB transport (#7981)
 
-Re-lands #4488 f | why kept: claude</description>
+Re-landed from #5374.
+
+Co-authored-by: kvnloo &amp;lt;7121943+kvnloo@users.noreply.github.com&amp;gt;
+Co-authored-by: Claude Sonnet 5.5 | why kept: claude</description>
     </item></channel></rss>

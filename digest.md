@@ -1,2 +1,3 @@
-- fix(cua-spaces): compile with reduced feature sets (#4846) — https://github.com/trycua/cua/commit/c8711718ebc2f4aad364caf3daed74631deab5fa (score 2)
-- fix(cua-driver): re-land the exit wait and browser_type Enter fixes f… — https://github.com/trycua/cua/commit/81423fc06fca78f07c94176a497aeef9bef750bd (score 2)
+- miHoYo Gamer: A Generalist Game Agent — https://www.reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent/ (score 6)
+- tests: print the exception message in test-llama-context (#32428) — https://github.com/ggml-org/llama.cpp/commit/e8fbcad855c5d8c315aa1dde231836ae472f5779 (score 2)
+- fix(sandbox): honor shell timeout on Android ADB transport (#7981) — https://github.com/trycua/cua/commit/bf75fc924950f760cdab877ae99e9bb01a865575 (score 2)
