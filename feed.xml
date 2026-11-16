@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.27.7 in Cua Spaces (#7878)</title>
-      <link>https://github.com/trycua/cua/commit/a0d7c5ad8d8ef612c17d97ae3e67a0a3c107d09f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a0d7c5ad8d8ef612c17d97ae3e67a0a3c107d09f</guid>
-      <pubDate>Sun, 15 Nov 2026 19:01:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.27.7 in Cua Spaces (#7878)
-
-cua 0.27.7 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+      <title>Big labs keep using ideas from r/LocalLLaMA and promoting them as their own</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxao34/big_labs_keep_using_ideas_from_rlocalllama_and/</link>
+      <guid isPermaLink="false">t3_1xxao34</guid>
+      <pubDate>Sun, 15 Nov 2026 19:33:28 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxao34/big_labs_keep_using_ideas_from_rlocalllama_and/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/6l_A9WpF_QO6q1Uab37Ily5NJP28aVIvzBgRsCQY_Xg.png?width=640&amp;amp;crop=s | why kept: local, llama</description>
     </item></channel></rss>

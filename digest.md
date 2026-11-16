@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.27.7 in Cua Spaces (#7878) — https://github.com/trycua/cua/commit/a0d7c5ad8d8ef612c17d97ae3e67a0a3c107d09f (score 5)
+- Big labs keep using ideas from r/LocalLLaMA and promoting them as their own — https://www.reddit.com/r/LocalLLaMA/comments/1xxao34/big_labs_keep_using_ideas_from_rlocalllama_and/ (score 4)
