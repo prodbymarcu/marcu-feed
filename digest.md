@@ -1,1 +1,1 @@
-- I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for — https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/ (score 11)
+- chore(cua-driver): advance published installer version to 0.52.3 (#7896) — https://github.com/trycua/cua/commit/55824b700c7fb29327473b425ffdf384dc40105b (score 5)
