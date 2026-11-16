@@ -1,9 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.52.4 in Cua Spaces (#7898)</title>
-      <link>https://github.com/trycua/cua/commit/133259a34f926d3e294e0399e9901b69f240a830</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/133259a34f926d3e294e0399e9901b69f240a830</guid>
-      <pubDate>Mon, 16 Nov 2026 03:17:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.4 in Cua Spaces (#7898)
-
-Cua Driver 0.52.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+      <title>Introducing Hy4 flash</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/</link>
+      <guid isPermaLink="false">t3_1xxlgpb</guid>
+      <pubDate>Mon, 16 Nov 2026 05:25:19 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Now this seems to be interesting.&lt;/p&gt; &lt;p&gt;From the article:&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;We’re introducing Hy4 flash, our most cost-effective Hy model to date—featuring 224B total parameters (including 64B Engram par | why kept: qwen, model, qwen, context window</description>
+    </item>
+    <item>
+      <title>The beginning of the becoming of the beginning begins</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/</link>
+      <guid isPermaLink="false">t3_1xxlich</guid>
+      <pubDate>Mon, 16 Nov 2026 05:25:19 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/czvg7r846y1i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0d95847d85743 | why kept: local, llama</description>
     </item></channel></rss>

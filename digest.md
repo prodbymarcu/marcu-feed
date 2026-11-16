@@ -1,1 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.52.4 in Cua Spaces (#7898) — https://github.com/trycua/cua/commit/133259a34f926d3e294e0399e9901b69f240a830 (score 5)
+- Introducing Hy4 flash — https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/ (score 11)
+- The beginning of the becoming of the beginning begins — https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/ (score 4)
