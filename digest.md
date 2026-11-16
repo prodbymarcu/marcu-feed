@@ -1,1 +1,2 @@
-- Why download abliterated Flash Next models when LoRA exists? — https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/ (score 6)
+- datasette-apps 0.4a0 — https://simonwillison.net/2026/Nov/15/datasette-apps/ (score 4)
+- Someone should do an analysis on the rate of Self-promo here. — https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/ (score 4)

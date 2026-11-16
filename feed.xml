@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Why download abliterated Flash Next models when LoRA exists?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/</link>
-      <guid isPermaLink="false">t3_1xxawbh</guid>
-      <pubDate>Sun, 15 Nov 2026 19:49:12 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/GV7ZHfSlQHB7eh5ofVSsj4GRn0FsitN8yAMq3HNWJT0.png?width=640&amp;amp;crop= | why kept: model, local, llama</description>
+      <title>datasette-apps 0.4a0</title>
+      <link>https://simonwillison.net/2026/Nov/15/datasette-apps/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/15/datasette-apps/</guid>
+      <pubDate>Sun, 15 Nov 2026 20:05:37 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-apps/releases/tag/0.4a0&quot;&gt;datasette-apps 0.4a0&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think C | why kept: agent, claude</description>
+    </item>
+    <item>
+      <title>Someone should do an analysis on the rate of Self-promo here.</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of/</link>
+      <guid isPermaLink="false">t3_1xx85mw</guid>
+      <pubDate>Sun, 15 Nov 2026 20:05:37 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I think the last 3 posts from here that showed up on my feed were barely veiled self-promos.&lt;/p&gt; &lt;p&gt;I was here when huggingface first started getting popular, and the level of support for running local mode | why kept: model, local</description>
     </item></channel></rss>
