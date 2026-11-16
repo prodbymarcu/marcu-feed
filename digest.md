@@ -1,3 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.52.8 (#7974) — https://github.com/trycua/cua/commit/4da4409f3d662267c27eafcbe9065df49f6589e3 (score 5)
-- Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encounterin — https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/ (score 4)
-- nvidia/Nemotron-Labs-Sigma 8B/3B — https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/ (score 2)
+- [NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model! — https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/ (score 6)

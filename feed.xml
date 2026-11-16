@@ -1,23 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.8 (#7974)</title>
-      <link>https://github.com/trycua/cua/commit/4da4409f3d662267c27eafcbe9065df49f6589e3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4da4409f3d662267c27eafcbe9065df49f6589e3</guid>
-      <pubDate>Mon, 16 Nov 2026 14:45:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.8 (#7974)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/</link>
-      <guid isPermaLink="false">t3_1xxxs0a</guid>
-      <pubDate>Mon, 16 Nov 2026 14:45:52 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eslpZ4E4x-cX-V9zGC92iGiGxB-APko9EldVA702_JE.png?width=640&amp;amp;cro | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>nvidia/Nemotron-Labs-Sigma 8B/3B</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b/</link>
-      <guid isPermaLink="false">t3_1xxwg6w</guid>
-      <pubDate>Mon, 16 Nov 2026 14:45:52 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Nemotron-Labs-Sigma-8B-instruct is a 8-billion-parameter continuous diffusion language model. Instead of generating text one token at a time, it denoises Gaussian noise in a low-dimensional (16-D) continuou | why kept: model</description>
+      <title>[NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model!</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/</link>
+      <guid isPermaLink="false">t3_1xxw9ik</guid>
+      <pubDate>Mon, 16 Nov 2026 15:01:30 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/s6afqz7og02i1.png?width=140&amp;amp;height=86&amp;amp;auto=webp&amp;amp;s=c6c49e18ee6d | why kept: model, local, llama</description>
     </item></channel></rss>
