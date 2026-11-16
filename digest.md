@@ -1,2 +1,1 @@
-- Introducing Hy4 flash — https://www.reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash/ (score 11)
-- The beginning of the becoming of the beginning begins — https://www.reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning/ (score 4)
+- chore(main): release cua-driver-rs 0.52.5 (#7925) — https://github.com/trycua/cua/commit/6463a2fb4273586a13b646fbf4abeb1113c95d73 (score 5)
