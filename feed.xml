@@ -1,24 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.4 (#7921)</title>
-      <link>https://github.com/trycua/cua/commit/9b9f1d5b9bfdd9c5277ffc67f6e47a4bb6666334</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9b9f1d5b9bfdd9c5277ffc67f6e47a4bb6666334</guid>
-      <pubDate>Mon, 16 Nov 2026 02:45:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.4 (#7921)
+      <title>fix(spaces-macos): bundle Cua Driver 0.52.4 in Cua Spaces (#7898)</title>
+      <link>https://github.com/trycua/cua/commit/133259a34f926d3e294e0399e9901b69f240a830</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/133259a34f926d3e294e0399e9901b69f240a830</guid>
+      <pubDate>Mon, 16 Nov 2026 03:17:12 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.4 in Cua Spaces (#7898)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.52.3 (#7893)</title>
-      <link>https://github.com/trycua/cua/commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb</guid>
-      <pubDate>Mon, 16 Nov 2026 02:45:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.3 (#7893)
-
-* chore(main): release cua-driver-rs 0.52.3
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Cua Driver 0.52.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>
