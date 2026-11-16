@@ -1,1 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.52.3 (#7896) — https://github.com/trycua/cua/commit/55824b700c7fb29327473b425ffdf384dc40105b (score 5)
+- server: answer reasoning_effort levels the template rejects with 400 … — https://github.com/ggml-org/llama.cpp/commit/a946eb541a6d3051496bdcc451a0fa85772b8dfd (score 7)
+- chore(main): release cua-driver-rs 0.52.4 (#7894) — https://github.com/trycua/cua/commit/5ee5974492839bb3b5a3db8919e3cf517e23ffe3 (score 5)

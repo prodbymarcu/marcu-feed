@@ -1,9 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.3 (#7896)</title>
-      <link>https://github.com/trycua/cua/commit/55824b700c7fb29327473b425ffdf384dc40105b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55824b700c7fb29327473b425ffdf384dc40105b</guid>
-      <pubDate>Mon, 16 Nov 2026 00:53:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.3 (#7896)
+      <title>server: answer reasoning_effort levels the template rejects with 400 …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/a946eb541a6d3051496bdcc451a0fa85772b8dfd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a946eb541a6d3051496bdcc451a0fa85772b8dfd</guid>
+      <pubDate>Mon, 16 Nov 2026 01:09:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: answer reasoning_effort levels the template rejects with 400 (#32332)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+The reasoning effort probe already renders every candidate level, but
+it dropped the ones the template raises on, so | why kept: qwen, qwen</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.52.4 (#7894)</title>
+      <link>https://github.com/trycua/cua/commit/5ee5974492839bb3b5a3db8919e3cf517e23ffe3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5ee5974492839bb3b5a3db8919e3cf517e23ffe3</guid>
+      <pubDate>Mon, 16 Nov 2026 01:09:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.4 (#7894)
+
+* chore(main): release cua-driver-rs 0.52.4
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
