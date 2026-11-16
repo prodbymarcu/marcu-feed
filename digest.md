@@ -1,2 +1,1 @@
-- llama : deprecate old batch API (#32306) — https://github.com/ggml-org/llama.cpp/commit/a06044b934db085e373286444e0c15b93635a20c (score 2)
-- llama : migrate to `llama_batch_ext` (#32356) — https://github.com/ggml-org/llama.cpp/commit/62a6d3a302165fc06509b5250260677ef8cd28c2 (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.52.6 in Cua Spaces (#7935) — https://github.com/trycua/cua/commit/f286d941554013976febc1db671028eede8c1f6a (score 5)

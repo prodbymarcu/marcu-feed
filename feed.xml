@@ -1,20 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : deprecate old batch API (#32306)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a06044b934db085e373286444e0c15b93635a20c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a06044b934db085e373286444e0c15b93635a20c</guid>
-      <pubDate>Mon, 16 Nov 2026 09:25:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : deprecate old batch API (#32306)&lt;/pre&gt; | why kept: llama</description>
-    </item>
-    <item>
-      <title>llama : migrate to `llama_batch_ext` (#32356)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/62a6d3a302165fc06509b5250260677ef8cd28c2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/62a6d3a302165fc06509b5250260677ef8cd28c2</guid>
-      <pubDate>Mon, 16 Nov 2026 09:25:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : migrate to `llama_batch_ext` (#32356)
+      <title>fix(spaces-macos): bundle Cua Driver 0.52.6 in Cua Spaces (#7935)</title>
+      <link>https://github.com/trycua/cua/commit/f286d941554013976febc1db671028eede8c1f6a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f286d941554013976febc1db671028eede8c1f6a</guid>
+      <pubDate>Mon, 16 Nov 2026 09:41:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.6 in Cua Spaces (#7935)
 
-* llama : migrate to llama_batch_ext
-
-* mtmd : migrate zonos3-mini code
-
-Added in https://github.com/ggml-org/llama.cpp/pull/32020&lt;/pre&gt; | why kept: llama</description>
+Cua Driver 0.52.6 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>
