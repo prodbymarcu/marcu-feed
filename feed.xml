@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.52.3 (#7893)</title>
-      <link>https://github.com/trycua/cua/commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb</guid>
-      <pubDate>Sun, 15 Nov 2026 23:01:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.3 (#7893)
-
-* chore(main): release cua-driver-rs 0.52.3
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>I&#x27;m starting to think a specialized 4B is enough for most of the tasks I&#x27;d use an LLM for</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/</link>
+      <guid isPermaLink="false">t3_1xxfv69</guid>
+      <pubDate>Mon, 16 Nov 2026 00:05:21 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/sz8229m1hw1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bf34db7cd4f50 | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>

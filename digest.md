@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.52.3 (#7893) — https://github.com/trycua/cua/commit/e7d713b28f7a8f7102cf7b15f567efb46f300beb (score 5)
+- I'm starting to think a specialized 4B is enough for most of the tasks I'd use an LLM for — https://www.reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough/ (score 11)
