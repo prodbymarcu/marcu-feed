@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Release] Qwen3.8-27B-Perplexing-Pegasus-Heretic: Unified vision + typed decider + abliterated weights for local agent stacks (GGUF, AutoRound, NVFP4)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxg12n/release_qwen3827bperplexingpegasusheretic_unified/</link>
-      <guid isPermaLink="false">t3_1xxg12n</guid>
-      <pubDate>Mon, 16 Nov 2026 01:41:15 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Hey everyone,&lt;/p&gt; &lt;p&gt;While building and testing WebBrain with local models, getting reliable agent performance usually required keeping two or three separate models in memory at once: * A vision model to in | why kept: qwen, model, agent, qwen, local, hardware</description>
+      <title>New AA ranking Qwen3.8-FN better than GLM-5.3-Flash?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/</link>
+      <guid isPermaLink="false">t3_1xxibeh</guid>
+      <pubDate>Mon, 16 Nov 2026 02:13:14 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/c4l0ag0s5x1i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=79913074944b97 | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>
