@@ -1,1 +1,1 @@
-- [NEW RELEASE] - Supra2.5-65M Base and Instruct - our next generation state-of-the art small model family - first model! — https://www.reddit.com/r/LocalLLaMA/comments/1xxw9ik/new_release_supra2565m_base_and_instruct_our_next/ (score 6)
+- I am sick of doomposting about demise of local AI — https://www.reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai/ (score 9)
