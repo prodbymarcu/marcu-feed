@@ -1,7 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/</link>
-      <guid isPermaLink="false">t3_1xxm2v8</guid>
-      <pubDate>Mon, 16 Nov 2026 08:37:16 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/svkldflbcy1i1.gif?width=640&amp;amp;crop=smart&amp;amp;s=d318a9b273f5a149e34eeb6da9af01 | why kept: model, local, llama</description>
+      <title>Did we hit a wall in context length?</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length/</link>
+      <guid isPermaLink="false">t3_1xxn9c6</guid>
+      <pubDate>Mon, 16 Nov 2026 08:53:16 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;I feel like midel context size rapidly went from 8k to 1M in just a few years but has since stayed this way for a while now. Some still offerring 260k or 400k for their flagship models. Is it just not worth | why kept: model, local, llama</description>
     </item></channel></rss>

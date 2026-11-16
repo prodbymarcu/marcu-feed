@@ -1,1 +1,1 @@
-- [Paper] The Value of Thinking: Learning When to Reason in Hybrid Decision Models — https://www.reddit.com/r/LocalLLaMA/comments/1xxm2v8/paper_the_value_of_thinking_learning_when_to/ (score 6)
+- Did we hit a wall in context length? — https://www.reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length/ (score 6)
