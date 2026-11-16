@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>internlm/Sage-S2.1-Flash · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xxn631</guid>
-      <pubDate>Mon, 16 Nov 2026 07:17:21 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/bb-AwTPyf7TAAs2yjUYzv72iv0aQXOGtgvEiNxg5JTA.png?width=640&amp;amp;crop=smart&amp;amp;auto | why kept: model, local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.52.5 (#7932)</title>
+      <link>https://github.com/trycua/cua/commit/c741d8b9311fcf12fab600a7972da5204578ff5f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c741d8b9311fcf12fab600a7972da5204578ff5f</guid>
+      <pubDate>Mon, 16 Nov 2026 07:33:43 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.5 (#7932)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

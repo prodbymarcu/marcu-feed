@@ -1,1 +1,1 @@
-- internlm/Sage-S2.1-Flash · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face/ (score 6)
+- chore(cua-driver): advance published installer version to 0.52.5 (#7932) — https://github.com/trycua/cua/commit/c741d8b9311fcf12fab600a7972da5204578ff5f (score 5)
