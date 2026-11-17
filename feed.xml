@@ -1,14 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>nvidia/Qwen3.8-Flash-Next-NVFP4-QAD</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/</link>
-      <guid isPermaLink="false">t3_1xyi3aa</guid>
-      <pubDate>Tue, 17 Nov 2026 11:05:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RwMx3Cq8aTdIjOgWG3tjfOTEOojpO5qqflcob45AbOI.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: qwen, model, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>everyone&#x27;s hyped about ChatGPT Dots and Claude Duet. I&#x27;m a local guy, so I built an open source one that runs on my GPU</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/</link>
-      <guid isPermaLink="false">t3_1xylrup</guid>
-      <pubDate>Tue, 17 Nov 2026 11:05:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dzdsdnRqdTFuNjJpMd4SKfr_dk2mWzV-mLW34fWBqHZaD9-uZ2oEMOJDtWFw.png?widt | why kept: claude, local, runs, llama</description>
+      <title>qwen4exp : fix graph reallocation from the n-gram table scale (#32483)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/ad9d9e8f50e6ff9a6bfbbdd3aef6d74a8428cf4e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ad9d9e8f50e6ff9a6bfbbdd3aef6d74a8428cf4e</guid>
+      <pubDate>Tue, 17 Nov 2026 11:36:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen4exp : fix graph reallocation from the n-gram table scale (#32483)
+
+* qwen4exp : apply the n-gram table scale with ggml_scale
+
+* read the scale once after load
+
+* remove comment&lt;/pre&gt; | why kept: qwen, qwen</description>
     </item></channel></rss>

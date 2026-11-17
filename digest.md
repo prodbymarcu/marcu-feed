@@ -1,2 +1,1 @@
-- nvidia/Qwen3.8-Flash-Next-NVFP4-QAD — https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/ (score 13)
-- everyone's hyped about ChatGPT Dots and Claude Duet. I'm a local guy, so I built an open source one that runs on my GPU — https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/ (score 8)
+- qwen4exp : fix graph reallocation from the n-gram table scale (#32483) — https://github.com/ggml-org/llama.cpp/commit/ad9d9e8f50e6ff9a6bfbbdd3aef6d74a8428cf4e (score 7)
