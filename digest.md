@@ -1,6 +1,2 @@
-- I made a C&C inspired web RTS for us to benchmark our local models with — https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/ (score 6)
-- fix(spaces-macos): bundle Cua Driver 0.52.13 in Cua Spaces (#8032) — https://github.com/trycua/cua/commit/e5965ea2a053678def40ca2808f0bd59ff9a0a1e (score 5)
-- Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200 — https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/ (score 4)
-- Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D] — https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/ (score 4)
-- ui: move Llama Chat to SvelteKit 3 and its built-in service worker (#… — https://github.com/ggml-org/llama.cpp/commit/67cf8967ebe2dc2eb1c01e0c8b9a064bd23dc6ed (score 4)
-- Marimba: A System One Model for Speech. [R] — https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/ (score 2)
+- fix(cua-sandbox): accept cua-driver 0.53 (#8042) — https://github.com/trycua/cua/commit/fcc16ebb629eb20a9f1279421185620ca14aa0e5 (score 7)
+- OVH announces Olala mini 7A1B — https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/ (score 4)
