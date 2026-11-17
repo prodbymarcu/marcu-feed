@@ -1,2 +1,2 @@
-- fix(cua-sandbox): accept cua-driver 0.53 (#8042) — https://github.com/trycua/cua/commit/fcc16ebb629eb20a9f1279421185620ca14aa0e5 (score 7)
-- OVH announces Olala mini 7A1B — https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/ (score 4)
+- chore(main): release sandbox 0.11.9 (#8047) — https://github.com/trycua/cua/commit/56c35e68a60efba339c8db241eb43ce8eb76b5e6 (score 5)
+- chore(main): release bench 0.4.10 (#8046) — https://github.com/trycua/cua/commit/383bccb457d9f07b4fa7c470b459e5d68a948545 (score 5)

@@ -1,17 +1,30 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-sandbox): accept cua-driver 0.53 (#8042)</title>
-      <link>https://github.com/trycua/cua/commit/fcc16ebb629eb20a9f1279421185620ca14aa0e5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fcc16ebb629eb20a9f1279421185620ca14aa0e5</guid>
-      <pubDate>Tue, 17 Nov 2026 06:14:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.53 (#8042)
+      <title>chore(main): release sandbox 0.11.9 (#8047)</title>
+      <link>https://github.com/trycua/cua/commit/56c35e68a60efba339c8db241eb43ce8eb76b5e6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/56c35e68a60efba339c8db241eb43ce8eb76b5e6</guid>
+      <pubDate>Tue, 17 Nov 2026 06:30:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.9 (#8047)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: trycua, claude</description>
+* chore(main): release sandbox 0.11.9
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+c | why kept: trycua</description>
     </item>
     <item>
-      <title>OVH announces Olala mini 7A1B</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/</link>
-      <guid isPermaLink="false">t3_1xygtj4</guid>
-      <pubDate>Tue, 17 Nov 2026 06:14:51 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/NOysJsRZEXpY8UrheGEOTpsHS6MA7V0SkD7clZLM0sI.png?width=320&amp;amp;crop=smart&amp;amp;auto=web | why kept: local, llama</description>
+      <title>chore(main): release bench 0.4.10 (#8046)</title>
+      <link>https://github.com/trycua/cua/commit/383bccb457d9f07b4fa7c470b459e5d68a948545</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/383bccb457d9f07b4fa7c470b459e5d68a948545</guid>
+      <pubDate>Tue, 17 Nov 2026 06:30:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.10 (#8046)
+
+* chore(main): release bench 0.4.10
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
     </item></channel></rss>
