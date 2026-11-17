@@ -1,8 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>External sandboxes for coding agents</title>
-      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
-      <pubDate>Tue, 17 Nov 2026 18:01:50 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://blog.primeradiant.com/external-sandboxes-for-coding-agents/&quot;&gt;External sandboxes for coding agents&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-I&#x27;ve been exploring new ways to sandbox code that is executed by agents, with a focus on making i | why kept: model, agent, local</description>
+      <title>server: slot_sched: fix lora and recurrent (#32434)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/52975342ff6b85127ff31930d39e36725fd08809</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/52975342ff6b85127ff31930d39e36725fd08809</guid>
+      <pubDate>Tue, 17 Nov 2026 18:17:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: slot_sched: fix lora and recurrent (#32434)
+
+* server: fix lora and recurrent
+
+* tests: run the hybrid SWA checkpoint test with one token per ubatch
+
+With and without the cache, the promp | why kept: model, runs</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- External sandboxes for coding agents — https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/ (score 6)
+- server: slot_sched: fix lora and recurrent (#32434) — https://github.com/ggml-org/llama.cpp/commit/52975342ff6b85127ff31930d39e36725fd08809 (score 4)
