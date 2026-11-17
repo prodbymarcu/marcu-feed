@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.52.10 (#7987) — https://github.com/trycua/cua/commit/c70f2145b17d684474a929eb46497d66605cd5db (score 5)
+- fix(spaces): never let an older release take Latest from a newer one … — https://github.com/trycua/cua/commit/c2d34f43f690a76afba3fe379c2eca503b159de2 (score 7)

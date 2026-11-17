@@ -1,15 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.52.10 (#7987)</title>
-      <link>https://github.com/trycua/cua/commit/c70f2145b17d684474a929eb46497d66605cd5db</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c70f2145b17d684474a929eb46497d66605cd5db</guid>
-      <pubDate>Mon, 16 Nov 2026 19:51:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.10 (#7987)
+      <title>fix(spaces): never let an older release take Latest from a newer one …</title>
+      <link>https://github.com/trycua/cua/commit/c2d34f43f690a76afba3fe379c2eca503b159de2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c2d34f43f690a76afba3fe379c2eca503b159de2</guid>
+      <pubDate>Mon, 16 Nov 2026 20:07:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): never let an older release take Latest from a newer one (#8002)
 
-* chore(main): release cua-driver-rs 0.52.10
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
+Two Cua Spaces releases build at once and finish in any order. cua-spaces-v0.37.0
+published at 23:59Z on 16 Nov, afte | why kept: trycua, claude</description>
     </item></channel></rss>
