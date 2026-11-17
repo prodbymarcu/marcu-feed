@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/</link>
-      <guid isPermaLink="false">t3_1xymz9z</guid>
-      <pubDate>Tue, 17 Nov 2026 10:49:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/y6w814wqv62i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fa88f82c2200192db148ff093 | why kept: local, llama</description>
+      <title>nvidia/Qwen3.8-Flash-Next-NVFP4-QAD</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/</link>
+      <guid isPermaLink="false">t3_1xyi3aa</guid>
+      <pubDate>Tue, 17 Nov 2026 11:05:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RwMx3Cq8aTdIjOgWG3tjfOTEOojpO5qqflcob45AbOI.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>everyone&#x27;s hyped about ChatGPT Dots and Claude Duet. I&#x27;m a local guy, so I built an open source one that runs on my GPU</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/</link>
+      <guid isPermaLink="false">t3_1xylrup</guid>
+      <pubDate>Tue, 17 Nov 2026 11:05:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/dzdsdnRqdTFuNjJpMd4SKfr_dk2mWzV-mLW34fWBqHZaD9-uZ2oEMOJDtWFw.png?widt | why kept: claude, local, runs, llama</description>
     </item></channel></rss>

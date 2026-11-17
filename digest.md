@@ -1,1 +1,2 @@
-- SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer) — https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/ (score 4)
+- nvidia/Qwen3.8-Flash-Next-NVFP4-QAD — https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/ (score 13)
+- everyone's hyped about ChatGPT Dots and Claude Duet. I'm a local guy, so I built an open source one that runs on my GPU — https://www.reddit.com/r/LocalLLaMA/comments/1xylrup/everyones_hyped_about_chatgpt_dots_and_claude/ (score 8)
