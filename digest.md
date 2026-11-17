@@ -1,3 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.52.11 in Cua Spaces (#7976) — https://github.com/trycua/cua/commit/949e46cafe07fada77954c8e2d6fbbece1708e8d (score 5)
-- Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public — https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/ (score 4)
-- fix(docs): describe the Spaces MCP tool surface without a stale count… — https://github.com/trycua/cua/commit/0c6b225973f085c746463af648e261e65c894fb3 (score 2)
+- fix(cua-driver): refuse trusted browser ref clicks whose point misses… — https://github.com/trycua/cua/commit/d4828ba823ebee34731777d74121171e4dd6ca14 (score 2)
