@@ -1,2 +1,1 @@
-- [Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents — https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/ (score 13)
-- convert : fix FP8 qwen4exp checkpoints (n-gram table scale, block-sca… — https://github.com/ggml-org/llama.cpp/commit/d3064fddce83046ef66eded524cf00947d5166f3 (score 11)
+- llama : keep the k-pool layout prefix on sequence edits (#32137) — https://github.com/ggml-org/llama.cpp/commit/08a9b358939e8c99f9e3299bb2584ffd7b285f52 (score 4)

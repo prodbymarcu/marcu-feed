@@ -1,18 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/</link>
-      <guid isPermaLink="false">t3_1xykw4l</guid>
-      <pubDate>Tue, 17 Nov 2026 09:27:50 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/lpesdq2kf62i1.gif?width=640&amp;amp;crop=smart&amp;amp;s=3754c0f67a539a19b60c67a8 | why kept: qwen, agent, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>convert : fix FP8 qwen4exp checkpoints (n-gram table scale, block-sca…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d3064fddce83046ef66eded524cf00947d5166f3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d3064fddce83046ef66eded524cf00947d5166f3</guid>
-      <pubDate>Tue, 17 Nov 2026 09:27:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;convert : fix FP8 qwen4exp checkpoints (n-gram table scale, block-scaled FP8) (#32476)
+      <title>llama : keep the k-pool layout prefix on sequence edits (#32137)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/08a9b358939e8c99f9e3299bb2584ffd7b285f52</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/08a9b358939e8c99f9e3299bb2584ffd7b285f52</guid>
+      <pubDate>Tue, 17 Nov 2026 09:44:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : keep the k-pool layout prefix on sequence edits (#32137)
 
-* convert : fix FP8 n-gram table export for qwen4exp
+* llama : keep the k-pool layout prefix on sequence edits
 
-* convert : dequantize block-scaled FP8 weight_scale_ | why kept: qwen, model, qwen, quant</description>
+Assisted-by: Claude Code
+
+* llama : address review of the k-pool layou | why kept: claude, llama</description>
     </item></channel></rss>
