@@ -1,1 +1,1 @@
-- fix(cua-driver): keep the agent pointer and badge visible and require… — https://github.com/trycua/cua/commit/e2c2cc81f7ce8900d30ccaec1c9333cfd5c8d8e9 (score 4)
+- chore(cua-driver): advance published installer version to 0.52.13 (#8… — https://github.com/trycua/cua/commit/97c837b02ea916793c1f08a5118ad841a7147560 (score 5)
