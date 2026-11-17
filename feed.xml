@@ -1,16 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>maxwell-model/Maxwell-V1-Flash · Hugging Face</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/</link>
-      <guid isPermaLink="false">t3_1xyamk6</guid>
-      <pubDate>Tue, 17 Nov 2026 00:07:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/rC062Fglp6msA2dKmUhTrFdtc4Xn_pPnUGCLt0R6pd8.png?width=640&amp;amp;crop=smart&amp;am | why kept: model, local, llama</description>
+      <title>fix(spaces-macos): bundle cua 0.28.1 in Cua Spaces (#8017)</title>
+      <link>https://github.com/trycua/cua/commit/a1c495f2572e7d1d55d7493428dd80a059b75e84</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a1c495f2572e7d1d55d7493428dd80a059b75e84</guid>
+      <pubDate>Tue, 17 Nov 2026 00:39:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.1 in Cua Spaces (#8017)
+
+cua 0.28.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item>
     <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.11 (#8…</title>
-      <link>https://github.com/trycua/cua/commit/c638180a1a845f7708c5132f9a2aa3477517149e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c638180a1a845f7708c5132f9a2aa3477517149e</guid>
-      <pubDate>Tue, 17 Nov 2026 00:07:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.11 (#8020)
+      <title>chore(main): release cua-driver-rs 0.52.12 (#8018)</title>
+      <link>https://github.com/trycua/cua/commit/182598bdb1d040fb2fcbf408b2e5e768f59889c4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/182598bdb1d040fb2fcbf408b2e5e768f59889c4</guid>
+      <pubDate>Tue, 17 Nov 2026 00:39:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.12 (#8018)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* chore(main): release cua-driver-rs 0.52.12
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-relea | why kept: trycua</description>
     </item></channel></rss>

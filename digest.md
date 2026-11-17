@@ -1,2 +1,2 @@
-- maxwell-model/Maxwell-V1-Flash · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/ (score 6)
-- chore(cua-driver): advance published installer version to 0.52.11 (#8… — https://github.com/trycua/cua/commit/c638180a1a845f7708c5132f9a2aa3477517149e (score 5)
+- fix(spaces-macos): bundle cua 0.28.1 in Cua Spaces (#8017) — https://github.com/trycua/cua/commit/a1c495f2572e7d1d55d7493428dd80a059b75e84 (score 5)
+- chore(main): release cua-driver-rs 0.52.12 (#8018) — https://github.com/trycua/cua/commit/182598bdb1d040fb2fcbf408b2e5e768f59889c4 (score 5)
