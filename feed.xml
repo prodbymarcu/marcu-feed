@@ -1,13 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qwen4exp : fix graph reallocation from the n-gram table scale (#32483)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ad9d9e8f50e6ff9a6bfbbdd3aef6d74a8428cf4e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ad9d9e8f50e6ff9a6bfbbdd3aef6d74a8428cf4e</guid>
-      <pubDate>Tue, 17 Nov 2026 11:36:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen4exp : fix graph reallocation from the n-gram table scale (#32483)
-
-* qwen4exp : apply the n-gram table scale with ggml_scale
-
-* read the scale once after load
-
-* remove comment&lt;/pre&gt; | why kept: qwen, qwen</description>
+      <title>In 27,280 coding agent runs, 64% of inference spend went to runs that failed</title>
+      <link>https://runta.com/blog/introducing-frontierharness-eval-v1-1/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50532191</guid>
+      <pubDate>Tue, 17 Nov 2026 11:52:55 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://runta.com/blog/introducing-frontierharness-eval-v1-1/&quot;&gt;https://runta.com/blog/introducing-frontierharness-eval-v1-1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50532191&quot;&gt;https://n | why kept: agent, runs, inference</description>
     </item></channel></rss>

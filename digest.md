@@ -1,1 +1,1 @@
-- qwen4exp : fix graph reallocation from the n-gram table scale (#32483) — https://github.com/ggml-org/llama.cpp/commit/ad9d9e8f50e6ff9a6bfbbdd3aef6d74a8428cf4e (score 7)
+- In 27,280 coding agent runs, 64% of inference spend went to runs that failed — https://runta.com/blog/introducing-frontierharness-eval-v1-1/ (score 6)
