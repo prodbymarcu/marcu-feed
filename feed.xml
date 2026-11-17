@@ -1,9 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.28.2 in Cua Spaces (#8061)</title>
-      <link>https://github.com/trycua/cua/commit/4bd7c8616698f83fe4618307cb1a5ee65a6da6b3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4bd7c8616698f83fe4618307cb1a5ee65a6da6b3</guid>
-      <pubDate>Tue, 17 Nov 2026 16:56:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.2 in Cua Spaces (#8061)
+      <title>ui: publish @ggml-org/llama-ui from CI, and release 0.4.0 (#32480)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/744c68cd14a8867c6048ac7af946864c74406069</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/744c68cd14a8867c6048ac7af946864c74406069</guid>
+      <pubDate>Tue, 17 Nov 2026 17:29:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: publish @ggml-org/llama-ui from CI, and release 0.4.0 (#32480)
 
-cua 0.28.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+* ui: publish @ggml-org/llama-ui from CI when its version moves
+
+ui/lib/ui reaches npm only when someone remembers to publish i | why kept: llama</description>
     </item></channel></rss>

@@ -1,17 +1,17 @@
 {
- "fetched": 165,
- "new": 1,
+ "fetched": 145,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 1,
+ "dropped_low": 0,
  "errors": [
+  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
-  "sent": 0,
-  "kept": 0,
-  "note": "gate busy or judge skipped"
+  "sent": 2,
+  "kept": 1
  },
- "kept": 0,
- "at": "2026-11-17T22:13:17Z"
+ "kept": 1,
+ "at": "2026-11-17T22:29:04Z"
 }

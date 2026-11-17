@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.28.2 in Cua Spaces (#8061) — https://github.com/trycua/cua/commit/4bd7c8616698f83fe4618307cb1a5ee65a6da6b3 (score 5)
+- ui: publish @ggml-org/llama-ui from CI, and release 0.4.0 (#32480) — https://github.com/ggml-org/llama.cpp/commit/744c68cd14a8867c6048ac7af946864c74406069 (score 2)
