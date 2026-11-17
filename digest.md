@@ -1,1 +1,1 @@
-- GPT‑6.2 Astra and GPT‑6.2 Sol — https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/ (score 2)
+- External sandboxes for coding agents — https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/ (score 6)

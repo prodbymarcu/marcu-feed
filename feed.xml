@@ -1,10 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>GPT‑6.2 Astra and GPT‑6.2 Sol</title>
-      <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:45:49 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://openai.com/index/introducing-gpt-6-2-astra-sol/&quot;&gt;GPT‑6.2 Astra and GPT‑6.2 Sol&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-OpenAI:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and G | why kept: model</description>
+      <title>External sandboxes for coding agents</title>
+      <link>https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/</guid>
+      <pubDate>Tue, 17 Nov 2026 18:01:50 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://blog.primeradiant.com/external-sandboxes-for-coding-agents/&quot;&gt;External sandboxes for coding agents&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+I&#x27;ve been exploring new ways to sandbox code that is executed by agents, with a focus on making i | why kept: model, agent, local</description>
     </item></channel></rss>
