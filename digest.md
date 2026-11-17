@@ -1,1 +1,1 @@
-- you vs the guy she told you not to worry about — https://www.reddit.com/r/LocalLLaMA/comments/1xy9e24/you_vs_the_guy_she_told_you_not_to_worry_about/ (score 6)
+- chore(main): release cua-sdk 0.28.1 (#8008) — https://github.com/trycua/cua/commit/2501dda8b61ba98fbb6a14f0dd498bbbdfda5305 (score 5)
