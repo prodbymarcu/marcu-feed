@@ -1,2 +1,2 @@
-- chore(main): release sandbox 0.11.9 (#8047) — https://github.com/trycua/cua/commit/56c35e68a60efba339c8db241eb43ce8eb76b5e6 (score 5)
-- chore(main): release bench 0.4.10 (#8046) — https://github.com/trycua/cua/commit/383bccb457d9f07b4fa7c470b459e5d68a948545 (score 5)
+- whisper base and an 11M param BERT i distilled from a 2B model, both running in the browser to caption videos — https://www.reddit.com/r/LocalLLaMA/comments/1xy25lw/whisper_base_and_an_11m_param_bert_i_distilled/ (score 8)
+- chore(main): release cua-driver-rs 0.53.0 (#8040) — https://github.com/trycua/cua/commit/aed25e921ff303315d95ea23ea2f853b0fb26998 (score 5)
