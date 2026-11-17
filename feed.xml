@@ -1,17 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd: add kokoro tts support (#32413)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/307e3f1551c2c3c6c0560c454ab46bb64baeb2df</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/307e3f1551c2c3c6c0560c454ab46bb64baeb2df</guid>
-      <pubDate>Tue, 17 Nov 2026 16:41:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: add kokoro tts support (#32413)
+      <title>fix(spaces-macos): bundle cua 0.28.2 in Cua Spaces (#8061)</title>
+      <link>https://github.com/trycua/cua/commit/4bd7c8616698f83fe4618307cb1a5ee65a6da6b3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4bd7c8616698f83fe4618307cb1a5ee65a6da6b3</guid>
+      <pubDate>Tue, 17 Nov 2026 16:56:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.2 in Cua Spaces (#8061)
 
-* jinja: impl scope-chain key lookup
-
-* add test for call_statement lambda
-
-* chat: add tts_dict for kokoro G2P template
-
-* more testing
-
-* value_float_t ra | why kept: model, llama</description>
+cua 0.28.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
