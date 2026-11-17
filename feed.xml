@@ -1,14 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>SenseNova Loop 9B</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/</link>
-      <guid isPermaLink="false">t3_1xylcw4</guid>
-      <pubDate>Tue, 17 Nov 2026 10:33:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/L3CtWGwPYZueCHhXC4gjKdP7QJkob6mPd68ijnwCLdw.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=db4f | why kept: qwen, model, qwen, local, llama</description>
-    </item>
-    <item>
-      <title>Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/</link>
-      <guid isPermaLink="false">t3_1xxxs0a</guid>
-      <pubDate>Tue, 17 Nov 2026 10:33:27 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eslpZ4E4x-cX-V9zGC92iGiGxB-APko9EldVA702_JE.png?width=640&amp;amp;cro | why kept: local, llama</description>
+      <title>SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer)</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/</link>
+      <guid isPermaLink="false">t3_1xymz9z</guid>
+      <pubDate>Tue, 17 Nov 2026 10:49:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/y6w814wqv62i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fa88f82c2200192db148ff093 | why kept: local, llama</description>
     </item></channel></rss>

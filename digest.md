@@ -1,2 +1,1 @@
-- SenseNova Loop 9B — https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/ (score 13)
-- Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encounterin — https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/ (score 4)
+- SenseNova-Loop-9B vs its own Preview: AutomationBench 14.33 to 36.67, GAIA 37.86 to 69.90 (9B Looped Transformer) — https://www.reddit.com/r/LocalLLaMA/comments/1xymz9z/sensenovaloop9b_vs_its_own_preview/ (score 4)
