@@ -1,1 +1,1 @@
-- Show HN: Pulsar – cross-harness agent to agent communication and messaging — https://github.com/yocontra/pulsar (score 2)
+- Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium — https://github.com/RunanywhereAI/trnrt (score 8)
