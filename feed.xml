@@ -1,8 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Not Everything Needs an LLM</title>
-      <link>https://newsletter.posthog.com/p/decision-models</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50535740</guid>
-      <pubDate>Tue, 17 Nov 2026 16:25:31 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://newsletter.posthog.com/p/decision-models&quot;&gt;https://newsletter.posthog.com/p/decision-models&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50535740&quot;&gt;https://news.ycombinator.com/item?i | why kept: model</description>
+      <title>mtmd: add kokoro tts support (#32413)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/307e3f1551c2c3c6c0560c454ab46bb64baeb2df</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/307e3f1551c2c3c6c0560c454ab46bb64baeb2df</guid>
+      <pubDate>Tue, 17 Nov 2026 16:41:00 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: add kokoro tts support (#32413)
+
+* jinja: impl scope-chain key lookup
+
+* add test for call_statement lambda
+
+* chat: add tts_dict for kokoro G2P template
+
+* more testing
+
+* value_float_t ra | why kept: model, llama</description>
     </item></channel></rss>

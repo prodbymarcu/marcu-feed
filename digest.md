@@ -1,1 +1,1 @@
-- Not Everything Needs an LLM — https://newsletter.posthog.com/p/decision-models (score 2)
+- mtmd: add kokoro tts support (#32413) — https://github.com/ggml-org/llama.cpp/commit/307e3f1551c2c3c6c0560c454ab46bb64baeb2df (score 4)
