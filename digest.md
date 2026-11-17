@@ -1,1 +1,2 @@
-- ui: Llama UI design system: tokens, surfaces and fonts (#32468) — https://github.com/ggml-org/llama.cpp/commit/7f106b545965d601eb875ec8d2381288ee9b98f9 (score 4)
+- The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilitie — https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/ (score 13)
+- fix(spaces-macos): bundle Cua Driver 0.53.0 in Cua Spaces (#8049) — https://github.com/trycua/cua/commit/01e8aa87b3cd070f000714a3e2481b93d2bf1302 (score 5)
