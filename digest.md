@@ -1,2 +1,2 @@
-- Intel Shares First Benchmarks of Its Next-Gen Crescent Island "D270" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 A — https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/ (score 4)
-- Gemma on a printer — https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/ (score 4)
+- chore(cua-driver): advance published installer version to 0.53.0 (#8048) — https://github.com/trycua/cua/commit/255e9fe7ea581b437123cd437069e18b599d5655 (score 5)
+- GPU prices - Big "discounts" — https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/ (score 4)

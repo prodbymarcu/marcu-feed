@@ -1,14 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Intel Shares First Benchmarks of Its Next-Gen Crescent Island &quot;D270&quot; GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/</link>
-      <guid isPermaLink="false">t3_1xyioi8</guid>
-      <pubDate>Tue, 17 Nov 2026 08:07:55 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/l-olSJ0t2QHbf5Qy0LG3CUpMKSNClvZAPErdiKWgA7Y.jpeg?width=640&amp;amp;crop=sm | why kept: local, llama</description>
+      <title>chore(cua-driver): advance published installer version to 0.53.0 (#8048)</title>
+      <link>https://github.com/trycua/cua/commit/255e9fe7ea581b437123cd437069e18b599d5655</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/255e9fe7ea581b437123cd437069e18b599d5655</guid>
+      <pubDate>Tue, 17 Nov 2026 08:23:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.53.0 (#8048)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item>
     <item>
-      <title>Gemma on a printer</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/</link>
-      <guid isPermaLink="false">t3_1xyjkts</guid>
-      <pubDate>Tue, 17 Nov 2026 08:07:55 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/983mx7nl562i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=42dab29918167c6e604b9c8021674a622dc31ff0&quot;  | why kept: local, llama</description>
+      <title>GPU prices - Big &quot;discounts&quot;</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/</link>
+      <guid isPermaLink="false">t3_1xyixml</guid>
+      <pubDate>Tue, 17 Nov 2026 08:23:55 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/34nf0p06z52i1.png?width=140&amp;amp;height=119&amp;amp;auto=webp&amp;amp;s=8c1454ce8b13338454c7037b5a074ca1e0f3 | why kept: local, llama</description>
     </item></channel></rss>
