@@ -1,4 +1,2 @@
-- nvidia/Qwen3.8-Flash-Next-NVFP4-QAD — https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/ (score 13)
-- mtmd: support Minimax-Music3 (#32435) — https://github.com/ggml-org/llama.cpp/commit/d92ea9bb126ab957849dd0c0f1f881a64de7dc86 (score 5)
-- Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/ (score 4)
-- chat: add tts_dict for kokoro G2P template (#32397) — https://github.com/ggml-org/llama.cpp/commit/8d1599fca1f78a8d6f9187e0f578db9a818b4f1c (score 4)
+- Intel Shares First Benchmarks of Its Next-Gen Crescent Island "D270" GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 A — https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/ (score 4)
+- Gemma on a printer — https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/ (score 4)

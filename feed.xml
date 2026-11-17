@@ -1,40 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>nvidia/Qwen3.8-Flash-Next-NVFP4-QAD</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/</link>
-      <guid isPermaLink="false">t3_1xyi3aa</guid>
-      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RwMx3Cq8aTdIjOgWG3tjfOTEOojpO5qqflcob45AbOI.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: qwen, model, qwen, local, llama</description>
+      <title>Intel Shares First Benchmarks of Its Next-Gen Crescent Island &quot;D270&quot; GPU, Claiming a 5.9x Throughput Over RTX PRO 6000 As Xe3P Goes Big On FP64</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/</link>
+      <guid isPermaLink="false">t3_1xyioi8</guid>
+      <pubDate>Tue, 17 Nov 2026 08:07:55 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/l-olSJ0t2QHbf5Qy0LG3CUpMKSNClvZAPErdiKWgA7Y.jpeg?width=640&amp;amp;crop=sm | why kept: local, llama</description>
     </item>
     <item>
-      <title>mtmd: support Minimax-Music3 (#32435)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d92ea9bb126ab957849dd0c0f1f881a64de7dc86</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d92ea9bb126ab957849dd0c0f1f881a64de7dc86</guid>
-      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support Minimax-Music3 (#32435)
-
-* mtmd: support Minimax-Music3
-
-* fix and clean up&lt;/pre&gt; | why kept: minimax</description>
-    </item>
-    <item>
-      <title>Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/</link>
-      <guid isPermaLink="false">t3_1xyi6hj</guid>
-      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/73JBtz_fnMU6nuSxGC8V5PHbP0sMeg88_fINdPiMcEo.png?width=640&amp;amp;crop=sma | why kept: local, llama</description>
-    </item>
-    <item>
-      <title>chat: add tts_dict for kokoro G2P template (#32397)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8d1599fca1f78a8d6f9187e0f578db9a818b4f1c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8d1599fca1f78a8d6f9187e0f578db9a818b4f1c</guid>
-      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chat: add tts_dict for kokoro G2P template (#32397)
-
-* chat: add tts_dict for kokoro G2P template
-
-* more testing
-
-* value_float_t range check
-
-* no json-in-meta, add llama_model_meta_arr_str/_n&lt; | why kept: model, llama</description>
+      <title>Gemma on a printer</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/</link>
+      <guid isPermaLink="false">t3_1xyjkts</guid>
+      <pubDate>Tue, 17 Nov 2026 08:07:55 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/983mx7nl562i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=42dab29918167c6e604b9c8021674a622dc31ff0&quot;  | why kept: local, llama</description>
     </item></channel></rss>
