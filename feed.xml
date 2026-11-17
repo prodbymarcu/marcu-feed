@@ -1,9 +1,48 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>qwen3next : apply output projection weight scale (#32393)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/4df3f2959c159d1899d47dc521799f060b724552</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4df3f2959c159d1899d47dc521799f060b724552</guid>
-      <pubDate>Tue, 17 Nov 2026 05:42:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen3next : apply output projection weight scale (#32393)
+      <title>I made a C&amp;C inspired web RTS for us to benchmark our local models with</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/</link>
+      <guid isPermaLink="false">t3_1xxtn9g</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:04 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxtn9g/i_made_a_cc_inspired_web_rts_for_us_to_benchmark/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/ZTMzNnIxemkyMDJpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?w | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.52.13 in Cua Spaces (#8032)</title>
+      <link>https://github.com/trycua/cua/commit/e5965ea2a053678def40ca2808f0bd59ff9a0a1e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e5965ea2a053678def40ca2808f0bd59ff9a0a1e</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.13 in Cua Spaces (#8032)
 
-Assisted-by: Codex&lt;/pre&gt; | why kept: qwen, qwen, codex</description>
+Cua Driver 0.52.13 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Thinking Machines 4-bit replication: I trained a GPT end to end with a 4-bit forward pass on one B200</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/</link>
+      <guid isPermaLink="false">t3_1xyawzz</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:04 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyawzz/thinking_machines_4bit_replication_i_trained_a/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/cXk4Z213cnRtMzJpMakBKaLQtxCSwKrcIgBkRdtw_QgM_XTHZtWzDYhfwBhr.png?wid | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/</link>
+      <guid isPermaLink="false">t3_1xy92xo</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:04 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn&amp;#39;t perform well. I managed to answer only a few questions correctly.&lt;/p&gt; &lt;p&gt;The interview covered a mix of basic progr | why kept: model, agent</description>
+    </item>
+    <item>
+      <title>ui: move Llama Chat to SvelteKit 3 and its built-in service worker (#…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/67cf8967ebe2dc2eb1c01e0c8b9a064bd23dc6ed</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/67cf8967ebe2dc2eb1c01e0c8b9a064bd23dc6ed</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move Llama Chat to SvelteKit 3 and its built-in service worker (#32463)
+
+* ui: replace deprecated packages and fix npm audit findings
+
+Swap the mdast stub for @types/mdast, move the katex ove | why kept: claude, llama</description>
+    </item>
+    <item>
+      <title>Marimba: A System One Model for Speech. [R]</title>
+      <link>https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/</link>
+      <guid isPermaLink="false">t3_1xxsqro</guid>
+      <pubDate>Tue, 17 Nov 2026 05:59:04 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/dqrtv63qwz1i1.gif?frame=1&amp;amp;width=140&amp;amp;height=90&amp;amp;auto=webp&amp;amp;s=6d707 | why kept: model</description>
     </item></channel></rss>
