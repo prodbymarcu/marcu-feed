@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.52.11 (#8007) — https://github.com/trycua/cua/commit/2ef2bf996ea840b695ab43f10ba87f98301d7b44 (score 5)
+- you vs the guy she told you not to worry about — https://www.reddit.com/r/LocalLLaMA/comments/1xy9e24/you_vs_the_guy_she_told_you_not_to_worry_about/ (score 6)
