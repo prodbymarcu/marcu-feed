@@ -1,2 +1,4 @@
-- whisper base and an 11M param BERT i distilled from a 2B model, both running in the browser to caption videos — https://www.reddit.com/r/LocalLLaMA/comments/1xy25lw/whisper_base_and_an_11m_param_bert_i_distilled/ (score 8)
-- chore(main): release cua-driver-rs 0.53.0 (#8040) — https://github.com/trycua/cua/commit/aed25e921ff303315d95ea23ea2f853b0fb26998 (score 5)
+- nvidia/Qwen3.8-Flash-Next-NVFP4-QAD — https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/ (score 13)
+- mtmd: support Minimax-Music3 (#32435) — https://github.com/ggml-org/llama.cpp/commit/d92ea9bb126ab957849dd0c0f1f881a64de7dc86 (score 5)
+- Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp — https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/ (score 4)
+- chat: add tts_dict for kokoro G2P template (#32397) — https://github.com/ggml-org/llama.cpp/commit/8d1599fca1f78a8d6f9187e0f578db9a818b4f1c (score 4)

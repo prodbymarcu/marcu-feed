@@ -1,22 +1,40 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>whisper base and an 11M param BERT i distilled from a 2B model, both running in the browser to caption videos</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xy25lw/whisper_base_and_an_11m_param_bert_i_distilled/</link>
-      <guid isPermaLink="false">t3_1xy25lw</guid>
-      <pubDate>Tue, 17 Nov 2026 06:46:53 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xy25lw/whisper_base_and_an_11m_param_bert_i_distilled/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/zazwkaunn12i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=894134736ae4d | why kept: model, video, local, llama</description>
+      <title>nvidia/Qwen3.8-Flash-Next-NVFP4-QAD</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/</link>
+      <guid isPermaLink="false">t3_1xyi3aa</guid>
+      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/RwMx3Cq8aTdIjOgWG3tjfOTEOojpO5qqflcob45AbOI.png?width=640&amp;amp;crop=smart&amp;amp;auto=web | why kept: qwen, model, qwen, local, llama</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.53.0 (#8040)</title>
-      <link>https://github.com/trycua/cua/commit/aed25e921ff303315d95ea23ea2f853b0fb26998</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/aed25e921ff303315d95ea23ea2f853b0fb26998</guid>
-      <pubDate>Tue, 17 Nov 2026 06:46:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.53.0 (#8040)
+      <title>mtmd: support Minimax-Music3 (#32435)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d92ea9bb126ab957849dd0c0f1f881a64de7dc86</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d92ea9bb126ab957849dd0c0f1f881a64de7dc86</guid>
+      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: support Minimax-Music3 (#32435)
 
-* chore(main): release cua-driver-rs 0.53.0
+* mtmd: support Minimax-Music3
 
-* chore(cua-driver-rs): synchronize generated release files
+* fix and clean up&lt;/pre&gt; | why kept: minimax</description>
+    </item>
+    <item>
+      <title>Rotate K/V read order for better L2 cache hit rates by gaugarg-nv · Pull Request #32407 · ggml-org/llama.cpp</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/</link>
+      <guid isPermaLink="false">t3_1xyi6hj</guid>
+      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/73JBtz_fnMU6nuSxGC8V5PHbP0sMeg88_fINdPiMcEo.png?width=640&amp;amp;crop=sma | why kept: local, llama</description>
+    </item>
+    <item>
+      <title>chat: add tts_dict for kokoro G2P template (#32397)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/8d1599fca1f78a8d6f9187e0f578db9a818b4f1c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8d1599fca1f78a8d6f9187e0f578db9a818b4f1c</guid>
+      <pubDate>Tue, 17 Nov 2026 07:03:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chat: add tts_dict for kokoro G2P template (#32397)
 
----------
+* chat: add tts_dict for kokoro G2P template
 
-Co-authored-by: cua-release | why kept: trycua</description>
+* more testing
+
+* value_float_t range check
+
+* no json-in-meta, add llama_model_meta_arr_str/_n&lt; | why kept: model, llama</description>
     </item></channel></rss>
