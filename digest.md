@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.52.12 (#8… — https://github.com/trycua/cua/commit/57938289fd30b803cc7e45a3c1aa216641ffc307 (score 5)
-- DSpine - Updates on PR & GGUFs — https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/ (score 4)
+- chore(main): release cua-driver-rs 0.52.13 (#8029) — https://github.com/trycua/cua/commit/b3af0299e0594a9b96cab320f4440304c6061d6c (score 5)
