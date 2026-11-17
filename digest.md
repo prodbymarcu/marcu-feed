@@ -1,1 +1,2 @@
-- I hope Qwen4-Flash is an upgrade for the hardware people already own — https://www.reddit.com/r/LocalLLaMA/comments/1xyp0p1/i_hope_qwen4flash_is_an_upgrade_for_the_hardware/ (score 15)
+- mtmd: Add support for Qwen3-TTS' ICL/reference mode (#32438) — https://github.com/ggml-org/llama.cpp/commit/8c16babba5d4c66e28a19d86e572e4b04f522d52 (score 9)
+- Show HN: Agav – an open-source terminal agent designed to waste fewer tokens — https://github.com/prapaa-ai/agav (score 2)
