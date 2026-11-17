@@ -1,1 +1,1 @@
-- Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos — https://starsling.dev (score 4)
+- Not Everything Needs an LLM — https://newsletter.posthog.com/p/decision-models (score 2)
