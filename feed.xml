@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.52.13 (#8…</title>
-      <link>https://github.com/trycua/cua/commit/97c837b02ea916793c1f08a5118ad841a7147560</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/97c837b02ea916793c1f08a5118ad841a7147560</guid>
-      <pubDate>Tue, 17 Nov 2026 04:39:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.13 (#8037)
+      <title>qwen3next : apply output projection weight scale (#32393)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4df3f2959c159d1899d47dc521799f060b724552</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4df3f2959c159d1899d47dc521799f060b724552</guid>
+      <pubDate>Tue, 17 Nov 2026 05:42:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen3next : apply output projection weight scale (#32393)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Assisted-by: Codex&lt;/pre&gt; | why kept: qwen, qwen, codex</description>
     </item></channel></rss>

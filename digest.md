@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.52.13 (#8… — https://github.com/trycua/cua/commit/97c837b02ea916793c1f08a5118ad841a7147560 (score 5)
+- qwen3next : apply output projection weight scale (#32393) — https://github.com/ggml-org/llama.cpp/commit/4df3f2959c159d1899d47dc521799f060b724552 (score 9)
