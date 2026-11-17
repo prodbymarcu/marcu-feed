@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.28.2 (#8059) — https://github.com/trycua/cua/commit/7eb297ba8345ccfb39efb9c52a3185cb43a6e90f (score 5)
+- Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos — https://starsling.dev (score 4)

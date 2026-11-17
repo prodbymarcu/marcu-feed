@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.28.2 (#8059)</title>
-      <link>https://github.com/trycua/cua/commit/7eb297ba8345ccfb39efb9c52a3185cb43a6e90f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7eb297ba8345ccfb39efb9c52a3185cb43a6e90f</guid>
-      <pubDate>Tue, 17 Nov 2026 14:48:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.2 (#8059)
-
-* chore(main): release cua-sdk 0.28.2
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+      <title>Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos</title>
+      <link>https://starsling.dev</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50536468</guid>
+      <pubDate>Tue, 17 Nov 2026 15:52:59 +0000</pubDate>
+      <description>&lt;p&gt;We’re Yonas and Daniel and we’re building StarSling (&lt;a href=&quot;https://starsling.dev&quot;&gt;https://starsling.dev&lt;/a&gt;), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows.&lt;p&gt;Every CI job ge | why kept: agent, runs</description>
     </item></channel></rss>
