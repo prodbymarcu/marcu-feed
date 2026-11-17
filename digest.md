@@ -1,2 +1,3 @@
-- fix(spaces-macos): bundle cua 0.28.1 in Cua Spaces (#8017) — https://github.com/trycua/cua/commit/a1c495f2572e7d1d55d7493428dd80a059b75e84 (score 5)
-- chore(main): release cua-driver-rs 0.52.12 (#8018) — https://github.com/trycua/cua/commit/182598bdb1d040fb2fcbf408b2e5e768f59889c4 (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.52.11 in Cua Spaces (#7976) — https://github.com/trycua/cua/commit/949e46cafe07fada77954c8e2d6fbbece1708e8d (score 5)
+- Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public — https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/ (score 4)
+- fix(docs): describe the Spaces MCP tool surface without a stale count… — https://github.com/trycua/cua/commit/0c6b225973f085c746463af648e261e65c894fb3 (score 2)

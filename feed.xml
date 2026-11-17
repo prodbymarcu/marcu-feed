@@ -1,24 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.28.1 in Cua Spaces (#8017)</title>
-      <link>https://github.com/trycua/cua/commit/a1c495f2572e7d1d55d7493428dd80a059b75e84</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a1c495f2572e7d1d55d7493428dd80a059b75e84</guid>
-      <pubDate>Tue, 17 Nov 2026 00:39:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.1 in Cua Spaces (#8017)
+      <title>fix(spaces-macos): bundle Cua Driver 0.52.11 in Cua Spaces (#7976)</title>
+      <link>https://github.com/trycua/cua/commit/949e46cafe07fada77954c8e2d6fbbece1708e8d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/949e46cafe07fada77954c8e2d6fbbece1708e8d</guid>
+      <pubDate>Tue, 17 Nov 2026 00:55:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.52.11 in Cua Spaces (#7976)
 
-cua 0.28.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+Cua Driver 0.52.11 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mer | why kept: trycua</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.52.12 (#8018)</title>
-      <link>https://github.com/trycua/cua/commit/182598bdb1d040fb2fcbf408b2e5e768f59889c4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/182598bdb1d040fb2fcbf408b2e5e768f59889c4</guid>
-      <pubDate>Tue, 17 Nov 2026 00:39:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.52.12 (#8018)
+      <title>Clover 2: dense 27.8B base + 7 LoRA experts routed per token, not a static merge, weights public</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed/</link>
+      <guid isPermaLink="false">t3_1xyb7jw</guid>
+      <pubDate>Tue, 17 Nov 2026 00:55:18 +0000</pubDate>
+      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Disclosure: I’m with the team that built this.&lt;/p&gt; &lt;p&gt;Wanted to share something a little different from the usual finetune drop. Clover 2 keeps a base model and 7 trained LoRA adapters (roleplay, general as | why kept: model, inference</description>
+    </item>
+    <item>
+      <title>fix(docs): describe the Spaces MCP tool surface without a stale count…</title>
+      <link>https://github.com/trycua/cua/commit/0c6b225973f085c746463af648e261e65c894fb3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c6b225973f085c746463af648e261e65c894fb3</guid>
+      <pubDate>Tue, 17 Nov 2026 00:55:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(docs): describe the Spaces MCP tool surface without a stale count (#7965)
 
-* chore(main): release cua-driver-rs 0.52.12
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-relea | why kept: trycua</description>
+The Connect your agent guide said the cua MCP server gives an agent 33
+Spaces tools. By default it serves every Spac | why kept: agent</description>
     </item></channel></rss>
