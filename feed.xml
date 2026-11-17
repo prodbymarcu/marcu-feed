@@ -1,11 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): refuse trusted browser ref clicks whose point misses…</title>
-      <link>https://github.com/trycua/cua/commit/d4828ba823ebee34731777d74121171e4dd6ca14</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d4828ba823ebee34731777d74121171e4dd6ca14</guid>
-      <pubDate>Tue, 17 Nov 2026 01:59:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse trusted browser ref clicks whose point misses the ref (#7512)
+      <title>chore(cua-driver): advance published installer version to 0.52.12 (#8…</title>
+      <link>https://github.com/trycua/cua/commit/57938289fd30b803cc7e45a3c1aa216641ffc307</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/57938289fd30b803cc7e45a3c1aa216641ffc307</guid>
+      <pubDate>Tue, 17 Nov 2026 02:15:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.12 (#8028)
 
-* test(cua-driver): trusted ref clicks must hit the ref they target
-
-A trusted CDP mouse event lands on what | why kept: runs</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>DSpine - Updates on PR &amp; GGUFs</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/</link>
+      <guid isPermaLink="false">t3_1xycsm1</guid>
+      <pubDate>Tue, 17 Nov 2026 02:15:26 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/aggut1rc542i1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3beb3e522ff495dd67675a8f3913138c56 | why kept: local, llama</description>
     </item></channel></rss>

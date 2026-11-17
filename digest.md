@@ -1,1 +1,2 @@
-- fix(cua-driver): refuse trusted browser ref clicks whose point misses… — https://github.com/trycua/cua/commit/d4828ba823ebee34731777d74121171e4dd6ca14 (score 2)
+- chore(cua-driver): advance published installer version to 0.52.12 (#8… — https://github.com/trycua/cua/commit/57938289fd30b803cc7e45a3c1aa216641ffc307 (score 5)
+- DSpine - Updates on PR & GGUFs — https://www.reddit.com/r/LocalLLaMA/comments/1xycsm1/dspine_updates_on_pr_ggufs/ (score 4)
