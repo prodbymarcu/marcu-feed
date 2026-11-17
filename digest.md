@@ -1,1 +1,1 @@
-- fix(spaces): keep a deleted prepared agent home removed (#7979) — https://github.com/trycua/cua/commit/59debb541b94da819fb94869a3cabdec2f7f08b7 (score 4)
+- chore(cua-driver): advance published installer version to 0.52.10 (#8… — https://github.com/trycua/cua/commit/de30c6f8efcfde2ffa0d54c0fe6ca31df1e4211a (score 5)
