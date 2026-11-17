@@ -1,10 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): keep the OpenJev stalled-body timeout alive through …</title>
-      <link>https://github.com/trycua/cua/commit/7a08417b326ec5c8b87b55193b77239f637d1a5c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7a08417b326ec5c8b87b55193b77239f637d1a5c</guid>
-      <pubDate>Mon, 16 Nov 2026 21:11:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): keep the OpenJev stalled-body timeout alive through GC (#8004)
+      <title>fix(spaces): keep a deleted prepared agent home removed (#7979)</title>
+      <link>https://github.com/trycua/cua/commit/59debb541b94da819fb94869a3cabdec2f7f08b7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/59debb541b94da819fb94869a3cabdec2f7f08b7</guid>
+      <pubDate>Mon, 16 Nov 2026 21:27:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): keep a deleted prepared agent home removed (#7979)
 
-AbortSignal.timeout() and undici&amp;#39;s abort hook on a response body are
-only weakly held once fetch resolves. If  | why kept: runs</description>
+Deleting or cancelling the prepared home stops preparation before the host
+mutation, keeps the stop across relaunch, and ignores l | why kept: agent, claude</description>
     </item></channel></rss>

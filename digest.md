@@ -1,1 +1,1 @@
-- fix(cua-driver): keep the OpenJev stalled-body timeout alive through … — https://github.com/trycua/cua/commit/7a08417b326ec5c8b87b55193b77239f637d1a5c (score 2)
+- fix(spaces): keep a deleted prepared agent home removed (#7979) — https://github.com/trycua/cua/commit/59debb541b94da819fb94869a3cabdec2f7f08b7 (score 4)
