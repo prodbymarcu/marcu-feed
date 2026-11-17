@@ -1,2 +1,1 @@
-- The upcoming open weight small Qwen models are likely going to lack training data related to offensive cyber capabilitie — https://www.reddit.com/r/LocalLLaMA/comments/1xykjuy/the_upcoming_open_weight_small_qwen_models_are/ (score 13)
-- fix(spaces-macos): bundle Cua Driver 0.53.0 in Cua Spaces (#8049) — https://github.com/trycua/cua/commit/01e8aa87b3cd070f000714a3e2481b93d2bf1302 (score 5)
+- Gemma 4 twice as fast on Ryzen AI Max+ 395 — https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/ (score 4)
