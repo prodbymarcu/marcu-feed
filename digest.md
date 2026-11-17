@@ -1,1 +1,1 @@
-- ui: publish @ggml-org/llama-ui from CI, and release 0.4.0 (#32480) — https://github.com/ggml-org/llama.cpp/commit/744c68cd14a8867c6048ac7af946864c74406069 (score 2)
+- GPT‑6.2 Astra and GPT‑6.2 Sol — https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/ (score 2)
