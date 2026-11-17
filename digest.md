@@ -1,1 +1,1 @@
-- Hugging Face switched its language model inference routing to OpenRouter — https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/ (score 4)
+- fix(cua-driver): keep the agent pointer and badge visible and require… — https://github.com/trycua/cua/commit/e2c2cc81f7ce8900d30ccaec1c9333cfd5c8d8e9 (score 4)
