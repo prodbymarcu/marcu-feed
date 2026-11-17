@@ -1,15 +1,16 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.28.1 (#8008)</title>
-      <link>https://github.com/trycua/cua/commit/2501dda8b61ba98fbb6a14f0dd498bbbdfda5305</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2501dda8b61ba98fbb6a14f0dd498bbbdfda5305</guid>
-      <pubDate>Mon, 16 Nov 2026 23:19:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.1 (#8008)
+      <title>maxwell-model/Maxwell-V1-Flash · Hugging Face</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/</link>
+      <guid isPermaLink="false">t3_1xyamk6</guid>
+      <pubDate>Tue, 17 Nov 2026 00:07:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/rC062Fglp6msA2dKmUhTrFdtc4Xn_pPnUGCLt0R6pd8.png?width=640&amp;amp;crop=smart&amp;am | why kept: model, local, llama</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.52.11 (#8…</title>
+      <link>https://github.com/trycua/cua/commit/c638180a1a845f7708c5132f9a2aa3477517149e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c638180a1a845f7708c5132f9a2aa3477517149e</guid>
+      <pubDate>Tue, 17 Nov 2026 00:07:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.52.11 (#8020)
 
-* chore(main): release cua-sdk 0.28.1
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

@@ -1,1 +1,2 @@
-- chore(main): release cua-sdk 0.28.1 (#8008) — https://github.com/trycua/cua/commit/2501dda8b61ba98fbb6a14f0dd498bbbdfda5305 (score 5)
+- maxwell-model/Maxwell-V1-Flash · Hugging Face — https://www.reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face/ (score 6)
+- chore(cua-driver): advance published installer version to 0.52.11 (#8… — https://github.com/trycua/cua/commit/c638180a1a845f7708c5132f9a2aa3477517149e (score 5)
