@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.52.13 (#8029) — https://github.com/trycua/cua/commit/b3af0299e0594a9b96cab320f4440304c6061d6c (score 5)
+- Hugging Face switched its language model inference routing to OpenRouter — https://www.reddit.com/r/LocalLLaMA/comments/1xy9o6j/hugging_face_switched_its_language_model/ (score 4)
