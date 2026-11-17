@@ -1,1 +1,1 @@
-- llama : keep the k-pool layout prefix on sequence edits (#32137) — https://github.com/ggml-org/llama.cpp/commit/08a9b358939e8c99f9e3299bb2584ffd7b285f52 (score 4)
+- Are those that advocate against open weight models public enemy #1 ? — https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/ (score 6)
