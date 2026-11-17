@@ -1,1 +1,1 @@
-- In 27,280 coding agent runs, 64% of inference spend went to runs that failed — https://runta.com/blog/introducing-frontierharness-eval-v1-1/ (score 6)
+- I hope Qwen4-Flash is an upgrade for the hardware people already own — https://www.reddit.com/r/LocalLLaMA/comments/1xyp0p1/i_hope_qwen4flash_is_an_upgrade_for_the_hardware/ (score 15)
