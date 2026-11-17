@@ -1,24 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd: Add support for Qwen3-TTS&#x27; ICL/reference mode (#32438)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8c16babba5d4c66e28a19d86e572e4b04f522d52</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8c16babba5d4c66e28a19d86e572e4b04f522d52</guid>
-      <pubDate>Tue, 17 Nov 2026 13:12:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: Add support for Qwen3-TTS&amp;#39; ICL/reference mode (#32438)
-
-* Added support for Qwen3-TTS ICL/reference mode
-
-Assisted-By: Claude Opus 5.5
-
-* fix correctness
-
-* attach transcription to bitm | why kept: qwen, claude, qwen</description>
-    </item>
-    <item>
-      <title>Show HN: Agav – an open-source terminal agent designed to waste fewer tokens</title>
-      <link>https://github.com/prapaa-ai/agav</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50531644</guid>
-      <pubDate>Tue, 17 Nov 2026 13:12:53 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/prapaa-ai/agav&quot;&gt;https://github.com/prapaa-ai/agav&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50531644&quot;&gt;https://news.ycombinator.com/item?id=50531644&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points:  | why kept: agent</description>
+      <title>Show HN: Pulsar – cross-harness agent to agent communication and messaging</title>
+      <link>https://github.com/yocontra/pulsar</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50526967</guid>
+      <pubDate>Tue, 17 Nov 2026 14:01:22 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/yocontra/pulsar&quot;&gt;https://github.com/yocontra/pulsar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50526967&quot;&gt;https://news.ycombinator.com/item?id=50526967&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points | why kept: agent</description>
     </item></channel></rss>

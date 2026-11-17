@@ -1,2 +1,1 @@
-- mtmd: Add support for Qwen3-TTS' ICL/reference mode (#32438) — https://github.com/ggml-org/llama.cpp/commit/8c16babba5d4c66e28a19d86e572e4b04f522d52 (score 9)
-- Show HN: Agav – an open-source terminal agent designed to waste fewer tokens — https://github.com/prapaa-ai/agav (score 2)
+- Show HN: Pulsar – cross-harness agent to agent communication and messaging — https://github.com/yocontra/pulsar (score 2)
