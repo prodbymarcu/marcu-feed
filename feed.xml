@@ -1,16 +1,36 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>I don&#x27;t get all the Strata hates around here</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/</link>
-      <guid isPermaLink="false">t3_1xxz46x</guid>
-      <pubDate>Mon, 16 Nov 2026 18:31:14 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;It&amp;#39;s free and original developer clearly had a very good understanding of how computer hardware works and fully leveraged that to write something amazing to be able to run large models on average hardwa | why kept: model, free, hardware</description>
+      <title>Your daily dose of Qwopium:</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/</link>
+      <guid isPermaLink="false">t3_1xy4xsx</guid>
+      <pubDate>Mon, 16 Nov 2026 19:19:39 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/h8fnneyj822i1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9dcda5ae139cf1fbf612fcc05c49d4f91 | why kept: qwen, qwen, local, llama</description>
     </item>
     <item>
-      <title>mtmd : fix Muse Glimmer vision embedding order (#32433)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9581154a2250cc9e6948e4c2a2fc4b4e19d1a57e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9581154a2250cc9e6948e4c2a2fc4b4e19d1a57e</guid>
-      <pubDate>Mon, 16 Nov 2026 18:31:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : fix Muse Glimmer vision embedding order (#32433)
+      <title>fix(spaces-macos): bundle cua 0.28.0 in Cua Spaces (#7994)</title>
+      <link>https://github.com/trycua/cua/commit/e33d480699974f6dc029b00077165f324c237bfe</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e33d480699974f6dc029b00077165f324c237bfe</guid>
+      <pubDate>Mon, 16 Nov 2026 19:19:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.0 in Cua Spaces (#7994)
 
-Assisted-by: Claude&lt;/pre&gt; | why kept: claude</description>
+cua 0.28.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): the Local Network step waits on macOS&#x27;s prompt whe…</title>
+      <link>https://github.com/trycua/cua/commit/d2ceafb1caa2e0cc2f2c6dc940c5612e7e6d5037</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d2ceafb1caa2e0cc2f2c6dc940c5612e7e6d5037</guid>
+      <pubDate>Mon, 16 Nov 2026 19:19:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): the Local Network step waits on macOS&amp;#39;s prompt when it is already open (#6972)
+
+The gate counted macOS&amp;#39;s prompts after Continue and waited only when the
+count went up.  | why kept: local</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): the app comes to the front when the browser confir…</title>
+      <link>https://github.com/trycua/cua/commit/d67ddfd6ffea9bb62155bff689460940186d97b3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d67ddfd6ffea9bb62155bff689460940186d97b3</guid>
+      <pubDate>Mon, 16 Nov 2026 19:19:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): the app comes to the front when the browser confirms the sign-in (#6974)
+
+The browser stayed in front after &amp;quot;You&amp;#39;re signed in&amp;quot;, over the app&amp;#39;s next
+step. A co | why kept: video</description>
     </item></channel></rss>

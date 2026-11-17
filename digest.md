@@ -1,2 +1,4 @@
-- I don't get all the Strata hates around here — https://www.reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here/ (score 6)
-- mtmd : fix Muse Glimmer vision embedding order (#32433) — https://github.com/ggml-org/llama.cpp/commit/9581154a2250cc9e6948e4c2a2fc4b4e19d1a57e (score 2)
+- Your daily dose of Qwopium: — https://www.reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium/ (score 11)
+- fix(spaces-macos): bundle cua 0.28.0 in Cua Spaces (#7994) — https://github.com/trycua/cua/commit/e33d480699974f6dc029b00077165f324c237bfe (score 5)
+- fix(spaces-macos): the Local Network step waits on macOS's prompt whe… — https://github.com/trycua/cua/commit/d2ceafb1caa2e0cc2f2c6dc940c5612e7e6d5037 (score 2)
+- fix(spaces-macos): the app comes to the front when the browser confir… — https://github.com/trycua/cua/commit/d67ddfd6ffea9bb62155bff689460940186d97b3 (score 2)
