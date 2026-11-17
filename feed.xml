@@ -1,7 +1,14 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Are those that advocate against open weight models public enemy #1 ?</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/</link>
-      <guid isPermaLink="false">t3_1xyllk7</guid>
-      <pubDate>Tue, 17 Nov 2026 10:16:58 +0000</pubDate>
-      <description>&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Dario says you can&amp;#39;t allow open weight models because they are too dangerous: &lt;a href=&quot;https://x.com/vikktorrrre/status/2122353364306374986&quot;&gt;https://x.com/vikktorrrre/status/2122353364306374986&lt;/a&gt;&lt;/p&gt;  | why kept: model, local, llama</description>
+      <title>SenseNova Loop 9B</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/</link>
+      <guid isPermaLink="false">t3_1xylcw4</guid>
+      <pubDate>Tue, 17 Nov 2026 10:33:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/L3CtWGwPYZueCHhXC4gjKdP7QJkob6mPd68ijnwCLdw.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=db4f | why kept: qwen, model, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encountering certain tokens</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/</link>
+      <guid isPermaLink="false">t3_1xxxs0a</guid>
+      <pubDate>Tue, 17 Nov 2026 10:33:27 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/eslpZ4E4x-cX-V9zGC92iGiGxB-APko9EldVA702_JE.png?width=640&amp;amp;cro | why kept: local, llama</description>
     </item></channel></rss>

@@ -1,1 +1,2 @@
-- Are those that advocate against open weight models public enemy #1 ? — https://www.reddit.com/r/LocalLLaMA/comments/1xyllk7/are_those_that_advocate_against_open_weight/ (score 6)
+- SenseNova Loop 9B — https://www.reddit.com/r/LocalLLaMA/comments/1xylcw4/sensenova_loop_9b/ (score 13)
+- Small Gemma 4 tokenizers were recently updated by Google - fix for an issue that caused nonsense output when encounterin — https://www.reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by/ (score 4)
