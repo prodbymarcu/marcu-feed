@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.53.0 (#8048) — https://github.com/trycua/cua/commit/255e9fe7ea581b437123cd437069e18b599d5655 (score 5)
-- GPU prices - Big "discounts" — https://www.reddit.com/r/LocalLLaMA/comments/1xyixml/gpu_prices_big_discounts/ (score 4)
+- ui: Llama UI design system: tokens, surfaces and fonts (#32468) — https://github.com/ggml-org/llama.cpp/commit/7f106b545965d601eb875ec8d2381288ee9b98f9 (score 4)
