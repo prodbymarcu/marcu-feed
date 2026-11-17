@@ -1,1 +1,2 @@
-- Gemma 4 twice as fast on Ryzen AI Max+ 395 — https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/ (score 4)
+- [Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents — https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/ (score 13)
+- convert : fix FP8 qwen4exp checkpoints (n-gram table scale, block-sca… — https://github.com/ggml-org/llama.cpp/commit/d3064fddce83046ef66eded524cf00947d5166f3 (score 11)

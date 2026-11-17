@@ -1,7 +1,18 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Gemma 4 twice as fast on Ryzen AI Max+ 395</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/</link>
-      <guid isPermaLink="false">t3_1xyjxli</guid>
-      <pubDate>Tue, 17 Nov 2026 09:12:04 +0000</pubDate>
-      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xyjxli/gemma_4_twice_as_fast_on_ryzen_ai_max_395/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/OXl5b2lkMHE4NjJpMd0NjAMJPOuj31Ns4kzQdYF8RkwUJ82FtKNnvwNn4Ir3.png?width=32 | why kept: local, llama</description>
+      <title>[Harness Adapters] Fine tune Qwen3.8-27B for Pi Agents</title>
+      <link>https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/</link>
+      <guid isPermaLink="false">t3_1xykw4l</guid>
+      <pubDate>Tue, 17 Nov 2026 09:27:50 +0000</pubDate>
+      <description>&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/LocalLLaMA/comments/1xykw4l/harness_adapters_fine_tune_qwen3827b_for_pi_agents/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/lpesdq2kf62i1.gif?width=640&amp;amp;crop=smart&amp;amp;s=3754c0f67a539a19b60c67a8 | why kept: qwen, agent, qwen, local, llama</description>
+    </item>
+    <item>
+      <title>convert : fix FP8 qwen4exp checkpoints (n-gram table scale, block-sca…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d3064fddce83046ef66eded524cf00947d5166f3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d3064fddce83046ef66eded524cf00947d5166f3</guid>
+      <pubDate>Tue, 17 Nov 2026 09:27:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;convert : fix FP8 qwen4exp checkpoints (n-gram table scale, block-scaled FP8) (#32476)
+
+* convert : fix FP8 n-gram table export for qwen4exp
+
+* convert : dequantize block-scaled FP8 weight_scale_ | why kept: qwen, model, qwen, quant</description>
     </item></channel></rss>
