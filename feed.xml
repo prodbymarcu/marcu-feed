@@ -1,10 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces): never let an older release take Latest from a newer one …</title>
-      <link>https://github.com/trycua/cua/commit/c2d34f43f690a76afba3fe379c2eca503b159de2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c2d34f43f690a76afba3fe379c2eca503b159de2</guid>
-      <pubDate>Mon, 16 Nov 2026 20:07:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): never let an older release take Latest from a newer one (#8002)
+      <title>fix(cua-driver): keep the OpenJev stalled-body timeout alive through …</title>
+      <link>https://github.com/trycua/cua/commit/7a08417b326ec5c8b87b55193b77239f637d1a5c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7a08417b326ec5c8b87b55193b77239f637d1a5c</guid>
+      <pubDate>Mon, 16 Nov 2026 21:11:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): keep the OpenJev stalled-body timeout alive through GC (#8004)
 
-Two Cua Spaces releases build at once and finish in any order. cua-spaces-v0.37.0
-published at 23:59Z on 16 Nov, afte | why kept: trycua, claude</description>
+AbortSignal.timeout() and undici&amp;#39;s abort hook on a response body are
+only weakly held once fetch resolves. If  | why kept: runs</description>
     </item></channel></rss>
