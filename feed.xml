@@ -1,28 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.54.0 (#8149)</title>
-      <link>https://github.com/trycua/cua/commit/09dd7017fca72678fd707490f8d2913a55d97e72</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/09dd7017fca72678fd707490f8d2913a55d97e72</guid>
-      <pubDate>Wed, 18 Nov 2026 12:41:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.54.0 (#8149)
+      <title>chore(cua-driver): advance published installer version to 0.54.0 (#8184)</title>
+      <link>https://github.com/trycua/cua/commit/0069913f56cbd3af4130d23855fa90aeae532ad6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0069913f56cbd3af4130d23855fa90aeae532ad6</guid>
+      <pubDate>Wed, 18 Nov 2026 13:45:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.54.0 (#8184)
 
-* chore(main): release cua-driver-rs 0.54.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>[CUDA] : Add SKU-aware FP16/BF16 accumulation precision gating for NV…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/2cbfc3cf34f94c8ada67eb8766efe7374a3d2db6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2cbfc3cf34f94c8ada67eb8766efe7374a3d2db6</guid>
-      <pubDate>Wed, 18 Nov 2026 12:41:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;[CUDA] : Add SKU-aware FP16/BF16 accumulation precision gating for NVIDIA GPUs (#30672)
-
-* cuda: select cuBLAS precision by GPU SKU
-
-Assisted-by: Codex
-
-* cuda: fix remaining GB10 macro reference | why kept: codex</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

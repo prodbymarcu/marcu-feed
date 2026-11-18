@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.54.0 (#8149) — https://github.com/trycua/cua/commit/09dd7017fca72678fd707490f8d2913a55d97e72 (score 5)
-- [CUDA] : Add SKU-aware FP16/BF16 accumulation precision gating for NV… — https://github.com/ggml-org/llama.cpp/commit/2cbfc3cf34f94c8ada67eb8766efe7374a3d2db6 (score 2)
+- chore(cua-driver): advance published installer version to 0.54.0 (#8184) — https://github.com/trycua/cua/commit/0069913f56cbd3af4130d23855fa90aeae532ad6 (score 5)
