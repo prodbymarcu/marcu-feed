@@ -1,1 +1,1 @@
-- ui: run Llama Chat with npx @ggml-org/llama-chat (#32524) — https://github.com/ggml-org/llama.cpp/commit/97069ff6c4a307cdcb02bd8952a8b5808d405bdb (score 6)
+- ui: hide Models and MCP behind settings, off by default (#32527) — https://github.com/ggml-org/llama.cpp/commit/10f173b253173e9cca4e81a4803a0f01989d1b29 (score 4)
