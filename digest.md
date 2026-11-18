@@ -1,2 +1,1 @@
-- server : enable packing for d1-2B and d1-Omni-2B models (#32553) — https://github.com/ggml-org/llama.cpp/commit/bafa0420c1e57edf04d71587d32fe57d45df7b95 (score 6)
-- chore(main): release cua-sdk 0.28.3 (#8174) — https://github.com/trycua/cua/commit/7a975f60612a43a5d865ed077bbf195d4c7cb96a (score 5)
+- ci: re-run the spacesd pin check when cua-spacesd publishes (#8185) — https://github.com/trycua/cua/commit/11c567ef4c4b94d773800ed10223638456870be0 (score 2)
