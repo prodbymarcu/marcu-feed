@@ -1,10 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: run the Storybook deploy on HF Jobs, with a token that can write …</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/6da36139e8ba5978559804c5319b80ae953bb457</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6da36139e8ba5978559804c5319b80ae953bb457</guid>
-      <pubDate>Wed, 18 Nov 2026 06:17:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: run the Storybook deploy on HF Jobs, with a token that can write the Space (#32525)
+      <title>chore(main): release cua-driver-rs 0.53.2 (#8125)</title>
+      <link>https://github.com/trycua/cua/commit/248e95bd3395d03de7e694002b450c0dd37580d5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/248e95bd3395d03de7e694002b450c0dd37580d5</guid>
+      <pubDate>Wed, 18 Nov 2026 06:49:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.53.2 (#8125)
 
-The deploy failed on master with a 403: HF_TOKEN_UI_STATIC_OUTPUT is
-scoped to the UI bucket and cannot wr | why kept: claude, runs, llama</description>
+* chore(main): release cua-driver-rs 0.53.2
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Add LLAMA_MOE_RANDOM_ROUTING=1 for benchmark-only random expert selec…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/bba8408821ae88a2c4370173f60e8b24e5cfd6ae</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bba8408821ae88a2c4370173f60e8b24e5cfd6ae</guid>
+      <pubDate>Wed, 18 Nov 2026 06:49:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;Add LLAMA_MOE_RANDOM_ROUTING=1 for benchmark-only random expert selection (#29539)
+
+* Add LLAMA_MOE_RANDOM_ROUTING=1 for benchmark-only random expert selection
+
+* Handle expert caching&lt;/pre&gt; | why kept: llama</description>
     </item></channel></rss>

@@ -1,1 +1,2 @@
-- ui: run the Storybook deploy on HF Jobs, with a token that can write … — https://github.com/ggml-org/llama.cpp/commit/6da36139e8ba5978559804c5319b80ae953bb457 (score 6)
+- chore(main): release cua-driver-rs 0.53.2 (#8125) — https://github.com/trycua/cua/commit/248e95bd3395d03de7e694002b450c0dd37580d5 (score 5)
+- Add LLAMA_MOE_RANDOM_ROUTING=1 for benchmark-only random expert selec… — https://github.com/ggml-org/llama.cpp/commit/bba8408821ae88a2c4370173f60e8b24e5cfd6ae (score 2)
