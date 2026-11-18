@@ -1,1 +1,1 @@
-- model : limite: reject mudd configs that index past mudd_tap_idx on l… — https://github.com/ggml-org/llama.cpp/commit/78e05298f0d68abff41d08d79fa7469264b2aff0 (score 2)
+- llama : fix sticky NaN in recurrent state (#31913) — https://github.com/ggml-org/llama.cpp/commit/0a76757469ea94ad5f88d14e18cc7370b9931f99 (score 2)

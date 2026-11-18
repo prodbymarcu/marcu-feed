@@ -1,10 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : limite: reject mudd configs that index past mudd_tap_idx on l…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/78e05298f0d68abff41d08d79fa7469264b2aff0</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78e05298f0d68abff41d08d79fa7469264b2aff0</guid>
-      <pubDate>Wed, 18 Nov 2026 17:13:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : limite: reject mudd configs that index past mudd_tap_idx on load (#32562)
+      <title>llama : fix sticky NaN in recurrent state (#31913)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0a76757469ea94ad5f88d14e18cc7370b9931f99</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0a76757469ea94ad5f88d14e18cc7370b9931f99</guid>
+      <pubDate>Wed, 18 Nov 2026 18:17:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : fix sticky NaN in recurrent state (#31913)
 
-n_mudd_taps comes from limite.mudd.tap_count, a scalar read separately
-from the length-checked tap_indices array | why kept: model</description>
+
+
+Co-authored-by: Alexey Kopytko &amp;lt;alexey@kopytko.com&amp;gt;&lt;/pre&gt; | why kept: llama</description>
     </item></channel></rss>
