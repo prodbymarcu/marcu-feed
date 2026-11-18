@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.54.0 in Cua Spaces (#8183)</title>
-      <link>https://github.com/trycua/cua/commit/cbb9b73d691fc32149b0ba0eb0d3208a6266fdd1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cbb9b73d691fc32149b0ba0eb0d3208a6266fdd1</guid>
-      <pubDate>Wed, 18 Nov 2026 15:53:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.54.0 in Cua Spaces (#8183)
+      <title>model : limite: reject mudd configs that index past mudd_tap_idx on l…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/78e05298f0d68abff41d08d79fa7469264b2aff0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78e05298f0d68abff41d08d79fa7469264b2aff0</guid>
+      <pubDate>Wed, 18 Nov 2026 17:13:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : limite: reject mudd configs that index past mudd_tap_idx on load (#32562)
 
-Cua Driver 0.54.0 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+n_mudd_taps comes from limite.mudd.tap_count, a scalar read separately
+from the length-checked tap_indices array | why kept: model</description>
     </item></channel></rss>

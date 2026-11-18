@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.54.0 in Cua Spaces (#8183) — https://github.com/trycua/cua/commit/cbb9b73d691fc32149b0ba0eb0d3208a6266fdd1 (score 5)
+- model : limite: reject mudd configs that index past mudd_tap_idx on l… — https://github.com/ggml-org/llama.cpp/commit/78e05298f0d68abff41d08d79fa7469264b2aff0 (score 2)
