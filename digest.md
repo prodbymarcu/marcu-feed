@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.53.2 (#8125) — https://github.com/trycua/cua/commit/248e95bd3395d03de7e694002b450c0dd37580d5 (score 5)
-- Add LLAMA_MOE_RANDOM_ROUTING=1 for benchmark-only random expert selec… — https://github.com/ggml-org/llama.cpp/commit/bba8408821ae88a2c4370173f60e8b24e5cfd6ae (score 2)
+- ui: run Llama Chat with npx @ggml-org/llama-chat (#32524) — https://github.com/ggml-org/llama.cpp/commit/97069ff6c4a307cdcb02bd8952a8b5808d405bdb (score 6)
