@@ -1,1 +1,1 @@
-- ci: re-run the spacesd pin check when cua-spacesd publishes (#8185) — https://github.com/trycua/cua/commit/11c567ef4c4b94d773800ed10223638456870be0 (score 2)
+- fix(spaces-macos): bundle cua 0.28.3 in Cua Spaces (#8186) — https://github.com/trycua/cua/commit/27893d90134bb1609593c07edd7caace056b5a9c (score 5)
