@@ -1,1 +1,1 @@
-- ui: hide Models and MCP behind settings, off by default (#32527) — https://github.com/ggml-org/llama.cpp/commit/10f173b253173e9cca4e81a4803a0f01989d1b29 (score 4)
+- ui: soften the action card border and show the split-button divider i… — https://github.com/ggml-org/llama.cpp/commit/ffc87c3a7989cb657641a6459a186f303e176af8 (score 2)
