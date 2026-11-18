@@ -1,1 +1,1 @@
-- Microsoft's agent-framework PyPI package Compromised with Credential Stealer — https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer (score 2)
+- chore(main): release cua-driver-rs 0.53.1 (#8107) — https://github.com/trycua/cua/commit/004e38a750002dcb29650fdf15aa26660826f2c6 (score 5)

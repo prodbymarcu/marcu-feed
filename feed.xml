@@ -1,8 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Microsoft&#x27;s agent-framework PyPI package Compromised with Credential Stealer</title>
-      <link>https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50542084</guid>
-      <pubDate>Wed, 18 Nov 2026 05:45:37 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&quot;&gt;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;ht | why kept: agent</description>
+      <title>chore(main): release cua-driver-rs 0.53.1 (#8107)</title>
+      <link>https://github.com/trycua/cua/commit/004e38a750002dcb29650fdf15aa26660826f2c6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/004e38a750002dcb29650fdf15aa26660826f2c6</guid>
+      <pubDate>Wed, 18 Nov 2026 06:01:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.53.1 (#8107)
+
+* chore(main): release cua-driver-rs 0.53.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
