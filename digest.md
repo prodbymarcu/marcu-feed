@@ -1,1 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.53.2 in Cua Spaces (#8140) — https://github.com/trycua/cua/commit/e61a014040bfdad19dff7e438409835b26dc9e81 (score 5)
+- ui: install @ggml-org/llama-brand from npm (#32544) — https://github.com/ggml-org/llama.cpp/commit/387395aa8d34ad67c6458e982be9a7345a3e6fae (score 4)
+- ui: llama-chat publish drops the registry check, bin paths without ./… — https://github.com/ggml-org/llama.cpp/commit/a693a5f66f64d7c39ce4296300dc555fb0b03096 (score 2)

@@ -1,9 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.53.2 in Cua Spaces (#8140)</title>
-      <link>https://github.com/trycua/cua/commit/e61a014040bfdad19dff7e438409835b26dc9e81</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e61a014040bfdad19dff7e438409835b26dc9e81</guid>
-      <pubDate>Wed, 18 Nov 2026 09:13:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.53.2 in Cua Spaces (#8140)
+      <title>ui: install @ggml-org/llama-brand from npm (#32544)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/387395aa8d34ad67c6458e982be9a7345a3e6fae</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/387395aa8d34ad67c6458e982be9a7345a3e6fae</guid>
+      <pubDate>Wed, 18 Nov 2026 09:45:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: install @ggml-org/llama-brand from npm (#32544)
 
-Cua Driver 0.53.2 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+* ui: install @ggml-org/llama-brand from npm
+
+Both packages take llama-brand 0.1.0 from the registry instead of a
+codeload tarball, so npm 12  | why kept: claude, llama</description>
+    </item>
+    <item>
+      <title>ui: llama-chat publish drops the registry check, bin paths without ./…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/a693a5f66f64d7c39ce4296300dc555fb0b03096</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a693a5f66f64d7c39ce4296300dc555fb0b03096</guid>
+      <pubDate>Wed, 18 Nov 2026 09:45:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: llama-chat publish drops the registry check, bin paths without ./ (#32543)
+
+* ui: llama-chat publish waits for the registry, bin paths without ./
+
+The first publish of @ggml-org/llama-chat to | why kept: llama</description>
     </item></channel></rss>
