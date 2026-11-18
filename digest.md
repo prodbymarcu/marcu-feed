@@ -1,1 +1,1 @@
-- server: slot_sched: fix lora and recurrent (#32434) — https://github.com/ggml-org/llama.cpp/commit/52975342ff6b85127ff31930d39e36725fd08809 (score 4)
+- ui: a Storybook for Llama UI and Llama Chat (#32485) — https://github.com/ggml-org/llama.cpp/commit/9e93cd800121f0f96786f7cf38f692c40eec4de5 (score 4)

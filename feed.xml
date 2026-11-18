@@ -1,13 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server: slot_sched: fix lora and recurrent (#32434)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/52975342ff6b85127ff31930d39e36725fd08809</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/52975342ff6b85127ff31930d39e36725fd08809</guid>
-      <pubDate>Tue, 17 Nov 2026 18:17:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: slot_sched: fix lora and recurrent (#32434)
+      <title>ui: a Storybook for Llama UI and Llama Chat (#32485)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9e93cd800121f0f96786f7cf38f692c40eec4de5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9e93cd800121f0f96786f7cf38f692c40eec4de5</guid>
+      <pubDate>Wed, 18 Nov 2026 02:33:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: a Storybook for Llama UI and Llama Chat (#32485)
 
-* server: fix lora and recurrent
+* ui: Llama UI&amp;#39;s own Storybook in ui/lib/ui
 
-* tests: run the hybrid SWA checkpoint test with one token per ubatch
-
-With and without the cache, the promp | why kept: model, runs</description>
+The library gets its Storybook (`npm run storybook`, `npm run
+build-storybook`) with a story | why kept: model, llama</description>
     </item></channel></rss>
