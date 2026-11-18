@@ -1,23 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: install @ggml-org/llama-brand from npm (#32544)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/387395aa8d34ad67c6458e982be9a7345a3e6fae</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/387395aa8d34ad67c6458e982be9a7345a3e6fae</guid>
-      <pubDate>Wed, 18 Nov 2026 09:45:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: install @ggml-org/llama-brand from npm (#32544)
+      <title>model:add Zaya1 8B (Zyphra) (#32071)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/98d67c8d536dc584897c4adb2510509796517222</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/98d67c8d536dc584897c4adb2510509796517222</guid>
+      <pubDate>Wed, 18 Nov 2026 10:01:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model:add Zaya1 8B (Zyphra) (#32071)
 
-* ui: install @ggml-org/llama-brand from npm
+* model:add Zaya1 8B (Zyphra)
+- Added the support for Zaya.
+- Fixed the SSM_CONV case, so the model runs on cuda without abort.
 
-Both packages take llama-brand 0.1.0 from the registry instead of a
-codeload tarball, so npm 12  | why kept: claude, llama</description>
-    </item>
-    <item>
-      <title>ui: llama-chat publish drops the registry check, bin paths without ./…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a693a5f66f64d7c39ce4296300dc555fb0b03096</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a693a5f66f64d7c39ce4296300dc555fb0b03096</guid>
-      <pubDate>Wed, 18 Nov 2026 09:45:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: llama-chat publish drops the registry check, bin paths without ./ (#32543)
-
-* ui: llama-chat publish waits for the registry, bin paths without ./
-
-The first publish of @ggml-org/llama-chat to | why kept: llama</description>
+ Please enter the commit mes | why kept: model, runs</description>
     </item></channel></rss>

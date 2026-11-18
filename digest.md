@@ -1,2 +1,1 @@
-- ui: install @ggml-org/llama-brand from npm (#32544) — https://github.com/ggml-org/llama.cpp/commit/387395aa8d34ad67c6458e982be9a7345a3e6fae (score 4)
-- ui: llama-chat publish drops the registry check, bin paths without ./… — https://github.com/ggml-org/llama.cpp/commit/a693a5f66f64d7c39ce4296300dc555fb0b03096 (score 2)
+- model:add Zaya1 8B (Zyphra) (#32071) — https://github.com/ggml-org/llama.cpp/commit/98d67c8d536dc584897c4adb2510509796517222 (score 4)
