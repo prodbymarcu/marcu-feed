@@ -1,11 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: Storybook follow-ups: generated DESIGN.md tokens, shared helpers …</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/65758d01f5eee145e71e3e903d930574cb5d523e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/65758d01f5eee145e71e3e903d930574cb5d523e</guid>
-      <pubDate>Wed, 18 Nov 2026 03:53:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: Storybook follow-ups: generated DESIGN.md tokens, shared helpers and one Llama Mono (#32523)
+      <title>fix(cua-driver): explain session-scoped snapshots in the stale token …</title>
+      <link>https://github.com/trycua/cua/commit/6b36d0e3338d0fa602dc03b020f03d5bc8383dcb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6b36d0e3338d0fa602dc03b020f03d5bc8383dcb</guid>
+      <pubDate>Wed, 18 Nov 2026 05:29:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): explain session-scoped snapshots in the stale token error (#8110)
 
-* ui: generate DESIGN.md&amp;#39;s token sections from the CSS
+* fix(cua-driver): explain per-connection snapshots in the stale token error
 
-Add scripts/design-md.js in ui/apps/c | why kept: llama</description>
+A click with an element_token fro | why kept: runs</description>
     </item></channel></rss>
