@@ -1,1 +1,1 @@
-- model:add Zaya1 8B (Zyphra) (#32071) — https://github.com/ggml-org/llama.cpp/commit/98d67c8d536dc584897c4adb2510509796517222 (score 4)
+- fix(cua-sandbox): accept cua-driver 0.54 (#8162) — https://github.com/trycua/cua/commit/d4de1736c29f754ae5b0cf607f8fc227118a0698 (score 2)

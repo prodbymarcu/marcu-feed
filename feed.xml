@@ -1,13 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model:add Zaya1 8B (Zyphra) (#32071)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/98d67c8d536dc584897c4adb2510509796517222</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/98d67c8d536dc584897c4adb2510509796517222</guid>
-      <pubDate>Wed, 18 Nov 2026 10:01:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model:add Zaya1 8B (Zyphra) (#32071)
+      <title>fix(cua-sandbox): accept cua-driver 0.54 (#8162)</title>
+      <link>https://github.com/trycua/cua/commit/d4de1736c29f754ae5b0cf607f8fc227118a0698</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d4de1736c29f754ae5b0cf607f8fc227118a0698</guid>
+      <pubDate>Wed, 18 Nov 2026 11:05:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.54 (#8162)
 
-* model:add Zaya1 8B (Zyphra)
-- Added the support for Zaya.
-- Fixed the SSM_CONV case, so the model runs on cuda without abort.
-
- Please enter the commit mes | why kept: model, runs</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>
