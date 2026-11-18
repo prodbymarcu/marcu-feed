@@ -1,12 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: a Storybook for Llama UI and Llama Chat (#32485)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9e93cd800121f0f96786f7cf38f692c40eec4de5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9e93cd800121f0f96786f7cf38f692c40eec4de5</guid>
-      <pubDate>Wed, 18 Nov 2026 02:33:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: a Storybook for Llama UI and Llama Chat (#32485)
+      <title>ggml-openvino: expand model support, optimize NPU,GPU and memory usag…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4577932fab595eaa8b27ad71734d5de1f3c07d8c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4577932fab595eaa8b27ad71734d5de1f3c07d8c</guid>
+      <pubDate>Wed, 18 Nov 2026 03:05:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-openvino: expand model support, optimize NPU,GPU and memory usage (#32172)
 
-* ui: Llama UI&amp;#39;s own Storybook in ui/lib/ui
+* ggml-openvino: fix SWA mask detection
 
-The library gets its Storybook (`npm run storybook`, `npm run
-build-storybook`) with a story | why kept: model, llama</description>
+When the SWA cache size matches the full cache size, identify SWA
+layers  | why kept: model</description>
     </item></channel></rss>

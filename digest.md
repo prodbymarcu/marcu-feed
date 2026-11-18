@@ -1,1 +1,1 @@
-- ui: a Storybook for Llama UI and Llama Chat (#32485) — https://github.com/ggml-org/llama.cpp/commit/9e93cd800121f0f96786f7cf38f692c40eec4de5 (score 4)
+- ggml-openvino: expand model support, optimize NPU,GPU and memory usag… — https://github.com/ggml-org/llama.cpp/commit/4577932fab595eaa8b27ad71734d5de1f3c07d8c (score 2)
