@@ -1,12 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml-openvino: expand model support, optimize NPU,GPU and memory usag…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/4577932fab595eaa8b27ad71734d5de1f3c07d8c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4577932fab595eaa8b27ad71734d5de1f3c07d8c</guid>
-      <pubDate>Wed, 18 Nov 2026 03:05:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-openvino: expand model support, optimize NPU,GPU and memory usage (#32172)
+      <title>ui: Storybook follow-ups: generated DESIGN.md tokens, shared helpers …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/65758d01f5eee145e71e3e903d930574cb5d523e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/65758d01f5eee145e71e3e903d930574cb5d523e</guid>
+      <pubDate>Wed, 18 Nov 2026 03:53:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: Storybook follow-ups: generated DESIGN.md tokens, shared helpers and one Llama Mono (#32523)
 
-* ggml-openvino: fix SWA mask detection
+* ui: generate DESIGN.md&amp;#39;s token sections from the CSS
 
-When the SWA cache size matches the full cache size, identify SWA
-layers  | why kept: model</description>
+Add scripts/design-md.js in ui/apps/c | why kept: llama</description>
     </item></channel></rss>

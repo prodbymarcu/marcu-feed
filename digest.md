@@ -1,1 +1,1 @@
-- ggml-openvino: expand model support, optimize NPU,GPU and memory usag… — https://github.com/ggml-org/llama.cpp/commit/4577932fab595eaa8b27ad71734d5de1f3c07d8c (score 2)
+- ui: Storybook follow-ups: generated DESIGN.md tokens, shared helpers … — https://github.com/ggml-org/llama.cpp/commit/65758d01f5eee145e71e3e903d930574cb5d523e (score 2)
