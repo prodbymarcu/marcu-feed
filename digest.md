@@ -1,1 +1,1 @@
-- fix(cua-driver): explain session-scoped snapshots in the stale token … — https://github.com/trycua/cua/commit/6b36d0e3338d0fa602dc03b020f03d5bc8383dcb (score 2)
+- Microsoft's agent-framework PyPI package Compromised with Credential Stealer — https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer (score 2)

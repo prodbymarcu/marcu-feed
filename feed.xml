@@ -1,11 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): explain session-scoped snapshots in the stale token …</title>
-      <link>https://github.com/trycua/cua/commit/6b36d0e3338d0fa602dc03b020f03d5bc8383dcb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6b36d0e3338d0fa602dc03b020f03d5bc8383dcb</guid>
-      <pubDate>Wed, 18 Nov 2026 05:29:10 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): explain session-scoped snapshots in the stale token error (#8110)
-
-* fix(cua-driver): explain per-connection snapshots in the stale token error
-
-A click with an element_token fro | why kept: runs</description>
+      <title>Microsoft&#x27;s agent-framework PyPI package Compromised with Credential Stealer</title>
+      <link>https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50542084</guid>
+      <pubDate>Wed, 18 Nov 2026 05:45:37 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&quot;&gt;https://socket.dev/blog/agent-framework-pypi-package-compromised-with-credential-stealer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;ht | why kept: agent</description>
     </item></channel></rss>
