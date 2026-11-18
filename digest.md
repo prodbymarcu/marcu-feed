@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.54.0 (#8149) — https://github.com/trycua/cua/commit/09dd7017fca72678fd707490f8d2913a55d97e72 (score 5)
+- fix(cua-spacesd): probe hardware encoders off the GetCapabilities pat… — https://github.com/trycua/cua/commit/9346cabc2e0614a2ec9d9b629ab0db39b44db4bb (score 2)

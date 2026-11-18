@@ -10,10 +10,9 @@
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
-  "sent": 0,
-  "kept": 0,
-  "note": "gate busy or judge skipped"
+  "sent": 1,
+  "kept": 1
  },
  "kept": 1,
- "at": "2026-11-18T17:09:07Z"
+ "at": "2026-11-18T17:25:08Z"
 }
