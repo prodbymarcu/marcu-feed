@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: soften the action card border and show the split-button divider i…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ffc87c3a7989cb657641a6459a186f303e176af8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ffc87c3a7989cb657641a6459a186f303e176af8</guid>
-      <pubDate>Wed, 18 Nov 2026 07:53:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: soften the action card border and show the split-button divider in dark mode (#32538)
+      <title>chore(cua-driver): advance published installer version to 0.53.2 (#8147)</title>
+      <link>https://github.com/trycua/cua/commit/9937983b8d9de71a1648c598cbd012b31f8efb14</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9937983b8d9de71a1648c598cbd012b31f8efb14</guid>
+      <pubDate>Wed, 18 Nov 2026 08:57:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.53.2 (#8147)
 
-The tool permission card took the fields&amp;#39; border (white 30% in dark), which
-outweighed everything el | why kept: claude</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
