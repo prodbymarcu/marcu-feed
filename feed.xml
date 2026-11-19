@@ -1,11 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>CUDA: use 64-bit dst offsets in mul_mat_q (#32374)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d4f5c26049774bb786276eb517f1e6b070d28ff4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d4f5c26049774bb786276eb517f1e6b070d28ff4</guid>
-      <pubDate>Thu, 19 Nov 2026 01:13:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: use 64-bit dst offsets in mul_mat_q (#32374)
+      <title>vulkan: use floating-point zero for storage-only FP16 in DIAG/TRI (#3…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/ecafc67145201e59336bf389d0ab1a91b89a8fac</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ecafc67145201e59336bf389d0ab1a91b89a8fac</guid>
+      <pubDate>Thu, 19 Nov 2026 01:29:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: use floating-point zero for storage-only FP16 in DIAG/TRI (#32379)
 
-The MMQ kernels computed the dst tile offset (jt*J*stride_col_dst) in
-32-bit int. For a dst with more than 2^31 elements, column tiles that
-sta | why kept: model, llama</description>
+* vulkan: Change integer zero to floating-point zero for storage-only FP16 in DIAG/TRI.
+
+Assisted-by: OpenAI Codex
+
+* d | why kept: codex</description>
     </item></channel></rss>

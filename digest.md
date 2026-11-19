@@ -1,1 +1,1 @@
-- CUDA: use 64-bit dst offsets in mul_mat_q (#32374) — https://github.com/ggml-org/llama.cpp/commit/d4f5c26049774bb786276eb517f1e6b070d28ff4 (score 4)
+- vulkan: use floating-point zero for storage-only FP16 in DIAG/TRI (#3… — https://github.com/ggml-org/llama.cpp/commit/ecafc67145201e59336bf389d0ab1a91b89a8fac (score 2)
