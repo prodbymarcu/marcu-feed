@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : fix sticky NaN in recurrent state (#31913)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0a76757469ea94ad5f88d14e18cc7370b9931f99</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0a76757469ea94ad5f88d14e18cc7370b9931f99</guid>
-      <pubDate>Wed, 18 Nov 2026 18:17:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : fix sticky NaN in recurrent state (#31913)
+      <title>fix(cd-spaces): never overwrite updater feeds with an older version (…</title>
+      <link>https://github.com/trycua/cua/commit/052dc3a0c19646f89d5e6ca30e110e2dd541eec2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/052dc3a0c19646f89d5e6ca30e110e2dd541eec2</guid>
+      <pubDate>Wed, 18 Nov 2026 19:05:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cd-spaces): never overwrite updater feeds with an older version (#8191)
 
-
-
-Co-authored-by: Alexey Kopytko &amp;lt;alexey@kopytko.com&amp;gt;&lt;/pre&gt; | why kept: llama</description>
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>
