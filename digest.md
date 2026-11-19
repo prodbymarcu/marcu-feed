@@ -1,1 +1,2 @@
-- mtmd : fix YuE2 projector loading (#32606) — https://github.com/ggml-org/llama.cpp/commit/53ecea05a0728e133478b06b3d543b6fcfaa418e (score 7)
+- ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387) — https://github.com/ggml-org/llama.cpp/commit/7fce5439fe451cd48340b112ec37d2befe02c776 (score 2)
+- fix(cua-driver): the macOS permission guide names the app the driver … — https://github.com/trycua/cua/commit/b4e3f2dd2849238d6ce40bc440265f58de799665 (score 2)

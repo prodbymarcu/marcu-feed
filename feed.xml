@@ -1,12 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd : fix YuE2 projector loading (#32606)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/53ecea05a0728e133478b06b3d543b6fcfaa418e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53ecea05a0728e133478b06b3d543b6fcfaa418e</guid>
-      <pubDate>Thu, 19 Nov 2026 13:13:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : fix YuE2 projector loading (#32606)
+      <title>ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/7fce5439fe451cd48340b112ec37d2befe02c776</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7fce5439fe451cd48340b112ec37d2befe02c776</guid>
+      <pubDate>Thu, 19 Nov 2026 13:29:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387)
 
-- Allow cls.output.weight to be absent from the mmproj. It is an optional
-Qwen3 reranking head that the YuE2 NAR decoder never uses.
+* ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA)
 
-- Without this fi | why kept: qwen, qwen</description>
+* cuda : SET_ROWS from BF16 into quantized types and F8_E4M3
+
+* cuda | why kept: quant</description>
+    </item>
+    <item>
+      <title>fix(cua-driver): the macOS permission guide names the app the driver …</title>
+      <link>https://github.com/trycua/cua/commit/b4e3f2dd2849238d6ce40bc440265f58de799665</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b4e3f2dd2849238d6ce40bc440265f58de799665</guid>
+      <pubDate>Thu, 19 Nov 2026 13:29:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): the macOS permission guide names the app the driver runs in (#8123)
+
+* fix(cua-driver): the macOS permission guide names the app the driver runs in
+
+System Settings lists the app | why kept: runs</description>
     </item></channel></rss>
