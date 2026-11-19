@@ -1,1 +1,2 @@
-- fix(cuabot): bump Playwright to 1.65.1 (Chromium 159) (#8199) — https://github.com/trycua/cua/commit/41f837af7604997a260d2e2e3064d43bc6abc9ea (score 2)
+- fix(cuabot): pin Chromium to the Playwright build, drop the unpinned … — https://github.com/trycua/cua/commit/fe72962de56081c4d5212d663246fb4a52282c11 (score 9)
+- qwen3vl : set t_layer_inp for EAGLE-3 (#32589) — https://github.com/ggml-org/llama.cpp/commit/51a77c4f247ce96fb932e29c9f81625ca9d3b0b7 (score 7)
