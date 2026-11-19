@@ -1,1 +1,1 @@
-- llm-gemini 0.38 — https://simonwillison.net/2026/Nov/18/llm-gemini/ (score 2)
+- llama : fall back to buffered I/O on EIO (#32545) — https://github.com/ggml-org/llama.cpp/commit/39039aa27fe65244913d8a07303b8733f614fe20 (score 2)

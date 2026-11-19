@@ -1,8 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llm-gemini 0.38</title>
-      <link>https://simonwillison.net/2026/Nov/18/llm-gemini/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/18/llm-gemini/</guid>
-      <pubDate>Thu, 19 Nov 2026 01:45:12 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-gemini/releases/tag/0.38&quot;&gt;llm-gemini 0.38&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Today Google &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemin | why kept: model</description>
+      <title>llama : fall back to buffered I/O on EIO (#32545)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/39039aa27fe65244913d8a07303b8733f614fe20</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/39039aa27fe65244913d8a07303b8733f614fe20</guid>
+      <pubDate>Thu, 19 Nov 2026 02:01:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : fall back to buffered I/O on EIO (#32545)
+
+* llama : fall back to buffered I/O on EIO
+
+Signed-off-by: Adrien Gallouët &amp;lt;angt@huggingface.co&amp;gt;
+
+* Preserve bytes already read, resumes a | why kept: llama</description>
     </item></channel></rss>
