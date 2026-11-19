@@ -1,1 +1,1 @@
-- metal : CONV_2D tensor API for M5, split-K for all chips (#32542) — https://github.com/ggml-org/llama.cpp/commit/41d8297fe4c26b9ff304805178199dc14aa9ab52 (score 2)
+- ci(release): raise cua-sandbox's cua-driver bound automatically (#8205) — https://github.com/trycua/cua/commit/5dfb0d4b1bf72c6e296744f540c7a8d611e65853 (score 2)
