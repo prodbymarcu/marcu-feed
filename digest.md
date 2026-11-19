@@ -1,1 +1,1 @@
-- opencl: allow adjusting KV padding in decomposed FA (#32522) — https://github.com/ggml-org/llama.cpp/commit/08c252e221759e0f69e80f0450b295c92d2344e1 (score 2)
+- CUDA: use 64-bit dst offsets in mul_mat_q (#32374) — https://github.com/ggml-org/llama.cpp/commit/d4f5c26049774bb786276eb517f1e6b070d28ff4 (score 4)
