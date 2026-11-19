@@ -1,24 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml : IQ2 creation speedup through caching (#31910)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/76f186df71a41abb3ee20fffedee31ca5dbc7d9f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/76f186df71a41abb3ee20fffedee31ca5dbc7d9f</guid>
-      <pubDate>Thu, 19 Nov 2026 03:05:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : IQ2 creation speedup through caching (#31910)
+      <title>fix(cuabot): bump Playwright to 1.65.1 (Chromium 159) (#8199)</title>
+      <link>https://github.com/trycua/cua/commit/41f837af7604997a260d2e2e3064d43bc6abc9ea</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/41f837af7604997a260d2e2e3064d43bc6abc9ea</guid>
+      <pubDate>Thu, 19 Nov 2026 04:09:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cuabot): bump Playwright to 1.65.1 (Chromium 159) (#8199)
 
-* IQ2 quant creation speedup from caching
+* security(cuabot): bump Playwright to 1.65.1 (Chromium 159)
 
-* Rename variables for clarity
-
-* Explicit casts
-
-* Initialize all values, add comment to toleranc | why kept: quant</description>
-    </item>
-    <item>
-      <title>llama : remove PATH_MAX (#32557)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/95b09b62beb95c40fc6b317a0c1473c27b5f27fa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/95b09b62beb95c40fc6b317a0c1473c27b5f27fa</guid>
-      <pubDate>Thu, 19 Nov 2026 03:05:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : remove PATH_MAX (#32557)
-
-Signed-off-by: Adrien Gallouët &amp;lt;angt@huggingface.co&amp;gt;&lt;/pre&gt; | why kept: llama</description>
+Playwright 1.61.0 bundles Chromium 149, which is affected by the criti | why kept: claude</description>
     </item></channel></rss>
