@@ -1,11 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): cover Hyprland cursor overlay focus isolation with a…</title>
-      <link>https://github.com/trycua/cua/commit/2a0db8b991e953aa3a634b7edb6cfe6c3cd9c6c6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2a0db8b991e953aa3a634b7edb6cfe6c3cd9c6c6</guid>
-      <pubDate>Thu, 19 Nov 2026 12:25:43 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): cover Hyprland cursor overlay focus isolation with a live test (#8222)
+      <title>chore(main): release cua-sdk 0.28.5 (#8227)</title>
+      <link>https://github.com/trycua/cua/commit/b9e407df7bcf3cb532c47a04b153dbaa533fd8d1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b9e407df7bcf3cb532c47a04b153dbaa533fd8d1</guid>
+      <pubDate>Thu, 19 Nov 2026 12:57:11 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.5 (#8227)
 
-* test(cua-driver): cover Hyprland overlay focus isolation
+* chore(main): release cua-sdk 0.28.5
 
-Live Hyprland regression: the native layer-she | why kept: agent</description>
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

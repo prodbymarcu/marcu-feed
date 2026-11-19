@@ -1,1 +1,1 @@
-- fix(cua-driver): cover Hyprland cursor overlay focus isolation with a… — https://github.com/trycua/cua/commit/2a0db8b991e953aa3a634b7edb6cfe6c3cd9c6c6 (score 2)
+- chore(main): release cua-sdk 0.28.5 (#8227) — https://github.com/trycua/cua/commit/b9e407df7bcf3cb532c47a04b153dbaa533fd8d1 (score 5)
