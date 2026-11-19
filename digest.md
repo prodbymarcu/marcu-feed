@@ -1,1 +1,2 @@
-- opencl: support dp4a for KQ mm in decomposed FA (#32577) — https://github.com/ggml-org/llama.cpp/commit/c406f4367e19bea7930e7f74e1984c9acc6d44bf (score 2)
+- fix(cua-sandbox): accept cua-driver 0.55 (#8210) — https://github.com/trycua/cua/commit/53df2e420a143ab4eb56e433c923c02e00c652e5 (score 5)
+- fix(spaces-macos): bundle cua 0.28.5 in Cua Spaces (#8232) — https://github.com/trycua/cua/commit/1cc96937190e2a8f490c0b53b47c279120ff13dd (score 5)
