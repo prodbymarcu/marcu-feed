@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : remove redundant fields from llm_graph_params (#32596)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/01592dc58b105ea6c7e38e4b348cb5d5e2e2bbc2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01592dc58b105ea6c7e38e4b348cb5d5e2e2bbc2</guid>
-      <pubDate>Thu, 19 Nov 2026 06:33:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : remove redundant fields from llm_graph_params (#32596)
+      <title>fix(cua-driver-sdk): stop graceful-shutdown test racing the 100 ms bu…</title>
+      <link>https://github.com/trycua/cua/commit/135fd2debfeb0cc17f04c3fd3852c030f6af2b12</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/135fd2debfeb0cc17f04c3fd3852c030f6af2b12</guid>
+      <pubDate>Thu, 19 Nov 2026 08:09:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver-sdk): stop graceful-shutdown test racing the 100 ms budget (#8208)
 
-llm_graph_params no longer carries hparams, prec_policy and hdmd, since the model reference already provides them. llm_graph_contex | why kept: model, llama</description>
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
+Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.c | why kept: trycua, claude</description>
     </item></channel></rss>
