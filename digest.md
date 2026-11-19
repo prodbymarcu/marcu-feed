@@ -1,1 +1,1 @@
-- fix(cua-driver-sdk): stop graceful-shutdown test racing the 100 ms bu… — https://github.com/trycua/cua/commit/135fd2debfeb0cc17f04c3fd3852c030f6af2b12 (score 7)
+- feat(cua-driver): download installer release assets from a mirror (#8… — https://github.com/trycua/cua/commit/291025a519d99f7e637511a90349a55b96893dcf (score 5)

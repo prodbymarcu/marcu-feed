@@ -1,10 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver-sdk): stop graceful-shutdown test racing the 100 ms bu…</title>
-      <link>https://github.com/trycua/cua/commit/135fd2debfeb0cc17f04c3fd3852c030f6af2b12</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/135fd2debfeb0cc17f04c3fd3852c030f6af2b12</guid>
-      <pubDate>Thu, 19 Nov 2026 08:09:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver-sdk): stop graceful-shutdown test racing the 100 ms budget (#8208)
+      <title>feat(cua-driver): download installer release assets from a mirror (#8…</title>
+      <link>https://github.com/trycua/cua/commit/291025a519d99f7e637511a90349a55b96893dcf</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/291025a519d99f7e637511a90349a55b96893dcf</guid>
+      <pubDate>Thu, 19 Nov 2026 08:41:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): download installer release assets from a mirror (#8136)
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.c | why kept: trycua, claude</description>
+* feat(cua-driver): download installer release assets from a mirror
+
+CUA_DRIVER_RS_DOWNLOAD_BASE_URL replaces https://gi | why kept: trycua</description>
     </item></channel></rss>
