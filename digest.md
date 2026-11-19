@@ -1,2 +1,1 @@
-- fix(cuabot): pin Chromium to the Playwright build, drop the unpinned … — https://github.com/trycua/cua/commit/fe72962de56081c4d5212d663246fb4a52282c11 (score 9)
-- qwen3vl : set t_layer_inp for EAGLE-3 (#32589) — https://github.com/ggml-org/llama.cpp/commit/51a77c4f247ce96fb932e29c9f81625ca9d3b0b7 (score 7)
+- metal : CONV_2D tensor API for M5, split-K for all chips (#32542) — https://github.com/ggml-org/llama.cpp/commit/41d8297fe4c26b9ff304805178199dc14aa9ab52 (score 2)

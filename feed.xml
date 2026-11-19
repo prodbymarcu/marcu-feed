@@ -1,18 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cuabot): pin Chromium to the Playwright build, drop the unpinned …</title>
-      <link>https://github.com/trycua/cua/commit/fe72962de56081c4d5212d663246fb4a52282c11</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fe72962de56081c4d5212d663246fb4a52282c11</guid>
-      <pubDate>Thu, 19 Nov 2026 04:25:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cuabot): pin Chromium to the Playwright build, drop the unpinned PPA (#8202)
+      <title>metal : CONV_2D tensor API for M5, split-K for all chips (#32542)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/41d8297fe4c26b9ff304805178199dc14aa9ab52</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/41d8297fe4c26b9ff304805178199dc14aa9ab52</guid>
+      <pubDate>Thu, 19 Nov 2026 04:57:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal : CONV_2D tensor API for M5, split-K for all chips (#32542)
 
-The xtradeb PPA ships Chromium 156 for noble, older than 158.0.8127.36, which fixes CVE-2026-131037 and CVE-2026- | why kept: trycua, agent, claude</description>
-    </item>
-    <item>
-      <title>qwen3vl : set t_layer_inp for EAGLE-3 (#32589)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/51a77c4f247ce96fb932e29c9f81625ca9d3b0b7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51a77c4f247ce96fb932e29c9f81625ca9d3b0b7</guid>
-      <pubDate>Thu, 19 Nov 2026 04:25:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;qwen3vl : set t_layer_inp for EAGLE-3 (#32589)
+* metal: add a tensor API conv_2d kernel and split long reductions
 
-Assisted-by: Grok Bot&lt;/pre&gt; | why kept: qwen, qwen</description>
+The conv_2d matmul kernel runs on simdgroup matrices only, a | why kept: runs</description>
     </item></channel></rss>
