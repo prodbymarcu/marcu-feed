@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.28.4 (#8214) — https://github.com/trycua/cua/commit/89234e6ec1335bef9cb738c56add17366f83ef18 (score 5)
+- ggml : add backend scheduler tests (#27258) — https://github.com/ggml-org/llama.cpp/commit/ac830a9cbbfad748384a2e2268395b26e7d74e12 (score 2)

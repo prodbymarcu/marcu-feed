@@ -1,15 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.28.4 (#8214)</title>
-      <link>https://github.com/trycua/cua/commit/89234e6ec1335bef9cb738c56add17366f83ef18</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/89234e6ec1335bef9cb738c56add17366f83ef18</guid>
-      <pubDate>Thu, 19 Nov 2026 09:29:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.4 (#8214)
+      <title>ggml : add backend scheduler tests (#27258)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/ac830a9cbbfad748384a2e2268395b26e7d74e12</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ac830a9cbbfad748384a2e2268395b26e7d74e12</guid>
+      <pubDate>Thu, 19 Nov 2026 09:45:41 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : add backend scheduler tests (#27258)
 
-* chore(main): release cua-sdk 0.28.4
+* Adds initial scheduler stress tests
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* Adds new sleep op to simplify scheduler testing
 
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+* Adds testcase addressing https://github.com/ggml-org/llama | why kept: llama</description>
     </item></channel></rss>
