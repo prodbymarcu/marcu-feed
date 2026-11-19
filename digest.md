@@ -1,1 +1,1 @@
-- test(ci): driver-bound scan skips its own test and the generator (#8226) — https://github.com/trycua/cua/commit/6c5193d1c6094f39371bdd34722ba143970180b8 (score 7)
+- opencl: support dp4a for KQ mm in decomposed FA (#32577) — https://github.com/ggml-org/llama.cpp/commit/c406f4367e19bea7930e7f74e1984c9acc6d44bf (score 2)

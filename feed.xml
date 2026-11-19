@@ -1,9 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(ci): driver-bound scan skips its own test and the generator (#8226)</title>
-      <link>https://github.com/trycua/cua/commit/6c5193d1c6094f39371bdd34722ba143970180b8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6c5193d1c6094f39371bdd34722ba143970180b8</guid>
-      <pubDate>Thu, 19 Nov 2026 14:17:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(ci): driver-bound scan skips its own test and the generator (#8226)
+      <title>opencl: support dp4a for KQ mm in decomposed FA (#32577)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/c406f4367e19bea7930e7f74e1984c9acc6d44bf</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c406f4367e19bea7930e7f74e1984c9acc6d44bf</guid>
+      <pubDate>Thu, 19 Nov 2026 14:33:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: support dp4a for KQ mm in decomposed FA (#32577)
 
-The generator rewrites every tracked file holding the live range. Its own test (and the script docstring) describe the ra | why kept: trycua, claude</description>
+* opencl: support int8 KQ for DK = 512
+
+Co-authored-by: Shaofei Qi &amp;lt;shaoqi@qti.qualcomm.com&amp;gt;
+Co-authored-by: Hongqiang Wang &amp;lt;wan | why kept: codex</description>
     </item></channel></rss>
