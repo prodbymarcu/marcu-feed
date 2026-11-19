@@ -1,1 +1,2 @@
-- feat(cua-driver): download installer release assets from a mirror (#8… — https://github.com/trycua/cua/commit/291025a519d99f7e637511a90349a55b96893dcf (score 5)
+- release digest: fail the job when the alert intake refuses the post (… — https://github.com/trycua/cua/commit/f34ed6543f0416e776bec5bc15f5bcd0ae041057 (score 7)
+- fix(spaces): send the Mac clipboard on paste in the native viewer (#8… — https://github.com/trycua/cua/commit/54312cfce862d13a57f0c28851bd399e261c8e70 (score 2)

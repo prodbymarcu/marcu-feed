@@ -1,11 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(cua-driver): download installer release assets from a mirror (#8…</title>
-      <link>https://github.com/trycua/cua/commit/291025a519d99f7e637511a90349a55b96893dcf</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/291025a519d99f7e637511a90349a55b96893dcf</guid>
-      <pubDate>Thu, 19 Nov 2026 08:41:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): download installer release assets from a mirror (#8136)
+      <title>release digest: fail the job when the alert intake refuses the post (…</title>
+      <link>https://github.com/trycua/cua/commit/f34ed6543f0416e776bec5bc15f5bcd0ae041057</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f34ed6543f0416e776bec5bc15f5bcd0ae041057</guid>
+      <pubDate>Thu, 19 Nov 2026 08:57:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;release digest: fail the job when the alert intake refuses the post (#8212)
 
-* feat(cua-driver): download installer release assets from a mirror
+curl -s hid a 401 from the alert intake, so a wrong ALERTMANAGER_INTAKE_TOKEN
+printed &amp;#39;Slack digest sent.&amp;#39; and | why kept: trycua, claude</description>
+    </item>
+    <item>
+      <title>fix(spaces): send the Mac clipboard on paste in the native viewer (#8…</title>
+      <link>https://github.com/trycua/cua/commit/54312cfce862d13a57f0c28851bd399e261c8e70</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/54312cfce862d13a57f0c28851bd399e261c8e70</guid>
+      <pubDate>Thu, 19 Nov 2026 08:57:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): send the Mac clipboard on paste in the native viewer (#8145)
 
-CUA_DRIVER_RS_DOWNLOAD_BASE_URL replaces https://gi | why kept: trycua</description>
+* test(cli): pin which cua spaces commands go through the SDK
+
+cua spaces set and rename fall through to the registry-on | why kept: runs</description>
     </item></channel></rss>
