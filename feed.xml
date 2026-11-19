@@ -1,10 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(release): repair a release branch that rewrote another component&#x27;…</title>
-      <link>https://github.com/trycua/cua/commit/8dc0fce7488861c4f0d5ee26ffa3b1819cee7376</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8dc0fce7488861c4f0d5ee26ffa3b1819cee7376</guid>
-      <pubDate>Thu, 19 Nov 2026 17:13:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(release): repair a release branch that rewrote another component&amp;#39;s manifest version (#8253)
+      <title>model : hrm : do not compute slot count as uint32_t (#32601)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/50518b64c6f2191a116d2760042f106c4b3387d7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/50518b64c6f2191a116d2760042f106c4b3387d7</guid>
+      <pubDate>Thu, 19 Nov 2026 17:29:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : hrm : do not compute slot count as uint32_t (#32601)
 
-Release Please wrote cua-spacesd back to 0.16.4 in the cua-driver-rs release
-commit after main | why kept: trycua</description>
+load_arch_hparams multiplies n_hrm_layers_per_stack, n_hrm_h_cycles and
+(n_hrm_l_cycles + 1) into a uint32_t, then asserts the produc | why kept: model</description>
     </item></channel></rss>

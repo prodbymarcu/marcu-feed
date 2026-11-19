@@ -1,1 +1,1 @@
-- fix(release): repair a release branch that rewrote another component'… — https://github.com/trycua/cua/commit/8dc0fce7488861c4f0d5ee26ffa3b1819cee7376 (score 5)
+- model : hrm : do not compute slot count as uint32_t (#32601) — https://github.com/ggml-org/llama.cpp/commit/50518b64c6f2191a116d2760042f106c4b3387d7 (score 2)
