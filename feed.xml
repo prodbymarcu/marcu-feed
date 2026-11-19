@@ -1,24 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/7fce5439fe451cd48340b112ec37d2befe02c776</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7fce5439fe451cd48340b112ec37d2befe02c776</guid>
-      <pubDate>Thu, 19 Nov 2026 13:29:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387)
+      <title>test(ci): driver-bound scan skips its own test and the generator (#8226)</title>
+      <link>https://github.com/trycua/cua/commit/6c5193d1c6094f39371bdd34722ba143970180b8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6c5193d1c6094f39371bdd34722ba143970180b8</guid>
+      <pubDate>Thu, 19 Nov 2026 14:17:14 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(ci): driver-bound scan skips its own test and the generator (#8226)
 
-* ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA)
-
-* cuda : SET_ROWS from BF16 into quantized types and F8_E4M3
-
-* cuda | why kept: quant</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): the macOS permission guide names the app the driver …</title>
-      <link>https://github.com/trycua/cua/commit/b4e3f2dd2849238d6ce40bc440265f58de799665</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b4e3f2dd2849238d6ce40bc440265f58de799665</guid>
-      <pubDate>Thu, 19 Nov 2026 13:29:14 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): the macOS permission guide names the app the driver runs in (#8123)
-
-* fix(cua-driver): the macOS permission guide names the app the driver runs in
-
-System Settings lists the app | why kept: runs</description>
+The generator rewrites every tracked file holding the live range. Its own test (and the script docstring) describe the ra | why kept: trycua, claude</description>
     </item></channel></rss>

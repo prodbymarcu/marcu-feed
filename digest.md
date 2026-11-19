@@ -1,2 +1,1 @@
-- ggml : add BF16 support to ROPE and SET_ROWS (CPU, CUDA) (#32387) — https://github.com/ggml-org/llama.cpp/commit/7fce5439fe451cd48340b112ec37d2befe02c776 (score 2)
-- fix(cua-driver): the macOS permission guide names the app the driver … — https://github.com/trycua/cua/commit/b4e3f2dd2849238d6ce40bc440265f58de799665 (score 2)
+- test(ci): driver-bound scan skips its own test and the generator (#8226) — https://github.com/trycua/cua/commit/6c5193d1c6094f39371bdd34722ba143970180b8 (score 7)
