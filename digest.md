@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.28.6 (#8252) — https://github.com/trycua/cua/commit/4df4787ecb60ebe52e3fd2541072de114d8d5d95 (score 5)
+- fix(release): repair a release branch that rewrote another component'… — https://github.com/trycua/cua/commit/8dc0fce7488861c4f0d5ee26ffa3b1819cee7376 (score 5)
