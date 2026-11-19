@@ -1,30 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release bench 0.4.12 (#8243)</title>
-      <link>https://github.com/trycua/cua/commit/c4acf1285b3f4659d3c233d0dcedf75fd3d96a37</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c4acf1285b3f4659d3c233d0dcedf75fd3d96a37</guid>
-      <pubDate>Thu, 19 Nov 2026 15:37:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.12 (#8243)
+      <title>chore(main): release cua-sdk 0.28.6 (#8252)</title>
+      <link>https://github.com/trycua/cua/commit/4df4787ecb60ebe52e3fd2541072de114d8d5d95</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4df4787ecb60ebe52e3fd2541072de114d8d5d95</guid>
+      <pubDate>Thu, 19 Nov 2026 16:41:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.6 (#8252)
 
-* chore(main): release bench 0.4.12
+* chore(main): release cua-sdk 0.28.6
 
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release sandbox 0.11.11 (#8244)</title>
-      <link>https://github.com/trycua/cua/commit/5788fd96b1c5cd7e6424f4ee3c28641850a9c09a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5788fd96b1c5cd7e6424f4ee3c28641850a9c09a</guid>
-      <pubDate>Thu, 19 Nov 2026 15:37:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.11 (#8244)
-
-* chore(main): release sandbox 0.11.11
-
-* chore(sandbox): synchronize release metadata
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371 | why kept: trycua</description>
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
