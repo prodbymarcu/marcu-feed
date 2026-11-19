@@ -1,2 +1,1 @@
-- release digest: fail the job when the alert intake refuses the post (… — https://github.com/trycua/cua/commit/f34ed6543f0416e776bec5bc15f5bcd0ae041057 (score 7)
-- fix(spaces): send the Mac clipboard on paste in the native viewer (#8… — https://github.com/trycua/cua/commit/54312cfce862d13a57f0c28851bd399e261c8e70 (score 2)
+- chore(main): release cua-sdk 0.28.4 (#8214) — https://github.com/trycua/cua/commit/89234e6ec1335bef9cb738c56add17366f83ef18 (score 5)
