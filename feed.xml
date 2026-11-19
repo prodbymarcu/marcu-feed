@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cd-spaces): never overwrite updater feeds with an older version (…</title>
-      <link>https://github.com/trycua/cua/commit/052dc3a0c19646f89d5e6ca30e110e2dd541eec2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/052dc3a0c19646f89d5e6ca30e110e2dd541eec2</guid>
-      <pubDate>Wed, 18 Nov 2026 19:05:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cd-spaces): never overwrite updater feeds with an older version (#8191)
+      <title>opencl: allow adjusting KV padding in decomposed FA (#32522)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/08c252e221759e0f69e80f0450b295c92d2344e1</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/08c252e221759e0f69e80f0450b295c92d2344e1</guid>
+      <pubDate>Wed, 18 Nov 2026 23:21:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: allow adjusting KV padding in decomposed FA (#32522)
 
-Co-authored-by: Claude Sonnet 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
+Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- fix(cd-spaces): never overwrite updater feeds with an older version (… — https://github.com/trycua/cua/commit/052dc3a0c19646f89d5e6ca30e110e2dd541eec2 (score 2)
+- opencl: allow adjusting KV padding in decomposed FA (#32522) — https://github.com/ggml-org/llama.cpp/commit/08c252e221759e0f69e80f0450b295c92d2344e1 (score 2)
