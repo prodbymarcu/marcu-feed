@@ -1,1 +1,2 @@
-- ui: cut Llama Chat's first-load JavaScript by 63%, load diagrams, mat… — https://github.com/ggml-org/llama.cpp/commit/80437488a497756df005fb64b50cfadb0cdcf83a (score 4)
+- ggml : IQ2 creation speedup through caching (#31910) — https://github.com/ggml-org/llama.cpp/commit/76f186df71a41abb3ee20fffedee31ca5dbc7d9f (score 2)
+- llama : remove PATH_MAX (#32557) — https://github.com/ggml-org/llama.cpp/commit/95b09b62beb95c40fc6b317a0c1473c27b5f27fa (score 2)
