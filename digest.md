@@ -1,2 +1,1 @@
-- fix(spaces): deliver agent messages once (#8218) — https://github.com/trycua/cua/commit/a88ded951c5e66285bc788b75fddc1c1cdff5eb0 (score 7)
-- fix(spaces-macos): bundle cua 0.28.4 in Cua Spaces (#8217) — https://github.com/trycua/cua/commit/261871e28526da412b9d6ef3a6dfab8da51cbb0b (score 5)
+- fix(cua-driver): cover Hyprland cursor overlay focus isolation with a… — https://github.com/trycua/cua/commit/2a0db8b991e953aa3a634b7edb6cfe6c3cd9c6c6 (score 2)
