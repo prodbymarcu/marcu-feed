@@ -1,13 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : fall back to buffered I/O on EIO (#32545)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/39039aa27fe65244913d8a07303b8733f614fe20</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/39039aa27fe65244913d8a07303b8733f614fe20</guid>
-      <pubDate>Thu, 19 Nov 2026 02:01:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : fall back to buffered I/O on EIO (#32545)
+      <title>ui: cut Llama Chat&#x27;s first-load JavaScript by 63%, load diagrams, mat…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/80437488a497756df005fb64b50cfadb0cdcf83a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/80437488a497756df005fb64b50cfadb0cdcf83a</guid>
+      <pubDate>Thu, 19 Nov 2026 02:49:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: cut Llama Chat&amp;#39;s first-load JavaScript by 63%, load diagrams, math and PDFs on demand (#32555)
 
-* llama : fall back to buffered I/O on EIO
+* ui: import Lucide icons by path in modules that run in Node
 
-Signed-off-by: Adrien Gallouët &amp;lt;angt@huggingface.co&amp;gt;
-
-* Preserve bytes already read, resumes a | why kept: llama</description>
+Assisted-by: Claude (Opus 5. | why kept: claude, llama</description>
     </item></channel></rss>

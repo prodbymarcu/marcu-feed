@@ -1,1 +1,1 @@
-- llama : fall back to buffered I/O on EIO (#32545) — https://github.com/ggml-org/llama.cpp/commit/39039aa27fe65244913d8a07303b8733f614fe20 (score 2)
+- ui: cut Llama Chat's first-load JavaScript by 63%, load diagrams, mat… — https://github.com/ggml-org/llama.cpp/commit/80437488a497756df005fb64b50cfadb0cdcf83a (score 4)
