@@ -1,15 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.28.5 (#8227)</title>
-      <link>https://github.com/trycua/cua/commit/b9e407df7bcf3cb532c47a04b153dbaa533fd8d1</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b9e407df7bcf3cb532c47a04b153dbaa533fd8d1</guid>
-      <pubDate>Thu, 19 Nov 2026 12:57:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.28.5 (#8227)
+      <title>mtmd : fix YuE2 projector loading (#32606)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/53ecea05a0728e133478b06b3d543b6fcfaa418e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53ecea05a0728e133478b06b3d543b6fcfaa418e</guid>
+      <pubDate>Thu, 19 Nov 2026 13:13:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd : fix YuE2 projector loading (#32606)
 
-* chore(main): release cua-sdk 0.28.5
+- Allow cls.output.weight to be absent from the mmproj. It is an optional
+Qwen3 reranking head that the YuE2 NAR decoder never uses.
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+- Without this fi | why kept: qwen, qwen</description>
     </item></channel></rss>

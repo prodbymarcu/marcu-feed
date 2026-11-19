@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.28.5 (#8227) — https://github.com/trycua/cua/commit/b9e407df7bcf3cb532c47a04b153dbaa533fd8d1 (score 5)
+- mtmd : fix YuE2 projector loading (#32606) — https://github.com/ggml-org/llama.cpp/commit/53ecea05a0728e133478b06b3d543b6fcfaa418e (score 7)
