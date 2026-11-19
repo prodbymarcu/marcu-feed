@@ -1,1 +1,1 @@
-- ci(release): raise cua-sandbox's cua-driver bound automatically (#8205) — https://github.com/trycua/cua/commit/5dfb0d4b1bf72c6e296744f540c7a8d611e65853 (score 2)
+- llama : remove redundant fields from llm_graph_params (#32596) — https://github.com/ggml-org/llama.cpp/commit/01592dc58b105ea6c7e38e4b348cb5d5e2e2bbc2 (score 4)

@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci(release): raise cua-sandbox&#x27;s cua-driver bound automatically (#8205)</title>
-      <link>https://github.com/trycua/cua/commit/5dfb0d4b1bf72c6e296744f540c7a8d611e65853</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5dfb0d4b1bf72c6e296744f540c7a8d611e65853</guid>
-      <pubDate>Thu, 19 Nov 2026 06:01:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): raise cua-sandbox&amp;#39;s cua-driver bound automatically (#8205)
+      <title>llama : remove redundant fields from llm_graph_params (#32596)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/01592dc58b105ea6c7e38e4b348cb5d5e2e2bbc2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01592dc58b105ea6c7e38e4b348cb5d5e2e2bbc2</guid>
+      <pubDate>Thu, 19 Nov 2026 06:33:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : remove redundant fields from llm_graph_params (#32596)
 
-* ci(release): raise cua-sandbox&amp;#39;s cua-driver bound automatically
-
-A driver-bound job in release-please.yml opens  | why kept: claude</description>
+llm_graph_params no longer carries hparams, prec_policy and hdmd, since the model reference already provides them. llm_graph_contex | why kept: model, llama</description>
     </item></channel></rss>
