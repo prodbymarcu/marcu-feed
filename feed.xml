@@ -1,13 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>vulkan: use floating-point zero for storage-only FP16 in DIAG/TRI (#3…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ecafc67145201e59336bf389d0ab1a91b89a8fac</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ecafc67145201e59336bf389d0ab1a91b89a8fac</guid>
-      <pubDate>Thu, 19 Nov 2026 01:29:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: use floating-point zero for storage-only FP16 in DIAG/TRI (#32379)
-
-* vulkan: Change integer zero to floating-point zero for storage-only FP16 in DIAG/TRI.
-
-Assisted-by: OpenAI Codex
-
-* d | why kept: codex</description>
+      <title>llm-gemini 0.38</title>
+      <link>https://simonwillison.net/2026/Nov/18/llm-gemini/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/18/llm-gemini/</guid>
+      <pubDate>Thu, 19 Nov 2026 01:45:12 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-gemini/releases/tag/0.38&quot;&gt;llm-gemini 0.38&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Today Google &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemin | why kept: model</description>
     </item></channel></rss>

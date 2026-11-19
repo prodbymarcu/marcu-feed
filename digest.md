@@ -1,1 +1,1 @@
-- vulkan: use floating-point zero for storage-only FP16 in DIAG/TRI (#3… — https://github.com/ggml-org/llama.cpp/commit/ecafc67145201e59336bf389d0ab1a91b89a8fac (score 2)
+- llm-gemini 0.38 — https://simonwillison.net/2026/Nov/18/llm-gemini/ (score 2)
