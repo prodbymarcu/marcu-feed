@@ -1,13 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml : add backend scheduler tests (#27258)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ac830a9cbbfad748384a2e2268395b26e7d74e12</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ac830a9cbbfad748384a2e2268395b26e7d74e12</guid>
-      <pubDate>Thu, 19 Nov 2026 09:45:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : add backend scheduler tests (#27258)
+      <title>fix(spaces): deliver agent messages once (#8218)</title>
+      <link>https://github.com/trycua/cua/commit/a88ded951c5e66285bc788b75fddc1c1cdff5eb0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a88ded951c5e66285bc788b75fddc1c1cdff5eb0</guid>
+      <pubDate>Thu, 19 Nov 2026 12:09:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces): deliver agent messages once (#8218)
 
-* Adds initial scheduler stress tests
+cua agent send delivered a message to an idle run, then wrote the thread
+entry that records it as a queued task. The dispatcher, woken by that
+en | why kept: trycua, agent</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.28.4 in Cua Spaces (#8217)</title>
+      <link>https://github.com/trycua/cua/commit/261871e28526da412b9d6ef3a6dfab8da51cbb0b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/261871e28526da412b9d6ef3a6dfab8da51cbb0b</guid>
+      <pubDate>Thu, 19 Nov 2026 12:09:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.4 in Cua Spaces (#8217)
 
-* Adds new sleep op to simplify scheduler testing
-
-* Adds testcase addressing https://github.com/ggml-org/llama | why kept: llama</description>
+cua 0.28.4 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

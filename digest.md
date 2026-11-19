@@ -1,1 +1,2 @@
-- ggml : add backend scheduler tests (#27258) — https://github.com/ggml-org/llama.cpp/commit/ac830a9cbbfad748384a2e2268395b26e7d74e12 (score 2)
+- fix(spaces): deliver agent messages once (#8218) — https://github.com/trycua/cua/commit/a88ded951c5e66285bc788b75fddc1c1cdff5eb0 (score 7)
+- fix(spaces-macos): bundle cua 0.28.4 in Cua Spaces (#8217) — https://github.com/trycua/cua/commit/261871e28526da412b9d6ef3a6dfab8da51cbb0b (score 5)
