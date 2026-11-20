@@ -1,34 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: stage Llama Voice&#x27;s sources for CMake and Docker UI builds (#32680)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/427a836734e6a4f9c267c396551ca798c085b649</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/427a836734e6a4f9c267c396551ca798c085b649</guid>
-      <pubDate>Fri, 20 Nov 2026 13:44:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: stage Llama Voice&amp;#39;s sources for CMake and Docker UI builds (#32680)
+      <title>chore(main): release cua-driver-rs 0.56.0 (#8375)</title>
+      <link>https://github.com/trycua/cua/commit/9c75001355f777c102c7eea66b14c0a45868153d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c75001355f777c102c7eea66b14c0a45868153d</guid>
+      <pubDate>Fri, 20 Nov 2026 14:16:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.0 (#8375)
 
-Llama Chat compiles @ggml-org/llama-voice from ui/lib/voice/src, but the
-CMake stage and the Docker UI stages copied o | why kept: claude, voice, llama</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-sdk 0.29.4 (#8387)</title>
-      <link>https://github.com/trycua/cua/commit/ceeda722bf54590f730698c093f4052a28f47cfa</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ceeda722bf54590f730698c093f4052a28f47cfa</guid>
-      <pubDate>Fri, 20 Nov 2026 13:44:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.29.4 (#8387)
+* chore(main): release cua-driver-rs 0.56.0
 
-* chore(main): release cua-sdk 0.29.4
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
-    </item>
-    <item>
-      <title>ui: fix the flaky reset check of the MermaidPreview Flowchart story (…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e46069c409892fe5a55ec5decbd56d0ad67b5242</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e46069c409892fe5a55ec5decbd56d0ad67b5242</guid>
-      <pubDate>Fri, 20 Nov 2026 13:44:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: fix the flaky reset check of the MermaidPreview Flowchart story (#32675)
-
-Assisted-by: Claude (Opus 5.5 Medium)&lt;/pre&gt; | why kept: claude</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
