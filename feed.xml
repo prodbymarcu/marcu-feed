@@ -1,25 +1,27 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release bench 0.4.13 (#8316)</title>
-      <link>https://github.com/trycua/cua/commit/2cd38ccd4bbd210b8471c822816f243ddce8958c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2cd38ccd4bbd210b8471c822816f243ddce8958c</guid>
-      <pubDate>Fri, 20 Nov 2026 03:51:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.13 (#8316)
+      <title>chore(main): release cua-sdk 0.29.1 (#8318)</title>
+      <link>https://github.com/trycua/cua/commit/6d5cdf16b5c7ad52bcfca5afec1e3b269bf81c5b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6d5cdf16b5c7ad52bcfca5afec1e3b269bf81c5b</guid>
+      <pubDate>Fri, 20 Nov 2026 04:07:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.29.1 (#8318)
 
-* chore(main): release bench 0.4.13
+* chore(main): release cua-sdk 0.29.1
 
-* chore(bench): synchronize release lockfiles
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item>
     <item>
-      <title>feat(cua-relay): drain connections on SIGTERM before closing tunnels …</title>
-      <link>https://github.com/trycua/cua/commit/64886ef8b44eece42e4a77f406d8c04186d31fb2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/64886ef8b44eece42e4a77f406d8c04186d31fb2</guid>
-      <pubDate>Fri, 20 Nov 2026 03:51:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-relay): drain connections on SIGTERM before closing tunnels (#8310)
+      <title>ui: set the reasoning effort from the model picker (#32632)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/6aee50801d091f78b3baacd505f5e95d8e8f6838</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6aee50801d091f78b3baacd505f5e95d8e8f6838</guid>
+      <pubDate>Fri, 20 Nov 2026 04:07:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: set the reasoning effort from the model picker (#32632)
 
-On the stop signal the relay refuses new machine tunnels and mesh
-connections (503 with Retry-After), keeps open tunn | why kept: claude</description>
+* ui: move the reasoning effort into the model picker
+
+The chat form&amp;#39;s row no longer holds the reasoning button: the model
+picker  | why kept: model, claude</description>
     </item></channel></rss>

@@ -1,2 +1,2 @@
-- chore(main): release bench 0.4.13 (#8316) — https://github.com/trycua/cua/commit/2cd38ccd4bbd210b8471c822816f243ddce8958c (score 5)
-- feat(cua-relay): drain connections on SIGTERM before closing tunnels … — https://github.com/trycua/cua/commit/64886ef8b44eece42e4a77f406d8c04186d31fb2 (score 2)
+- chore(main): release cua-sdk 0.29.1 (#8318) — https://github.com/trycua/cua/commit/6d5cdf16b5c7ad52bcfca5afec1e3b269bf81c5b (score 5)
+- ui: set the reasoning effort from the model picker (#32632) — https://github.com/ggml-org/llama.cpp/commit/6aee50801d091f78b3baacd505f5e95d8e8f6838 (score 4)
