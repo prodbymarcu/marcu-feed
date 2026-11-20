@@ -1,2 +1,1 @@
-- chore(main): release sandbox 0.11.13 (#8327) — https://github.com/trycua/cua/commit/18e9fce9abb97494bdd4c1d05ff807fd4d98f188 (score 5)
-- chore(main): release bench 0.4.14 (#8326) — https://github.com/trycua/cua/commit/343198b46f3070284f8e41610ac35b3179426bca (score 5)
+- fix(deps): js security bumps (52 Dependabot alerts) (#8313) — https://github.com/trycua/cua/commit/38d718e66565ec7a4490ff9dd63caee39ff157a2 (score 4)
