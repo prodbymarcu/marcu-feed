@@ -1,5 +1,2 @@
-- fix(deps): bump claude-agent-sdk to 0.2.186 for GHSA-h4mw-j7qp-8mwm (… — https://github.com/trycua/cua/commit/0ff1606a1726b7a8509c758170dced5d49745b2f (score 9)
-- fix(deps): bump tinypool and proxy-addr for GHSA-5gmw-xhrv-c9v3, GHSA… — https://github.com/trycua/cua/commit/68fdfc4cbf825af36c8d983db110df696d1fc9bc (score 9)
-- fix(deps): bump next to 16.4.5 for GHSA-673q-mjm6-r5xr and GHSA-2464-… — https://github.com/trycua/cua/commit/1830c8d09c9a266006f557d8b64eac13dad8d65d (score 7)
-- model: add Domyn Edge 4B Model (#32559) — https://github.com/ggml-org/llama.cpp/commit/55d323507de290f5baacf56082b087a6bccfc7d9 (score 2)
-- llamafile(s390x): add QK data type support (#32600) — https://github.com/ggml-org/llama.cpp/commit/bed8ec2f8d484520d4822c582a94424a03e172e7 (score 2)
+- llama : reserve graph nodes for the MoE cache (#32636) — https://github.com/ggml-org/llama.cpp/commit/4c4a0f0a4246bc36a3724d12238d5624714dcb2f (score 8)
+- fix(deps): bump aiohttp to 3.14.5 (44 Dependabot alerts) (#8309) — https://github.com/trycua/cua/commit/006c897412aef0820e43a67beab8fe262a4a9886 (score 7)

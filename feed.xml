@@ -1,61 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(deps): bump claude-agent-sdk to 0.2.186 for GHSA-h4mw-j7qp-8mwm (…</title>
-      <link>https://github.com/trycua/cua/commit/0ff1606a1726b7a8509c758170dced5d49745b2f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0ff1606a1726b7a8509c758170dced5d49745b2f</guid>
-      <pubDate>Fri, 20 Nov 2026 03:03:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump claude-agent-sdk to 0.2.186 for GHSA-h4mw-j7qp-8mwm (#8307)
+      <title>llama : reserve graph nodes for the MoE cache (#32636)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4c4a0f0a4246bc36a3724d12238d5624714dcb2f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4c4a0f0a4246bc36a3724d12238d5624714dcb2f</guid>
+      <pubDate>Fri, 20 Nov 2026 03:19:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : reserve graph nodes for the MoE cache (#32636)
 
-Raises the cua-sandbox-apps floor to &amp;gt;=0.2.121 and refreshes uv.lock.
-
-Co-authored-by: Francesco Bonacci &amp;lt;f@tryc | why kept: trycua, agent, claude</description>
+The MoE cache adds a slot lookup to every MoE layer, and with
+--moe-cache-cpu-share a second expert path, but graph_max_nodes() did
+not acc | why kept: model, claude, quant, llama</description>
     </item>
     <item>
-      <title>fix(deps): bump tinypool and proxy-addr for GHSA-5gmw-xhrv-c9v3, GHSA…</title>
-      <link>https://github.com/trycua/cua/commit/68fdfc4cbf825af36c8d983db110df696d1fc9bc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/68fdfc4cbf825af36c8d983db110df696d1fc9bc</guid>
-      <pubDate>Fri, 20 Nov 2026 03:03:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump tinypool and proxy-addr for GHSA-5gmw-xhrv-c9v3, GHSA-85c8-ppgw-ccpr, GHSA-jqcg-44mw-7w3h (#8306)
+      <title>fix(deps): bump aiohttp to 3.14.5 (44 Dependabot alerts) (#8309)</title>
+      <link>https://github.com/trycua/cua/commit/006c897412aef0820e43a67beab8fe262a4a9886</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/006c897412aef0820e43a67beab8fe262a4a9886</guid>
+      <pubDate>Fri, 20 Nov 2026 03:19:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump aiohttp to 3.14.5 (44 Dependabot alerts) (#8309)
 
-- vitest 3 to 4.1.12 in cua-spaces and openkoalabot-example-tauri (drops tinypoo | why kept: trycua, agent, claude</description>
-    </item>
-    <item>
-      <title>fix(deps): bump next to 16.4.5 for GHSA-673q-mjm6-r5xr and GHSA-2464-…</title>
-      <link>https://github.com/trycua/cua/commit/1830c8d09c9a266006f557d8b64eac13dad8d65d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1830c8d09c9a266006f557d8b64eac13dad8d65d</guid>
-      <pubDate>Fri, 20 Nov 2026 03:03:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump next to 16.4.5 for GHSA-673q-mjm6-r5xr and GHSA-2464-fhr4-w9xw (#8305)
-
-Docs site moves from next 16.3.6 to 16.4.5, which also covers the open
-medium and high Next.js advisories.
- | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>model: add Domyn Edge 4B Model (#32559)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/55d323507de290f5baacf56082b087a6bccfc7d9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55d323507de290f5baacf56082b087a6bccfc7d9</guid>
-      <pubDate>Fri, 20 Nov 2026 03:03:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model: add Domyn Edge 4B Model (#32559)
-
-* feat: add domyn-edge model
-
-* Generate tokenizer hash for conversion + fix tests
-
-* Address changes according to code-review skill
-
-* catch ValueError i | why kept: model</description>
-    </item>
-    <item>
-      <title>llamafile(s390x): add QK data type support (#32600)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/bed8ec2f8d484520d4822c582a94424a03e172e7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bed8ec2f8d484520d4822c582a94424a03e172e7</guid>
-      <pubDate>Fri, 20 Nov 2026 03:03:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llamafile(s390x): add QK data type support (#32600)
-
-* llamafile: add QK support for s390x
-
-Signed-off-by: Aaron Teo &amp;lt;aaron.teo1@ibm.com&amp;gt;
-
-* llamafile: clean up for s390x
-
-Signed-off-by: Aa | why kept: llama</description>
+Relock aiohttp (and yarl) in the root, cua-bench, cua, cua-sandbox and cua-bench-rl uv.lock files, and raise the aiohttp floor to | why kept: trycua, claude</description>
     </item></channel></rss>
