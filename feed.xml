@@ -1,12 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : load ffn_gate_up_exps scales (#32657)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a1f4222608594c57202fdaa6a45dca1ef05abc62</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a1f4222608594c57202fdaa6a45dca1ef05abc62</guid>
-      <pubDate>Fri, 20 Nov 2026 07:20:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : load ffn_gate_up_exps scales (#32657)
+      <title>fix(ci): bin/ci quick sign-off works; docs image refs check runs cran…</title>
+      <link>https://github.com/trycua/cua/commit/37eec8d57ff77e466d4bcbba16376f93be53c8b9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/37eec8d57ff77e466d4bcbba16376f93be53c8b9</guid>
+      <pubDate>Fri, 20 Nov 2026 07:51:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): bin/ci quick sign-off works; docs image refs check runs crane anonymously (#8331)
 
-* model: load `ffn_gate_up_exps` scales
-
-The generic scale pass loads per-expert scales for ffn_gate_exps,
-ffn_up_exps and ffn_down_exps but not for | why kept: model, llama</description>
+* bin/ci: quick sign-off allows the build tier left to CI; docs image refs check runs crane anonymously | why kept: claude, runs</description>
     </item></channel></rss>

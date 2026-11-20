@@ -1,1 +1,1 @@
-- model : load ffn_gate_up_exps scales (#32657) — https://github.com/ggml-org/llama.cpp/commit/a1f4222608594c57202fdaa6a45dca1ef05abc62 (score 4)
+- fix(ci): bin/ci quick sign-off works; docs image refs check runs cran… — https://github.com/trycua/cua/commit/37eec8d57ff77e466d4bcbba16376f93be53c8b9 (score 4)
