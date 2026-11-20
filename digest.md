@@ -1,1 +1,2 @@
-- fix(deps): js security bumps (52 Dependabot alerts) (#8313) — https://github.com/trycua/cua/commit/38d718e66565ec7a4490ff9dd63caee39ff157a2 (score 4)
+- chore(main): release cua-sdk 0.29.2 (#8329) — https://github.com/trycua/cua/commit/05bb80b6e037ead88c65d6d17019f970c3c2d8a6 (score 5)
+- llama : move the indexer key rotation choice into the model classes (… — https://github.com/ggml-org/llama.cpp/commit/4783b1145c7073bb809f4c282ff4853cbfe42954 (score 4)

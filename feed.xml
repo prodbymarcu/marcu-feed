@@ -1,11 +1,26 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(deps): js security bumps (52 Dependabot alerts) (#8313)</title>
-      <link>https://github.com/trycua/cua/commit/38d718e66565ec7a4490ff9dd63caee39ff157a2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/38d718e66565ec7a4490ff9dd63caee39ff157a2</guid>
-      <pubDate>Fri, 20 Nov 2026 05:11:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): js security bumps (52 Dependabot alerts) (#8313)
+      <title>chore(main): release cua-sdk 0.29.2 (#8329)</title>
+      <link>https://github.com/trycua/cua/commit/05bb80b6e037ead88c65d6d17019f970c3c2d8a6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/05bb80b6e037ead88c65d6d17019f970c3c2d8a6</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.29.2 (#8329)
 
-* fix(deps): bump next to 16.4.5 for GHSA-673q-mjm6-r5xr and GHSA-2464-fhr4-w9xw
+* chore(main): release cua-sdk 0.29.2
 
-Docs site moves from next 16.3.6 to 16.4.5, which al | why kept: agent, claude</description>
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>llama : move the indexer key rotation choice into the model classes (…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4783b1145c7073bb809f4c282ff4853cbfe42954</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4783b1145c7073bb809f4c282ff4853cbfe42954</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : move the indexer key rotation choice into the model classes (#32653)
+
+* llama : move the indexer key rotation choice into the model classes
+
+The KV cache forced a Hadamard rotation for th | why kept: model, llama</description>
     </item></channel></rss>
