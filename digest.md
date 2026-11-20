@@ -1,1 +1,1 @@
-- vulkan: disable subgroup arithmetic on Qualcomm's driver (#30826) — https://github.com/ggml-org/llama.cpp/commit/8bf88ba9368e70fe3ba1b0001b34e70ffc713716 (score 4)
+- fix(cua-driver): match running Windows Store apps to their bundle_id … — https://github.com/trycua/cua/commit/3aefd3b5790c0f51bad08d0d1230485e8fc5b9d7 (score 2)

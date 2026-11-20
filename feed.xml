@@ -1,10 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>vulkan: disable subgroup arithmetic on Qualcomm&#x27;s driver (#30826)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8bf88ba9368e70fe3ba1b0001b34e70ffc713716</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8bf88ba9368e70fe3ba1b0001b34e70ffc713716</guid>
-      <pubDate>Fri, 20 Nov 2026 00:07:25 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: disable subgroup arithmetic on Qualcomm&amp;#39;s driver (#30826)
+      <title>fix(cua-driver): match running Windows Store apps to their bundle_id …</title>
+      <link>https://github.com/trycua/cua/commit/3aefd3b5790c0f51bad08d0d1230485e8fc5b9d7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3aefd3b5790c0f51bad08d0d1230485e8fc5b9d7</guid>
+      <pubDate>Fri, 20 Nov 2026 00:39:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): match running Windows Store apps to their bundle_id grant (#8127)
 
-On Adreno, subgroupAdd() after divergent code returns wrong sums. The
-fused ADD+RMS_NORM partial-sum path hits this, so the  | why kept: model, llama</description>
+* fix(cua-driver): match running Windows Store apps to their bundle_id grant
+
+Windows list_apps matched running | why kept: model</description>
     </item></channel></rss>
