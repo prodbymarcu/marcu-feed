@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(ci): bin/ci quick sign-off works; docs image refs check runs cran…</title>
-      <link>https://github.com/trycua/cua/commit/37eec8d57ff77e466d4bcbba16376f93be53c8b9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/37eec8d57ff77e466d4bcbba16376f93be53c8b9</guid>
-      <pubDate>Fri, 20 Nov 2026 07:51:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): bin/ci quick sign-off works; docs image refs check runs crane anonymously (#8331)
+      <title>fix(spaces-macos): bundle cua 0.29.3 in Cua Spaces (#8341)</title>
+      <link>https://github.com/trycua/cua/commit/a77c6b454605548ac10b365f87ada1b9fbb998e8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a77c6b454605548ac10b365f87ada1b9fbb998e8</guid>
+      <pubDate>Fri, 20 Nov 2026 08:56:21 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.29.3 in Cua Spaces (#8341)
 
-* bin/ci: quick sign-off allows the build tier left to CI; docs image refs check runs crane anonymously | why kept: claude, runs</description>
+cua 0.29.3 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>

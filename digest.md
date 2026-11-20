@@ -1,1 +1,1 @@
-- fix(ci): bin/ci quick sign-off works; docs image refs check runs cran… — https://github.com/trycua/cua/commit/37eec8d57ff77e466d4bcbba16376f93be53c8b9 (score 4)
+- fix(spaces-macos): bundle cua 0.29.3 in Cua Spaces (#8341) — https://github.com/trycua/cua/commit/a77c6b454605548ac10b365f87ada1b9fbb998e8 (score 5)
