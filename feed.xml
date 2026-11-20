@@ -1,25 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release sandbox 0.11.12 (#8315)</title>
-      <link>https://github.com/trycua/cua/commit/0e09c300ce688f16a5db3af439ecb462856869f5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0e09c300ce688f16a5db3af439ecb462856869f5</guid>
-      <pubDate>Fri, 20 Nov 2026 03:35:20 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.12 (#8315)
+      <title>chore(main): release bench 0.4.13 (#8316)</title>
+      <link>https://github.com/trycua/cua/commit/2cd38ccd4bbd210b8471c822816f243ddce8958c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2cd38ccd4bbd210b8471c822816f243ddce8958c</guid>
+      <pubDate>Fri, 20 Nov 2026 03:51:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.13 (#8316)
 
-* chore(main): release sandbox 0.11.12
+* chore(main): release bench 0.4.13
 
-* chore(sandbox): synchronize release metadata
+* chore(bench): synchronize release lockfiles
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371 | why kept: trycua</description>
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
     </item>
     <item>
-      <title>feat(cua-relay): expose boot id and start time on /healthz (#8308)</title>
-      <link>https://github.com/trycua/cua/commit/c9472c2d2294ade654380af45a7b013a01fd97be</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c9472c2d2294ade654380af45a7b013a01fd97be</guid>
-      <pubDate>Fri, 20 Nov 2026 03:35:20 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-relay): expose boot id and start time on /healthz (#8308)
+      <title>feat(cua-relay): drain connections on SIGTERM before closing tunnels …</title>
+      <link>https://github.com/trycua/cua/commit/64886ef8b44eece42e4a77f406d8c04186d31fb2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/64886ef8b44eece42e4a77f406d8c04186d31fb2</guid>
+      <pubDate>Fri, 20 Nov 2026 03:51:15 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-relay): drain connections on SIGTERM before closing tunnels (#8310)
 
-/healthz now carries x-cua-relay-boot (random id per process start),
-x-cua-relay-started (Unix seconds) and x-cua-relay-version | why kept: claude</description>
+On the stop signal the relay refuses new machine tunnels and mesh
+connections (503 with Retry-After), keeps open tunn | why kept: claude</description>
     </item></channel></rss>

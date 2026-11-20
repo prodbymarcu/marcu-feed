@@ -1,2 +1,2 @@
-- chore(main): release sandbox 0.11.12 (#8315) — https://github.com/trycua/cua/commit/0e09c300ce688f16a5db3af439ecb462856869f5 (score 5)
-- feat(cua-relay): expose boot id and start time on /healthz (#8308) — https://github.com/trycua/cua/commit/c9472c2d2294ade654380af45a7b013a01fd97be (score 2)
+- chore(main): release bench 0.4.13 (#8316) — https://github.com/trycua/cua/commit/2cd38ccd4bbd210b8471c822816f243ddce8958c (score 5)
+- feat(cua-relay): drain connections on SIGTERM before closing tunnels … — https://github.com/trycua/cua/commit/64886ef8b44eece42e4a77f406d8c04186d31fb2 (score 2)
