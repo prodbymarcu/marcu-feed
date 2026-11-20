@@ -1,22 +1,30 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: show vision as glasses and audio as headphones (#32617)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9d6f04fa99936708b9df140b7b2df62a8925afd5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d6f04fa99936708b9df140b7b2df62a8925afd5</guid>
-      <pubDate>Fri, 20 Nov 2026 04:39:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show vision as glasses and audio as headphones (#32617)
+      <title>chore(main): release sandbox 0.11.13 (#8327)</title>
+      <link>https://github.com/trycua/cua/commit/18e9fce9abb97494bdd4c1d05ff807fd4d98f188</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/18e9fce9abb97494bdd4c1d05ff807fd4d98f188</guid>
+      <pubDate>Fri, 20 Nov 2026 04:55:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.13 (#8327)
 
-The model modality icons match the ones the Llama apps use: glasses for
-vision, headphones for audio. The attach menu&amp;#39;s list of wh | why kept: model, claude, llama</description>
+* chore(main): release sandbox 0.11.13
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371 | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99) (#8300)</title>
-      <link>https://github.com/trycua/cua/commit/3d9c32fc21e9e9326b330da26e230f8f56c69c0b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3d9c32fc21e9e9326b330da26e230f8f56c69c0b</guid>
-      <pubDate>Fri, 20 Nov 2026 04:39:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99) (#8300)
+      <title>chore(main): release bench 0.4.14 (#8326)</title>
+      <link>https://github.com/trycua/cua/commit/343198b46f3070284f8e41610ac35b3179426bca</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/343198b46f3070284f8e41610ac35b3179426bca</guid>
+      <pubDate>Fri, 20 Nov 2026 04:55:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.14 (#8326)
 
-* fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99)
+* chore(main): release bench 0.4.14
 
-Raise the mcp floor to 1.30.0 in every pyproject that depends on it and
-regen | why kept: claude</description>
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
     </item></channel></rss>

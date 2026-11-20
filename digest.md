@@ -1,2 +1,2 @@
-- ui: show vision as glasses and audio as headphones (#32617) — https://github.com/ggml-org/llama.cpp/commit/9d6f04fa99936708b9df140b7b2df62a8925afd5 (score 6)
-- fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99) (#8300) — https://github.com/trycua/cua/commit/3d9c32fc21e9e9326b330da26e230f8f56c69c0b (score 2)
+- chore(main): release sandbox 0.11.13 (#8327) — https://github.com/trycua/cua/commit/18e9fce9abb97494bdd4c1d05ff807fd4d98f188 (score 5)
+- chore(main): release bench 0.4.14 (#8326) — https://github.com/trycua/cua/commit/343198b46f3070284f8e41610ac35b3179426bca (score 5)
