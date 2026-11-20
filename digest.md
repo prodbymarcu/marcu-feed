@@ -1,1 +1,1 @@
-- ui: search message content and Discover models from the search dialog… — https://github.com/ggml-org/llama.cpp/commit/059cac2848cfa564f9657e09045ee75ebee9d6f8 (score 4)
+- ui: voice messages and dictation with live waveforms and transcripts … — https://github.com/ggml-org/llama.cpp/commit/79e81b0bd4098f33b52756e30ef90bfe599cce7e (score 4)

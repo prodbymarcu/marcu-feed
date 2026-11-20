@@ -1,11 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: search message content and Discover models from the search dialog…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/059cac2848cfa564f9657e09045ee75ebee9d6f8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/059cac2848cfa564f9657e09045ee75ebee9d6f8</guid>
-      <pubDate>Fri, 20 Nov 2026 10:32:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: search message content and Discover models from the search dialog (#32670)
+      <title>ui: voice messages and dictation with live waveforms and transcripts …</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/79e81b0bd4098f33b52756e30ef90bfe599cce7e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/79e81b0bd4098f33b52756e30ef90bfe599cce7e</guid>
+      <pubDate>Fri, 20 Nov 2026 10:48:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: voice messages and dictation with live waveforms and transcripts (#32531)
 
-* ui: search message content and Discover models from the search dialog
+* ui: add a voice engine for capture, peaks and transcription
 
-The search dialog matched chat titles only | why kept: model, tool call</description>
+Voice input needs a live waveform, a clip that can be | why kept: model, voice</description>
     </item></channel></rss>
