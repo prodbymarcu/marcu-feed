@@ -1,10 +1,84 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : hrm : do not compute slot count as uint32_t (#32601)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/50518b64c6f2191a116d2760042f106c4b3387d7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/50518b64c6f2191a116d2760042f106c4b3387d7</guid>
-      <pubDate>Thu, 19 Nov 2026 17:29:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : hrm : do not compute slot count as uint32_t (#32601)
+      <title>fix(spaces-macos): bundle Cua Driver 0.55.0 in Cua Spaces (#8272)</title>
+      <link>https://github.com/trycua/cua/commit/f376e91748ee9898e765e2debb09440681e5b2fa</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f376e91748ee9898e765e2debb09440681e5b2fa</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.55.0 in Cua Spaces (#8272)
 
-load_arch_hparams multiplies n_hrm_layers_per_stack, n_hrm_h_cycles and
-(n_hrm_l_cycles + 1) into a uint32_t, then asserts the produc | why kept: model</description>
+Cua Driver 0.55.0 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.55.0 (#8268)</title>
+      <link>https://github.com/trycua/cua/commit/5744305056aea4013606f0e99abd4e879f70b4fb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5744305056aea4013606f0e99abd4e879f70b4fb</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.55.0 (#8268)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-sdk 0.29.0 (#8264)</title>
+      <link>https://github.com/trycua/cua/commit/311df23e817206242eca3edd48c54dd6ee265260</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/311df23e817206242eca3edd48c54dd6ee265260</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.29.0 (#8264)
+
+* chore(main): release cua-sdk 0.29.0
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.55.0 (#8209)</title>
+      <link>https://github.com/trycua/cua/commit/8f484f30586eef722bede7a5ce315de1148cca96</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8f484f30586eef722bede7a5ce315de1148cca96</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.0 (#8209)
+
+* chore(main): release cua-driver-rs 0.55.0
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle cua 0.28.6 in Cua Spaces (#8256)</title>
+      <link>https://github.com/trycua/cua/commit/894a6d70dc975e0dea4af2924f68ee2da70f2c86</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/894a6d70dc975e0dea4af2924f68ee2da70f2c86</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.28.6 in Cua Spaces (#8256)
+
+cua 0.28.6 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+    </item>
+    <item>
+      <title>An FBI agent called a Claude user about his chats</title>
+      <link>https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50567485</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police&quot;&gt;https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=505 | why kept: agent, claude</description>
+    </item>
+    <item>
+      <title>Token fraud is here and it’s BAD (YouTube)</title>
+      <link>https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZDpP7JXPlhc&quot;&gt;Token fraud is here and it’s BAD (YouTube)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+Claire Vo runs &lt;a href=&quot;https://www.chatprd.ai&quot;&gt;ChatPRD&lt;/a&gt;, an AI platform that helps product managers &quot;turn an id | why kept: video, runs</description>
+    </item>
+    <item>
+      <title>ci(release): fail a PR whose squash message Release Please cannot par…</title>
+      <link>https://github.com/trycua/cua/commit/cd5782e774a4526a0f8421c68d696bed2e2ef20d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cd5782e774a4526a0f8421c68d696bed2e2ef20d</guid>
+      <pubDate>Thu, 19 Nov 2026 22:29:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(release): fail a PR whose squash message Release Please cannot parse (#8259)
+
+* ci(release): fail a PR whose squash message Release Please cannot parse
+
+Release Please silently drops a commit  | why kept: claude</description>
     </item></channel></rss>
