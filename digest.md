@@ -1,1 +1,1 @@
-- model : Inkling 2 Mini (#32694) — https://github.com/ggml-org/llama.cpp/commit/29b52d398b294509746ec0a3f28948a3107c0213 (score 4)
+- chore(main): release cua-sdk 0.30.0 (#8403) — https://github.com/trycua/cua/commit/856bb7a0917636c500ab7e485da9d38dccd7ff3c (score 5)

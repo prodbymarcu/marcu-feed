@@ -1,19 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : Inkling 2 Mini (#32694)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/29b52d398b294509746ec0a3f28948a3107c0213</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/29b52d398b294509746ec0a3f28948a3107c0213</guid>
-      <pubDate>Fri, 20 Nov 2026 17:11:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : Inkling 2 Mini (#32694)
+      <title>chore(main): release cua-sdk 0.30.0 (#8403)</title>
+      <link>https://github.com/trycua/cua/commit/856bb7a0917636c500ab7e485da9d38dccd7ff3c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/856bb7a0917636c500ab7e485da9d38dccd7ff3c</guid>
+      <pubDate>Fri, 20 Nov 2026 17:28:11 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.30.0 (#8403)
 
-* Conversion
+* chore(main): release cua-sdk 0.30.0
 
-* Separate model_type
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
-* Add gate_rank to allow building from metadata while testing
+---------
 
-* Base model
-
-* Loop graph
-
-* Support the new is_varloop attri | why kept: model, llama</description>
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
