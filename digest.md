@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.56.0 (#8375) — https://github.com/trycua/cua/commit/9c75001355f777c102c7eea66b14c0a45868153d (score 5)
+- convert: qwen3-asr: put "language ..." output into thinking block (#3… — https://github.com/ggml-org/llama.cpp/commit/919794500475862f6768c353255469dc661cb734 (score 9)
+- fix(spaces-macos): bundle cua 0.29.4 in Cua Spaces (#8390) — https://github.com/trycua/cua/commit/bc01f8b2110d82e3e778fc085137b3cd14d2a61f (score 5)
