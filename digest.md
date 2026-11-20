@@ -1,2 +1,2 @@
-- chore(main): release cua-sdk 0.29.1 (#8318) — https://github.com/trycua/cua/commit/6d5cdf16b5c7ad52bcfca5afec1e3b269bf81c5b (score 5)
-- ui: set the reasoning effort from the model picker (#32632) — https://github.com/ggml-org/llama.cpp/commit/6aee50801d091f78b3baacd505f5e95d8e8f6838 (score 4)
+- llama : move the graph node budget into the model classes (#32648) — https://github.com/ggml-org/llama.cpp/commit/652d559edf278347160baeb91ab654ac57ac429e (score 4)
+- fix(deps): bump Playwright to 1.65.1 (Chromium 159, CVE-2026-130959) … — https://github.com/trycua/cua/commit/7dcd4a9e86e04f3d15308762ee0e2f7f52ac632d (score 2)
