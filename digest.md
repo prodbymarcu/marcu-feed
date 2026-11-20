@@ -1,2 +1,1 @@
-- chore(main): release bench 0.4.15 (#8332) — https://github.com/trycua/cua/commit/219fcd84a517bd106f91d24fc5c85430300a9272 (score 5)
-- chore(main): release sandbox 0.11.14 (#8333) — https://github.com/trycua/cua/commit/dd4e9cfdec8b8429781164277363634496b0da41 (score 5)
+- chore(main): release cua-sdk 0.29.3 (#8335) — https://github.com/trycua/cua/commit/295b2520b58522e820775405e3c2f28e05aa2b33 (score 5)
