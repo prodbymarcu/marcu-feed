@@ -1,3 +1,3 @@
-- Show HN: AgentMall – Let your AI agent buy groceries — https://getagentmall.com (score 6)
-- ci : disable musa.Dockerfile from docker.yml (#32674) — https://github.com/ggml-org/llama.cpp/commit/374d90a9fc3b3122473e0879041cff2eeb3d568f (score 2)
-- fix(cua-host): set the Windows host up over SSH, and say when nothing… — https://github.com/trycua/cua/commit/3770bdb67a2638b3b6f0b64c112e7f51ccb77312 (score 2)
+- ui: stage Llama Voice's sources for CMake and Docker UI builds (#32680) — https://github.com/ggml-org/llama.cpp/commit/427a836734e6a4f9c267c396551ca798c085b649 (score 6)
+- chore(main): release cua-sdk 0.29.4 (#8387) — https://github.com/trycua/cua/commit/ceeda722bf54590f730698c093f4052a28f47cfa (score 5)
+- ui: fix the flaky reset check of the MermaidPreview Flowchart story (… — https://github.com/ggml-org/llama.cpp/commit/e46069c409892fe5a55ec5decbd56d0ad67b5242 (score 2)
