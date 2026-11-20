@@ -1,1 +1,1 @@
-- ui: publish llama-ui as an alias of @ggml-org/llama-ui (#32667) — https://github.com/ggml-org/llama.cpp/commit/cf4153a9baeebddd02935b54abfbd4da5bd65854 (score 4)
+- ui: search message content and Discover models from the search dialog… — https://github.com/ggml-org/llama.cpp/commit/059cac2848cfa564f9657e09045ee75ebee9d6f8 (score 4)
