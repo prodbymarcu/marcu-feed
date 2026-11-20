@@ -1,12 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>opencl: fold GQA head for f16 FA for better efficiency (#32631)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/7e960f40fb0bd2eede76406f807d6bc3f7aa339c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7e960f40fb0bd2eede76406f807d6bc3f7aa339c</guid>
-      <pubDate>Fri, 20 Nov 2026 01:27:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: fold GQA head for f16 FA for better efficiency (#32631)
+      <title>chore(main): release cua-driver-rs 0.55.3 (#8291)</title>
+      <link>https://github.com/trycua/cua/commit/8875d5199352f987d93c4879cf74974ff81fa554</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8875d5199352f987d93c4879cf74974ff81fa554</guid>
+      <pubDate>Fri, 20 Nov 2026 01:43:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.3 (#8291)
 
-Assisted-by: Codex
+* chore(main): release cua-driver-rs 0.55.3
 
-Co-authored-by: Li He &amp;lt;lih@qti.qualcomm.com&amp;gt;
-Co-authored-by: Hongqiang Wang &amp;lt;wangh@qti.qualcomm.com&amp;g | why kept: codex</description>
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

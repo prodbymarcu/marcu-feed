@@ -1,1 +1,1 @@
-- opencl: fold GQA head for f16 FA for better efficiency (#32631) — https://github.com/ggml-org/llama.cpp/commit/7e960f40fb0bd2eede76406f807d6bc3f7aa339c (score 2)
+- chore(main): release cua-driver-rs 0.55.3 (#8291) — https://github.com/trycua/cua/commit/8875d5199352f987d93c4879cf74974ff81fa554 (score 5)
