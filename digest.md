@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.55.3 (#8291) — https://github.com/trycua/cua/commit/8875d5199352f987d93c4879cf74974ff81fa554 (score 5)
+- CUDA: keep the MUL_MAT_ID precision in the per-expert fallback (#31345) — https://github.com/ggml-org/llama.cpp/commit/9fbe30c2a0c207f9de7f38b23c43bc044b7a9981 (score 2)
