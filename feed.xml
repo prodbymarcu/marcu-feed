@@ -1,15 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.55.4 (#8353)</title>
-      <link>https://github.com/trycua/cua/commit/497c94607daf909d07bcc7147716a57acf7bc6bd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/497c94607daf909d07bcc7147716a57acf7bc6bd</guid>
-      <pubDate>Fri, 20 Nov 2026 09:28:06 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.4 (#8353)
+      <title>tts : forward -t to the mtmd context (#32664)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/8e7862411da14d8cc342611f37e15ee05d97bfd3</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8e7862411da14d8cc342611f37e15ee05d97bfd3</guid>
+      <pubDate>Fri, 20 Nov 2026 09:43:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tts : forward -t to the mtmd context (#32664)
 
-* chore(main): release cua-driver-rs 0.55.4
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+llama-tts built the mtmd context from mtmd_context_params_default(), which hardcodes 4 threads, and never copied n_threads over, so -t never reach t | why kept: claude, runs, llama</description>
     </item></channel></rss>

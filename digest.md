@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.55.4 (#8353) — https://github.com/trycua/cua/commit/497c94607daf909d07bcc7147716a57acf7bc6bd (score 5)
+- tts : forward -t to the mtmd context (#32664) — https://github.com/ggml-org/llama.cpp/commit/8e7862411da14d8cc342611f37e15ee05d97bfd3 (score 6)
