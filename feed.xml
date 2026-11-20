@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.29.0 in Cua Spaces (#8267)</title>
-      <link>https://github.com/trycua/cua/commit/8ab798aad99ddda207a01070192143260be6126f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8ab798aad99ddda207a01070192143260be6126f</guid>
-      <pubDate>Thu, 19 Nov 2026 23:03:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.29.0 in Cua Spaces (#8267)
+      <title>chore(main): release cua-driver-rs 0.55.1 (#8278)</title>
+      <link>https://github.com/trycua/cua/commit/d9caafdf1de9bc707dd25e78b5a11118b8b04f22</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d9caafdf1de9bc707dd25e78b5a11118b8b04f22</guid>
+      <pubDate>Thu, 19 Nov 2026 23:35:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.1 (#8278)
 
-cua 0.29.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+* chore(main): release cua-driver-rs 0.55.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
