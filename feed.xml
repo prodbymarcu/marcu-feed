@@ -1,12 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: load highlight.js languages on demand (#32661)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c6a25fc622d322b9ad6e079e97009f7892543a4c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c6a25fc622d322b9ad6e079e97009f7892543a4c</guid>
-      <pubDate>Fri, 20 Nov 2026 09:11:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: load highlight.js languages on demand (#32661)
+      <title>chore(main): release cua-driver-rs 0.55.4 (#8353)</title>
+      <link>https://github.com/trycua/cua/commit/497c94607daf909d07bcc7147716a57acf7bc6bd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/497c94607daf909d07bcc7147716a57acf7bc6bd</guid>
+      <pubDate>Fri, 20 Nov 2026 09:28:06 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.4 (#8353)
 
-* ui: load highlight.js on first use
+* chore(main): release cua-driver-rs 0.55.4
 
-highlight.js and every lowlight language (~900 KB raw) moved out of
-Llama Chat&amp;#39;s first load into a ch | why kept: runs, llama</description>
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
