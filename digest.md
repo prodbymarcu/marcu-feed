@@ -1,2 +1,2 @@
-- llama : move the graph node budget into the model classes (#32648) — https://github.com/ggml-org/llama.cpp/commit/652d559edf278347160baeb91ab654ac57ac429e (score 4)
-- fix(deps): bump Playwright to 1.65.1 (Chromium 159, CVE-2026-130959) … — https://github.com/trycua/cua/commit/7dcd4a9e86e04f3d15308762ee0e2f7f52ac632d (score 2)
+- ui: show vision as glasses and audio as headphones (#32617) — https://github.com/ggml-org/llama.cpp/commit/9d6f04fa99936708b9df140b7b2df62a8925afd5 (score 6)
+- fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99) (#8300) — https://github.com/trycua/cua/commit/3d9c32fc21e9e9326b330da26e230f8f56c69c0b (score 2)

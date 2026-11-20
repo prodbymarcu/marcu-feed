@@ -1,12 +1,11 @@
 {
- "fetched": 120,
- "new": 2,
+ "fetched": 125,
+ "new": 3,
  "dropped_kill": 0,
- "dropped_low": 0,
+ "dropped_low": 1,
  "errors": [
   "hn-agent: <HTTPError 502: 'Bad Gateway'>",
   "hn-llm: <HTTPError 502: 'Bad Gateway'>",
-  "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -15,5 +14,5 @@
   "kept": 1
  },
  "kept": 2,
- "at": "2026-11-20T09:23:12Z"
+ "at": "2026-11-20T09:39:22Z"
 }

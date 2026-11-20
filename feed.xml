@@ -1,20 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : move the graph node budget into the model classes (#32648)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/652d559edf278347160baeb91ab654ac57ac429e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/652d559edf278347160baeb91ab654ac57ac429e</guid>
-      <pubDate>Fri, 20 Nov 2026 04:23:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : move the graph node budget into the model classes (#32648)
+      <title>ui: show vision as glasses and audio as headphones (#32617)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9d6f04fa99936708b9df140b7b2df62a8925afd5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d6f04fa99936708b9df140b7b2df62a8925afd5</guid>
+      <pubDate>Fri, 20 Nov 2026 04:39:22 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show vision as glasses and audio as headphones (#32617)
 
-graph_max_nodes() picked the nodes-per-tensor factor from lists of
-architectures. Each model class now gives it through a new v | why kept: model, llama</description>
+The model modality icons match the ones the Llama apps use: glasses for
+vision, headphones for audio. The attach menu&amp;#39;s list of wh | why kept: model, claude, llama</description>
     </item>
     <item>
-      <title>fix(deps): bump Playwright to 1.65.1 (Chromium 159, CVE-2026-130959) …</title>
-      <link>https://github.com/trycua/cua/commit/7dcd4a9e86e04f3d15308762ee0e2f7f52ac632d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7dcd4a9e86e04f3d15308762ee0e2f7f52ac632d</guid>
-      <pubDate>Fri, 20 Nov 2026 04:23:12 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump Playwright to 1.65.1 (Chromium 159, CVE-2026-130959) (#8321)
+      <title>fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99) (#8300)</title>
+      <link>https://github.com/trycua/cua/commit/3d9c32fc21e9e9326b330da26e230f8f56c69c0b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3d9c32fc21e9e9326b330da26e230f8f56c69c0b</guid>
+      <pubDate>Fri, 20 Nov 2026 04:39:22 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99) (#8300)
 
-Playwright 1.63 bundles Chromium 153; the fix is 158.0.8127.36.
-Test-only dependencies (cua-spaces-web CI, streaming  | why kept: claude</description>
+* fix(deps): bump mcp to 1.30.0+ (GHSA-qx49-fqc8-xw99)
+
+Raise the mcp floor to 1.30.0 in every pyproject that depends on it and
+regen | why kept: claude</description>
     </item></channel></rss>
