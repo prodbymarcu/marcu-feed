@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.55.5 (#8367)</title>
-      <link>https://github.com/trycua/cua/commit/5c56ef26bb9a2e888425d9f48831a9fb64ae397d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5c56ef26bb9a2e888425d9f48831a9fb64ae397d</guid>
-      <pubDate>Fri, 20 Nov 2026 11:20:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.5 (#8367)
-
-* chore(main): release cua-driver-rs 0.55.5
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Quoting Levent Alpöge</title>
+      <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:35:56 +0000</pubDate>
+      <description>&lt;blockquote cite=&quot;https://alpo.ge/remark.pdf&quot;&gt;&lt;p&gt;I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, a | why kept: claude</description>
     </item></channel></rss>

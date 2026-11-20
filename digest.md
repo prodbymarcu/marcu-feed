@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.55.5 (#8367) — https://github.com/trycua/cua/commit/5c56ef26bb9a2e888425d9f48831a9fb64ae397d (score 5)
+- Quoting Levent Alpöge — https://simonwillison.net/2026/Nov/20/levent-alpoge/ (score 2)
