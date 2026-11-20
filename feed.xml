@@ -1,20 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : reserve graph nodes for the MoE cache (#32636)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/4c4a0f0a4246bc36a3724d12238d5624714dcb2f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4c4a0f0a4246bc36a3724d12238d5624714dcb2f</guid>
-      <pubDate>Fri, 20 Nov 2026 03:19:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : reserve graph nodes for the MoE cache (#32636)
+      <title>chore(main): release sandbox 0.11.12 (#8315)</title>
+      <link>https://github.com/trycua/cua/commit/0e09c300ce688f16a5db3af439ecb462856869f5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0e09c300ce688f16a5db3af439ecb462856869f5</guid>
+      <pubDate>Fri, 20 Nov 2026 03:35:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.12 (#8315)
 
-The MoE cache adds a slot lookup to every MoE layer, and with
---moe-cache-cpu-share a second expert path, but graph_max_nodes() did
-not acc | why kept: model, claude, quant, llama</description>
+* chore(main): release sandbox 0.11.12
+
+* chore(sandbox): synchronize release metadata
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371 | why kept: trycua</description>
     </item>
     <item>
-      <title>fix(deps): bump aiohttp to 3.14.5 (44 Dependabot alerts) (#8309)</title>
-      <link>https://github.com/trycua/cua/commit/006c897412aef0820e43a67beab8fe262a4a9886</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/006c897412aef0820e43a67beab8fe262a4a9886</guid>
-      <pubDate>Fri, 20 Nov 2026 03:19:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(deps): bump aiohttp to 3.14.5 (44 Dependabot alerts) (#8309)
+      <title>feat(cua-relay): expose boot id and start time on /healthz (#8308)</title>
+      <link>https://github.com/trycua/cua/commit/c9472c2d2294ade654380af45a7b013a01fd97be</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c9472c2d2294ade654380af45a7b013a01fd97be</guid>
+      <pubDate>Fri, 20 Nov 2026 03:35:20 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-relay): expose boot id and start time on /healthz (#8308)
 
-Relock aiohttp (and yarl) in the root, cua-bench, cua, cua-sandbox and cua-bench-rl uv.lock files, and raise the aiohttp floor to | why kept: trycua, claude</description>
+/healthz now carries x-cua-relay-boot (random id per process start),
+x-cua-relay-started (Unix seconds) and x-cua-relay-version | why kept: claude</description>
     </item></channel></rss>

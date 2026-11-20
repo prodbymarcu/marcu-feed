@@ -1,2 +1,2 @@
-- llama : reserve graph nodes for the MoE cache (#32636) — https://github.com/ggml-org/llama.cpp/commit/4c4a0f0a4246bc36a3724d12238d5624714dcb2f (score 8)
-- fix(deps): bump aiohttp to 3.14.5 (44 Dependabot alerts) (#8309) — https://github.com/trycua/cua/commit/006c897412aef0820e43a67beab8fe262a4a9886 (score 7)
+- chore(main): release sandbox 0.11.12 (#8315) — https://github.com/trycua/cua/commit/0e09c300ce688f16a5db3af439ecb462856869f5 (score 5)
+- feat(cua-relay): expose boot id and start time on /healthz (#8308) — https://github.com/trycua/cua/commit/c9472c2d2294ade654380af45a7b013a01fd97be (score 2)
