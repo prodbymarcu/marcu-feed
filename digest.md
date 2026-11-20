@@ -1,2 +1,2 @@
-- fix(cua-sandbox): accept cua-driver 0.56 (#8376) — https://github.com/trycua/cua/commit/d8b1a151b997e78cbcf85d478baf2c40a28b14da (score 5)
-- mtmd: drama3 voice cloning (#32586) — https://github.com/ggml-org/llama.cpp/commit/34ff2e047ce520b1d83bd274bf3ff0bfbc72a69b (score 2)
+- chore(main): release bench 0.4.16 (#8381) — https://github.com/trycua/cua/commit/1813c2acaa2b197f6c49511b96270c6876ba6ed6 (score 5)
+- chore(main): release sandbox 0.11.15 (#8382) — https://github.com/trycua/cua/commit/d3d5cc291cbebab2209ba8407ce371728f693421 (score 5)
