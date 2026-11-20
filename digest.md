@@ -1,1 +1,1 @@
-- ui: voice messages and dictation with live waveforms and transcripts … — https://github.com/ggml-org/llama.cpp/commit/79e81b0bd4098f33b52756e30ef90bfe599cce7e (score 4)
+- chore(main): release cua-driver-rs 0.55.5 (#8367) — https://github.com/trycua/cua/commit/5c56ef26bb9a2e888425d9f48831a9fb64ae397d (score 5)
