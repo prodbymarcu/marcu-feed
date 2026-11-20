@@ -1,9 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.29.3 in Cua Spaces (#8341)</title>
-      <link>https://github.com/trycua/cua/commit/a77c6b454605548ac10b365f87ada1b9fbb998e8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a77c6b454605548ac10b365f87ada1b9fbb998e8</guid>
-      <pubDate>Fri, 20 Nov 2026 08:56:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.29.3 in Cua Spaces (#8341)
+      <title>ui: load highlight.js languages on demand (#32661)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/c6a25fc622d322b9ad6e079e97009f7892543a4c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c6a25fc622d322b9ad6e079e97009f7892543a4c</guid>
+      <pubDate>Fri, 20 Nov 2026 09:11:51 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: load highlight.js languages on demand (#32661)
 
-cua 0.29.3 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+* ui: load highlight.js on first use
+
+highlight.js and every lowlight language (~900 KB raw) moved out of
+Llama Chat&amp;#39;s first load into a ch | why kept: runs, llama</description>
     </item></channel></rss>

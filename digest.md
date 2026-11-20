@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.29.3 in Cua Spaces (#8341) — https://github.com/trycua/cua/commit/a77c6b454605548ac10b365f87ada1b9fbb998e8 (score 5)
+- ui: load highlight.js languages on demand (#32661) — https://github.com/ggml-org/llama.cpp/commit/c6a25fc622d322b9ad6e079e97009f7892543a4c (score 4)
