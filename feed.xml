@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>tts : forward -t to the mtmd context (#32664)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8e7862411da14d8cc342611f37e15ee05d97bfd3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8e7862411da14d8cc342611f37e15ee05d97bfd3</guid>
-      <pubDate>Fri, 20 Nov 2026 09:43:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tts : forward -t to the mtmd context (#32664)
+      <title>ui: publish llama-ui as an alias of @ggml-org/llama-ui (#32667)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/cf4153a9baeebddd02935b54abfbd4da5bd65854</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cf4153a9baeebddd02935b54abfbd4da5bd65854</guid>
+      <pubDate>Fri, 20 Nov 2026 10:00:28 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: publish llama-ui as an alias of @ggml-org/llama-ui (#32667)
 
-llama-tts built the mtmd context from mtmd_context_params_default(), which hardcodes 4 threads, and never copied n_threads over, so -t never reach t | why kept: claude, runs, llama</description>
+The unscoped llama-ui on npm is a 0.0.1 placeholder. After the scoped
+publish, the workflow renames the same build and publishes i | why kept: claude, llama</description>
     </item></channel></rss>

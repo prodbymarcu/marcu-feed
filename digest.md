@@ -1,1 +1,1 @@
-- tts : forward -t to the mtmd context (#32664) — https://github.com/ggml-org/llama.cpp/commit/8e7862411da14d8cc342611f37e15ee05d97bfd3 (score 6)
+- ui: publish llama-ui as an alias of @ggml-org/llama-ui (#32667) — https://github.com/ggml-org/llama.cpp/commit/cf4153a9baeebddd02935b54abfbd4da5bd65854 (score 4)
