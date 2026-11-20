@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.55.1 (#8278) — https://github.com/trycua/cua/commit/d9caafdf1de9bc707dd25e78b5a11118b8b04f22 (score 5)
+- vulkan: disable subgroup arithmetic on Qualcomm's driver (#30826) — https://github.com/ggml-org/llama.cpp/commit/8bf88ba9368e70fe3ba1b0001b34e70ffc713716 (score 4)
