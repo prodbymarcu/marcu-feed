@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.29.3 (#8335) — https://github.com/trycua/cua/commit/295b2520b58522e820775405e3c2f28e05aa2b33 (score 5)
+- model : load ffn_gate_up_exps scales (#32657) — https://github.com/ggml-org/llama.cpp/commit/a1f4222608594c57202fdaa6a45dca1ef05abc62 (score 4)
