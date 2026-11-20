@@ -1,1 +1,2 @@
-- Quoting Levent Alpöge — https://simonwillison.net/2026/Nov/20/levent-alpoge/ (score 2)
+- fix(cua-sandbox): accept cua-driver 0.56 (#8376) — https://github.com/trycua/cua/commit/d8b1a151b997e78cbcf85d478baf2c40a28b14da (score 5)
+- mtmd: drama3 voice cloning (#32586) — https://github.com/ggml-org/llama.cpp/commit/34ff2e047ce520b1d83bd274bf3ff0bfbc72a69b (score 2)

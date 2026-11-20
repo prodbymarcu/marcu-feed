@@ -1,7 +1,21 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Quoting Levent Alpöge</title>
-      <link>https://simonwillison.net/2026/Nov/20/levent-alpoge/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/20/levent-alpoge/</guid>
-      <pubDate>Fri, 20 Nov 2026 11:35:56 +0000</pubDate>
-      <description>&lt;blockquote cite=&quot;https://alpo.ge/remark.pdf&quot;&gt;&lt;p&gt;I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, a | why kept: claude</description>
+      <title>fix(cua-sandbox): accept cua-driver 0.56 (#8376)</title>
+      <link>https://github.com/trycua/cua/commit/d8b1a151b997e78cbcf85d478baf2c40a28b14da</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d8b1a151b997e78cbcf85d478baf2c40a28b14da</guid>
+      <pubDate>Fri, 20 Nov 2026 12:40:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.56 (#8376)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>mtmd: drama3 voice cloning (#32586)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/34ff2e047ce520b1d83bd274bf3ff0bfbc72a69b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/34ff2e047ce520b1d83bd274bf3ff0bfbc72a69b</guid>
+      <pubDate>Fri, 20 Nov 2026 12:40:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: drama3 voice cloning (#32586)
+
+* mtmd: drama3 voice cloning
+
+The Fish S2 codec encoder (fish_s2_spkenc) now also serves drama3:
+- conversion: drama3 writes the codec encoder and the audio e | why kept: voice</description>
     </item></channel></rss>
