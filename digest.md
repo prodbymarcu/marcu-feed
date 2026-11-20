@@ -1,2 +1,3 @@
-- chore(main): release bench 0.4.16 (#8381) — https://github.com/trycua/cua/commit/1813c2acaa2b197f6c49511b96270c6876ba6ed6 (score 5)
-- chore(main): release sandbox 0.11.15 (#8382) — https://github.com/trycua/cua/commit/d3d5cc291cbebab2209ba8407ce371728f693421 (score 5)
+- Show HN: AgentMall – Let your AI agent buy groceries — https://getagentmall.com (score 6)
+- ci : disable musa.Dockerfile from docker.yml (#32674) — https://github.com/ggml-org/llama.cpp/commit/374d90a9fc3b3122473e0879041cff2eeb3d568f (score 2)
+- fix(cua-host): set the Windows host up over SSH, and say when nothing… — https://github.com/trycua/cua/commit/3770bdb67a2638b3b6f0b64c112e7f51ccb77312 (score 2)

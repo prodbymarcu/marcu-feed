@@ -1,30 +1,31 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release bench 0.4.16 (#8381)</title>
-      <link>https://github.com/trycua/cua/commit/1813c2acaa2b197f6c49511b96270c6876ba6ed6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1813c2acaa2b197f6c49511b96270c6876ba6ed6</guid>
-      <pubDate>Fri, 20 Nov 2026 12:55:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.16 (#8381)
-
-* chore(main): release bench 0.4.16
-
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
+      <title>Show HN: AgentMall – Let your AI agent buy groceries</title>
+      <link>https://getagentmall.com</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50562508</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:03 +0000</pubDate>
+      <description>&lt;p&gt;Hey HN, we’re Nel and Kosi.&lt;p&gt;We noticed personal agents like Instinct, Muse were terrible at buying stuff. Most of the time the checkout would fail.&lt;p&gt;So we built reliable automations for agents to checkout at 9 leading grocery merchant | why kept: model, agent, computer use</description>
     </item>
     <item>
-      <title>chore(main): release sandbox 0.11.15 (#8382)</title>
-      <link>https://github.com/trycua/cua/commit/d3d5cc291cbebab2209ba8407ce371728f693421</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d3d5cc291cbebab2209ba8407ce371728f693421</guid>
-      <pubDate>Fri, 20 Nov 2026 12:55:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.15 (#8382)
+      <title>ci : disable musa.Dockerfile from docker.yml (#32674)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/374d90a9fc3b3122473e0879041cff2eeb3d568f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/374d90a9fc3b3122473e0879041cff2eeb3d568f</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci : disable musa.Dockerfile from docker.yml (#32674)
 
-* chore(main): release sandbox 0.11.15
+* ci : disable musa.Dockerfile from docker.yml
 
-* chore(sandbox): synchronize release metadata
+This commit disables musa in docker.yml due dl.mthreads.com is sometime
+unavailable.
 
----------
+Refs:  | why kept: llama</description>
+    </item>
+    <item>
+      <title>fix(cua-host): set the Windows host up over SSH, and say when nothing…</title>
+      <link>https://github.com/trycua/cua/commit/3770bdb67a2638b3b6f0b64c112e7f51ccb77312</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3770bdb67a2638b3b6f0b64c112e7f51ccb77312</guid>
+      <pubDate>Fri, 20 Nov 2026 13:12:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-host): set the Windows host up over SSH, and say when nothing will start it after a restart (#8274)
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371 | why kept: trycua</description>
+`cua host setup` over SSH (a headless Windows VM) failed with `schtasks /Create
+... No | why kept: runs</description>
     </item></channel></rss>
