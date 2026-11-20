@@ -1,1 +1,1 @@
-- fix(cua-driver): match running Windows Store apps to their bundle_id … — https://github.com/trycua/cua/commit/3aefd3b5790c0f51bad08d0d1230485e8fc5b9d7 (score 2)
+- chore(main): release cua-driver-rs 0.55.2 (#8288) — https://github.com/trycua/cua/commit/788f75ecff4c43264330919ebffce71abf403ae7 (score 5)

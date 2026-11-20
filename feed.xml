@@ -1,11 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): match running Windows Store apps to their bundle_id …</title>
-      <link>https://github.com/trycua/cua/commit/3aefd3b5790c0f51bad08d0d1230485e8fc5b9d7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3aefd3b5790c0f51bad08d0d1230485e8fc5b9d7</guid>
-      <pubDate>Fri, 20 Nov 2026 00:39:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): match running Windows Store apps to their bundle_id grant (#8127)
+      <title>chore(main): release cua-driver-rs 0.55.2 (#8288)</title>
+      <link>https://github.com/trycua/cua/commit/788f75ecff4c43264330919ebffce71abf403ae7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/788f75ecff4c43264330919ebffce71abf403ae7</guid>
+      <pubDate>Fri, 20 Nov 2026 01:11:11 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.55.2 (#8288)
 
-* fix(cua-driver): match running Windows Store apps to their bundle_id grant
+* chore(main): release cua-driver-rs 0.55.2
 
-Windows list_apps matched running | why kept: model</description>
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
