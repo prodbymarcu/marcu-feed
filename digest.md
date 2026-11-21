@@ -1,4 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.56.4 (#8449) — https://github.com/trycua/cua/commit/76c514e2094637080b796226f2e291c5e8f60a5f (score 5)
-- model : inkling2_loop share the loop slots after the scale pass (#32704) — https://github.com/ggml-org/llama.cpp/commit/690b87d88151dbd775bb6eff5581663688785928 (score 4)
-- model : additional shortcut checks for OOB in hrm_text (#32720) — https://github.com/ggml-org/llama.cpp/commit/838d942438e602a0d7b11153bf808746ed45f545 (score 2)
-- fix(cua-driver): wait for the Save sheet's Save button to report enab… — https://github.com/trycua/cua/commit/c657f8c002fead6946bf16c7d1ac3a3e0c3d61df (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.56.4 in Cua Spaces (#8452) — https://github.com/trycua/cua/commit/b648172831009e86f23953ff74ed228eeb91f1de (score 5)
+- vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31… — https://github.com/ggml-org/llama.cpp/commit/fb7090df56da0e3deaf1f233994a2cc100521196 (score 2)

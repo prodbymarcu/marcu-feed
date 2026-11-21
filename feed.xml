@@ -1,38 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.56.4 (#8449)</title>
-      <link>https://github.com/trycua/cua/commit/76c514e2094637080b796226f2e291c5e8f60a5f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/76c514e2094637080b796226f2e291c5e8f60a5f</guid>
-      <pubDate>Sat, 21 Nov 2026 06:16:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.56.4 (#8449)
+      <title>fix(spaces-macos): bundle Cua Driver 0.56.4 in Cua Spaces (#8452)</title>
+      <link>https://github.com/trycua/cua/commit/b648172831009e86f23953ff74ed228eeb91f1de</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b648172831009e86f23953ff74ed228eeb91f1de</guid>
+      <pubDate>Sat, 21 Nov 2026 06:48:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.56.4 in Cua Spaces (#8452)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Cua Driver 0.56.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item>
     <item>
-      <title>model : inkling2_loop share the loop slots after the scale pass (#32704)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/690b87d88151dbd775bb6eff5581663688785928</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/690b87d88151dbd775bb6eff5581663688785928</guid>
-      <pubDate>Sat, 21 Nov 2026 06:16:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : inkling2_loop share the loop slots after the scale pass (#32704)
+      <title>vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/fb7090df56da0e3deaf1f233994a2cc100521196</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fb7090df56da0e3deaf1f233994a2cc100521196</guid>
+      <pubDate>Sat, 21 Nov 2026 06:48:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31804)
 
-The loop slots copied the physical layers at the end of load_arch_tensors,
-before the generic pass attaches the optional  | why kept: model, runs</description>
-    </item>
-    <item>
-      <title>model : additional shortcut checks for OOB in hrm_text (#32720)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/838d942438e602a0d7b11153bf808746ed45f545</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/838d942438e602a0d7b11153bf808746ed45f545</guid>
-      <pubDate>Sat, 21 Nov 2026 06:16:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : additional shortcut checks for OOB in hrm_text (#32720)
+* vulkan: keep default MMVQ rows for Q3_K, Q5_K, IQ4_XS on RDNA4 AMD proprietary driver
 
-[no ci]&lt;/pre&gt; | why kept: model</description>
-    </item>
-    <item>
-      <title>fix(cua-driver): wait for the Save sheet&#x27;s Save button to report enab…</title>
-      <link>https://github.com/trycua/cua/commit/c657f8c002fead6946bf16c7d1ac3a3e0c3d61df</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c657f8c002fead6946bf16c7d1ac3a3e0c3d61df</guid>
-      <pubDate>Sat, 21 Nov 2026 06:16:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): wait for the Save sheet&amp;#39;s Save button to report enabled in the AppKit E2E (#8446)
+Assisted-by: Claude Opus 5.5
 
-NSSavePanel re-validates the name after the field value changes and reports
-Save AXEnabled= | why kept: claude</description>
+* | why kept: claude</description>
     </item></channel></rss>
