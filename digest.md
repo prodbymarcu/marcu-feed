@@ -1,1 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.56.8 (#8494) — https://github.com/trycua/cua/commit/e50137df1bebb40079623bc7f34d96933ccc1f9b (score 5)
+- fix(cua-sandbox): accept cua-driver 0.57 (#8496) — https://github.com/trycua/cua/commit/559d62cff589da10caef3f7e868fc6bd8e621212 (score 5)
+- chore(cua-driver): advance published installer version to 0.56.9 (#8497) — https://github.com/trycua/cua/commit/d3f35f319005f781b9f62a8bb056ed37023dbd8d (score 5)
