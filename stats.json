@@ -1,18 +1,18 @@
 {
- "fetched": 140,
- "new": 3,
+ "fetched": 145,
+ "new": 1,
  "dropped_kill": 0,
- "dropped_low": 2,
+ "dropped_low": 1,
  "errors": [
-  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
-  "hn-local: <HTTPError 502: 'Bad Gateway'>",
+  "hn-agent: TimeoutError('The read operation timed out')",
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
-  "sent": 1,
-  "kept": 1
+  "sent": 0,
+  "kept": 0,
+  "note": "gate busy or judge skipped"
  },
- "kept": 1,
- "at": "2026-11-21T19:01:47Z"
+ "kept": 0,
+ "at": "2026-11-21T19:18:01Z"
 }
