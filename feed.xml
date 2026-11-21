@@ -1,22 +1,28 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.56.4 in Cua Spaces (#8452)</title>
-      <link>https://github.com/trycua/cua/commit/b648172831009e86f23953ff74ed228eeb91f1de</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b648172831009e86f23953ff74ed228eeb91f1de</guid>
-      <pubDate>Sat, 21 Nov 2026 06:48:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.56.4 in Cua Spaces (#8452)
+      <title>chore(main): release cua-driver-rs 0.56.5 (#8454)</title>
+      <link>https://github.com/trycua/cua/commit/d6a57da5c620d19f1f2122c3c45d9fb0a94a579e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d6a57da5c620d19f1f2122c3c45d9fb0a94a579e</guid>
+      <pubDate>Sat, 21 Nov 2026 07:36:48 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.5 (#8454)
 
-Cua Driver 0.56.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+* chore(main): release cua-driver-rs 0.56.5
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item>
     <item>
-      <title>vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fb7090df56da0e3deaf1f233994a2cc100521196</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fb7090df56da0e3deaf1f233994a2cc100521196</guid>
-      <pubDate>Sat, 21 Nov 2026 06:48:38 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31804)
+      <title>ui: open the context gauge panel on click as a popover (#32685)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/80325823d47ce8d02ae487de4b5563b2695684e4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/80325823d47ce8d02ae487de4b5563b2695684e4</guid>
+      <pubDate>Sat, 21 Nov 2026 07:36:48 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: open the context gauge panel on click as a popover (#32685)
 
-* vulkan: keep default MMVQ rows for Q3_K, Q5_K, IQ4_XS on RDNA4 AMD proprietary driver
+* ui: open the context gauge panel on click as a popover
 
-Assisted-by: Claude Opus 5.5
+Assisted-by: Claude (Opus 5.5 Medium)
 
-* | why kept: claude</description>
+* ui: give the context gauge trig | why kept: claude</description>
     </item></channel></rss>

@@ -1,2 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.56.4 in Cua Spaces (#8452) — https://github.com/trycua/cua/commit/b648172831009e86f23953ff74ed228eeb91f1de (score 5)
-- vulkan: improve RDNA4 MMVQ performance for Q3_K, Q5_K and IQ4_XS (#31… — https://github.com/ggml-org/llama.cpp/commit/fb7090df56da0e3deaf1f233994a2cc100521196 (score 2)
+- chore(main): release cua-driver-rs 0.56.5 (#8454) — https://github.com/trycua/cua/commit/d6a57da5c620d19f1f2122c3c45d9fb0a94a579e (score 5)
+- ui: open the context gauge panel on click as a popover (#32685) — https://github.com/ggml-org/llama.cpp/commit/80325823d47ce8d02ae487de4b5563b2695684e4 (score 2)
