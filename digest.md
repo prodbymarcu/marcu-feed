@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.31.0 in Cua Spaces (#8429) — https://github.com/trycua/cua/commit/2d13206b04fad486cc9a4ebf8ae576da0abc67ef (score 5)
+- llama : remove fused lightning indexer gating (#32650) — https://github.com/ggml-org/llama.cpp/commit/e412c6f468b7b9e0f16f2540244236f8ad68e9ae (score 2)

@@ -1,9 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.31.0 in Cua Spaces (#8429)</title>
-      <link>https://github.com/trycua/cua/commit/2d13206b04fad486cc9a4ebf8ae576da0abc67ef</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2d13206b04fad486cc9a4ebf8ae576da0abc67ef</guid>
-      <pubDate>Sat, 21 Nov 2026 03:20:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.31.0 in Cua Spaces (#8429)
+      <title>llama : remove fused lightning indexer gating (#32650)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e412c6f468b7b9e0f16f2540244236f8ad68e9ae</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e412c6f468b7b9e0f16f2540244236f8ad68e9ae</guid>
+      <pubDate>Sat, 21 Nov 2026 03:37:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : remove fused lightning indexer gating (#32650)
 
-cua 0.31.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+The fused lightning indexer is always used now, so drop the cparams flags, the auto probe and the non-fused fallbacks.
+
+Assisted-by: dsh:ll | why kept: llama</description>
     </item></channel></rss>
