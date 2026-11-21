@@ -1,10 +1,9 @@
 {
- "fetched": 145,
+ "fetched": 165,
  "new": 1,
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
-  "hn-agent: TimeoutError('The read operation timed out')",
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -13,6 +12,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 0,
- "at": "2026-11-21T05:24:56Z"
+ "kept": 1,
+ "at": "2026-11-21T05:41:21Z"
 }
