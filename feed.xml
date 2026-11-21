@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.30.0 in Cua Spaces (#8406)</title>
-      <link>https://github.com/trycua/cua/commit/a23ea760c327712f91f05ad7bfb67d8357d2b5cd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a23ea760c327712f91f05ad7bfb67d8357d2b5cd</guid>
-      <pubDate>Fri, 20 Nov 2026 19:03:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.30.0 in Cua Spaces (#8406)
+      <title>fix(runtime-gvisor): boot the amd64 disk on Hyper-V (initramfs with h…</title>
+      <link>https://github.com/trycua/cua/commit/a12441dc77d3aa15ea864d28959caff575f5132d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a12441dc77d3aa15ea864d28959caff575f5132d</guid>
+      <pubDate>Fri, 20 Nov 2026 22:32:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(runtime-gvisor): boot the amd64 disk on Hyper-V (initramfs with hv_storvsc) (#8411)
 
-cua 0.30.0 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+The amd64 disk is Colima&amp;#39;s minimal Ubuntu cloud image: no initramfs, the kernel
+reaches its root throu | why kept: free</description>
     </item></channel></rss>

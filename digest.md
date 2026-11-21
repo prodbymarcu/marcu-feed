@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.30.0 in Cua Spaces (#8406) — https://github.com/trycua/cua/commit/a23ea760c327712f91f05ad7bfb67d8357d2b5cd (score 5)
+- fix(runtime-gvisor): boot the amd64 disk on Hyper-V (initramfs with h… — https://github.com/trycua/cua/commit/a12441dc77d3aa15ea864d28959caff575f5132d (score 2)

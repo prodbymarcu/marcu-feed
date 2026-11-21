@@ -2,7 +2,7 @@
  "fetched": 140,
  "new": 1,
  "dropped_kill": 0,
- "dropped_low": 1,
+ "dropped_low": 0,
  "errors": [
   "hn-agent: URLError(TimeoutError('timed out'))",
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
@@ -10,10 +10,9 @@
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
  "brain": {
-  "sent": 0,
-  "kept": 0,
-  "note": "gate busy or judge skipped"
+  "sent": 1,
+  "kept": 1
  },
- "kept": 0,
- "at": "2026-11-21T03:16:15Z"
+ "kept": 1,
+ "at": "2026-11-21T03:32:17Z"
 }
