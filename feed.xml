@@ -1,15 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.56.4 (#8440)</title>
-      <link>https://github.com/trycua/cua/commit/7166cbbe74670440b351d9f684f6dde0f0fe661c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7166cbbe74670440b351d9f684f6dde0f0fe661c</guid>
-      <pubDate>Sat, 21 Nov 2026 03:53:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.4 (#8440)
+      <title>ggml-cpu: fix nc aligment in tinyBLAS_PPC_Q0 (#32659)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/93cb37ea7b5f134cc500b1c5b91d971190600a1a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/93cb37ea7b5f134cc500b1c5b91d971190600a1a</guid>
+      <pubDate>Sat, 21 Nov 2026 06:00:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-cpu: fix nc aligment in tinyBLAS_PPC_Q0 (#32659)
 
-* chore(main): release cua-driver-rs 0.56.4
+Fixes https://github.com/ggml-org/llama.cpp/issues/31680
 
-* chore(cua-driver-rs): synchronize generated release files
+The matmul_tiled() implementation in tinyBLAS_Q0_PPC requires nc to be a multipl | why kept: inference, llama</description>
+    </item>
+    <item>
+      <title>ci(cua-driver): gate every driver change on the hosted E2E lanes befo…</title>
+      <link>https://github.com/trycua/cua/commit/b06eff89216aa1211179b7720c09fdf19c61dc46</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b06eff89216aa1211179b7720c09fdf19c61dc46</guid>
+      <pubDate>Sat, 21 Nov 2026 06:00:38 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci(cua-driver): gate every driver change on the hosted E2E lanes before merge (#8437)
 
----------
+* ci(cua-driver): gate every driver change on the hosted E2E lanes before merge
 
-Co-authored-by: cua-release | why kept: trycua</description>
+The PR gate (E2E gate / res | why kept: claude</description>
     </item></channel></rss>

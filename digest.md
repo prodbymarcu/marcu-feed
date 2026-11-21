@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.56.4 (#8440) — https://github.com/trycua/cua/commit/7166cbbe74670440b351d9f684f6dde0f0fe661c (score 5)
+- ggml-cpu: fix nc aligment in tinyBLAS_PPC_Q0 (#32659) — https://github.com/ggml-org/llama.cpp/commit/93cb37ea7b5f134cc500b1c5b91d971190600a1a (score 4)
+- ci(cua-driver): gate every driver change on the hosted E2E lanes befo… — https://github.com/trycua/cua/commit/b06eff89216aa1211179b7720c09fdf19c61dc46 (score 2)
