@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.56.7 (#8479) — https://github.com/trycua/cua/commit/b6b335c915ed9c3b78a77707bebd76f3552a88d5 (score 5)
+- fix(cua-driver): re-pin the macOS agent cursor overlay when the activ… — https://github.com/trycua/cua/commit/ba06efa4a56bb5da99a39e17b97f9f12cca1254c (score 2)

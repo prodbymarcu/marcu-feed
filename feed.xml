@@ -1,15 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.56.7 (#8479)</title>
-      <link>https://github.com/trycua/cua/commit/b6b335c915ed9c3b78a77707bebd76f3552a88d5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b6b335c915ed9c3b78a77707bebd76f3552a88d5</guid>
-      <pubDate>Sat, 21 Nov 2026 12:41:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.7 (#8479)
+      <title>fix(cua-driver): re-pin the macOS agent cursor overlay when the activ…</title>
+      <link>https://github.com/trycua/cua/commit/ba06efa4a56bb5da99a39e17b97f9f12cca1254c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ba06efa4a56bb5da99a39e17b97f9f12cca1254c</guid>
+      <pubDate>Sat, 21 Nov 2026 13:29:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): re-pin the macOS agent cursor overlay when the active app changes (#8478)
 
-* chore(main): release cua-driver-rs 0.56.7
+* fix(cua-driver): keep re-ordering the macOS agent cursor overlay until the front settles
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+A foregroun | why kept: agent</description>
     </item></channel></rss>
