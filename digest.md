@@ -1,1 +1,1 @@
-- fix(cua-driver): re-pin the macOS agent cursor overlay when the activ… — https://github.com/trycua/cua/commit/ba06efa4a56bb5da99a39e17b97f9f12cca1254c (score 2)
+- chore(cua-driver): advance published installer version to 0.56.6 (#8484) — https://github.com/trycua/cua/commit/22cd821a762c8c3deb9706254fbfc310774f6b60 (score 5)

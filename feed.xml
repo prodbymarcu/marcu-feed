@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): re-pin the macOS agent cursor overlay when the activ…</title>
-      <link>https://github.com/trycua/cua/commit/ba06efa4a56bb5da99a39e17b97f9f12cca1254c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ba06efa4a56bb5da99a39e17b97f9f12cca1254c</guid>
-      <pubDate>Sat, 21 Nov 2026 13:29:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): re-pin the macOS agent cursor overlay when the active app changes (#8478)
+      <title>chore(cua-driver): advance published installer version to 0.56.6 (#8484)</title>
+      <link>https://github.com/trycua/cua/commit/22cd821a762c8c3deb9706254fbfc310774f6b60</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/22cd821a762c8c3deb9706254fbfc310774f6b60</guid>
+      <pubDate>Sat, 21 Nov 2026 13:45:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.56.6 (#8484)
 
-* fix(cua-driver): keep re-ordering the macOS agent cursor overlay until the front settles
-
-A foregroun | why kept: agent</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
