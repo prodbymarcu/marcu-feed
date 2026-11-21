@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.56.3 (#8435) — https://github.com/trycua/cua/commit/d2bebc80ec3e173fcee90e70797b61bb68c6a2af (score 5)
+- fix(spaces-macos): bundle cua 0.31.0 in Cua Spaces (#8429) — https://github.com/trycua/cua/commit/2d13206b04fad486cc9a4ebf8ae576da0abc67ef (score 5)
