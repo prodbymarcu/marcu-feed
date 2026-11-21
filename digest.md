@@ -1,2 +1,3 @@
-- fix(cua-sandbox): accept cua-driver 0.57 (#8496) — https://github.com/trycua/cua/commit/559d62cff589da10caef3f7e868fc6bd8e621212 (score 5)
-- chore(cua-driver): advance published installer version to 0.56.9 (#8497) — https://github.com/trycua/cua/commit/d3f35f319005f781b9f62a8bb056ed37023dbd8d (score 5)
+- chore(main): release bench 0.4.17 (#8498) — https://github.com/trycua/cua/commit/1c8b29dbaaf018dc42cff9c538f570387c223cc0 (score 5)
+- chore(main): release sandbox 0.11.16 (#8499) — https://github.com/trycua/cua/commit/8bd6043163798ec6c4f399fe1a083b6d524b32ea (score 5)
+- chore(main): release cua-driver-rs 0.56.9 (#8491) — https://github.com/trycua/cua/commit/72f5415fe8c229aebc1bc647655c92fb9f5956e2 (score 5)
