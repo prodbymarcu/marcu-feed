@@ -1,15 +1,25 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.31.0 (#8424)</title>
-      <link>https://github.com/trycua/cua/commit/78fe31378569aab57ddb5131a08fc90fc3c6fbb9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78fe31378569aab57ddb5131a08fc90fc3c6fbb9</guid>
-      <pubDate>Sat, 21 Nov 2026 02:01:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.31.0 (#8424)
+      <title>chore(main): release cua-driver-rs 0.56.2 (#8427)</title>
+      <link>https://github.com/trycua/cua/commit/b18edec39d0122fb3264df0513b9ee78e01a4f35</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b18edec39d0122fb3264df0513b9ee78e01a4f35</guid>
+      <pubDate>Sat, 21 Nov 2026 02:33:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.2 (#8427)
 
-* chore(main): release cua-sdk 0.31.0
+* chore(main): release cua-driver-rs 0.56.2
 
-* chore(cua-sdk): synchronize release documentation and lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ClawDOS – An AI coding agent for DOS</title>
+      <link>http://ricapar.net/ClawDOS/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50586292</guid>
+      <pubDate>Sat, 21 Nov 2026 02:33:10 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;http://ricapar.net/ClawDOS/&quot;&gt;http://ricapar.net/ClawDOS/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50586292&quot;&gt;https://news.ycombinator.com/item?id=50586292&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;#  | why kept: agent</description>
     </item></channel></rss>

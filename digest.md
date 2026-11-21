@@ -1,1 +1,2 @@
-- chore(main): release cua-sdk 0.31.0 (#8424) — https://github.com/trycua/cua/commit/78fe31378569aab57ddb5131a08fc90fc3c6fbb9 (score 5)
+- chore(main): release cua-driver-rs 0.56.2 (#8427) — https://github.com/trycua/cua/commit/b18edec39d0122fb3264df0513b9ee78e01a4f35 (score 5)
+- ClawDOS – An AI coding agent for DOS — http://ricapar.net/ClawDOS/ (score 2)
