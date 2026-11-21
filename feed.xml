@@ -1,10 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(runtime-gvisor): boot the amd64 disk on Hyper-V (initramfs with h…</title>
-      <link>https://github.com/trycua/cua/commit/a12441dc77d3aa15ea864d28959caff575f5132d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a12441dc77d3aa15ea864d28959caff575f5132d</guid>
-      <pubDate>Fri, 20 Nov 2026 22:32:17 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(runtime-gvisor): boot the amd64 disk on Hyper-V (initramfs with hv_storvsc) (#8411)
+      <title>chore(main): release cua-sdk 0.30.1 (#8418)</title>
+      <link>https://github.com/trycua/cua/commit/73d0fd0af40b4a146d0a6ed1fddc2b56c39676bb</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/73d0fd0af40b4a146d0a6ed1fddc2b56c39676bb</guid>
+      <pubDate>Sat, 21 Nov 2026 00:08:16 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.30.1 (#8418)
 
-The amd64 disk is Colima&amp;#39;s minimal Ubuntu cloud image: no initramfs, the kernel
-reaches its root throu | why kept: free</description>
+* chore(main): release cua-sdk 0.30.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- fix(runtime-gvisor): boot the amd64 disk on Hyper-V (initramfs with h… — https://github.com/trycua/cua/commit/a12441dc77d3aa15ea864d28959caff575f5132d (score 2)
+- chore(main): release cua-sdk 0.30.1 (#8418) — https://github.com/trycua/cua/commit/73d0fd0af40b4a146d0a6ed1fddc2b56c39676bb (score 5)
