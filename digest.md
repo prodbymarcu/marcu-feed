@@ -1,2 +1,4 @@
-- ggml-cpu: fix nc aligment in tinyBLAS_PPC_Q0 (#32659) — https://github.com/ggml-org/llama.cpp/commit/93cb37ea7b5f134cc500b1c5b91d971190600a1a (score 4)
-- ci(cua-driver): gate every driver change on the hosted E2E lanes befo… — https://github.com/trycua/cua/commit/b06eff89216aa1211179b7720c09fdf19c61dc46 (score 2)
+- chore(cua-driver): advance published installer version to 0.56.4 (#8449) — https://github.com/trycua/cua/commit/76c514e2094637080b796226f2e291c5e8f60a5f (score 5)
+- model : inkling2_loop share the loop slots after the scale pass (#32704) — https://github.com/ggml-org/llama.cpp/commit/690b87d88151dbd775bb6eff5581663688785928 (score 4)
+- model : additional shortcut checks for OOB in hrm_text (#32720) — https://github.com/ggml-org/llama.cpp/commit/838d942438e602a0d7b11153bf808746ed45f545 (score 2)
+- fix(cua-driver): wait for the Save sheet's Save button to report enab… — https://github.com/trycua/cua/commit/c657f8c002fead6946bf16c7d1ac3a3e0c3d61df (score 2)
