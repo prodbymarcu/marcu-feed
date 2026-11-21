@@ -1,8 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llm-gemini 0.38.1</title>
-      <link>https://simonwillison.net/2026/Nov/20/llm-gemini/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/20/llm-gemini/</guid>
-      <pubDate>Sat, 21 Nov 2026 14:01:47 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-gemini/releases/tag/0.38.1&quot;&gt;llm-gemini 0.38.1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;Gemini 4 Carbon only supports &lt;code&gt;low&lt;/code&gt;, &lt;code&gt;medium&lt;/code&gt; and &lt;code&gt;high&lt;/code&gt; reasoning levels  | why kept: model</description>
+      <title>chore(main): release cua-driver-rs 0.56.8 (#8487)</title>
+      <link>https://github.com/trycua/cua/commit/3b64ba3829be09f9e7854b6abeb03931df677023</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3b64ba3829be09f9e7854b6abeb03931df677023</guid>
+      <pubDate>Sat, 21 Nov 2026 15:05:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.8 (#8487)
+
+* chore(main): release cua-driver-rs 0.56.8
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

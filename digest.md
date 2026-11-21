@@ -1,1 +1,1 @@
-- llm-gemini 0.38.1 — https://simonwillison.net/2026/Nov/20/llm-gemini/ (score 2)
+- chore(main): release cua-driver-rs 0.56.8 (#8487) — https://github.com/trycua/cua/commit/3b64ba3829be09f9e7854b6abeb03931df677023 (score 5)
