@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.56.9 (#8491) — https://github.com/trycua/cua/commit/72f5415fe8c229aebc1bc647655c92fb9f5956e2 (score 5)
+- chore(cua-driver): advance published installer version to 0.56.8 (#8494) — https://github.com/trycua/cua/commit/e50137df1bebb40079623bc7f34d96933ccc1f9b (score 5)
