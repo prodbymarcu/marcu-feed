@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.56.1 (#8421) — https://github.com/trycua/cua/commit/0f8165b47a27143f9374261317956b27d2eb7621 (score 5)
+- llama-grammar: Fix integer overflow (#32551) — https://github.com/ggml-org/llama.cpp/commit/46eb1742db6d2caec1bfa848c5702b1bdcc815e5 (score 2)

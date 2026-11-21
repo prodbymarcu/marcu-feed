@@ -1,15 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.56.1 (#8421)</title>
-      <link>https://github.com/trycua/cua/commit/0f8165b47a27143f9374261317956b27d2eb7621</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0f8165b47a27143f9374261317956b27d2eb7621</guid>
-      <pubDate>Sat, 21 Nov 2026 00:41:21 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.1 (#8421)
+      <title>llama-grammar: Fix integer overflow (#32551)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/46eb1742db6d2caec1bfa848c5702b1bdcc815e5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/46eb1742db6d2caec1bfa848c5702b1bdcc815e5</guid>
+      <pubDate>Sat, 21 Nov 2026 01:13:29 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama-grammar: Fix integer overflow (#32551)
 
-* chore(main): release cua-driver-rs 0.56.1
+* llama-grammar: Fix integer overflow
 
-* chore(cua-driver-rs): synchronize generated release files
+* Check incorrect values at parsing and bail out nicely
 
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+* fix style&lt;/pre&gt; | why kept: llama</description>
     </item></channel></rss>
