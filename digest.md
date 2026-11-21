@@ -1,2 +1,1 @@
-- fix(cua-driver): match list_windows app filter against unlocalized bu… — https://github.com/trycua/cua/commit/20ddc5942fc2100825eb719acc03bf74a07de03b (score 2)
-- fix(cua-driver): build every Windows crate against windows 0.61 (#8444) — https://github.com/trycua/cua/commit/d0e4f4dc4e734affa6a1aca1464deddf55a71763 (score 2)
+- model: apply .scale tensors automatically + fix correctness (#32669) — https://github.com/ggml-org/llama.cpp/commit/19bc41dbb41e858eebc269b49ccdec1f0d28880c (score 4)
