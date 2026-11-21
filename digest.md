@@ -1,1 +1,2 @@
-- mtmd: support kyutai/hibiki realtime full-duplex (#32491) — https://github.com/ggml-org/llama.cpp/commit/c622f623fca9f0f085eb82f38874d1ab4a1791cd (score 5)
+- fix(cua-driver): match list_windows app filter against unlocalized bu… — https://github.com/trycua/cua/commit/20ddc5942fc2100825eb719acc03bf74a07de03b (score 2)
+- fix(cua-driver): build every Windows crate against windows 0.61 (#8444) — https://github.com/trycua/cua/commit/d0e4f4dc4e734affa6a1aca1464deddf55a71763 (score 2)
