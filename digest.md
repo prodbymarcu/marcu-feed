@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.56.5 (#8454) — https://github.com/trycua/cua/commit/d6a57da5c620d19f1f2122c3c45d9fb0a94a579e (score 5)
-- ui: open the context gauge panel on click as a popover (#32685) — https://github.com/ggml-org/llama.cpp/commit/80325823d47ce8d02ae487de4b5563b2695684e4 (score 2)
+- mtmd: support kyutai/hibiki realtime full-duplex (#32491) — https://github.com/ggml-org/llama.cpp/commit/c622f623fca9f0f085eb82f38874d1ab4a1791cd (score 5)
