@@ -1,13 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama-grammar: Fix integer overflow (#32551)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/46eb1742db6d2caec1bfa848c5702b1bdcc815e5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/46eb1742db6d2caec1bfa848c5702b1bdcc815e5</guid>
-      <pubDate>Sat, 21 Nov 2026 01:13:29 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama-grammar: Fix integer overflow (#32551)
+      <title>fix(cua-driver): refuse removed --session-policy and Claude Code comp…</title>
+      <link>https://github.com/trycua/cua/commit/cac2c10af703be40f719a2f9eb8c7f938f8a9bfe</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cac2c10af703be40f719a2f9eb8c7f938f8a9bfe</guid>
+      <pubDate>Sat, 21 Nov 2026 01:28:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse removed --session-policy and Claude Code compat flags (#8339)
 
-* llama-grammar: Fix integer overflow
+* fix(cua-driver): refuse the removed --session-policy and Claude Code compat flags
 
-* Check incorrect values at parsing and bail out nicely
+--session-policy, --app | why kept: claude</description>
+    </item>
+    <item>
+      <title>feat(cua-vmm): Linux runtime in a Hyper-V VM on Windows without WSL 2…</title>
+      <link>https://github.com/trycua/cua/commit/e1209b5ac48ac6ed9890871965b49150544e9b88</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e1209b5ac48ac6ed9890871965b49150544e9b88</guid>
+      <pubDate>Sat, 21 Nov 2026 01:28:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-vmm): Linux runtime in a Hyper-V VM on Windows without WSL 2 (#8417)
 
-* fix style&lt;/pre&gt; | why kept: llama</description>
+* feat(cua-vmm): run the Linux runtime on Windows in a Hyper-V VM where WSL 2 is not available
+
+The built-in Linux r | why kept: runs</description>
     </item></channel></rss>

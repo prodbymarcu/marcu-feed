@@ -1,1 +1,2 @@
-- llama-grammar: Fix integer overflow (#32551) — https://github.com/ggml-org/llama.cpp/commit/46eb1742db6d2caec1bfa848c5702b1bdcc815e5 (score 2)
+- fix(cua-driver): refuse removed --session-policy and Claude Code comp… — https://github.com/trycua/cua/commit/cac2c10af703be40f719a2f9eb8c7f938f8a9bfe (score 2)
+- feat(cua-vmm): Linux runtime in a Hyper-V VM on Windows without WSL 2… — https://github.com/trycua/cua/commit/e1209b5ac48ac6ed9890871965b49150544e9b88 (score 2)
