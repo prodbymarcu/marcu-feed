@@ -1,22 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): refuse removed --session-policy and Claude Code comp…</title>
-      <link>https://github.com/trycua/cua/commit/cac2c10af703be40f719a2f9eb8c7f938f8a9bfe</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cac2c10af703be40f719a2f9eb8c7f938f8a9bfe</guid>
-      <pubDate>Sat, 21 Nov 2026 01:28:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): refuse removed --session-policy and Claude Code compat flags (#8339)
+      <title>chore(main): release cua-sdk 0.31.0 (#8424)</title>
+      <link>https://github.com/trycua/cua/commit/78fe31378569aab57ddb5131a08fc90fc3c6fbb9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/78fe31378569aab57ddb5131a08fc90fc3c6fbb9</guid>
+      <pubDate>Sat, 21 Nov 2026 02:01:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.31.0 (#8424)
 
-* fix(cua-driver): refuse the removed --session-policy and Claude Code compat flags
+* chore(main): release cua-sdk 0.31.0
 
---session-policy, --app | why kept: claude</description>
-    </item>
-    <item>
-      <title>feat(cua-vmm): Linux runtime in a Hyper-V VM on Windows without WSL 2…</title>
-      <link>https://github.com/trycua/cua/commit/e1209b5ac48ac6ed9890871965b49150544e9b88</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e1209b5ac48ac6ed9890871965b49150544e9b88</guid>
-      <pubDate>Sat, 21 Nov 2026 01:28:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-vmm): Linux runtime in a Hyper-V VM on Windows without WSL 2 (#8417)
+* chore(cua-sdk): synchronize release documentation and lockfiles
 
-* feat(cua-vmm): run the Linux runtime on Windows in a Hyper-V VM where WSL 2 is not available
+---------
 
-The built-in Linux r | why kept: runs</description>
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
