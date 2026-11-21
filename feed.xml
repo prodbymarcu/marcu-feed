@@ -1,11 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : remove fused lightning indexer gating (#32650)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e412c6f468b7b9e0f16f2540244236f8ad68e9ae</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e412c6f468b7b9e0f16f2540244236f8ad68e9ae</guid>
-      <pubDate>Sat, 21 Nov 2026 03:37:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : remove fused lightning indexer gating (#32650)
+      <title>chore(main): release cua-driver-rs 0.56.4 (#8440)</title>
+      <link>https://github.com/trycua/cua/commit/7166cbbe74670440b351d9f684f6dde0f0fe661c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7166cbbe74670440b351d9f684f6dde0f0fe661c</guid>
+      <pubDate>Sat, 21 Nov 2026 03:53:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.4 (#8440)
 
-The fused lightning indexer is always used now, so drop the cparams flags, the auto probe and the non-fused fallbacks.
+* chore(main): release cua-driver-rs 0.56.4
 
-Assisted-by: dsh:ll | why kept: llama</description>
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

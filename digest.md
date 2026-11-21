@@ -1,1 +1,1 @@
-- llama : remove fused lightning indexer gating (#32650) — https://github.com/ggml-org/llama.cpp/commit/e412c6f468b7b9e0f16f2540244236f8ad68e9ae (score 2)
+- chore(main): release cua-driver-rs 0.56.4 (#8440) — https://github.com/trycua/cua/commit/7166cbbe74670440b351d9f684f6dde0f0fe661c (score 5)
