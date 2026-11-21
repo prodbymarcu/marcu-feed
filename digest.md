@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.56.6 (#8484) — https://github.com/trycua/cua/commit/22cd821a762c8c3deb9706254fbfc310774f6b60 (score 5)
+- llm-gemini 0.38.1 — https://simonwillison.net/2026/Nov/20/llm-gemini/ (score 2)

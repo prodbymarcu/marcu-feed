@@ -1,9 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.56.6 (#8484)</title>
-      <link>https://github.com/trycua/cua/commit/22cd821a762c8c3deb9706254fbfc310774f6b60</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/22cd821a762c8c3deb9706254fbfc310774f6b60</guid>
-      <pubDate>Sat, 21 Nov 2026 13:45:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.56.6 (#8484)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+      <title>llm-gemini 0.38.1</title>
+      <link>https://simonwillison.net/2026/Nov/20/llm-gemini/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/20/llm-gemini/</guid>
+      <pubDate>Sat, 21 Nov 2026 14:01:47 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/simonw/llm-gemini/releases/tag/0.38.1&quot;&gt;llm-gemini 0.38.1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;Gemini 4 Carbon only supports &lt;code&gt;low&lt;/code&gt;, &lt;code&gt;medium&lt;/code&gt; and &lt;code&gt;high&lt;/code&gt; reasoning levels  | why kept: model</description>
     </item></channel></rss>
