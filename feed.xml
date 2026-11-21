@@ -1,17 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model: apply .scale tensors automatically + fix correctness (#32669)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/19bc41dbb41e858eebc269b49ccdec1f0d28880c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/19bc41dbb41e858eebc269b49ccdec1f0d28880c</guid>
-      <pubDate>Sat, 21 Nov 2026 10:33:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model: apply .scale tensors automatically + fix correctness (#32669)
+      <title>chore(main): release cua-driver-rs 0.56.6 (#8471)</title>
+      <link>https://github.com/trycua/cua/commit/53260e000221483c5ab3f49607aae5c66c23e883</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53260e000221483c5ab3f49607aae5c66c23e883</guid>
+      <pubDate>Sat, 21 Nov 2026 11:21:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.56.6 (#8471)
 
-* model: apply .scale tensors automatically
+* chore(main): release cua-driver-rs 0.56.6
 
-* rm build_moe_ffn &amp;quot;_s&amp;quot; overload
+* chore(cua-driver-rs): synchronize generated release files
 
-* use llama_prec_policy
+---------
 
-* fix ci
-
-* | why kept: model, llama</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
