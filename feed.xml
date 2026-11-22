@@ -1,24 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.59.0 (#8539)</title>
-      <link>https://github.com/trycua/cua/commit/43ddb7846c0e9984393cb5bbaaa91f7f9854a001</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/43ddb7846c0e9984393cb5bbaaa91f7f9854a001</guid>
-      <pubDate>Sun, 22 Nov 2026 11:12:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.0 (#8539)
+      <title>server: support /models/sse on single-model mode (#32398)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0b51bb2fed322bc884f96f98db340e2b0f6ea176</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b51bb2fed322bc884f96f98db340e2b0f6ea176</guid>
+      <pubDate>Sun, 22 Nov 2026 12:01:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: support /models/sse on single-model mode (#32398)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.59.1 (#8537)</title>
-      <link>https://github.com/trycua/cua/commit/80687f6acf4be10997f1d80cd7db1cb974775d9d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/80687f6acf4be10997f1d80cd7db1cb974775d9d</guid>
-      <pubDate>Sun, 22 Nov 2026 11:12:47 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.1 (#8537)
+* server: support /models/sse on single-model mode
 
-* chore(main): release cua-driver-rs 0.59.1
+* nits
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+* nits&lt;/pre&gt; | why kept: model</description>
     </item></channel></rss>

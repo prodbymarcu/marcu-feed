@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.59.0 (#8539) — https://github.com/trycua/cua/commit/43ddb7846c0e9984393cb5bbaaa91f7f9854a001 (score 5)
-- chore(main): release cua-driver-rs 0.59.1 (#8537) — https://github.com/trycua/cua/commit/80687f6acf4be10997f1d80cd7db1cb974775d9d (score 5)
+- server: support /models/sse on single-model mode (#32398) — https://github.com/ggml-org/llama.cpp/commit/0b51bb2fed322bc884f96f98db340e2b0f6ea176 (score 2)
