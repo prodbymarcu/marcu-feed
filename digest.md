@@ -1,1 +1,1 @@
-- server: support /models/sse on single-model mode (#32398) — https://github.com/ggml-org/llama.cpp/commit/0b51bb2fed322bc884f96f98db340e2b0f6ea176 (score 2)
+- chore(cua-driver): advance published installer version to 0.59.1 (#8545) — https://github.com/trycua/cua/commit/4ad2a0241118880cefc961401bcde97158805760 (score 5)

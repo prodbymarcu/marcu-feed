@@ -1,13 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server: support /models/sse on single-model mode (#32398)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0b51bb2fed322bc884f96f98db340e2b0f6ea176</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0b51bb2fed322bc884f96f98db340e2b0f6ea176</guid>
-      <pubDate>Sun, 22 Nov 2026 12:01:13 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server: support /models/sse on single-model mode (#32398)
+      <title>chore(cua-driver): advance published installer version to 0.59.1 (#8545)</title>
+      <link>https://github.com/trycua/cua/commit/4ad2a0241118880cefc961401bcde97158805760</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4ad2a0241118880cefc961401bcde97158805760</guid>
+      <pubDate>Sun, 22 Nov 2026 13:36:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.1 (#8545)
 
-* server: support /models/sse on single-model mode
-
-* nits
-
-* nits&lt;/pre&gt; | why kept: model</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
