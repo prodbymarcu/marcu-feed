@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.59.2 (#8547) — https://github.com/trycua/cua/commit/72e8adb2f9ee16efe2288f98d56f5ddcd1e723ff (score 5)
+- mtmd: fix qwen3a audio tail (#32697) — https://github.com/ggml-org/llama.cpp/commit/f505c30b92b5579e00532c9e75baa3aa74b70432 (score 11)

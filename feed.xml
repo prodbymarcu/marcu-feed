@@ -1,15 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.59.2 (#8547)</title>
-      <link>https://github.com/trycua/cua/commit/72e8adb2f9ee16efe2288f98d56f5ddcd1e723ff</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/72e8adb2f9ee16efe2288f98d56f5ddcd1e723ff</guid>
-      <pubDate>Sun, 22 Nov 2026 14:41:08 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.2 (#8547)
+      <title>mtmd: fix qwen3a audio tail (#32697)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/f505c30b92b5579e00532c9e75baa3aa74b70432</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f505c30b92b5579e00532c9e75baa3aa74b70432</guid>
+      <pubDate>Sun, 22 Nov 2026 15:28:45 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: fix qwen3a audio tail (#32697)
 
-* chore(main): release cua-driver-rs 0.59.2
+* add: test to reporduce error reported in https://github.com/ggml-org/llama.cpp/issues/32689
 
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+* fix: remove extra tokens from zero-padding of Qwen3-Omni / Q | why kept: qwen, qwen, local, llama</description>
     </item></channel></rss>
