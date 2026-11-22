@@ -1,24 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.58.1 in Cua Spaces (#8528)</title>
-      <link>https://github.com/trycua/cua/commit/9d699c7b99b096505f240d84764b1cb985ed4287</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d699c7b99b096505f240d84764b1cb985ed4287</guid>
-      <pubDate>Sun, 22 Nov 2026 09:20:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.58.1 in Cua Spaces (#8528)
-
-Cua Driver 0.58.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
-    </item>
-    <item>
-      <title>chore(main): release cua-driver-rs 0.59.0 (#8530)</title>
-      <link>https://github.com/trycua/cua/commit/d59e49bb535d924b10ddb275a3478a79bad377d4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d59e49bb535d924b10ddb275a3478a79bad377d4</guid>
-      <pubDate>Sun, 22 Nov 2026 09:20:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.0 (#8530)
-
-* chore(main): release cua-driver-rs 0.59.0
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+      <title>Show HN: I built a game where you are an LLM&#x27;s subagent</title>
+      <link>https://github.com/gulivan/worker755</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50599762</guid>
+      <pubDate>Sun, 22 Nov 2026 10:24:45 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/gulivan/worker755&quot;&gt;https://github.com/gulivan/worker755&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50599762&quot;&gt;https://news.ycombinator.com/item?id=50599762&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Po | why kept: agent</description>
     </item></channel></rss>

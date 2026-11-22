@@ -1,2 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.58.1 in Cua Spaces (#8528) — https://github.com/trycua/cua/commit/9d699c7b99b096505f240d84764b1cb985ed4287 (score 5)
-- chore(main): release cua-driver-rs 0.59.0 (#8530) — https://github.com/trycua/cua/commit/d59e49bb535d924b10ddb275a3478a79bad377d4 (score 5)
+- Show HN: I built a game where you are an LLM's subagent — https://github.com/gulivan/worker755 (score 2)
