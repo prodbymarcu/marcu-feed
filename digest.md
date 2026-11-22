@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.57.0 (#8493) — https://github.com/trycua/cua/commit/37a981c7119f05a2ada3f3b41c1dd3a9f6779e2a (score 5)
+- vulkan : fix memset for unaligned ranges for non-UMA devices (#32725) — https://github.com/ggml-org/llama.cpp/commit/b052049276778d47eb216739c9e1537d764c5585 (score 2)
