@@ -1,11 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.58.1 (#8518)</title>
-      <link>https://github.com/trycua/cua/commit/68210fe377a532e7e3b58fa03c95d7fe9d11339b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/68210fe377a532e7e3b58fa03c95d7fe9d11339b</guid>
-      <pubDate>Sun, 22 Nov 2026 03:50:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.58.1 (#8518)
+      <title>chat : trigger lazy grammar on bare JSON tool calls (#32497)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/42f6a58fd1bfd475d9f09ea3bf7ef671c059eaf2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/42f6a58fd1bfd475d9f09ea3bf7ef671c059eaf2</guid>
+      <pubDate>Sun, 22 Nov 2026 06:26:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chat : trigger lazy grammar on bare JSON tool calls (#32497)
 
-* chore(main): release cua-driver-rs 0.58.1
+Models like Llama 3.x emit tool calls as plain {&amp;quot;name&amp;quot;: ...} JSON without a start marker, so with tool_choice=auto no gramm | why kept: model, claude, llama, tool call</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.58.2 (#8524)</title>
+      <link>https://github.com/trycua/cua/commit/b63bc99181b4cf7e4f550bc91b5238209e3af7bc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b63bc99181b4cf7e4f550bc91b5238209e3af7bc</guid>
+      <pubDate>Sun, 22 Nov 2026 06:26:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.58.2 (#8524)
+
+* chore(main): release cua-driver-rs 0.58.2
 
 * chore(cua-driver-rs): synchronize generated release files
 

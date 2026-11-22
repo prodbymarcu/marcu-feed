@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.58.1 (#8518) — https://github.com/trycua/cua/commit/68210fe377a532e7e3b58fa03c95d7fe9d11339b (score 5)
+- chat : trigger lazy grammar on bare JSON tool calls (#32497) — https://github.com/ggml-org/llama.cpp/commit/42f6a58fd1bfd475d9f09ea3bf7ef671c059eaf2 (score 8)
+- chore(main): release cua-driver-rs 0.58.2 (#8524) — https://github.com/trycua/cua/commit/b63bc99181b4cf7e4f550bc91b5238209e3af7bc (score 5)
