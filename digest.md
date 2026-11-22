@@ -1,2 +1,2 @@
-- chore(main): release bench 0.4.20 (#8533) — https://github.com/trycua/cua/commit/3c34b516c0bbe7f0364cad1e9b943caeba5b0c8c (score 5)
-- chore(main): release sandbox 0.11.18 (#8534) — https://github.com/trycua/cua/commit/f950521ffc51a844bd7a0f88fa357ddd538e448c (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.58.1 in Cua Spaces (#8528) — https://github.com/trycua/cua/commit/9d699c7b99b096505f240d84764b1cb985ed4287 (score 5)
+- chore(main): release cua-driver-rs 0.59.0 (#8530) — https://github.com/trycua/cua/commit/d59e49bb535d924b10ddb275a3478a79bad377d4 (score 5)

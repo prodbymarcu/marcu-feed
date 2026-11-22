@@ -1,30 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release bench 0.4.20 (#8533)</title>
-      <link>https://github.com/trycua/cua/commit/3c34b516c0bbe7f0364cad1e9b943caeba5b0c8c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3c34b516c0bbe7f0364cad1e9b943caeba5b0c8c</guid>
-      <pubDate>Sun, 22 Nov 2026 08:33:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.20 (#8533)
+      <title>fix(spaces-macos): bundle Cua Driver 0.58.1 in Cua Spaces (#8528)</title>
+      <link>https://github.com/trycua/cua/commit/9d699c7b99b096505f240d84764b1cb985ed4287</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9d699c7b99b096505f240d84764b1cb985ed4287</guid>
+      <pubDate>Sun, 22 Nov 2026 09:20:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.58.1 in Cua Spaces (#8528)
 
-* chore(main): release bench 0.4.20
-
-* chore(bench): synchronize release lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
+Cua Driver 0.58.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item>
     <item>
-      <title>chore(main): release sandbox 0.11.18 (#8534)</title>
-      <link>https://github.com/trycua/cua/commit/f950521ffc51a844bd7a0f88fa357ddd538e448c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f950521ffc51a844bd7a0f88fa357ddd538e448c</guid>
-      <pubDate>Sun, 22 Nov 2026 08:33:22 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release sandbox 0.11.18 (#8534)
+      <title>chore(main): release cua-driver-rs 0.59.0 (#8530)</title>
+      <link>https://github.com/trycua/cua/commit/d59e49bb535d924b10ddb275a3478a79bad377d4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d59e49bb535d924b10ddb275a3478a79bad377d4</guid>
+      <pubDate>Sun, 22 Nov 2026 09:20:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.0 (#8530)
 
-* chore(main): release sandbox 0.11.18
+* chore(main): release cua-driver-rs 0.59.0
 
-* chore(sandbox): synchronize release metadata
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371 | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
