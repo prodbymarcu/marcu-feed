@@ -1,1 +1,1 @@
-- chore(main): release bench 0.4.19 (#8508) — https://github.com/trycua/cua/commit/cead7b45ebc9d89e6b3eb4e354547fd0822bf1fc (score 5)
+- chore(main): release cua-driver-rs 0.58.0 (#8501) — https://github.com/trycua/cua/commit/80683214eb357646f7a8ad318d8549801c6bdd9a (score 5)
