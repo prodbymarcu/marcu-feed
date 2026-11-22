@@ -1,12 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd: speed up shared audio FFT (#32815)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/94f3af3d09e74a0fb35f703194318d3b4037714a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/94f3af3d09e74a0fb35f703194318d3b4037714a</guid>
-      <pubDate>Sun, 22 Nov 2026 16:17:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: speed up shared audio FFT (#32815)
-
-* mtmd: speed up shared audio FFT
-
-Replace recursive radix-2 splitting with iterative stages and
-batch the existing odd-size DFT across subsequences, pre | why kept: claude</description>
+      <title>Agent swarm trying to solve P vs. NP</title>
+      <link>https://pequalnp.com/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50604314</guid>
+      <pubDate>Sun, 22 Nov 2026 18:08:57 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://pequalnp.com/&quot;&gt;https://pequalnp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50604314&quot;&gt;https://news.ycombinator.com/item?id=50604314&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 20 | why kept: agent</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- mtmd: speed up shared audio FFT (#32815) — https://github.com/ggml-org/llama.cpp/commit/94f3af3d09e74a0fb35f703194318d3b4037714a (score 2)
+- Agent swarm trying to solve P vs. NP — https://pequalnp.com/ (score 2)
