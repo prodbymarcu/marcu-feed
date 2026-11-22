@@ -1,1 +1,1 @@
-- mtmd: fix qwen3a audio tail (#32697) — https://github.com/ggml-org/llama.cpp/commit/f505c30b92b5579e00532c9e75baa3aa74b70432 (score 11)
+- mtmd: speed up shared audio FFT (#32815) — https://github.com/ggml-org/llama.cpp/commit/94f3af3d09e74a0fb35f703194318d3b4037714a (score 2)

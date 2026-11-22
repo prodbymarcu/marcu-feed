@@ -1,11 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>mtmd: fix qwen3a audio tail (#32697)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/f505c30b92b5579e00532c9e75baa3aa74b70432</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f505c30b92b5579e00532c9e75baa3aa74b70432</guid>
-      <pubDate>Sun, 22 Nov 2026 15:28:45 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: fix qwen3a audio tail (#32697)
+      <title>mtmd: speed up shared audio FFT (#32815)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/94f3af3d09e74a0fb35f703194318d3b4037714a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/94f3af3d09e74a0fb35f703194318d3b4037714a</guid>
+      <pubDate>Sun, 22 Nov 2026 16:17:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;mtmd: speed up shared audio FFT (#32815)
 
-* add: test to reporduce error reported in https://github.com/ggml-org/llama.cpp/issues/32689
+* mtmd: speed up shared audio FFT
 
-* fix: remove extra tokens from zero-padding of Qwen3-Omni / Q | why kept: qwen, qwen, local, llama</description>
+Replace recursive radix-2 splitting with iterative stages and
+batch the existing odd-size DFT across subsequences, pre | why kept: claude</description>
     </item></channel></rss>
