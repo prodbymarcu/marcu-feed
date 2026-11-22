@@ -1,2 +1,2 @@
-- chat : trigger lazy grammar on bare JSON tool calls (#32497) — https://github.com/ggml-org/llama.cpp/commit/42f6a58fd1bfd475d9f09ea3bf7ef671c059eaf2 (score 8)
-- chore(main): release cua-driver-rs 0.58.2 (#8524) — https://github.com/trycua/cua/commit/b63bc99181b4cf7e4f550bc91b5238209e3af7bc (score 5)
+- ggml : add SIGMOID backward pass (#32126) — https://github.com/ggml-org/llama.cpp/commit/ad50351f5092436f312d98d25689207df25f4802 (score 11)
+- chore(cua-driver): advance published installer version to 0.58.1 (#8527) — https://github.com/trycua/cua/commit/cee1e4e7b6382e59dc8bd7622863ba9e1099df78 (score 5)
