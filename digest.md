@@ -1,1 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.59.1 (#8545) — https://github.com/trycua/cua/commit/4ad2a0241118880cefc961401bcde97158805760 (score 5)
+- llama : copy all experts of a host weight shared by several nodes (#3… — https://github.com/ggml-org/llama.cpp/commit/5bacb7c868a2bc98682de15f447fc1ce17c9c49c (score 6)
+- fix(spaces-macos): bundle Cua Driver 0.59.1 in Cua Spaces (#8541) — https://github.com/trycua/cua/commit/05229a4171a61091d7f2a7dbf24d98fa49b7b318 (score 5)

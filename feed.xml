@@ -1,9 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.59.1 (#8545)</title>
-      <link>https://github.com/trycua/cua/commit/4ad2a0241118880cefc961401bcde97158805760</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4ad2a0241118880cefc961401bcde97158805760</guid>
-      <pubDate>Sun, 22 Nov 2026 13:36:44 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.1 (#8545)
+      <title>llama : copy all experts of a host weight shared by several nodes (#3…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/5bacb7c868a2bc98682de15f447fc1ce17c9c49c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5bacb7c868a2bc98682de15f447fc1ce17c9c49c</guid>
+      <pubDate>Sun, 22 Nov 2026 14:08:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : copy all experts of a host weight shared by several nodes (#32807)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* llama : copy all experts of a host weight shared by several nodes
+
+The scheduler copies a host weight to the device o | why kept: claude, codex, llama</description>
+    </item>
+    <item>
+      <title>fix(spaces-macos): bundle Cua Driver 0.59.1 in Cua Spaces (#8541)</title>
+      <link>https://github.com/trycua/cua/commit/05229a4171a61091d7f2a7dbf24d98fa49b7b318</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/05229a4171a61091d7f2a7dbf24d98fa49b7b318</guid>
+      <pubDate>Sun, 22 Nov 2026 14:08:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.59.1 in Cua Spaces (#8541)
+
+Cua Driver 0.59.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>
