@@ -1,3 +1,1 @@
-- chore(main): release bench 0.4.17 (#8498) — https://github.com/trycua/cua/commit/1c8b29dbaaf018dc42cff9c538f570387c223cc0 (score 5)
-- chore(main): release sandbox 0.11.16 (#8499) — https://github.com/trycua/cua/commit/8bd6043163798ec6c4f399fe1a083b6d524b32ea (score 5)
-- chore(main): release cua-driver-rs 0.56.9 (#8491) — https://github.com/trycua/cua/commit/72f5415fe8c229aebc1bc647655c92fb9f5956e2 (score 5)
+- chore(main): release cua-driver-rs 0.57.0 (#8493) — https://github.com/trycua/cua/commit/37a981c7119f05a2ada3f3b41c1dd3a9f6779e2a (score 5)
