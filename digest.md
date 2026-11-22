@@ -1,2 +1,1 @@
-- ggml : add SIGMOID backward pass (#32126) — https://github.com/ggml-org/llama.cpp/commit/ad50351f5092436f312d98d25689207df25f4802 (score 11)
-- chore(cua-driver): advance published installer version to 0.58.1 (#8527) — https://github.com/trycua/cua/commit/cee1e4e7b6382e59dc8bd7622863ba9e1099df78 (score 5)
+- fix(cua-sandbox): accept cua-driver 0.59 (#8531) — https://github.com/trycua/cua/commit/fc6565225647eee294e38f40191454f39d7c81aa (score 5)

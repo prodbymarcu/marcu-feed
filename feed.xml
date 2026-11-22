@@ -1,23 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml : add SIGMOID backward pass (#32126)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ad50351f5092436f312d98d25689207df25f4802</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ad50351f5092436f312d98d25689207df25f4802</guid>
-      <pubDate>Sun, 22 Nov 2026 06:43:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml : add SIGMOID backward pass (#32126)
-
-* ggml : add SIGMOID backward pass
-
-Sigmoid is used in Qwen3.5 hybrid models and had no backward pass.
-Bump RPC protocol patch version for the new op.
-
- | why kept: qwen, model, qwen, codex</description>
-    </item>
-    <item>
-      <title>chore(cua-driver): advance published installer version to 0.58.1 (#8527)</title>
-      <link>https://github.com/trycua/cua/commit/cee1e4e7b6382e59dc8bd7622863ba9e1099df78</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/cee1e4e7b6382e59dc8bd7622863ba9e1099df78</guid>
-      <pubDate>Sun, 22 Nov 2026 06:43:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.58.1 (#8527)
+      <title>fix(cua-sandbox): accept cua-driver 0.59 (#8531)</title>
+      <link>https://github.com/trycua/cua/commit/fc6565225647eee294e38f40191454f39d7c81aa</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fc6565225647eee294e38f40191454f39d7c81aa</guid>
+      <pubDate>Sun, 22 Nov 2026 08:17:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.59 (#8531)
 
 Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
