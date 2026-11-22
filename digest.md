@@ -1,1 +1,1 @@
-- vulkan : fix memset for unaligned ranges for non-UMA devices (#32725) — https://github.com/ggml-org/llama.cpp/commit/b052049276778d47eb216739c9e1537d764c5585 (score 2)
+- fix(cua-sandbox): accept cua-driver 0.58 (#8502) — https://github.com/trycua/cua/commit/2a15e141e23d72eb3c73df9a289d2cf079033516 (score 5)
