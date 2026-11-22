@@ -1,9 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Show HN: I built a game where you are an LLM&#x27;s subagent</title>
-      <link>https://github.com/gulivan/worker755</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50599762</guid>
-      <pubDate>Sun, 22 Nov 2026 10:24:45 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/gulivan/worker755&quot;&gt;https://github.com/gulivan/worker755&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50599762&quot;&gt;https://news.ycombinator.com/item?id=50599762&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Po | why kept: agent</description>
+      <title>chore(cua-driver): advance published installer version to 0.59.0 (#8539)</title>
+      <link>https://github.com/trycua/cua/commit/43ddb7846c0e9984393cb5bbaaa91f7f9854a001</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/43ddb7846c0e9984393cb5bbaaa91f7f9854a001</guid>
+      <pubDate>Sun, 22 Nov 2026 11:12:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.0 (#8539)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.59.1 (#8537)</title>
+      <link>https://github.com/trycua/cua/commit/80687f6acf4be10997f1d80cd7db1cb974775d9d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/80687f6acf4be10997f1d80cd7db1cb974775d9d</guid>
+      <pubDate>Sun, 22 Nov 2026 11:12:47 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.1 (#8537)
+
+* chore(main): release cua-driver-rs 0.59.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

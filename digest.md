@@ -1,1 +1,2 @@
-- Show HN: I built a game where you are an LLM's subagent — https://github.com/gulivan/worker755 (score 2)
+- chore(cua-driver): advance published installer version to 0.59.0 (#8539) — https://github.com/trycua/cua/commit/43ddb7846c0e9984393cb5bbaaa91f7f9854a001 (score 5)
+- chore(main): release cua-driver-rs 0.59.1 (#8537) — https://github.com/trycua/cua/commit/80687f6acf4be10997f1d80cd7db1cb974775d9d (score 5)
