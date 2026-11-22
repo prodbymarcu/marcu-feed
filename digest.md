@@ -1,2 +1,1 @@
-- llama : copy all experts of a host weight shared by several nodes (#3… — https://github.com/ggml-org/llama.cpp/commit/5bacb7c868a2bc98682de15f447fc1ce17c9c49c (score 6)
-- fix(spaces-macos): bundle Cua Driver 0.59.1 in Cua Spaces (#8541) — https://github.com/trycua/cua/commit/05229a4171a61091d7f2a7dbf24d98fa49b7b318 (score 5)
+- chore(main): release cua-driver-rs 0.59.2 (#8547) — https://github.com/trycua/cua/commit/72e8adb2f9ee16efe2288f98d56f5ddcd1e723ff (score 5)
