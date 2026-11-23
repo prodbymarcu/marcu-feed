@@ -1,9 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.59.5 in Cua Spaces (#8597)</title>
-      <link>https://github.com/trycua/cua/commit/feec8645d22acef0ec430a2349c71a81ab54cd41</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/feec8645d22acef0ec430a2349c71a81ab54cd41</guid>
-      <pubDate>Mon, 23 Nov 2026 10:58:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.59.5 in Cua Spaces (#8597)
+      <title>ui: show an agentic reply as a grouped Agent Trace (#32879)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/325914defd2c1279a039366d999dff4c19a75b54</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/325914defd2c1279a039366d999dff4c19a75b54</guid>
+      <pubDate>Mon, 23 Nov 2026 11:31:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show an agentic reply as a grouped Agent Trace (#32879)
 
-Cua Driver 0.59.5 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+* ui: show tool calls in the trace as a grouped, plain-language log
+
+Tool calls and all the reasoning around them, up to the answer, c | why kept: model, agent, tool call</description>
     </item></channel></rss>

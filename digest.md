@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.59.5 in Cua Spaces (#8597) — https://github.com/trycua/cua/commit/feec8645d22acef0ec430a2349c71a81ab54cd41 (score 5)
+- ui: show an agentic reply as a grouped Agent Trace (#32879) — https://github.com/ggml-org/llama.cpp/commit/325914defd2c1279a039366d999dff4c19a75b54 (score 6)
