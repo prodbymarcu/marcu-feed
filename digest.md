@@ -1,1 +1,1 @@
-- Ladybird's first alpha release — https://simonwillison.net/2026/Nov/23/ladybird/ (score 2)
+- fix(cua-sandbox): accept cua-driver 0.61 (#8617) — https://github.com/trycua/cua/commit/d475fb11673750f5a85d5dc5aaa4e089525fdc6d (score 5)

@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Ladybird&#x27;s first alpha release</title>
-      <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
-      <pubDate>Mon, 23 Nov 2026 16:53:11 +0000</pubDate>
-      <description>&lt;p&gt;&lt;a href=&quot;https://ladybird.org&quot;&gt;Ladybird&lt;/a&gt; is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It sti | why kept: video</description>
+      <title>fix(cua-sandbox): accept cua-driver 0.61 (#8617)</title>
+      <link>https://github.com/trycua/cua/commit/d475fb11673750f5a85d5dc5aaa4e089525fdc6d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d475fb11673750f5a85d5dc5aaa4e089525fdc6d</guid>
+      <pubDate>Mon, 23 Nov 2026 17:24:31 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.61 (#8617)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
