@@ -1,15 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release bench 0.4.21 (#8610)</title>
-      <link>https://github.com/trycua/cua/commit/897e599f703137e4262c88a5849554a8c2b309d5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/897e599f703137e4262c88a5849554a8c2b309d5</guid>
-      <pubDate>Mon, 23 Nov 2026 12:52:31 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.21 (#8610)
+      <title>chore(main): release cua-driver-rs 0.60.0 (#8600)</title>
+      <link>https://github.com/trycua/cua/commit/7ebe6a662ea380d0b7a340a33ee59feaf8f56f43</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ebe6a662ea380d0b7a340a33ee59feaf8f56f43</guid>
+      <pubDate>Mon, 23 Nov 2026 13:40:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.60.0 (#8600)
 
-* chore(main): release bench 0.4.21
+* chore(main): release cua-driver-rs 0.60.0
 
-* chore(bench): synchronize release lockfiles
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
