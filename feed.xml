@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.59.4 (#8577)</title>
-      <link>https://github.com/trycua/cua/commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4</guid>
-      <pubDate>Mon, 23 Nov 2026 14:44:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.4 (#8577)
+      <title>ui: remove the Matte theme and the Light surfaces setting (#32906)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/8355b886250efcb490dec7431c3c0ec1463277a5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8355b886250efcb490dec7431c3c0ec1463277a5</guid>
+      <pubDate>Mon, 23 Nov 2026 15:48:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: remove the Matte theme and the Light surfaces setting (#32906)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+Paper is now the only light theme: its surface tokens stay the base
+values, and the theme-matte overrides, the setting, its enu | why kept: claude</description>
     </item></channel></rss>

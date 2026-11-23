@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.59.4 (#8577) — https://github.com/trycua/cua/commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4 (score 5)
+- ui: remove the Matte theme and the Light surfaces setting (#32906) — https://github.com/ggml-org/llama.cpp/commit/8355b886250efcb490dec7431c3c0ec1463277a5 (score 2)
