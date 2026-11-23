@@ -1,1 +1,1 @@
-- opencl: add xielu (#32791) — https://github.com/ggml-org/llama.cpp/commit/1f8baae28d096624bd47d33d2d179ec479d47720 (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.59.4 in Cua Spaces (#8580) — https://github.com/trycua/cua/commit/33f12a596fb4c9234dbf1ddd8484b6e874e1af61 (score 5)
