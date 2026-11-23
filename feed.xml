@@ -1,11 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml-openvino: CI fixes, new model support, fixes and improvements. (…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/51fc2f90e23d4faf0f726f476a5452652b535145</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51fc2f90e23d4faf0f726f476a5452652b535145</guid>
-      <pubDate>Mon, 23 Nov 2026 09:38:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml-openvino: CI fixes, new model support, fixes and improvements. (#32861)
+      <title>ui: name the PWA from the build env and default it to Llama Chat (#32…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/2359d27a3694f220b190e5947684fcd4b3b2340f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2359d27a3694f220b190e5947684fcd4b3b2340f</guid>
+      <pubDate>Mon, 23 Nov 2026 09:55:11 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: name the PWA from the build env and default it to Llama Chat (#32890)
 
-* ggml-openvino: keep the rope angle in f32 under the f16 inference hint
+The manifest is built in Node by its Vite plugin, where import.meta.env is not set, so it was
+always named llama-ui what | why kept: claude, llama</description>
+    </item>
+    <item>
+      <title>ui: use a red edge on the send button&#x27;s error state (#32856)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/a0677c341ba6bbfbbf74fa3c966f4dba74e1c830</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a0677c341ba6bbfbbf74fa3c966f4dba74e1c830</guid>
+      <pubDate>Mon, 23 Nov 2026 09:55:11 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: use a red edge on the send button&amp;#39;s error state (#32856)
 
-* ggml-openvino: add a GGML_OP_ARGMAX trans | why kept: model, inference</description>
+The error state reused the primary button&amp;#39;s edge, which shows as a light
+ring in dark mode. Use the danger button&amp;#39;s edge  | why kept: claude</description>
     </item></channel></rss>

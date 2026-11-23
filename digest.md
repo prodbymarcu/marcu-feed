@@ -1,1 +1,2 @@
-- ggml-openvino: CI fixes, new model support, fixes and improvements. (… — https://github.com/ggml-org/llama.cpp/commit/51fc2f90e23d4faf0f726f476a5452652b535145 (score 4)
+- ui: name the PWA from the build env and default it to Llama Chat (#32… — https://github.com/ggml-org/llama.cpp/commit/2359d27a3694f220b190e5947684fcd4b3b2340f (score 4)
+- ui: use a red edge on the send button's error state (#32856) — https://github.com/ggml-org/llama.cpp/commit/a0677c341ba6bbfbbf74fa3c966f4dba74e1c830 (score 2)
