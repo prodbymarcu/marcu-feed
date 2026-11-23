@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.59.4 (#8577) — https://github.com/trycua/cua/commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4 (score 5)
+- opencl: add xielu (#32791) — https://github.com/ggml-org/llama.cpp/commit/1f8baae28d096624bd47d33d2d179ec479d47720 (score 2)
