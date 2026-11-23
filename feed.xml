@@ -1,10 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): draw no agent cursor for a human viewer&#x27;s desktop cl…</title>
-      <link>https://github.com/trycua/cua/commit/7632aadee849a54239bf832ec4881010a27d991a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7632aadee849a54239bf832ec4881010a27d991a</guid>
-      <pubDate>Mon, 23 Nov 2026 04:49:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): draw no agent cursor for a human viewer&amp;#39;s desktop click on Wayland (#8581)
-
-The layer-shell desktop click path (#5613) glided the agent cursor to the
-click point and waited f | why kept: agent</description>
+      <title>tests : update Qwen3.6-27B snapshot (#32845)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/a8f8294c45076538f4509754e4c79fc51a1a486b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a8f8294c45076538f4509754e4c79fc51a1a486b</guid>
+      <pubDate>Mon, 23 Nov 2026 05:53:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : update Qwen3.6-27B snapshot (#32845)&lt;/pre&gt; | why kept: qwen, qwen</description>
     </item></channel></rss>

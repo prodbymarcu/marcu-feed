@@ -1,1 +1,1 @@
-- fix(cua-driver): draw no agent cursor for a human viewer's desktop cl… — https://github.com/trycua/cua/commit/7632aadee849a54239bf832ec4881010a27d991a (score 2)
+- tests : update Qwen3.6-27B snapshot (#32845) — https://github.com/ggml-org/llama.cpp/commit/a8f8294c45076538f4509754e4c79fc51a1a486b (score 7)
