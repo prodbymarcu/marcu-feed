@@ -1,2 +1,1 @@
-- metal : add NVFP4 support (#32825) — https://github.com/ggml-org/llama.cpp/commit/51831d47d0a47b8a7d07c9ff262ebe4b0a211790 (score 4)
-- metal : batch concat rows and copy them in vector chunks (#32824) — https://github.com/ggml-org/llama.cpp/commit/ab789a246c1a59fbade35a28100bc2d38ea19188 (score 2)
+- chore(cua-driver): advance published installer version to 0.59.4 (#8577) — https://github.com/trycua/cua/commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4 (score 5)
