@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.59.5 (#8583) — https://github.com/trycua/cua/commit/181227e2afb100979d5d507715ffc15b5ee9b747 (score 5)
+- ui: smooth height transition for every collapsible (#32873) — https://github.com/ggml-org/llama.cpp/commit/4663f9ca8a97c525ba3d248711fa2b52050920ec (score 4)
