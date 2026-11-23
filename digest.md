@@ -1,1 +1,1 @@
-- Agent swarm trying to solve P vs. NP — https://pequalnp.com/ (score 2)
+- chore(main): release cua-driver-rs 0.59.3 (#8555) — https://github.com/trycua/cua/commit/6c4c7f9142908546eec47428e0b6878ab5a61667 (score 5)

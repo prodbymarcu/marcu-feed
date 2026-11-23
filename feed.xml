@@ -1,10 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Agent swarm trying to solve P vs. NP</title>
-      <link>https://pequalnp.com/</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50604314</guid>
-      <pubDate>Sun, 22 Nov 2026 18:08:57 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://pequalnp.com/&quot;&gt;https://pequalnp.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50604314&quot;&gt;https://news.ycombinator.com/item?id=50604314&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 31&lt;/p&gt;
-&lt;p&gt;# Comments: 20 | why kept: agent</description>
+      <title>chore(main): release cua-driver-rs 0.59.3 (#8555)</title>
+      <link>https://github.com/trycua/cua/commit/6c4c7f9142908546eec47428e0b6878ab5a61667</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6c4c7f9142908546eec47428e0b6878ab5a61667</guid>
+      <pubDate>Sun, 22 Nov 2026 20:01:13 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.3 (#8555)
+
+* chore(main): release cua-driver-rs 0.59.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
