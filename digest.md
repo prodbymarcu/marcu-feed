@@ -1,2 +1,1 @@
-- fix(cua-sandbox): accept cua-driver 0.60 (#8601) — https://github.com/trycua/cua/commit/6e4dfc0a7089eade7fe92eec8e2f495b5825c960 (score 5)
-- ui: set code in messages at the size of the text around it (#32892) — https://github.com/ggml-org/llama.cpp/commit/1094646c1fb706b0bc7cf3569c707a173032a01d (score 4)
+- chore(main): release bench 0.4.21 (#8610) — https://github.com/trycua/cua/commit/897e599f703137e4262c88a5849554a8c2b309d5 (score 5)
