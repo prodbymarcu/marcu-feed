@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>server : preserve a prompt-cache entry until restores succeed (#32828)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c212d25ad34ff1fdf775793cda07e009560cf66b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c212d25ad34ff1fdf775793cda07e009560cf66b</guid>
-      <pubDate>Mon, 23 Nov 2026 16:04:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : preserve a prompt-cache entry until restores succeed (#32828)
-
-Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
+      <title>Ladybird&#x27;s first alpha release</title>
+      <link>https://simonwillison.net/2026/Nov/23/ladybird/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/23/ladybird/</guid>
+      <pubDate>Mon, 23 Nov 2026 16:53:11 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href=&quot;https://ladybird.org&quot;&gt;Ladybird&lt;/a&gt; is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It sti | why kept: video</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- server : preserve a prompt-cache entry until restores succeed (#32828) — https://github.com/ggml-org/llama.cpp/commit/c212d25ad34ff1fdf775793cda07e009560cf66b (score 2)
+- Ladybird's first alpha release — https://simonwillison.net/2026/Nov/23/ladybird/ (score 2)
