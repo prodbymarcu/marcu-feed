@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.59.4 in Cua Spaces (#8580)</title>
-      <link>https://github.com/trycua/cua/commit/33f12a596fb4c9234dbf1ddd8484b6e874e1af61</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/33f12a596fb4c9234dbf1ddd8484b6e874e1af61</guid>
-      <pubDate>Mon, 23 Nov 2026 02:09:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.59.4 in Cua Spaces (#8580)
-
-Cua Driver 0.59.4 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+      <title>ui: add cancel button to cancel model loading (#32225)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/212c547fe908b288f6659d48741e6ffac1ff409c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/212c547fe908b288f6659d48741e6ffac1ff409c</guid>
+      <pubDate>Mon, 23 Nov 2026 03:29:46 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add cancel button to cancel model loading (#32225)&lt;/pre&gt; | why kept: model</description>
     </item></channel></rss>

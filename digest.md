@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.59.4 in Cua Spaces (#8580) — https://github.com/trycua/cua/commit/33f12a596fb4c9234dbf1ddd8484b6e874e1af61 (score 5)
+- ui: add cancel button to cancel model loading (#32225) — https://github.com/ggml-org/llama.cpp/commit/212c547fe908b288f6659d48741e6ffac1ff409c (score 2)
