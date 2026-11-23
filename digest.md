@@ -1,3 +1,1 @@
-- fix(ci): drop the stale CUA-3855 quarantine entry (handover relay tes… — https://github.com/trycua/cua/commit/4198ab6ffcdb4bc1cc7f1363760932890623cfb4 (score 11)
-- chore(cua-driver): advance published installer version to 0.59.3 (#8567) — https://github.com/trycua/cua/commit/31ca8478294fa2ffadfbe2bd8504417d2b5ae2e6 (score 5)
-- chore(main): release cua-driver-rs 0.59.4 (#8569) — https://github.com/trycua/cua/commit/01207bbf0ddcc0f2bb9642322c4e8b4b02319d1b (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.59.3 in Cua Spaces (#8559) — https://github.com/trycua/cua/commit/877e183635331340dfd654753e32fffa557ae678 (score 5)
