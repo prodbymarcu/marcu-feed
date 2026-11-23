@@ -1,7 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>tests : update Qwen3.6-27B snapshot (#32845)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a8f8294c45076538f4509754e4c79fc51a1a486b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a8f8294c45076538f4509754e4c79fc51a1a486b</guid>
-      <pubDate>Mon, 23 Nov 2026 05:53:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : update Qwen3.6-27B snapshot (#32845)&lt;/pre&gt; | why kept: qwen, qwen</description>
+      <title>chore(main): release cua-driver-rs 0.59.5 (#8583)</title>
+      <link>https://github.com/trycua/cua/commit/181227e2afb100979d5d507715ffc15b5ee9b747</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/181227e2afb100979d5d507715ffc15b5ee9b747</guid>
+      <pubDate>Mon, 23 Nov 2026 07:13:25 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.5 (#8583)
+
+* chore(main): release cua-driver-rs 0.59.5
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

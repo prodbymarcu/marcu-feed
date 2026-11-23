@@ -1,1 +1,1 @@
-- tests : update Qwen3.6-27B snapshot (#32845) — https://github.com/ggml-org/llama.cpp/commit/a8f8294c45076538f4509754e4c79fc51a1a486b (score 7)
+- chore(main): release cua-driver-rs 0.59.5 (#8583) — https://github.com/trycua/cua/commit/181227e2afb100979d5d507715ffc15b5ee9b747 (score 5)
