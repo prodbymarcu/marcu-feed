@@ -1,1 +1,1 @@
-- ui: smooth height transition for every collapsible (#32873) — https://github.com/ggml-org/llama.cpp/commit/4663f9ca8a97c525ba3d248711fa2b52050920ec (score 4)
+- ggml-openvino: CI fixes, new model support, fixes and improvements. (… — https://github.com/ggml-org/llama.cpp/commit/51fc2f90e23d4faf0f726f476a5452652b535145 (score 4)
