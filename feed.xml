@@ -1,20 +1,40 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: name the PWA from the build env and default it to Llama Chat (#32…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/2359d27a3694f220b190e5947684fcd4b3b2340f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2359d27a3694f220b190e5947684fcd4b3b2340f</guid>
-      <pubDate>Mon, 23 Nov 2026 09:55:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: name the PWA from the build env and default it to Llama Chat (#32890)
+      <title>chore(cua-driver): advance published installer version to 0.59.5 (#8593)</title>
+      <link>https://github.com/trycua/cua/commit/316b098571adf4872f0fa1a96f8237e737f72754</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/316b098571adf4872f0fa1a96f8237e737f72754</guid>
+      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.5 (#8593)
 
-The manifest is built in Node by its Vite plugin, where import.meta.env is not set, so it was
-always named llama-ui what | why kept: claude, llama</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item>
     <item>
-      <title>ui: use a red edge on the send button&#x27;s error state (#32856)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/a0677c341ba6bbfbbf74fa3c966f4dba74e1c830</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a0677c341ba6bbfbbf74fa3c966f4dba74e1c830</guid>
-      <pubDate>Mon, 23 Nov 2026 09:55:11 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: use a red edge on the send button&amp;#39;s error state (#32856)
+      <title>ui: set code in messages at the size of the text around it (#32892)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/1094646c1fb706b0bc7cf3569c707a173032a01d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1094646c1fb706b0bc7cf3569c707a173032a01d</guid>
+      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: set code in messages at the size of the text around it (#32892)
 
-The error state reused the primary button&amp;#39;s edge, which shows as a light
-ring in dark mode. Use the danger button&amp;#39;s edge  | why kept: claude</description>
+Inline code and code blocks were 14px next to 16px text. Llama Mono
+has Llama Sans&amp;#39;s x-height, so the two read as one size | why kept: claude, llama</description>
+    </item>
+    <item>
+      <title>ui: drop tool calls cut off by Stop from the next request (#32738)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/b6d5ce4bc9a3691d26b3207cc6c9c63b732d67e8</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b6d5ce4bc9a3691d26b3207cc6c9c63b732d67e8</guid>
+      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: drop tool calls cut off by Stop from the next request (#32738)
+
+* ui: drop tool calls cut off by Stop from the next request
+
+A tool call stopped mid-stream could stay on its message with cut- | why kept: claude, tool call</description>
+    </item>
+    <item>
+      <title>ui: unmount a closed collapsible&#x27;s body after one transition (#32881)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/27d0a1fc73f3a50bc32e13d13e163e462cc37316</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/27d0a1fc73f3a50bc32e13d13e163e462cc37316</guid>
+      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: unmount a closed collapsible&amp;#39;s body after one transition (#32881)
+
+bits-ui rebuilds the Collapsible.Content snippet args when its close
+transition ends, which re-ran the region&amp;#39;s effe | why kept: claude</description>
     </item></channel></rss>
