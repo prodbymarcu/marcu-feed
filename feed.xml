@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: remove the Matte theme and the Light surfaces setting (#32906)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/8355b886250efcb490dec7431c3c0ec1463277a5</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8355b886250efcb490dec7431c3c0ec1463277a5</guid>
-      <pubDate>Mon, 23 Nov 2026 15:48:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: remove the Matte theme and the Light surfaces setting (#32906)
+      <title>server : preserve a prompt-cache entry until restores succeed (#32828)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/c212d25ad34ff1fdf775793cda07e009560cf66b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c212d25ad34ff1fdf775793cda07e009560cf66b</guid>
+      <pubDate>Mon, 23 Nov 2026 16:04:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : preserve a prompt-cache entry until restores succeed (#32828)
 
-Paper is now the only light theme: its surface tokens stay the base
-values, and the theme-matte overrides, the setting, its enu | why kept: claude</description>
+Assisted-by: Codex&lt;/pre&gt; | why kept: codex</description>
     </item></channel></rss>

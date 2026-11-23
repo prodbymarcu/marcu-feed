@@ -1,1 +1,1 @@
-- ui: remove the Matte theme and the Light surfaces setting (#32906) — https://github.com/ggml-org/llama.cpp/commit/8355b886250efcb490dec7431c3c0ec1463277a5 (score 2)
+- server : preserve a prompt-cache entry until restores succeed (#32828) — https://github.com/ggml-org/llama.cpp/commit/c212d25ad34ff1fdf775793cda07e009560cf66b (score 2)
