@@ -1,1 +1,3 @@
-- datasette-charts 0.1a0 — https://simonwillison.net/2026/Nov/23/datasette-charts/ (score 2)
+- chore(cua-driver): advance published installer version to 0.60.0 (#8628) — https://github.com/trycua/cua/commit/9779d43064304c6c67fd971a388fd262534a547b (score 5)
+- chore(main): release cua-driver-rs 0.61.0 (#8616) — https://github.com/trycua/cua/commit/789725be19de9887e5ce06fb9a558d363b8ba840 (score 5)
+- quantize : make local const static for MSVC (#32902) — https://github.com/ggml-org/llama.cpp/commit/38b9cad71d14fa69b20393f42ebcd22ced77934e (score 4)

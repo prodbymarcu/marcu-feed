@@ -1,8 +1,31 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>datasette-charts 0.1a0</title>
-      <link>https://simonwillison.net/2026/Nov/23/datasette-charts/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/23/datasette-charts/</guid>
-      <pubDate>Mon, 23 Nov 2026 18:28:03 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-charts/releases/tag/0.1a0&quot;&gt;datasette-charts 0.1a0&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;I&#x27;ve been thinking about this problem for over a year now, but on Sunday I finally fired up Cl | why kept: claude</description>
+      <title>chore(cua-driver): advance published installer version to 0.60.0 (#8628)</title>
+      <link>https://github.com/trycua/cua/commit/9779d43064304c6c67fd971a388fd262534a547b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9779d43064304c6c67fd971a388fd262534a547b</guid>
+      <pubDate>Mon, 23 Nov 2026 18:44:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.60.0 (#8628)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.61.0 (#8616)</title>
+      <link>https://github.com/trycua/cua/commit/789725be19de9887e5ce06fb9a558d363b8ba840</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/789725be19de9887e5ce06fb9a558d363b8ba840</guid>
+      <pubDate>Mon, 23 Nov 2026 18:44:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.61.0 (#8616)
+
+* chore(main): release cua-driver-rs 0.61.0
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>quantize : make local const static for MSVC (#32902)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/38b9cad71d14fa69b20393f42ebcd22ced77934e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/38b9cad71d14fa69b20393f42ebcd22ced77934e</guid>
+      <pubDate>Mon, 23 Nov 2026 18:44:17 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;quantize : make local const static for MSVC (#32902)&lt;/pre&gt; | why kept: local, quant</description>
     </item></channel></rss>
