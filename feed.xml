@@ -1,9 +1,35 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.59.2 (#8556)</title>
-      <link>https://github.com/trycua/cua/commit/4ab2434abd73a0b83e4f06602c164472036ebbf8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4ab2434abd73a0b83e4f06602c164472036ebbf8</guid>
-      <pubDate>Sun, 22 Nov 2026 20:32:42 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.2 (#8556)
+      <title>fix(ci): drop the stale CUA-3855 quarantine entry (handover relay tes…</title>
+      <link>https://github.com/trycua/cua/commit/4198ab6ffcdb4bc1cc7f1363760932890623cfb4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4198ab6ffcdb4bc1cc7f1363760932890623cfb4</guid>
+      <pubDate>Sun, 22 Nov 2026 23:45:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): drop the stale CUA-3855 quarantine entry (handover relay test fixed in #7003) (#8570)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+The pick-then-bind port race was fixed on 8 Nov (#7003). The test has
+passed first try in CI since, | why kept: trycua, claude, local, runs</description>
+    </item>
+    <item>
+      <title>chore(cua-driver): advance published installer version to 0.59.3 (#8567)</title>
+      <link>https://github.com/trycua/cua/commit/31ca8478294fa2ffadfbe2bd8504417d2b5ae2e6</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/31ca8478294fa2ffadfbe2bd8504417d2b5ae2e6</guid>
+      <pubDate>Sun, 22 Nov 2026 23:45:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.3 (#8567)
+
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;
+Co-authored-by: Francesco Bonacc | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.59.4 (#8569)</title>
+      <link>https://github.com/trycua/cua/commit/01207bbf0ddcc0f2bb9642322c4e8b4b02319d1b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/01207bbf0ddcc0f2bb9642322c4e8b4b02319d1b</guid>
+      <pubDate>Sun, 22 Nov 2026 23:45:42 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.59.4 (#8569)
+
+* chore(main): release cua-driver-rs 0.59.4
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
