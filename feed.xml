@@ -1,11 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: show an agentic reply as a grouped Agent Trace (#32879)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/325914defd2c1279a039366d999dff4c19a75b54</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/325914defd2c1279a039366d999dff4c19a75b54</guid>
-      <pubDate>Mon, 23 Nov 2026 11:31:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: show an agentic reply as a grouped Agent Trace (#32879)
+      <title>metal : support BF16/F32 src1 for MUL_MAT and MUL_MAT_ID (#32677)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/87f816e87f35f91c8a6f7e561b1f1a7899bee254</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/87f816e87f35f91c8a6f7e561b1f1a7899bee254</guid>
+      <pubDate>Mon, 23 Nov 2026 11:48:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal : support BF16/F32 src1 for MUL_MAT and MUL_MAT_ID (#32677)
 
-* ui: show tool calls in the trace as a grouped, plain-language log
+* llama, metal : support BF16 src1 for MUL_MAT and MUL_MAT_ID
 
-Tool calls and all the reasoning around them, up to the answer, c | why kept: model, agent, tool call</description>
+Add GGML_PREC_BF16 handling for src1 on the Metal backend when th | why kept: llama</description>
+    </item>
+    <item>
+      <title>feat(cua-driver): end the macOS hover reveal wait at the window&#x27;s fir…</title>
+      <link>https://github.com/trycua/cua/commit/495e946406c45c6560b51e44e6ee48f427f63fdc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/495e946406c45c6560b51e44e6ee48f427f63fdc</guid>
+      <pubDate>Mon, 23 Nov 2026 11:48:34 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): end the macOS hover reveal wait at the window&amp;#39;s first repaint (#8592)
+
+* feat(cua-driver): add a damage-driven settle primitive to the core
+
+A DamageSignal takes frame diges | why kept: runs</description>
     </item></channel></rss>
