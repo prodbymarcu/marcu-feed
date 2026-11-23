@@ -1,1 +1,1 @@
-- chore(main): release bench 0.4.22 (#8623) — https://github.com/trycua/cua/commit/2c05d32ddf00af905769fe9541c73e2f05e5cafb (score 5)
+- datasette-charts 0.1a0 — https://simonwillison.net/2026/Nov/23/datasette-charts/ (score 2)
