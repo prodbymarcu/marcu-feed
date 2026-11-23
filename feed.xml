@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.59.3 in Cua Spaces (#8559)</title>
-      <link>https://github.com/trycua/cua/commit/877e183635331340dfd654753e32fffa557ae678</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/877e183635331340dfd654753e32fffa557ae678</guid>
-      <pubDate>Mon, 23 Nov 2026 00:01:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.59.3 in Cua Spaces (#8559)
+      <title>chore(cua-driver): advance published installer version to 0.59.4 (#8577)</title>
+      <link>https://github.com/trycua/cua/commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/99450cccf8a34696bf7f22481bec6fb2fcbea8d4</guid>
+      <pubDate>Mon, 23 Nov 2026 01:21:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.4 (#8577)
 
-Cua Driver 0.59.3 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
