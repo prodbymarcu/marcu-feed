@@ -1,22 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>metal : support BF16/F32 src1 for MUL_MAT and MUL_MAT_ID (#32677)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/87f816e87f35f91c8a6f7e561b1f1a7899bee254</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/87f816e87f35f91c8a6f7e561b1f1a7899bee254</guid>
-      <pubDate>Mon, 23 Nov 2026 11:48:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal : support BF16/F32 src1 for MUL_MAT and MUL_MAT_ID (#32677)
+      <title>quantize: add option to automatically choose optimal quant types to r…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/30ec35ae2e27f1eca486af02b9d3d53fa7a26950</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/30ec35ae2e27f1eca486af02b9d3d53fa7a26950</guid>
+      <pubDate>Mon, 23 Nov 2026 12:20:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;quantize: add option to automatically choose optimal quant types to reach a file/bpw target size at lowest error (#15550)
 
-* llama, metal : support BF16 src1 for MUL_MAT and MUL_MAT_ID
-
-Add GGML_PREC_BF16 handling for src1 on the Metal backend when th | why kept: llama</description>
-    </item>
-    <item>
-      <title>feat(cua-driver): end the macOS hover reveal wait at the window&#x27;s fir…</title>
-      <link>https://github.com/trycua/cua/commit/495e946406c45c6560b51e44e6ee48f427f63fdc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/495e946406c45c6560b51e44e6ee48f427f63fdc</guid>
-      <pubDate>Mon, 23 Nov 2026 11:48:34 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(cua-driver): end the macOS hover reveal wait at the window&amp;#39;s first repaint (#8592)
-
-* feat(cua-driver): add a damage-driven settle primitive to the core
-
-A DamageSignal takes frame diges | why kept: runs</description>
+* Refactor pareto optimise and convexify
+* Refactor lagrange_penalty()
+* | why kept: quant</description>
     </item></channel></rss>

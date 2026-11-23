@@ -1,2 +1,1 @@
-- metal : support BF16/F32 src1 for MUL_MAT and MUL_MAT_ID (#32677) — https://github.com/ggml-org/llama.cpp/commit/87f816e87f35f91c8a6f7e561b1f1a7899bee254 (score 2)
-- feat(cua-driver): end the macOS hover reveal wait at the window's fir… — https://github.com/trycua/cua/commit/495e946406c45c6560b51e44e6ee48f427f63fdc (score 2)
+- quantize: add option to automatically choose optimal quant types to r… — https://github.com/ggml-org/llama.cpp/commit/30ec35ae2e27f1eca486af02b9d3d53fa7a26950 (score 2)
