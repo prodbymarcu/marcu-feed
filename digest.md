@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.60.0 (#8600) — https://github.com/trycua/cua/commit/7ebe6a662ea380d0b7a340a33ee59feaf8f56f43 (score 5)
+- metal : add NVFP4 support (#32825) — https://github.com/ggml-org/llama.cpp/commit/51831d47d0a47b8a7d07c9ff262ebe4b0a211790 (score 4)
+- metal : batch concat rows and copy them in vector chunks (#32824) — https://github.com/ggml-org/llama.cpp/commit/ab789a246c1a59fbade35a28100bc2d38ea19188 (score 2)
