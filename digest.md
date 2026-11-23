@@ -1,4 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.59.5 (#8593) — https://github.com/trycua/cua/commit/316b098571adf4872f0fa1a96f8237e737f72754 (score 5)
-- ui: set code in messages at the size of the text around it (#32892) — https://github.com/ggml-org/llama.cpp/commit/1094646c1fb706b0bc7cf3569c707a173032a01d (score 4)
-- ui: drop tool calls cut off by Stop from the next request (#32738) — https://github.com/ggml-org/llama.cpp/commit/b6d5ce4bc9a3691d26b3207cc6c9c63b732d67e8 (score 4)
-- ui: unmount a closed collapsible's body after one transition (#32881) — https://github.com/ggml-org/llama.cpp/commit/27d0a1fc73f3a50bc32e13d13e163e462cc37316 (score 2)
+- fix(spaces-macos): bundle Cua Driver 0.59.5 in Cua Spaces (#8597) — https://github.com/trycua/cua/commit/feec8645d22acef0ec430a2349c71a81ab54cd41 (score 5)

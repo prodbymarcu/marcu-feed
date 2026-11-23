@@ -1,40 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.59.5 (#8593)</title>
-      <link>https://github.com/trycua/cua/commit/316b098571adf4872f0fa1a96f8237e737f72754</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/316b098571adf4872f0fa1a96f8237e737f72754</guid>
-      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.59.5 (#8593)
+      <title>fix(spaces-macos): bundle Cua Driver 0.59.5 in Cua Spaces (#8597)</title>
+      <link>https://github.com/trycua/cua/commit/feec8645d22acef0ec430a2349c71a81ab54cd41</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/feec8645d22acef0ec430a2349c71a81ab54cd41</guid>
+      <pubDate>Mon, 23 Nov 2026 10:58:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.59.5 in Cua Spaces (#8597)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
-    </item>
-    <item>
-      <title>ui: set code in messages at the size of the text around it (#32892)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/1094646c1fb706b0bc7cf3569c707a173032a01d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1094646c1fb706b0bc7cf3569c707a173032a01d</guid>
-      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: set code in messages at the size of the text around it (#32892)
-
-Inline code and code blocks were 14px next to 16px text. Llama Mono
-has Llama Sans&amp;#39;s x-height, so the two read as one size | why kept: claude, llama</description>
-    </item>
-    <item>
-      <title>ui: drop tool calls cut off by Stop from the next request (#32738)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/b6d5ce4bc9a3691d26b3207cc6c9c63b732d67e8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b6d5ce4bc9a3691d26b3207cc6c9c63b732d67e8</guid>
-      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: drop tool calls cut off by Stop from the next request (#32738)
-
-* ui: drop tool calls cut off by Stop from the next request
-
-A tool call stopped mid-stream could stay on its message with cut- | why kept: claude, tool call</description>
-    </item>
-    <item>
-      <title>ui: unmount a closed collapsible&#x27;s body after one transition (#32881)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/27d0a1fc73f3a50bc32e13d13e163e462cc37316</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/27d0a1fc73f3a50bc32e13d13e163e462cc37316</guid>
-      <pubDate>Mon, 23 Nov 2026 10:26:56 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: unmount a closed collapsible&amp;#39;s body after one transition (#32881)
-
-bits-ui rebuilds the Collapsible.Content snippet args when its close
-transition ends, which re-ran the region&amp;#39;s effe | why kept: claude</description>
+Cua Driver 0.59.5 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>
