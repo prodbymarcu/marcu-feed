@@ -1,1 +1,1 @@
-- ui: add cancel button to cancel model loading (#32225) — https://github.com/ggml-org/llama.cpp/commit/212c547fe908b288f6659d48741e6ffac1ff409c (score 2)
+- fix(cua-driver): draw no agent cursor for a human viewer's desktop cl… — https://github.com/trycua/cua/commit/7632aadee849a54239bf832ec4881010a27d991a (score 2)

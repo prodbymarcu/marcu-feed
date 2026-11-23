@@ -1,7 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: add cancel button to cancel model loading (#32225)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/212c547fe908b288f6659d48741e6ffac1ff409c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/212c547fe908b288f6659d48741e6ffac1ff409c</guid>
-      <pubDate>Mon, 23 Nov 2026 03:29:46 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add cancel button to cancel model loading (#32225)&lt;/pre&gt; | why kept: model</description>
+      <title>fix(cua-driver): draw no agent cursor for a human viewer&#x27;s desktop cl…</title>
+      <link>https://github.com/trycua/cua/commit/7632aadee849a54239bf832ec4881010a27d991a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7632aadee849a54239bf832ec4881010a27d991a</guid>
+      <pubDate>Mon, 23 Nov 2026 04:49:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): draw no agent cursor for a human viewer&amp;#39;s desktop click on Wayland (#8581)
+
+The layer-shell desktop click path (#5613) glided the agent cursor to the
+click point and waited f | why kept: agent</description>
     </item></channel></rss>
