@@ -1,15 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.61.1 (#8635)</title>
-      <link>https://github.com/trycua/cua/commit/7cf21276f3ef6519a41bd209c3fae6af6416e99b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7cf21276f3ef6519a41bd209c3fae6af6416e99b</guid>
-      <pubDate>Mon, 23 Nov 2026 23:01:25 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.61.1 (#8635)
+      <title>chore(main): release cua-driver-rs 0.61.2 (#8648)</title>
+      <link>https://github.com/trycua/cua/commit/2873624727c033364a98d1ccbbe430db04c8512d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2873624727c033364a98d1ccbbe430db04c8512d</guid>
+      <pubDate>Tue, 24 Nov 2026 00:21:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.61.2 (#8648)
 
-* chore(main): release cua-driver-rs 0.61.1
+* chore(main): release cua-driver-rs 0.61.2
 
 * chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
 Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>datasette-charts 0.2a0</title>
+      <link>https://simonwillison.net/2026/Nov/24/datasette-charts/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/24/datasette-charts/</guid>
+      <pubDate>Tue, 24 Nov 2026 00:21:18 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-charts/releases/tag/0.2a0&quot;&gt;datasette-charts 0.2a0&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;I introduced this new charting plugin for Datasette &lt;a href=&quot;https://simonwillison.net/2026/No | why kept: agent, video</description>
     </item></channel></rss>
