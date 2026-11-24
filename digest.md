@@ -1,1 +1,2 @@
-- ui: make Llama Chat a plain chat unless llama-server offers agent fea… — https://github.com/ggml-org/llama.cpp/commit/97bbf98fdfeb311e50e313fc807d3af1a1ff32d4 (score 6)
+- chore(cua-driver): advance published installer version to 0.61.3 (#8668) — https://github.com/trycua/cua/commit/ace7dac9cc94b02fc93dc9f588b7f04079339931 (score 5)
+- ui: expect the Llama Chat name in the PWA manifest e2e test (#32959) — https://github.com/ggml-org/llama.cpp/commit/8bf2eae708e5bdaa782bbae9a8a8ceda97acaf1c (score 4)

@@ -1,10 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: make Llama Chat a plain chat unless llama-server offers agent fea…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/97bbf98fdfeb311e50e313fc807d3af1a1ff32d4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/97bbf98fdfeb311e50e313fc807d3af1a1ff32d4</guid>
-      <pubDate>Tue, 24 Nov 2026 09:10:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: make Llama Chat a plain chat unless llama-server offers agent features (#32949)
+      <title>chore(cua-driver): advance published installer version to 0.61.3 (#8668)</title>
+      <link>https://github.com/trycua/cua/commit/ace7dac9cc94b02fc93dc9f588b7f04079339931</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ace7dac9cc94b02fc93dc9f588b7f04079339931</guid>
+      <pubDate>Tue, 24 Nov 2026 11:19:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.61.3 (#8668)
 
-Llama Chat showed its tools, MCP and agentic settings and ran the agentic
-loop for every server. Now it does s | why kept: model, agent, llama</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+    </item>
+    <item>
+      <title>ui: expect the Llama Chat name in the PWA manifest e2e test (#32959)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/8bf2eae708e5bdaa782bbae9a8a8ceda97acaf1c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8bf2eae708e5bdaa782bbae9a8a8ceda97acaf1c</guid>
+      <pubDate>Tue, 24 Nov 2026 11:19:03 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: expect the Llama Chat name in the PWA manifest e2e test (#32959)
+
+#32890 named the PWA Llama Chat by default, but the E2E test still
+expected llama-ui, so the UI workflow failed on master and | why kept: claude, llama</description>
     </item></channel></rss>
