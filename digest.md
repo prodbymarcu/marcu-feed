@@ -1,1 +1,1 @@
-- fix(cua-sandbox): accept cua-driver 0.62 (#8679) — https://github.com/trycua/cua/commit/6feb735385f8d9ef5e347129ce9f2d0256caedce (score 5)
+- chore(main): release bench 0.4.23 (#8682) — https://github.com/trycua/cua/commit/2d968e5436173fce540e0041ed21fde44622868a (score 5)
