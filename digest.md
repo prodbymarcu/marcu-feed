@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.61.4 (#8663) — https://github.com/trycua/cua/commit/9b6ddb4c6b4d67df89ca9ee76eb9592e1c9e4906 (score 5)
+- ui: move the agentic loop and trace phrasing into @ggml-org/llama-har… — https://github.com/ggml-org/llama.cpp/commit/ae6a7ad2c5754dd8db93d04c84fda70435864f6e (score 12)
+- ci : disable test-llama-context on ubuntu-llvmpipe (#32932) — https://github.com/ggml-org/llama.cpp/commit/5fe49068594967a70b32deb3f9f401d7e4b7fedd (score 11)
