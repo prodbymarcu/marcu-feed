@@ -1,2 +1,1 @@
-- convert : fix qwen3-omni conversion (#32941) — https://github.com/ggml-org/llama.cpp/commit/23f0c0182f48c7ebbc3d88e383af2b0f867767bb (score 7)
-- A training engine for your local model, using your idle compute — https://github.com/sous-labs/songe (score 4)
+- ui: run Llama Chat apart from llama-server, named in config.json or n… — https://github.com/ggml-org/llama.cpp/commit/0ce7f213b0749fa4dee4e87d8ae7bf63e621c1ad (score 4)

@@ -1,16 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>convert : fix qwen3-omni conversion (#32941)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/23f0c0182f48c7ebbc3d88e383af2b0f867767bb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/23f0c0182f48c7ebbc3d88e383af2b0f867767bb</guid>
-      <pubDate>Tue, 24 Nov 2026 11:35:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;convert : fix qwen3-omni conversion (#32941)&lt;/pre&gt; | why kept: qwen, qwen</description>
-    </item>
-    <item>
-      <title>A training engine for your local model, using your idle compute</title>
-      <link>https://github.com/sous-labs/songe</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50629231</guid>
-      <pubDate>Tue, 24 Nov 2026 11:35:36 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://github.com/sous-labs/songe&quot;&gt;https://github.com/sous-labs/songe&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href=&quot;https://news.ycombinator.com/item?id=50629231&quot;&gt;https://news.ycombinator.com/item?id=50629231&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points | why kept: model, local</description>
+      <title>ui: run Llama Chat apart from llama-server, named in config.json or n…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/0ce7f213b0749fa4dee4e87d8ae7bf63e621c1ad</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0ce7f213b0749fa4dee4e87d8ae7bf63e621c1ad</guid>
+      <pubDate>Tue, 24 Nov 2026 11:50:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: run Llama Chat apart from llama-server, named in config.json or npx --server (#32945)
+
+* ui: run Llama Chat apart from llama-server, named in config.json
+
+The app reads config.json, a file ne | why kept: model, llama</description>
     </item></channel></rss>
