@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>cmake : include the llguidance header from the source tree (#32928)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/bb692efaa43809dd8584fefddda42a54a9a50846</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/bb692efaa43809dd8584fefddda42a54a9a50846</guid>
-      <pubDate>Tue, 24 Nov 2026 13:43:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;cmake : include the llguidance header from the source tree (#32928)
+      <title>chore(cua-driver): advance published installer version to 0.62.0 (#8694)</title>
+      <link>https://github.com/trycua/cua/commit/6fca321e14c1539ad1600d10d9ffd617fd1c1430</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6fca321e14c1539ad1600d10d9ffd617fd1c1430</guid>
+      <pubDate>Tue, 24 Nov 2026 15:19:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.62.0 (#8694)
 
-Cargo 1.100 changed the build directory layout for intermediate artifacts, so
-the header destination llguidance derives from $ | why kept: qwen, qwen, llama</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

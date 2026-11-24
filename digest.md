@@ -1,1 +1,1 @@
-- cmake : include the llguidance header from the source tree (#32928) — https://github.com/ggml-org/llama.cpp/commit/bb692efaa43809dd8584fefddda42a54a9a50846 (score 9)
+- chore(cua-driver): advance published installer version to 0.62.0 (#8694) — https://github.com/trycua/cua/commit/6fca321e14c1539ad1600d10d9ffd617fd1c1430 (score 5)
