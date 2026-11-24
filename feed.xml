@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.61.1 (#8649)</title>
-      <link>https://github.com/trycua/cua/commit/0c4e9334e813f0b93d02b029f8b42b0255775e8e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c4e9334e813f0b93d02b029f8b42b0255775e8e</guid>
-      <pubDate>Tue, 24 Nov 2026 01:25:40 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.61.1 (#8649)
+      <title>chore(cua-driver): advance published installer version to 0.61.2 (#8653)</title>
+      <link>https://github.com/trycua/cua/commit/23b2b234156f2281d89983849aaf14945d8c41d9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/23b2b234156f2281d89983849aaf14945d8c41d9</guid>
+      <pubDate>Tue, 24 Nov 2026 02:13:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.61.2 (#8653)
 
 Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

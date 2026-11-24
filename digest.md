@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.61.1 (#8649) — https://github.com/trycua/cua/commit/0c4e9334e813f0b93d02b029f8b42b0255775e8e (score 5)
+- chore(cua-driver): advance published installer version to 0.61.2 (#8653) — https://github.com/trycua/cua/commit/23b2b234156f2281d89983849aaf14945d8c41d9 (score 5)
