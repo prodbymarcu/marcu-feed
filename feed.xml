@@ -1,17 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>vulkan: support state size 96 in ssm_scan (#32162)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/d141011c25781519123be51019441cd710260cb2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d141011c25781519123be51019441cd710260cb2</guid>
-      <pubDate>Tue, 24 Nov 2026 02:29:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: support state size 96 in ssm_scan (#32162)
+      <title>fix(spaces-macos): bundle Cua Driver 0.61.2 in Cua Spaces (#8629)</title>
+      <link>https://github.com/trycua/cua/commit/caf56ab239721d104a2973bd6f023a5b98f9a71a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/caf56ab239721d104a2973bd6f023a5b98f9a71a</guid>
+      <pubDate>Tue, 24 Nov 2026 03:17:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.61.2 in Cua Spaces (#8629)
 
-* vulkan: support state size 96 in ssm_scan
+Cua Driver 0.61.2 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+    </item>
+    <item>
+      <title>chore(main): release cua-driver-rs 0.61.3 (#8658)</title>
+      <link>https://github.com/trycua/cua/commit/7ab6c28edcaecba88e4778b328790538ff1af64c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ab6c28edcaecba88e4778b328790538ff1af64c</guid>
+      <pubDate>Tue, 24 Nov 2026 03:17:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.61.3 (#8658)
 
-Assisted-by: Claude Code
+* chore(main): release cua-driver-rs 0.61.3
 
-* vulkan: specialize ssm_scan state size
+* chore(cua-driver-rs): synchronize generated release files
 
-Assisted-by: Codex
+---------
 
-* vulkan:  | why kept: claude, codex</description>
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

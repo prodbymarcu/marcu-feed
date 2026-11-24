@@ -1,1 +1,2 @@
-- vulkan: support state size 96 in ssm_scan (#32162) — https://github.com/ggml-org/llama.cpp/commit/d141011c25781519123be51019441cd710260cb2 (score 4)
+- fix(spaces-macos): bundle Cua Driver 0.61.2 in Cua Spaces (#8629) — https://github.com/trycua/cua/commit/caf56ab239721d104a2973bd6f023a5b98f9a71a (score 5)
+- chore(main): release cua-driver-rs 0.61.3 (#8658) — https://github.com/trycua/cua/commit/7ab6c28edcaecba88e4778b328790538ff1af64c (score 5)
