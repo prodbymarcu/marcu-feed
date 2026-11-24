@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: run Llama Chat apart from llama-server, named in config.json or n…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0ce7f213b0749fa4dee4e87d8ae7bf63e621c1ad</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0ce7f213b0749fa4dee4e87d8ae7bf63e621c1ad</guid>
-      <pubDate>Tue, 24 Nov 2026 11:50:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: run Llama Chat apart from llama-server, named in config.json or npx --server (#32945)
+      <title>fix(cua-sandbox): accept cua-driver 0.62 (#8679)</title>
+      <link>https://github.com/trycua/cua/commit/6feb735385f8d9ef5e347129ce9f2d0256caedce</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6feb735385f8d9ef5e347129ce9f2d0256caedce</guid>
+      <pubDate>Tue, 24 Nov 2026 12:07:35 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.62 (#8679)
 
-* ui: run Llama Chat apart from llama-server, named in config.json
-
-The app reads config.json, a file ne | why kept: model, llama</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

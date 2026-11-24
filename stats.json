@@ -4,7 +4,7 @@
  "dropped_kill": 0,
  "dropped_low": 0,
  "errors": [
-  "hn-agent: <HTTPError 502: 'Bad Gateway'>",
+  "hn-agent: TimeoutError('The read operation timed out')",
   "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
@@ -15,5 +15,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 1,
- "at": "2026-11-24T16:50:59Z"
+ "at": "2026-11-24T17:07:35Z"
 }

@@ -1,1 +1,1 @@
-- ui: run Llama Chat apart from llama-server, named in config.json or n… — https://github.com/ggml-org/llama.cpp/commit/0ce7f213b0749fa4dee4e87d8ae7bf63e621c1ad (score 4)
+- fix(cua-sandbox): accept cua-driver 0.62 (#8679) — https://github.com/trycua/cua/commit/6feb735385f8d9ef5e347129ce9f2d0256caedce (score 5)
