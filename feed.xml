@@ -1,21 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: move the agentic loop and trace phrasing into @ggml-org/llama-har…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ae6a7ad2c5754dd8db93d04c84fda70435864f6e</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ae6a7ad2c5754dd8db93d04c84fda70435864f6e</guid>
-      <pubDate>Tue, 24 Nov 2026 05:25:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move the agentic loop and trace phrasing into @ggml-org/llama-harness (#32927)
+      <title>CUDA: NVFP4 dequant, pack 8 blocks per CTA (#32875)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/6fb428332ecef16ac82c4e8cf961ac287bb3217b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6fb428332ecef16ac82c4e8cf961ac287bb3217b</guid>
+      <pubDate>Tue, 24 Nov 2026 06:45:10 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: NVFP4 dequant, pack 8 blocks per CTA (#32875)
 
-* ui: add @ggml-org/llama-harness, the agentic loop as a package, in ui/lib/harness
+Launch dequantize_block_nvfp4 with dim3(32, 8) so each CTA covers 8 NVFP4 blocks (256 values), as the K-quants do.
 
-Llama Harness is the agent | why kept: model, agent, runs, inference, llama, tool call</description>
-    </item>
-    <item>
-      <title>ci : disable test-llama-context on ubuntu-llvmpipe (#32932)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5fe49068594967a70b32deb3f9f401d7e4b7fedd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5fe49068594967a70b32deb3f9f401d7e4b7fedd</guid>
-      <pubDate>Tue, 24 Nov 2026 05:25:35 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci : disable test-llama-context on ubuntu-llvmpipe (#32932)
+Assisted-by: Claude Code
 
-The dummy-model context sweep no longer fits within the job timeout on
-the llvmpipe runner. Exclude it from the ctest run there, keepi | why kept: qwen, model, qwen, llama</description>
+ | why kept: claude, quant</description>
     </item></channel></rss>

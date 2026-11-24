@@ -1,2 +1,1 @@
-- ui: move the agentic loop and trace phrasing into @ggml-org/llama-har… — https://github.com/ggml-org/llama.cpp/commit/ae6a7ad2c5754dd8db93d04c84fda70435864f6e (score 12)
-- ci : disable test-llama-context on ubuntu-llvmpipe (#32932) — https://github.com/ggml-org/llama.cpp/commit/5fe49068594967a70b32deb3f9f401d7e4b7fedd (score 11)
+- CUDA: NVFP4 dequant, pack 8 blocks per CTA (#32875) — https://github.com/ggml-org/llama.cpp/commit/6fb428332ecef16ac82c4e8cf961ac287bb3217b (score 4)
