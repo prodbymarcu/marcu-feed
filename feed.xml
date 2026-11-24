@@ -1,8 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
-      <link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/23/glm-54/</guid>
-      <pubDate>Mon, 23 Nov 2026 19:16:13 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://z.ai/blog/glm-5.4&quot;&gt;GLM-5.4: Toward Generalized Coding with Our First Loop Transformer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-GLM 5.4 is now available from Chinese AI lab Z.ai. It&#x27;s their first model to use a looped transformer archite | why kept: model, runs</description>
+      <title>fix(cua-driver): wait for Edge&#x27;s quiet permission indicator instead o…</title>
+      <link>https://github.com/trycua/cua/commit/b18defe259841675ac031d09d463aa78fa2db9b0</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b18defe259841675ac031d09d463aa78fa2db9b0</guid>
+      <pubDate>Mon, 23 Nov 2026 19:48:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): wait for Edge&amp;#39;s quiet permission indicator instead of one 250 ms look (#8620)
+
+Co-authored-by: Claude Opus 5.5 &amp;lt;noreply@anthropic.com&amp;gt;&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- GLM-5.4: Toward Generalized Coding with Our First Loop Transformer — https://simonwillison.net/2026/Nov/23/glm-54/ (score 4)
+- fix(cua-driver): wait for Edge's quiet permission indicator instead o… — https://github.com/trycua/cua/commit/b18defe259841675ac031d09d463aa78fa2db9b0 (score 2)
