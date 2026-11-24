@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.62.1 (#8699) — https://github.com/trycua/cua/commit/3f69010ccd901a04ecf7b009b2b95400c3cb4ab8 (score 5)
+- Three LLM inflection points in twelve months — https://simonwillison.net/2026/Nov/24/llm-inflection-points/ (score 4)
