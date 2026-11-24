@@ -1,9 +1,17 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.61.2 (#8653)</title>
-      <link>https://github.com/trycua/cua/commit/23b2b234156f2281d89983849aaf14945d8c41d9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/23b2b234156f2281d89983849aaf14945d8c41d9</guid>
-      <pubDate>Tue, 24 Nov 2026 02:13:36 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.61.2 (#8653)
+      <title>vulkan: support state size 96 in ssm_scan (#32162)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/d141011c25781519123be51019441cd710260cb2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d141011c25781519123be51019441cd710260cb2</guid>
+      <pubDate>Tue, 24 Nov 2026 02:29:18 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;vulkan: support state size 96 in ssm_scan (#32162)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* vulkan: support state size 96 in ssm_scan
+
+Assisted-by: Claude Code
+
+* vulkan: specialize ssm_scan state size
+
+Assisted-by: Codex
+
+* vulkan:  | why kept: claude, codex</description>
     </item></channel></rss>

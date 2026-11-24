@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.61.2 (#8653) — https://github.com/trycua/cua/commit/23b2b234156f2281d89983849aaf14945d8c41d9 (score 5)
+- vulkan: support state size 96 in ssm_scan (#32162) — https://github.com/ggml-org/llama.cpp/commit/d141011c25781519123be51019441cd710260cb2 (score 4)
