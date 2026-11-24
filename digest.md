@@ -1,1 +1,1 @@
-- model : inkling2 clip with ggml_l2_norm (#32940) — https://github.com/ggml-org/llama.cpp/commit/e683365a74d5a09b184b3faf3dee240129439b80 (score 4)
+- ui: make Llama Chat a plain chat unless llama-server offers agent fea… — https://github.com/ggml-org/llama.cpp/commit/97bbf98fdfeb311e50e313fc807d3af1a1ff32d4 (score 6)

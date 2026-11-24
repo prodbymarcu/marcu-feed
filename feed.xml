@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : inkling2 clip with ggml_l2_norm (#32940)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e683365a74d5a09b184b3faf3dee240129439b80</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e683365a74d5a09b184b3faf3dee240129439b80</guid>
-      <pubDate>Tue, 24 Nov 2026 07:49:32 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : inkling2 clip with ggml_l2_norm (#32940)
+      <title>ui: make Llama Chat a plain chat unless llama-server offers agent fea…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/97bbf98fdfeb311e50e313fc807d3af1a1ff32d4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/97bbf98fdfeb311e50e313fc807d3af1a1ff32d4</guid>
+      <pubDate>Tue, 24 Nov 2026 09:10:36 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: make Llama Chat a plain chat unless llama-server offers agent features (#32949)
 
-Assisted-by: Claude Opus 5.5&lt;/pre&gt; | why kept: model, claude</description>
+Llama Chat showed its tools, MCP and agentic settings and ran the agentic
+loop for every server. Now it does s | why kept: model, agent, llama</description>
     </item></channel></rss>
