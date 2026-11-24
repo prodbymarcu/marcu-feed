@@ -1,1 +1,1 @@
-- opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify (#32909) — https://github.com/ggml-org/llama.cpp/commit/af5c58347fdbc2cd19e65b278e81c8f528f8a175 (score 2)
+- chore(cua-driver): advance published installer version to 0.61.0 (#8636) — https://github.com/trycua/cua/commit/1bb5fd03dc4c095628dc2de36025ec0b04191401 (score 5)

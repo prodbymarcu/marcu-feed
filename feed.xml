@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify (#32909)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/af5c58347fdbc2cd19e65b278e81c8f528f8a175</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/af5c58347fdbc2cd19e65b278e81c8f528f8a175</guid>
-      <pubDate>Mon, 23 Nov 2026 20:20:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify (#32909)
+      <title>chore(cua-driver): advance published installer version to 0.61.0 (#8636)</title>
+      <link>https://github.com/trycua/cua/commit/1bb5fd03dc4c095628dc2de36025ec0b04191401</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1bb5fd03dc4c095628dc2de36025ec0b04191401</guid>
+      <pubDate>Mon, 23 Nov 2026 21:56:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.61.0 (#8636)
 
-Assisted-by: Codex
-
-Co-authored-by: Hongqiang Wang &amp;lt;wangh@qti.qualcomm.com&amp;gt;&lt;/pre&gt; | why kept: codex</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
