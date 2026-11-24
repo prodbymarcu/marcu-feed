@@ -1,1 +1,1 @@
-- fix(cua-driver): wait for Edge's quiet permission indicator instead o… — https://github.com/trycua/cua/commit/b18defe259841675ac031d09d463aa78fa2db9b0 (score 2)
+- opencl: add c8 q6_k coopk GEMM for up to n=8 spec verify (#32909) — https://github.com/ggml-org/llama.cpp/commit/af5c58347fdbc2cd19e65b278e81c8f528f8a175 (score 2)
