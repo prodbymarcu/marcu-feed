@@ -1,23 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.61.2 (#8648)</title>
-      <link>https://github.com/trycua/cua/commit/2873624727c033364a98d1ccbbe430db04c8512d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2873624727c033364a98d1ccbbe430db04c8512d</guid>
-      <pubDate>Tue, 24 Nov 2026 00:21:18 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.61.2 (#8648)
+      <title>chore(cua-driver): advance published installer version to 0.61.1 (#8649)</title>
+      <link>https://github.com/trycua/cua/commit/0c4e9334e813f0b93d02b029f8b42b0255775e8e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0c4e9334e813f0b93d02b029f8b42b0255775e8e</guid>
+      <pubDate>Tue, 24 Nov 2026 01:25:40 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.61.1 (#8649)
 
-* chore(main): release cua-driver-rs 0.61.2
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>datasette-charts 0.2a0</title>
-      <link>https://simonwillison.net/2026/Nov/24/datasette-charts/</link>
-      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/24/datasette-charts/</guid>
-      <pubDate>Tue, 24 Nov 2026 00:21:18 +0000</pubDate>
-      <description>&lt;p&gt;&lt;strong&gt;Release:&lt;/strong&gt; &lt;a href=&quot;https://github.com/datasette/datasette-charts/releases/tag/0.2a0&quot;&gt;datasette-charts 0.2a0&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;I introduced this new charting plugin for Datasette &lt;a href=&quot;https://simonwillison.net/2026/No | why kept: agent, video</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

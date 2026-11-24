@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.61.2 (#8648) — https://github.com/trycua/cua/commit/2873624727c033364a98d1ccbbe430db04c8512d (score 5)
-- datasette-charts 0.2a0 — https://simonwillison.net/2026/Nov/24/datasette-charts/ (score 4)
+- chore(cua-driver): advance published installer version to 0.61.1 (#8649) — https://github.com/trycua/cua/commit/0c4e9334e813f0b93d02b029f8b42b0255775e8e (score 5)
