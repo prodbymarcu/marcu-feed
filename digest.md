@@ -1,2 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.61.2 in Cua Spaces (#8629) — https://github.com/trycua/cua/commit/caf56ab239721d104a2973bd6f023a5b98f9a71a (score 5)
-- chore(main): release cua-driver-rs 0.61.3 (#8658) — https://github.com/trycua/cua/commit/7ab6c28edcaecba88e4778b328790538ff1af64c (score 5)
+- ui: match tool call timer font size to its title (#32922) — https://github.com/ggml-org/llama.cpp/commit/a6ac41c757c066941766164439f6876f2deaab04 (score 4)
+- ui: let the chat form's model selection decide the submit state (#32920) — https://github.com/ggml-org/llama.cpp/commit/3fccd98e9dba9f19b2f5bf3818e06c3262adcf3e (score 4)

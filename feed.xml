@@ -1,24 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.61.2 in Cua Spaces (#8629)</title>
-      <link>https://github.com/trycua/cua/commit/caf56ab239721d104a2973bd6f023a5b98f9a71a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/caf56ab239721d104a2973bd6f023a5b98f9a71a</guid>
-      <pubDate>Tue, 24 Nov 2026 03:17:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.61.2 in Cua Spaces (#8629)
+      <title>ui: match tool call timer font size to its title (#32922)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/a6ac41c757c066941766164439f6876f2deaab04</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/a6ac41c757c066941766164439f6876f2deaab04</guid>
+      <pubDate>Tue, 24 Nov 2026 03:33:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: match tool call timer font size to its title (#32922)
 
-Cua Driver 0.61.2 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+Assisted-by: Claude (Opus 5.5 Medium)&lt;/pre&gt; | why kept: claude, tool call</description>
     </item>
     <item>
-      <title>chore(main): release cua-driver-rs 0.61.3 (#8658)</title>
-      <link>https://github.com/trycua/cua/commit/7ab6c28edcaecba88e4778b328790538ff1af64c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7ab6c28edcaecba88e4778b328790538ff1af64c</guid>
-      <pubDate>Tue, 24 Nov 2026 03:17:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.61.3 (#8658)
+      <title>ui: let the chat form&#x27;s model selection decide the submit state (#32920)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/3fccd98e9dba9f19b2f5bf3818e06c3262adcf3e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3fccd98e9dba9f19b2f5bf3818e06c3262adcf3e</guid>
+      <pubDate>Tue, 24 Nov 2026 03:33:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: let the chat form&amp;#39;s model selection decide the submit state (#32920)
 
-* chore(main): release cua-driver-rs 0.61.3
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+When the last assistant message came from a model that is no longer
+available, the submit button stayed red and disab | why kept: model, claude</description>
     </item></channel></rss>
