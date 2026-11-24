@@ -1,2 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.61.3 in Cua Spaces (#8670) — https://github.com/trycua/cua/commit/d534dfea8d6946cd9f82caf73a8c33a6e7713a06 (score 5)
-- chore(main): release cua-driver-rs 0.62.0 (#8678) — https://github.com/trycua/cua/commit/0ea979cb6cf299f92e5a72da8b96900b27e0f79e (score 5)
+- cmake : include the llguidance header from the source tree (#32928) — https://github.com/ggml-org/llama.cpp/commit/bb692efaa43809dd8584fefddda42a54a9a50846 (score 9)
