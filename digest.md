@@ -1,1 +1,1 @@
-- feat(lume): optional runs without audio or clipboard devices (#8624) — https://github.com/trycua/cua/commit/1b5bf6b7f3ecea0698023d60b9e87d756d2d81bb (score 9)
+- GLM-5.4: Toward Generalized Coding with Our First Loop Transformer — https://simonwillison.net/2026/Nov/23/glm-54/ (score 4)

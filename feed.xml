@@ -1,10 +1,8 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>feat(lume): optional runs without audio or clipboard devices (#8624)</title>
-      <link>https://github.com/trycua/cua/commit/1b5bf6b7f3ecea0698023d60b9e87d756d2d81bb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1b5bf6b7f3ecea0698023d60b9e87d756d2d81bb</guid>
-      <pubDate>Mon, 23 Nov 2026 19:00:16 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;feat(lume): optional runs without audio or clipboard devices (#8624)
-
-lume run --no-audio-device / --no-clipboard-device (and the run API&amp;#39;s
-noAudioDevice / noClipboardDevice) leave the virtio | why kept: trycua, agent, runs</description>
+      <title>GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</title>
+      <link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
+      <guid isPermaLink="false">https://simonwillison.net/2026/Nov/23/glm-54/</guid>
+      <pubDate>Mon, 23 Nov 2026 19:16:13 +0000</pubDate>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://z.ai/blog/glm-5.4&quot;&gt;GLM-5.4: Toward Generalized Coding with Our First Loop Transformer&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+GLM 5.4 is now available from Chinese AI lab Z.ai. It&#x27;s their first model to use a looped transformer archite | why kept: model, runs</description>
     </item></channel></rss>
