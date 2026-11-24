@@ -1,2 +1,1 @@
-- ui: match tool call timer font size to its title (#32922) — https://github.com/ggml-org/llama.cpp/commit/a6ac41c757c066941766164439f6876f2deaab04 (score 4)
-- ui: let the chat form's model selection decide the submit state (#32920) — https://github.com/ggml-org/llama.cpp/commit/3fccd98e9dba9f19b2f5bf3818e06c3262adcf3e (score 4)
+- chore(main): release cua-driver-rs 0.61.4 (#8663) — https://github.com/trycua/cua/commit/9b6ddb4c6b4d67df89ca9ee76eb9592e1c9e4906 (score 5)
