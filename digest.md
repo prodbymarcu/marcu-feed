@@ -1,2 +1,2 @@
-- chore(cua-driver): advance published installer version to 0.61.3 (#8668) — https://github.com/trycua/cua/commit/ace7dac9cc94b02fc93dc9f588b7f04079339931 (score 5)
-- ui: expect the Llama Chat name in the PWA manifest e2e test (#32959) — https://github.com/ggml-org/llama.cpp/commit/8bf2eae708e5bdaa782bbae9a8a8ceda97acaf1c (score 4)
+- convert : fix qwen3-omni conversion (#32941) — https://github.com/ggml-org/llama.cpp/commit/23f0c0182f48c7ebbc3d88e383af2b0f867767bb (score 7)
+- A training engine for your local model, using your idle compute — https://github.com/sous-labs/songe (score 4)
