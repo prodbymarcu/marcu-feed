@@ -1,1 +1,1 @@
-- CUDA: NVFP4 dequant, pack 8 blocks per CTA (#32875) — https://github.com/ggml-org/llama.cpp/commit/6fb428332ecef16ac82c4e8cf961ac287bb3217b (score 4)
+- model : inkling2 clip with ggml_l2_norm (#32940) — https://github.com/ggml-org/llama.cpp/commit/e683365a74d5a09b184b3faf3dee240129439b80 (score 4)
