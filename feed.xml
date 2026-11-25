@@ -1,12 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : add hy_v4_flash on the DSA iSWA cache (#32960)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/c943331339fb503503b21cc490f08d986bfdb1cf</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c943331339fb503503b21cc490f08d986bfdb1cf</guid>
-      <pubDate>Wed, 25 Nov 2026 12:40:01 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : add hy_v4_flash on the DSA iSWA cache (#32960)
+      <title>model: use the indexed bias in the Inkling 2 graph (#33053)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/2d5b3ddde360cbcefc641cc46cd9e00d700f277a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2d5b3ddde360cbcefc641cc46cd9e00d700f277a</guid>
+      <pubDate>Wed, 25 Nov 2026 13:12:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model: use the indexed bias in the Inkling 2 graph (#33053)
 
-* model : add hy_v4_flash on the DSA iSWA cache
-
-Tencent Hy4 flash is a hy_v4 trunk (iHC, gated MLA, sinks) with
-sparse and sliding-window  | why kept: model</description>
+* use the indexed bias in the Inkling 2 graph
+* Remove RPC check&lt;/pre&gt; | why kept: model</description>
     </item></channel></rss>

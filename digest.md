@@ -1,1 +1,1 @@
-- model : add hy_v4_flash on the DSA iSWA cache (#32960) — https://github.com/ggml-org/llama.cpp/commit/c943331339fb503503b21cc490f08d986bfdb1cf (score 2)
+- model: use the indexed bias in the Inkling 2 graph (#33053) — https://github.com/ggml-org/llama.cpp/commit/2d5b3ddde360cbcefc641cc46cd9e00d700f277a (score 2)
