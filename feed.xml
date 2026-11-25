@@ -1,11 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: fix for a chat form update loop with large fonts and long model n…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5e4fda8ed04607671e9a993a7f029515620c0989</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5e4fda8ed04607671e9a993a7f029515620c0989</guid>
-      <pubDate>Wed, 25 Nov 2026 09:43:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: fix for a chat form update loop with large fonts and long model names (otherwise web interface gets Error 500) (#33037)
+      <title>llama.cpp : bump version to 1.1.0 (#33043)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/beb9d49339ee29af52428577103b27a4d6f46d7d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/beb9d49339ee29af52428577103b27a4d6f46d7d</guid>
+      <pubDate>Wed, 25 Nov 2026 10:16:19 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama.cpp : bump version to 1.1.0 (#33043)
 
-* ready for PR
+* llama.cpp : bump version to 1.1.0
 
-* addressing review comments&lt;/pre&gt; | why kept: model</description>
+* authors : update&lt;/pre&gt; | why kept: llama</description>
     </item></channel></rss>

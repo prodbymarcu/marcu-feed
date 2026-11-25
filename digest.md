@@ -1,1 +1,1 @@
-- ui: fix for a chat form update loop with large fonts and long model n… — https://github.com/ggml-org/llama.cpp/commit/5e4fda8ed04607671e9a993a7f029515620c0989 (score 2)
+- llama.cpp : bump version to 1.1.0 (#33043) — https://github.com/ggml-org/llama.cpp/commit/beb9d49339ee29af52428577103b27a4d6f46d7d (score 2)
