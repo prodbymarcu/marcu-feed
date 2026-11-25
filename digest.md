@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.31.1 (#8718) — https://github.com/trycua/cua/commit/4a865db3ad0eb11974f58c354d198a68d3c306c7 (score 5)
+- Show HN: An agent skill that optimizes code with falsifiable hypotheses — https://chszlab.github.io/AgenticAlgorithmEngineering/ (score 4)

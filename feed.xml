@@ -1,15 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.31.1 (#8718)</title>
-      <link>https://github.com/trycua/cua/commit/4a865db3ad0eb11974f58c354d198a68d3c306c7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a865db3ad0eb11974f58c354d198a68d3c306c7</guid>
-      <pubDate>Wed, 25 Nov 2026 16:07:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.31.1 (#8718)
-
-* chore(main): release cua-sdk 0.31.1
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+      <title>Show HN: An agent skill that optimizes code with falsifiable hypotheses</title>
+      <link>https://chszlab.github.io/AgenticAlgorithmEngineering/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50611593</guid>
+      <pubDate>Wed, 25 Nov 2026 16:23:57 +0000</pubDate>
+      <description>&lt;p&gt;Hi all, I am a professor in algorithm engineering. In our field we use a method of falsifiable hypothesis testing to improve algorithms. More precisely, this is a cycle consisting of designing an algorithm, analyzing the algorithm, then  | why kept: agent, runs</description>
     </item></channel></rss>
