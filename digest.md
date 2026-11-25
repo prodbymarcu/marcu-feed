@@ -1,1 +1,1 @@
-- model : inkling2 graph with fewer ops in mix() and control() (#32948) — https://github.com/ggml-org/llama.cpp/commit/abca6920035ed77c1d80eaf23d066e9d3a7c5b23 (score 4)
+- ui: add --ui-agent for agent mode without server tools or the MCP pro… — https://github.com/ggml-org/llama.cpp/commit/e8906e6b0c0af70a974b8d398117180aa22e0fa7 (score 6)

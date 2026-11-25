@@ -1,9 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : inkling2 graph with fewer ops in mix() and control() (#32948)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/abca6920035ed77c1d80eaf23d066e9d3a7c5b23</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/abca6920035ed77c1d80eaf23d066e9d3a7c5b23</guid>
-      <pubDate>Tue, 24 Nov 2026 23:03:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : inkling2 graph with fewer ops in mix() and control() (#32948)
+      <title>ui: add --ui-agent for agent mode without server tools or the MCP pro…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e8906e6b0c0af70a974b8d398117180aa22e0fa7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e8906e6b0c0af70a974b8d398117180aa22e0fa7</guid>
+      <pubDate>Wed, 25 Nov 2026 01:11:24 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add --ui-agent for agent mode without server tools or the MCP proxy (#33004)
 
-Assisted-by: Claude Opus 5.5&lt;/pre&gt; | why kept: model, claude</description>
+* ui: add --ui-agent to run Llama Chat with browser tools only
+
+Assisted-by: Claude (Opus 5.5 Medium)
+
+* ui: say  | why kept: agent, claude, llama</description>
     </item></channel></rss>
