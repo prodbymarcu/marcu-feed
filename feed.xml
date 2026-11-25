@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: stop the streaming reply with Escape (#33051)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/eb56575095e023a50f6d529a0397fec94a659f21</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/eb56575095e023a50f6d529a0397fec94a659f21</guid>
-      <pubDate>Wed, 25 Nov 2026 14:16:09 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: stop the streaming reply with Escape (#33051)
+      <title>perf(cua-sdk): link the cua SDK release binaries with fat LTO to slow…</title>
+      <link>https://github.com/trycua/cua/commit/53a43edb4e3b0b194d1f139e7ef942009eea935b</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/53a43edb4e3b0b194d1f139e7ef942009eea935b</guid>
+      <pubDate>Wed, 25 Nov 2026 14:47:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;perf(cua-sdk): link the cua SDK release binaries with fat LTO to slow PyPI project growth (#8715)
 
-Assisted-by: Claude (Opus 5.5 Medium)&lt;/pre&gt; | why kept: claude</description>
+Every cua release is six wheels of 51-58 MB and PyPI caps a project at 10 GB.
+libcua_sdk (macOS  | why kept: trycua, claude</description>
     </item></channel></rss>

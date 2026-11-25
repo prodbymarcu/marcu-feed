@@ -1,1 +1,1 @@
-- ui: stop the streaming reply with Escape (#33051) — https://github.com/ggml-org/llama.cpp/commit/eb56575095e023a50f6d529a0397fec94a659f21 (score 2)
+- perf(cua-sdk): link the cua SDK release binaries with fat LTO to slow… — https://github.com/trycua/cua/commit/53a43edb4e3b0b194d1f139e7ef942009eea935b (score 7)
