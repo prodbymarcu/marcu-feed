@@ -1,13 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: add --ui-agent for agent mode without server tools or the MCP pro…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e8906e6b0c0af70a974b8d398117180aa22e0fa7</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e8906e6b0c0af70a974b8d398117180aa22e0fa7</guid>
-      <pubDate>Wed, 25 Nov 2026 01:11:24 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add --ui-agent for agent mode without server tools or the MCP proxy (#33004)
+      <title>ui: edit the system message in the chat form when it is hidden in con…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/36d818e161c400eb856e4591be49f422fbeeea53</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36d818e161c400eb856e4591be49f422fbeeea53</guid>
+      <pubDate>Wed, 25 Nov 2026 02:47:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: edit the system message in the chat form when it is hidden in conversations (#32967)
 
-* ui: add --ui-agent to run Llama Chat with browser tools only
+* ui: edit the system message in the chat form when it is hidden in conversations
 
-Assisted-by: Claude (Opus 5.5 Medium)
-
-* ui: say  | why kept: agent, claude, llama</description>
+Assisted-by: Claude (O | why kept: claude</description>
     </item></channel></rss>
