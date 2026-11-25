@@ -1,1 +1,1 @@
-- llama : honor metaspace_prepend_scheme for SPM (#31986) — https://github.com/ggml-org/llama.cpp/commit/98f870c220a7d09a95e5476c1ad2cea6b2cd2c1e (score 2)
+- ui: fix for a chat form update loop with large fonts and long model n… — https://github.com/ggml-org/llama.cpp/commit/5e4fda8ed04607671e9a993a7f029515620c0989 (score 2)
