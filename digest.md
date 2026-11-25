@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.62.1 (#8700) — https://github.com/trycua/cua/commit/ad2694e5bf3886df6d865e4ed114c67ca64abdfc (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.62.1 in Cua Spaces (#8702) — https://github.com/trycua/cua/commit/027558667e819bcfe68ba475ac01d6b101ef3f3e (score 5)
