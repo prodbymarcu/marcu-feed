@@ -1,1 +1,2 @@
-- server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080) — https://github.com/ggml-org/llama.cpp/commit/48ac7369600b7b760c91bd87d1527cadda9df517 (score 2)
+- ui: time each tool group by its own loop and show the task time in th… — https://github.com/ggml-org/llama.cpp/commit/0cac1220e35a25fcfbe58e115ee2282a2de76142 (score 8)
+- ui: search home by default in the working-directory picker and pin to… — https://github.com/ggml-org/llama.cpp/commit/1ed4e77f4d1ea68e1d4fe877f7933b779fbcada6 (score 4)
