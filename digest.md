@@ -1,2 +1,2 @@
-- ui: time each tool group by its own loop and show the task time in th… — https://github.com/ggml-org/llama.cpp/commit/0cac1220e35a25fcfbe58e115ee2282a2de76142 (score 8)
-- ui: search home by default in the working-directory picker and pin to… — https://github.com/ggml-org/llama.cpp/commit/1ed4e77f4d1ea68e1d4fe877f7933b779fbcada6 (score 4)
+- ui: open the warm microphone only once the pointer rests on its butto… — https://github.com/ggml-org/llama.cpp/commit/77026f6e6184730c060727c52dd0fe306cd77f2e (score 4)
+- ui: add file extensions to the Vite config's local imports (#33023) — https://github.com/ggml-org/llama.cpp/commit/c8eda101c1d5def0694a62606d12cf542b68f655 (score 4)

@@ -1,21 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: time each tool group by its own loop and show the task time in th…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0cac1220e35a25fcfbe58e115ee2282a2de76142</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0cac1220e35a25fcfbe58e115ee2282a2de76142</guid>
-      <pubDate>Wed, 25 Nov 2026 07:19:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: time each tool group by its own loop and show the task time in the reply stats (#33030)
+      <title>ui: open the warm microphone only once the pointer rests on its butto…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/77026f6e6184730c060727c52dd0fe306cd77f2e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/77026f6e6184730c060727c52dd0fe306cd77f2e</guid>
+      <pubDate>Wed, 25 Nov 2026 07:51:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: open the warm microphone only once the pointer rests on its button (#33033)
 
-The tool call group&amp;#39;s timer now times its own loop of calls, from its first
-call&amp;#39;s start to it | why kept: agent, claude, runs, tool call</description>
+The record button opened the microphone as soon as the pointer entered it,
+so a mouse only passing over turned the | why kept: claude, voice</description>
     </item>
     <item>
-      <title>ui: search home by default in the working-directory picker and pin to…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/1ed4e77f4d1ea68e1d4fe877f7933b779fbcada6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1ed4e77f4d1ea68e1d4fe877f7933b779fbcada6</guid>
-      <pubDate>Wed, 25 Nov 2026 07:19:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: search home by default in the working-directory picker and pin tool call chevrons (#33028)
+      <title>ui: add file extensions to the Vite config&#x27;s local imports (#33023)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/c8eda101c1d5def0694a62606d12cf542b68f655</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/c8eda101c1d5def0694a62606d12cf542b68f655</guid>
+      <pubDate>Wed, 25 Nov 2026 07:51:56 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: add file extensions to the Vite config&amp;#39;s local imports (#33023)
 
-* ui: search home by default in the working-directory picker
-
-A plain query now navigates home as i | why kept: claude, tool call</description>
+Assisted-by: Claude (Opus 5.5 Medium)&lt;/pre&gt; | why kept: claude, local</description>
     </item></channel></rss>
