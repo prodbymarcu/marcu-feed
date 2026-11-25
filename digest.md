@@ -1,1 +1,1 @@
-- chore(main): release cua-driver-rs 0.62.0 (#8678) — https://github.com/trycua/cua/commit/0ea979cb6cf299f92e5a72da8b96900b27e0f79e (score 5)
+- model : inkling2 graph with fewer ops in mix() and control() (#32948) — https://github.com/ggml-org/llama.cpp/commit/abca6920035ed77c1d80eaf23d066e9d3a7c5b23 (score 4)
