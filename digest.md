@@ -1,1 +1,1 @@
-- model: use the indexed bias in the Inkling 2 graph (#33053) — https://github.com/ggml-org/llama.cpp/commit/2d5b3ddde360cbcefc641cc46cd9e00d700f277a (score 2)
+- model : add RAON-1-mini-preview support (#32176) — https://github.com/ggml-org/llama.cpp/commit/5a09582d80600fb5b0a8966e870061bddc8a3732 (score 6)
