@@ -1,1 +1,1 @@
-- ui: edit the system message in the chat form when it is hidden in con… — https://github.com/ggml-org/llama.cpp/commit/36d818e161c400eb856e4591be49f422fbeeea53 (score 2)
+- ggml: allow reserving scratch memory in graph_optimize (#31898) — https://github.com/ggml-org/llama.cpp/commit/ea722948146befb23c9529c1ec7f59fb2f34911f (score 2)

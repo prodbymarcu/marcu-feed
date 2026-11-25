@@ -1,11 +1,12 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: edit the system message in the chat form when it is hidden in con…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/36d818e161c400eb856e4591be49f422fbeeea53</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/36d818e161c400eb856e4591be49f422fbeeea53</guid>
-      <pubDate>Wed, 25 Nov 2026 02:47:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: edit the system message in the chat form when it is hidden in conversations (#32967)
+      <title>ggml: allow reserving scratch memory in graph_optimize (#31898)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/ea722948146befb23c9529c1ec7f59fb2f34911f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ea722948146befb23c9529c1ec7f59fb2f34911f</guid>
+      <pubDate>Wed, 25 Nov 2026 03:35:37 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml: allow reserving scratch memory in graph_optimize (#31898)
 
-* ui: edit the system message in the chat form when it is hidden in conversations
+* ggml: allow reserving scratch memory in graph_optimize
 
-Assisted-by: Claude (O | why kept: claude</description>
+Add add_scratch to ggml_backend_graph_optimize_params. A backend can
+res | why kept: free</description>
     </item></channel></rss>
