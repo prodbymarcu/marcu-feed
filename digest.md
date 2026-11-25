@@ -1,1 +1,1 @@
-- Show HN: An agent skill that optimizes code with falsifiable hypotheses — https://chszlab.github.io/AgenticAlgorithmEngineering/ (score 4)
+- ui: open settings, the + menu and the model picker as sheets on phone… — https://github.com/ggml-org/llama.cpp/commit/9c003a97ab34a69cc49243f9b02014038205ffae (score 4)

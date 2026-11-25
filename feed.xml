@@ -1,7 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>Show HN: An agent skill that optimizes code with falsifiable hypotheses</title>
-      <link>https://chszlab.github.io/AgenticAlgorithmEngineering/</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50611593</guid>
-      <pubDate>Wed, 25 Nov 2026 16:23:57 +0000</pubDate>
-      <description>&lt;p&gt;Hi all, I am a professor in algorithm engineering. In our field we use a method of falsifiable hypothesis testing to improve algorithms. More precisely, this is a cycle consisting of designing an algorithm, analyzing the algorithm, then  | why kept: agent, runs</description>
+      <title>ui: open settings, the + menu and the model picker as sheets on phone…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/9c003a97ab34a69cc49243f9b02014038205ffae</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c003a97ab34a69cc49243f9b02014038205ffae</guid>
+      <pubDate>Wed, 25 Nov 2026 16:56:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: open settings, the + menu and the model picker as sheets on phones, and manage MCP from settings (#33036)
+
+* ui: add inset lists, rounder bottom sheets and a native select to the design syste | why kept: model, llama</description>
     </item></channel></rss>
