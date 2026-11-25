@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.61.3 in Cua Spaces (#8670)</title>
-      <link>https://github.com/trycua/cua/commit/d534dfea8d6946cd9f82caf73a8c33a6e7713a06</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/d534dfea8d6946cd9f82caf73a8c33a6e7713a06</guid>
-      <pubDate>Wed, 25 Nov 2026 15:19:59 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.61.3 in Cua Spaces (#8670)
+      <title>chore(main): release cua-sdk 0.31.1 (#8718)</title>
+      <link>https://github.com/trycua/cua/commit/4a865db3ad0eb11974f58c354d198a68d3c306c7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4a865db3ad0eb11974f58c354d198a68d3c306c7</guid>
+      <pubDate>Wed, 25 Nov 2026 16:07:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.31.1 (#8718)
 
-Cua Driver 0.61.3 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+* chore(main): release cua-sdk 0.31.1
+
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>
