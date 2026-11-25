@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : add RAON-1-mini-preview support (#32176)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5a09582d80600fb5b0a8966e870061bddc8a3732</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5a09582d80600fb5b0a8966e870061bddc8a3732</guid>
-      <pubDate>Wed, 25 Nov 2026 13:44:10 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : add RAON-1-mini-preview support (#32176)
+      <title>ui: stop the streaming reply with Escape (#33051)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/eb56575095e023a50f6d529a0397fec94a659f21</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/eb56575095e023a50f6d529a0397fec94a659f21</guid>
+      <pubDate>Wed, 25 Nov 2026 14:16:09 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: stop the streaming reply with Escape (#33051)
 
-* vocab : add RAON pre-tokenizer and NFC normalization
-* model : add RAON hybrid attention and mHC graph
-* convert : add MXFP8 weight dequantizat | why kept: model, quant, llama</description>
+Assisted-by: Claude (Opus 5.5 Medium)&lt;/pre&gt; | why kept: claude</description>
     </item></channel></rss>

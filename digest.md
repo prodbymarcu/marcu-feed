@@ -1,1 +1,1 @@
-- model : add RAON-1-mini-preview support (#32176) — https://github.com/ggml-org/llama.cpp/commit/5a09582d80600fb5b0a8966e870061bddc8a3732 (score 6)
+- ui: stop the streaming reply with Escape (#33051) — https://github.com/ggml-org/llama.cpp/commit/eb56575095e023a50f6d529a0397fec94a659f21 (score 2)
