@@ -1,1 +1,1 @@
-- server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080) — https://github.com/ggml-org/llama.cpp/commit/48ac7369600b7b760c91bd87d1527cadda9df517 (score 2)
+- model : add hy_v4_flash on the DSA iSWA cache (#32960) — https://github.com/ggml-org/llama.cpp/commit/c943331339fb503503b21cc490f08d986bfdb1cf (score 2)
