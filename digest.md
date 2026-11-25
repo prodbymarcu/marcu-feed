@@ -1,2 +1,1 @@
-- common : implement named tool choice (#31564) — https://github.com/ggml-org/llama.cpp/commit/5bd90fa0e40b79af1f7e7e8b2802223c1b15d118 (score 7)
-- test(spaces): do not hardcode catalog-pinned image sizes in the Linux… — https://github.com/trycua/cua/commit/8f2fc1c9d1c9d44d07aa264106ba1c1afc26af7c (score 7)
+- chore(images): pin Space images on cua-spacesd 0.17.7 (#6874) — https://github.com/trycua/cua/commit/848e2a561a5f8b01286d855afb58bc1ac19a150c (score 7)
