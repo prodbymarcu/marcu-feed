@@ -1,22 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>model : load YaRN hparams in llama_model_base::load_hparams (#33032)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/2e2f5a03730e4549377762b740c012fbcc1473bb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/2e2f5a03730e4549377762b740c012fbcc1473bb</guid>
-      <pubDate>Wed, 25 Nov 2026 08:23:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;model : load YaRN hparams in llama_model_base::load_hparams (#33032)
+      <title>llama : honor metaspace_prepend_scheme for SPM (#31986)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/98f870c220a7d09a95e5476c1ad2cea6b2cd2c1e</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/98f870c220a7d09a95e5476c1ad2cea6b2cd2c1e</guid>
+      <pubDate>Wed, 25 Nov 2026 09:12:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : honor metaspace_prepend_scheme for SPM (#31986)
 
-* model : read YaRN beta_fast and beta_slow hparams in deepseek2
+* llama : honor metaspace_prepend_scheme for SPM
 
-* model : load YaRN hparams in llama_model_base::load_hpara | why kept: model, llama</description>
-    </item>
-    <item>
-      <title>ui: fix tool result media shown twice, uncapped and dropped after its…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/41c7a1b49d1ec314305f0e50019faac3b2bcbec3</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/41c7a1b49d1ec314305f0e50019faac3b2bcbec3</guid>
-      <pubDate>Wed, 25 Nov 2026 08:23:55 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: fix tool result media shown twice, uncapped and dropped after its run (#33010)
+This fixes chat prompts for Nanbeige4.3-33B
 
-* ui: drop images of old turns from the context, read_media loads them again
-
-When read_media is offered and th | why kept: model</description>
+Signed-off-by: Adrien Gallouët &amp;lt;angt@hug | why kept: llama</description>
     </item></channel></rss>

@@ -1,2 +1,1 @@
-- model : load YaRN hparams in llama_model_base::load_hparams (#33032) — https://github.com/ggml-org/llama.cpp/commit/2e2f5a03730e4549377762b740c012fbcc1473bb (score 4)
-- ui: fix tool result media shown twice, uncapped and dropped after its… — https://github.com/ggml-org/llama.cpp/commit/41c7a1b49d1ec314305f0e50019faac3b2bcbec3 (score 2)
+- llama : honor metaspace_prepend_scheme for SPM (#31986) — https://github.com/ggml-org/llama.cpp/commit/98f870c220a7d09a95e5476c1ad2cea6b2cd2c1e (score 2)
