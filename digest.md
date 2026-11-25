@@ -1,1 +1,1 @@
-- Three LLM inflection points in twelve months — https://simonwillison.net/2026/Nov/24/llm-inflection-points/ (score 4)
+- chore(cua-driver): advance published installer version to 0.62.1 (#8700) — https://github.com/trycua/cua/commit/ad2694e5bf3886df6d865e4ed114c67ca64abdfc (score 5)
