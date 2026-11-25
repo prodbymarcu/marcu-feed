@@ -1,9 +1,10 @@
 {
- "fetched": 166,
- "new": 1,
+ "fetched": 160,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 1,
+ "dropped_low": 2,
  "errors": [
+  "hn-local: <HTTPError 502: 'Bad Gateway'>",
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
  ],
@@ -13,5 +14,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 0,
- "at": "2026-11-25T22:27:58Z"
+ "at": "2026-11-25T22:44:10Z"
 }
