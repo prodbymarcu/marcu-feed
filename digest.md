@@ -1,1 +1,1 @@
-- perf(cua-sdk): link the cua SDK release binaries with fat LTO to slow… — https://github.com/trycua/cua/commit/53a43edb4e3b0b194d1f139e7ef942009eea935b (score 7)
+- fix(spaces-macos): bundle Cua Driver 0.61.3 in Cua Spaces (#8670) — https://github.com/trycua/cua/commit/d534dfea8d6946cd9f82caf73a8c33a6e7713a06 (score 5)
