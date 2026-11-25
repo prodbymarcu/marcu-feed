@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>quant : avoid macro collision on windows (#33014)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5220a2d4040aa75f52678ebf52d77a0fba85de9f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5220a2d4040aa75f52678ebf52d77a0fba85de9f</guid>
-      <pubDate>Wed, 25 Nov 2026 05:28:05 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;quant : avoid macro collision on windows (#33014)
+      <title>server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/48ac7369600b7b760c91bd87d1527cadda9df517</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/48ac7369600b7b760c91bd87d1527cadda9df517</guid>
+      <pubDate>Wed, 25 Nov 2026 06:31:59 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080)
 
-[no release]&lt;/pre&gt; | why kept: quant</description>
+Windows can&amp;#39;t send SIGINT to a child process, so scripts that launch
+llama-server could only kill it, which skips the  | why kept: llama</description>
     </item></channel></rss>

@@ -1,1 +1,1 @@
-- quant : avoid macro collision on windows (#33014) — https://github.com/ggml-org/llama.cpp/commit/5220a2d4040aa75f52678ebf52d77a0fba85de9f (score 2)
+- server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080) — https://github.com/ggml-org/llama.cpp/commit/48ac7369600b7b760c91bd87d1527cadda9df517 (score 2)
