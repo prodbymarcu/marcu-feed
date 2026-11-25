@@ -1,1 +1,1 @@
-- llama.cpp : bump version to 1.1.0 (#33043) — https://github.com/ggml-org/llama.cpp/commit/beb9d49339ee29af52428577103b27a4d6f46d7d (score 2)
+- server : handle CTRL_BREAK_EVENT on Windows for clean shutdown (#32080) — https://github.com/ggml-org/llama.cpp/commit/48ac7369600b7b760c91bd87d1527cadda9df517 (score 2)
