@@ -1,2 +1,2 @@
-- ui: open the warm microphone only once the pointer rests on its butto… — https://github.com/ggml-org/llama.cpp/commit/77026f6e6184730c060727c52dd0fe306cd77f2e (score 4)
-- ui: add file extensions to the Vite config's local imports (#33023) — https://github.com/ggml-org/llama.cpp/commit/c8eda101c1d5def0694a62606d12cf542b68f655 (score 4)
+- model : load YaRN hparams in llama_model_base::load_hparams (#33032) — https://github.com/ggml-org/llama.cpp/commit/2e2f5a03730e4549377762b740c012fbcc1473bb (score 4)
+- ui: fix tool result media shown twice, uncapped and dropped after its… — https://github.com/ggml-org/llama.cpp/commit/41c7a1b49d1ec314305f0e50019faac3b2bcbec3 (score 2)
