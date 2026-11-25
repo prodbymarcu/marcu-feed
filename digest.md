@@ -1,1 +1,1 @@
-- chore(images): pin Space images on cua-spacesd 0.17.7 (#6874) — https://github.com/trycua/cua/commit/848e2a561a5f8b01286d855afb58bc1ac19a150c (score 7)
+- metal : commit the graph in chunks with one command buffer thread (#3… — https://github.com/ggml-org/llama.cpp/commit/52f6e0247a5a7b0aecaa8e70ac128f6942899c4c (score 2)
