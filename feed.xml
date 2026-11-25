@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>metal : commit the graph in chunks with one command buffer thread (#3…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/52f6e0247a5a7b0aecaa8e70ac128f6942899c4c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/52f6e0247a5a7b0aecaa8e70ac128f6942899c4c</guid>
-      <pubDate>Wed, 25 Nov 2026 04:55:48 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;metal : commit the graph in chunks with one command buffer thread (#32947)
+      <title>quant : avoid macro collision on windows (#33014)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/5220a2d4040aa75f52678ebf52d77a0fba85de9f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5220a2d4040aa75f52678ebf52d77a0fba85de9f</guid>
+      <pubDate>Wed, 25 Nov 2026 05:28:05 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;quant : avoid macro collision on windows (#33014)
 
-Assisted-by: Claude Opus 5.5&lt;/pre&gt; | why kept: claude</description>
+[no release]&lt;/pre&gt; | why kept: quant</description>
     </item></channel></rss>

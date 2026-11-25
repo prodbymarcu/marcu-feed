@@ -1,1 +1,1 @@
-- metal : commit the graph in chunks with one command buffer thread (#3… — https://github.com/ggml-org/llama.cpp/commit/52f6e0247a5a7b0aecaa8e70ac128f6942899c4c (score 2)
+- quant : avoid macro collision on windows (#33014) — https://github.com/ggml-org/llama.cpp/commit/5220a2d4040aa75f52678ebf52d77a0fba85de9f (score 2)
