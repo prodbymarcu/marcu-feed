@@ -1,12 +1,24 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ggml: allow reserving scratch memory in graph_optimize (#31898)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/ea722948146befb23c9529c1ec7f59fb2f34911f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ea722948146befb23c9529c1ec7f59fb2f34911f</guid>
-      <pubDate>Wed, 25 Nov 2026 03:35:37 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ggml: allow reserving scratch memory in graph_optimize (#31898)
+      <title>common : implement named tool choice (#31564)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/5bd90fa0e40b79af1f7e7e8b2802223c1b15d118</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5bd90fa0e40b79af1f7e7e8b2802223c1b15d118</guid>
+      <pubDate>Wed, 25 Nov 2026 03:51:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;common : implement named tool choice (#31564)
 
-* ggml: allow reserving scratch memory in graph_optimize
+* common : implement named tool choice for automatic parsers
 
-Add add_scratch to ggml_backend_graph_optimize_params. A backend can
-res | why kept: free</description>
+* common : add qwen3-coder support
+
+* common : remove redundant condition
+
+* common :  | why kept: qwen, qwen</description>
+    </item>
+    <item>
+      <title>test(spaces): do not hardcode catalog-pinned image sizes in the Linux…</title>
+      <link>https://github.com/trycua/cua/commit/8f2fc1c9d1c9d44d07aa264106ba1c1afc26af7c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/8f2fc1c9d1c9d44d07aa264106ba1c1afc26af7c</guid>
+      <pubDate>Wed, 25 Nov 2026 03:51:32 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(spaces): do not hardcode catalog-pinned image sizes in the Linux card tests (#8712)
+
+The image-pin bot moves these figures on every cua-spacesd release, so the exact strings broke every pins | why kept: trycua, claude</description>
     </item></channel></rss>

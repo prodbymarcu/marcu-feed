@@ -1,1 +1,2 @@
-- ggml: allow reserving scratch memory in graph_optimize (#31898) — https://github.com/ggml-org/llama.cpp/commit/ea722948146befb23c9529c1ec7f59fb2f34911f (score 2)
+- common : implement named tool choice (#31564) — https://github.com/ggml-org/llama.cpp/commit/5bd90fa0e40b79af1f7e7e8b2802223c1b15d118 (score 7)
+- test(spaces): do not hardcode catalog-pinned image sizes in the Linux… — https://github.com/trycua/cua/commit/8f2fc1c9d1c9d44d07aa264106ba1c1afc26af7c (score 7)
