@@ -1,22 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-driver): give browser_prepare E2E calls room for the driver&#x27;s…</title>
-      <link>https://github.com/trycua/cua/commit/79014f184602b30235c2752e6a4d99a00bad047a</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/79014f184602b30235c2752e6a4d99a00bad047a</guid>
-      <pubDate>Thu, 26 Nov 2026 14:16:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): give browser_prepare E2E calls room for the driver&amp;#39;s setup bounds (#8750)
+      <title>ci: relax spec dec acceptance length floor (#33127)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/6d54465e9db35a2683efe1ec672a075acb3fa0c2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6d54465e9db35a2683efe1ec672a075acb3fa0c2</guid>
+      <pubDate>Thu, 26 Nov 2026 14:48:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: relax spec dec acceptance length floor (#33127)
 
-Refs #8748
+* tests: relax Qwen3 DSpark acceptance length floor
 
-Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
-Co-authored-by: Claude Sonnet 5. | why kept: trycua, claude</description>
-    </item>
-    <item>
-      <title>ui: install the demo harness before the app&#x27;s type check in CI (#33145)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/e630f787298a607ca6cd20397c0bc6d0dc96223d</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e630f787298a607ca6cd20397c0bc6d0dc96223d</guid>
-      <pubDate>Thu, 26 Nov 2026 14:16:53 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: install the demo harness before the app&amp;#39;s type check in CI (#33145)
+* relax threshold for all spec decs
 
-The app&amp;#39;s demo helpers import @ggml-org/llama-demo, a link to ui/lib/demo,
-and svelte-check resolves the harness s | why kept: claude, llama</description>
+---------
+
+Co-authored-by: ruixiang63 &amp;lt;wangruixia | why kept: qwen, qwen</description>
     </item></channel></rss>
