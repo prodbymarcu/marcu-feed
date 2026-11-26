@@ -1,3 +1,2 @@
-- CI: add Hip occupancy check and small static analysis report (#32365) — https://github.com/ggml-org/llama.cpp/commit/fd4b137e38c9fdb24b3f4fe3bc9e5fcc3c8f0002 (score 9)
-- DFlash2: support Inkling-2-Mini DFlash2 (#33073) — https://github.com/ggml-org/llama.cpp/commit/55d482814bb3b985daa7bfa175c6d628fc27beac (score 2)
-- tests : take the test-fusion moe flag from the fixture name (#33104) — https://github.com/ggml-org/llama.cpp/commit/7365e4793c6c913c2be45c743c9f77e4af9a39de (score 2)
+- quantize : include clocale for std::setlocale (#33105) — https://github.com/ggml-org/llama.cpp/commit/689194808a926219d9c68e733a04250afdb357cc (score 4)
+- tests : add RPC support to test-llama-archs (#33112) — https://github.com/ggml-org/llama.cpp/commit/4ba835c637d863c00f54b59b8a0285d8d4db04cd (score 2)

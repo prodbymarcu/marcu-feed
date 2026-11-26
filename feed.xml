@@ -1,36 +1,20 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>CI: add Hip occupancy check and small static analysis report (#32365)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fd4b137e38c9fdb24b3f4fe3bc9e5fcc3c8f0002</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd4b137e38c9fdb24b3f4fe3bc9e5fcc3c8f0002</guid>
-      <pubDate>Thu, 26 Nov 2026 07:53:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CI: add Hip occupancy check and small static analysis report (#32365)
+      <title>quantize : include clocale for std::setlocale (#33105)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/689194808a926219d9c68e733a04250afdb357cc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/689194808a926219d9c68e733a04250afdb357cc</guid>
+      <pubDate>Thu, 26 Nov 2026 08:08:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;quantize : include clocale for std::setlocale (#33105)
 
-* ci: check for occupancy regressions vs master in HIP quality check
-
-Add scripts/hip/gcn-cdna-occupancy-check.py, which com | why kept: hermes, agent, hermes</description>
+[no ci]&lt;/pre&gt; | why kept: local, quant</description>
     </item>
     <item>
-      <title>DFlash2: support Inkling-2-Mini DFlash2 (#33073)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/55d482814bb3b985daa7bfa175c6d628fc27beac</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55d482814bb3b985daa7bfa175c6d628fc27beac</guid>
-      <pubDate>Thu, 26 Nov 2026 07:53:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;DFlash2: support Inkling-2-Mini DFlash2 (#33073)
+      <title>tests : add RPC support to test-llama-archs (#33112)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/4ba835c637d863c00f54b59b8a0285d8d4db04cd</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4ba835c637d863c00f54b59b8a0285d8d4db04cd</guid>
+      <pubDate>Thu, 26 Nov 2026 08:08:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : add RPC support to test-llama-archs (#33112)
 
-* support inkling2 DFlash2
-
-* address review comments
-
-Assisted-by: Claude Opus 5.5
-Co-authored-by: Nikita Belokopytov &amp;lt;belokopytov.n@gmail.co | why kept: claude</description>
-    </item>
-    <item>
-      <title>tests : take the test-fusion moe flag from the fixture name (#33104)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/7365e4793c6c913c2be45c743c9f77e4af9a39de</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7365e4793c6c913c2be45c743c9f77e4af9a39de</guid>
-      <pubDate>Thu, 26 Nov 2026 07:53:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : take the test-fusion moe flag from the fixture name (#33104)
-
-* tests : take the test-fusion moe flag from the fixture name
-
-The moe flag came from the arch name, so the dense and MoE fix | why kept: llama</description>
+Running test-llama-archs with an RPC device is quite useful as an
+integration test for the RPC backend. Here is a sample run with the
+Vulkan  | why kept: llama</description>
     </item></channel></rss>
