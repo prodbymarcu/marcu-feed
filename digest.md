@@ -1,2 +1,1 @@
-- CUDA: fuse the top-k MoE weight norm with an additive sum bias (#32943) — https://github.com/ggml-org/llama.cpp/commit/51ab45e3c52304d7cc8e43e5a913baa8ccd7abcc (score 2)
-- CUDA: loop over ne2/ne3 in non-contiguous concat (#33006) — https://github.com/ggml-org/llama.cpp/commit/caea914e9d05153aa32b96a846dca543e7cb16be (score 2)
+- llama : refuse SPLIT_MODE_TENSOR for Hadamard-folded models (#33080) — https://github.com/ggml-org/llama.cpp/commit/28148b5f06666bf44e0975f2980960672c1f94d9 (score 4)

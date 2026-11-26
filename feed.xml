@@ -1,19 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>CUDA: fuse the top-k MoE weight norm with an additive sum bias (#32943)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/51ab45e3c52304d7cc8e43e5a913baa8ccd7abcc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51ab45e3c52304d7cc8e43e5a913baa8ccd7abcc</guid>
-      <pubDate>Thu, 26 Nov 2026 04:40:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: fuse the top-k MoE weight norm with an additive sum bias (#32943)
+      <title>llama : refuse SPLIT_MODE_TENSOR for Hadamard-folded models (#33080)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/28148b5f06666bf44e0975f2980960672c1f94d9</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/28148b5f06666bf44e0975f2980960672c1f94d9</guid>
+      <pubDate>Thu, 26 Nov 2026 04:55:58 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : refuse SPLIT_MODE_TENSOR for Hadamard-folded models (#33080)
 
-Assisted-by: Claude Opus 5.5&lt;/pre&gt; | why kept: claude</description>
-    </item>
-    <item>
-      <title>CUDA: loop over ne2/ne3 in non-contiguous concat (#33006)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/caea914e9d05153aa32b96a846dca543e7cb16be</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/caea914e9d05153aa32b96a846dca543e7cb16be</guid>
-      <pubDate>Thu, 26 Nov 2026 04:40:04 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: loop over ne2/ne3 in non-contiguous concat (#33006)
-
-The non-contiguous concat kernel mapped dst ne[2] and ne[3] directly to
-gridDim.y and gridDim.z, which are limited to 65535. Larger tens | why kept: claude</description>
+Prism Bonsai models (prism.hadamard) aborted in the meta backend with
+GGML_ASSERT(split_state.ne[j] % div == 0) when loaded w | why kept: model, llama</description>
     </item></channel></rss>
