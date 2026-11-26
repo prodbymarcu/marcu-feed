@@ -1,1 +1,1 @@
-- ui: move the demo harness to ui/lib/demo and render videos on the Lla… — https://github.com/ggml-org/llama.cpp/commit/fa9f928f25a5fc765c7d0d1c7deb64e8f1a762a4 (score 6)
+- fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747) — https://github.com/trycua/cua/commit/477828576ccc401b0000e76a9ffa600a5936f4ec (score 5)

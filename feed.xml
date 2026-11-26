@@ -1,11 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: move the demo harness to ui/lib/demo and render videos on the Lla…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/fa9f928f25a5fc765c7d0d1c7deb64e8f1a762a4</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fa9f928f25a5fc765c7d0d1c7deb64e8f1a762a4</guid>
-      <pubDate>Thu, 26 Nov 2026 11:21:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move the demo harness to ui/lib/demo and render videos on the Llama brand (#33125)
+      <title>fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747)</title>
+      <link>https://github.com/trycua/cua/commit/477828576ccc401b0000e76a9ffa600a5936f4ec</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/477828576ccc401b0000e76a9ffa600a5936f4ec</guid>
+      <pubDate>Thu, 26 Nov 2026 12:09:08 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747)
 
-* ui: render demo videos in a window on a brand ground
-
-A demo video is now rendered from the recorded fram | why kept: claude, video, llama</description>
+Cua Driver 0.63.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
     </item></channel></rss>
