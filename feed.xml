@@ -1,10 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>llama : refuse SPLIT_MODE_TENSOR for Hadamard-folded models (#33080)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/28148b5f06666bf44e0975f2980960672c1f94d9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/28148b5f06666bf44e0975f2980960672c1f94d9</guid>
-      <pubDate>Thu, 26 Nov 2026 04:55:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;llama : refuse SPLIT_MODE_TENSOR for Hadamard-folded models (#33080)
+      <title>fix(cua-sandbox): accept cua-driver 0.63 (#8734)</title>
+      <link>https://github.com/trycua/cua/commit/b333980b64003fd81d3a19e3606eb4abbdf3d17c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b333980b64003fd81d3a19e3606eb4abbdf3d17c</guid>
+      <pubDate>Thu, 26 Nov 2026 06:17:26 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.63 (#8734)
 
-Prism Bonsai models (prism.hadamard) aborted in the meta backend with
-GGML_ASSERT(split_state.ne[j] % div == 0) when loaded w | why kept: model, llama</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>

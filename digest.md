@@ -1,1 +1,1 @@
-- llama : refuse SPLIT_MODE_TENSOR for Hadamard-folded models (#33080) — https://github.com/ggml-org/llama.cpp/commit/28148b5f06666bf44e0975f2980960672c1f94d9 (score 4)
+- fix(cua-sandbox): accept cua-driver 0.63 (#8734) — https://github.com/trycua/cua/commit/b333980b64003fd81d3a19e3606eb4abbdf3d17c (score 5)
