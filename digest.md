@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.63.1 (#8743) — https://github.com/trycua/cua/commit/5d57030936ecdc4114021329b362ea14f7a609fe (score 5)
+- fix(ci): pick the npm dist-tag from registry state for Cua Driver SDK… — https://github.com/trycua/cua/commit/9193c447a4fdd3727cd00dc6d881f7430da56b17 (score 7)

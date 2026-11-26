@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.63.1 (#8743)</title>
-      <link>https://github.com/trycua/cua/commit/5d57030936ecdc4114021329b362ea14f7a609fe</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5d57030936ecdc4114021329b362ea14f7a609fe</guid>
-      <pubDate>Thu, 26 Nov 2026 10:32:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.63.1 (#8743)
+      <title>fix(ci): pick the npm dist-tag from registry state for Cua Driver SDK…</title>
+      <link>https://github.com/trycua/cua/commit/9193c447a4fdd3727cd00dc6d881f7430da56b17</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9193c447a4fdd3727cd00dc6d881f7430da56b17</guid>
+      <pubDate>Thu, 26 Nov 2026 10:48:50 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): pick the npm dist-tag from registry state for Cua Driver SDK publishes (#8746)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+CUA-4504. Out-of-order releases (0.63.1 published before 0.63.0) made npm
+refuse the implicit latest tag.  | why kept: trycua, claude</description>
     </item></channel></rss>
