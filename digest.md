@@ -1,1 +1,1 @@
-- fix(ci): pick the npm dist-tag from registry state for Cua Driver SDK… — https://github.com/trycua/cua/commit/9193c447a4fdd3727cd00dc6d881f7430da56b17 (score 7)
+- ui: move the demo harness to ui/lib/demo and render videos on the Lla… — https://github.com/ggml-org/llama.cpp/commit/fa9f928f25a5fc765c7d0d1c7deb64e8f1a762a4 (score 6)

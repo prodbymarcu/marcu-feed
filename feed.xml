@@ -1,10 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(ci): pick the npm dist-tag from registry state for Cua Driver SDK…</title>
-      <link>https://github.com/trycua/cua/commit/9193c447a4fdd3727cd00dc6d881f7430da56b17</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9193c447a4fdd3727cd00dc6d881f7430da56b17</guid>
-      <pubDate>Thu, 26 Nov 2026 10:48:50 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): pick the npm dist-tag from registry state for Cua Driver SDK publishes (#8746)
+      <title>ui: move the demo harness to ui/lib/demo and render videos on the Lla…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/fa9f928f25a5fc765c7d0d1c7deb64e8f1a762a4</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fa9f928f25a5fc765c7d0d1c7deb64e8f1a762a4</guid>
+      <pubDate>Thu, 26 Nov 2026 11:21:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: move the demo harness to ui/lib/demo and render videos on the Llama brand (#33125)
 
-CUA-4504. Out-of-order releases (0.63.1 published before 0.63.0) made npm
-refuse the implicit latest tag.  | why kept: trycua, claude</description>
+* ui: render demo videos in a window on a brand ground
+
+A demo video is now rendered from the recorded fram | why kept: claude, video, llama</description>
     </item></channel></rss>
