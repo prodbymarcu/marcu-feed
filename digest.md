@@ -1,2 +1,1 @@
-- quantize : include clocale for std::setlocale (#33105) — https://github.com/ggml-org/llama.cpp/commit/689194808a926219d9c68e733a04250afdb357cc (score 4)
-- tests : add RPC support to test-llama-archs (#33112) — https://github.com/ggml-org/llama.cpp/commit/4ba835c637d863c00f54b59b8a0285d8d4db04cd (score 2)
+- chore(main): release cua-driver-rs 0.63.1 (#8740) — https://github.com/trycua/cua/commit/4d1444cc28b298ec2abb5516de312089b3740fc7 (score 5)

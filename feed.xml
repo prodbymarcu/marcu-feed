@@ -1,20 +1,13 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>quantize : include clocale for std::setlocale (#33105)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/689194808a926219d9c68e733a04250afdb357cc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/689194808a926219d9c68e733a04250afdb357cc</guid>
-      <pubDate>Thu, 26 Nov 2026 08:08:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;quantize : include clocale for std::setlocale (#33105)
+      <title>chore(main): release cua-driver-rs 0.63.1 (#8740)</title>
+      <link>https://github.com/trycua/cua/commit/4d1444cc28b298ec2abb5516de312089b3740fc7</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d1444cc28b298ec2abb5516de312089b3740fc7</guid>
+      <pubDate>Thu, 26 Nov 2026 08:24:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.63.1 (#8740)
 
-[no ci]&lt;/pre&gt; | why kept: local, quant</description>
-    </item>
-    <item>
-      <title>tests : add RPC support to test-llama-archs (#33112)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/4ba835c637d863c00f54b59b8a0285d8d4db04cd</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4ba835c637d863c00f54b59b8a0285d8d4db04cd</guid>
-      <pubDate>Thu, 26 Nov 2026 08:08:57 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : add RPC support to test-llama-archs (#33112)
+* chore(main): release cua-driver-rs 0.63.1
 
-Running test-llama-archs with an RPC device is quite useful as an
-integration test for the RPC backend. Here is a sample run with the
-Vulkan  | why kept: llama</description>
+* chore(release): restore main&amp;#39;s versions for other components in the manifest
+
+* chore(cua-dri | why kept: trycua</description>
     </item></channel></rss>
