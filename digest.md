@@ -1,1 +1,2 @@
-- fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747) — https://github.com/trycua/cua/commit/477828576ccc401b0000e76a9ffa600a5936f4ec (score 5)
+- ui: NVFP4 as 4-bit in Discover, model details inside Search (#33120) — https://github.com/ggml-org/llama.cpp/commit/0ac39e47059bbca547dd907bf5bbf35c92b073eb (score 6)
+- ui: fix the phone model sheet's search field and reasoning row (#33144) — https://github.com/ggml-org/llama.cpp/commit/5d7bb89f4719243dc52fe387bcb67c3518256565 (score 4)
