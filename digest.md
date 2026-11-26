@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.31.1 in Cua Spaces (#8720) — https://github.com/trycua/cua/commit/f7bd58569341fea3d9465d067c4be484fecf0445 (score 5)
+- ui: npx llama-chat talks to llama-server on :9931 by default (#33095) — https://github.com/ggml-org/llama.cpp/commit/074f1f3f730c1d17f34645d62c1859c74bedbdd8 (score 4)
