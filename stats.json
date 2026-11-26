@@ -1,8 +1,8 @@
 {
  "fetched": 166,
- "new": 3,
+ "new": 2,
  "dropped_kill": 0,
- "dropped_low": 3,
+ "dropped_low": 2,
  "errors": [
   "reddit-local-llama: <HTTPError 404: 'Not Found'>",
   "ml-community: <HTTPError 429: 'Too Many Requests'>"
@@ -13,5 +13,5 @@
   "note": "gate busy or judge skipped"
  },
  "kept": 0,
- "at": "2026-11-26T05:07:56Z"
+ "at": "2026-11-26T05:55:58Z"
 }
