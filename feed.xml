@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-sandbox): accept cua-driver 0.63 (#8734)</title>
-      <link>https://github.com/trycua/cua/commit/b333980b64003fd81d3a19e3606eb4abbdf3d17c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/b333980b64003fd81d3a19e3606eb4abbdf3d17c</guid>
-      <pubDate>Thu, 26 Nov 2026 06:17:26 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.63 (#8734)
+      <title>chore(main): release cua-driver-rs 0.63.0 (#8733)</title>
+      <link>https://github.com/trycua/cua/commit/e392cba69e9264f15c9a1e47c4adf26d03321b40</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e392cba69e9264f15c9a1e47c4adf26d03321b40</guid>
+      <pubDate>Thu, 26 Nov 2026 07:21:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.63.0 (#8733)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* chore(main): release cua-driver-rs 0.63.0
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>

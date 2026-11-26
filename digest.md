@@ -1,1 +1,1 @@
-- fix(cua-sandbox): accept cua-driver 0.63 (#8734) — https://github.com/trycua/cua/commit/b333980b64003fd81d3a19e3606eb4abbdf3d17c (score 5)
+- chore(main): release cua-driver-rs 0.63.0 (#8733) — https://github.com/trycua/cua/commit/e392cba69e9264f15c9a1e47c4adf26d03321b40 (score 5)
