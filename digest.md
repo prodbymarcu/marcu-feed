@@ -1,2 +1,3 @@
-- fix(hyprland-plugin): reviewed Omarchy edge profile for Hyprland 0.57… — https://github.com/trycua/cua/commit/f14b456de30abbf8b17ffd1c7bea6f95a286222b (score 7)
-- chore(main): release bench 0.4.24 (#8739) — https://github.com/trycua/cua/commit/3cbc5c83441c4aeef898e8237978b812af74751f (score 5)
+- CI: add Hip occupancy check and small static analysis report (#32365) — https://github.com/ggml-org/llama.cpp/commit/fd4b137e38c9fdb24b3f4fe3bc9e5fcc3c8f0002 (score 9)
+- DFlash2: support Inkling-2-Mini DFlash2 (#33073) — https://github.com/ggml-org/llama.cpp/commit/55d482814bb3b985daa7bfa175c6d628fc27beac (score 2)
+- tests : take the test-fusion moe flag from the fixture name (#33104) — https://github.com/ggml-org/llama.cpp/commit/7365e4793c6c913c2be45c743c9f77e4af9a39de (score 2)

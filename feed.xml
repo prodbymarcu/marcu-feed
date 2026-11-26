@@ -1,25 +1,36 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(hyprland-plugin): reviewed Omarchy edge profile for Hyprland 0.57…</title>
-      <link>https://github.com/trycua/cua/commit/f14b456de30abbf8b17ffd1c7bea6f95a286222b</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f14b456de30abbf8b17ffd1c7bea6f95a286222b</guid>
-      <pubDate>Thu, 26 Nov 2026 07:36:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(hyprland-plugin): reviewed Omarchy edge profile for Hyprland 0.57.2-7 (#8738)
+      <title>CI: add Hip occupancy check and small static analysis report (#32365)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/fd4b137e38c9fdb24b3f4fe3bc9e5fcc3c8f0002</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/fd4b137e38c9fdb24b3f4fe3bc9e5fcc3c8f0002</guid>
+      <pubDate>Thu, 26 Nov 2026 07:53:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CI: add Hip occupancy check and small static analysis report (#32365)
 
-Omarchy edge moved to hyprland 0.57.2-7 (built against hyprgraphics 0.7.0,
-libhyprgraphics.so=6-64). The publish | why kept: trycua, claude</description>
+* ci: check for occupancy regressions vs master in HIP quality check
+
+Add scripts/hip/gcn-cdna-occupancy-check.py, which com | why kept: hermes, agent, hermes</description>
     </item>
     <item>
-      <title>chore(main): release bench 0.4.24 (#8739)</title>
-      <link>https://github.com/trycua/cua/commit/3cbc5c83441c4aeef898e8237978b812af74751f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3cbc5c83441c4aeef898e8237978b812af74751f</guid>
-      <pubDate>Thu, 26 Nov 2026 07:36:51 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.24 (#8739)
+      <title>DFlash2: support Inkling-2-Mini DFlash2 (#33073)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/55d482814bb3b985daa7bfa175c6d628fc27beac</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/55d482814bb3b985daa7bfa175c6d628fc27beac</guid>
+      <pubDate>Thu, 26 Nov 2026 07:53:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;DFlash2: support Inkling-2-Mini DFlash2 (#33073)
 
-* chore(main): release bench 0.4.24
+* support inkling2 DFlash2
 
-* chore(bench): synchronize release lockfiles
+* address review comments
 
----------
+Assisted-by: Claude Opus 5.5
+Co-authored-by: Nikita Belokopytov &amp;lt;belokopytov.n@gmail.co | why kept: claude</description>
+    </item>
+    <item>
+      <title>tests : take the test-fusion moe flag from the fixture name (#33104)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/7365e4793c6c913c2be45c743c9f77e4af9a39de</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/7365e4793c6c913c2be45c743c9f77e4af9a39de</guid>
+      <pubDate>Thu, 26 Nov 2026 07:53:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;tests : take the test-fusion moe flag from the fixture name (#33104)
 
-Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
+* tests : take the test-fusion moe flag from the fixture name
+
+The moe flag came from the arch name, so the dense and MoE fix | why kept: llama</description>
     </item></channel></rss>
