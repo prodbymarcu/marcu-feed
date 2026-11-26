@@ -1,1 +1,2 @@
-- ci: relax spec dec acceptance length floor (#33127) — https://github.com/ggml-org/llama.cpp/commit/6d54465e9db35a2683efe1ec672a075acb3fa0c2 (score 7)
+- chore(main): release cua-driver-rs 0.63.2 (#8752) — https://github.com/trycua/cua/commit/ae3caac7efd46d80490e84023bd6713aa09c8027 (score 5)
+- Notion's official MCP inject hidden upsell instructions into agent context — https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/ (score 4)

@@ -1,15 +1,23 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ci: relax spec dec acceptance length floor (#33127)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/6d54465e9db35a2683efe1ec672a075acb3fa0c2</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/6d54465e9db35a2683efe1ec672a075acb3fa0c2</guid>
-      <pubDate>Thu, 26 Nov 2026 14:48:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ci: relax spec dec acceptance length floor (#33127)
+      <title>chore(main): release cua-driver-rs 0.63.2 (#8752)</title>
+      <link>https://github.com/trycua/cua/commit/ae3caac7efd46d80490e84023bd6713aa09c8027</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ae3caac7efd46d80490e84023bd6713aa09c8027</guid>
+      <pubDate>Thu, 26 Nov 2026 15:20:54 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.63.2 (#8752)
 
-* tests: relax Qwen3 DSpark acceptance length floor
+* chore(main): release cua-driver-rs 0.63.2
 
-* relax threshold for all spec decs
+* chore(cua-driver-rs): synchronize generated release files
 
 ---------
 
-Co-authored-by: ruixiang63 &amp;lt;wangruixia | why kept: qwen, qwen</description>
+Co-authored-by: cua-release | why kept: trycua</description>
+    </item>
+    <item>
+      <title>Notion&#x27;s official MCP inject hidden upsell instructions into agent context</title>
+      <link>https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/</link>
+      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50658093</guid>
+      <pubDate>Thu, 26 Nov 2026 15:20:54 +0000</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/&quot;&gt;https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;C | why kept: agent, claude</description>
     </item></channel></rss>
