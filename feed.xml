@@ -1,22 +1,22 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: NVFP4 as 4-bit in Discover, model details inside Search (#33120)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/0ac39e47059bbca547dd907bf5bbf35c92b073eb</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0ac39e47059bbca547dd907bf5bbf35c92b073eb</guid>
-      <pubDate>Thu, 26 Nov 2026 14:01:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: NVFP4 as 4-bit in Discover, model details inside Search (#33120)
+      <title>fix(cua-driver): give browser_prepare E2E calls room for the driver&#x27;s…</title>
+      <link>https://github.com/trycua/cua/commit/79014f184602b30235c2752e6a4d99a00bad047a</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/79014f184602b30235c2752e6a4d99a00bad047a</guid>
+      <pubDate>Thu, 26 Nov 2026 14:16:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-driver): give browser_prepare E2E calls room for the driver&amp;#39;s setup bounds (#8750)
 
-* ui: show NVFP4 quants in the 4-bit row of Discover Models details
+Refs #8748
 
-The quant regexes only knew MXFP, so NVFP4 files had no  | why kept: model, claude, quant</description>
+Co-authored-by: Francesco Bonacci &amp;lt;f@trycua.com&amp;gt;
+Co-authored-by: Claude Sonnet 5. | why kept: trycua, claude</description>
     </item>
     <item>
-      <title>ui: fix the phone model sheet&#x27;s search field and reasoning row (#33144)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/5d7bb89f4719243dc52fe387bcb67c3518256565</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/5d7bb89f4719243dc52fe387bcb67c3518256565</guid>
-      <pubDate>Thu, 26 Nov 2026 14:01:41 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: fix the phone model sheet&amp;#39;s search field and reasoning row (#33144)
+      <title>ui: install the demo harness before the app&#x27;s type check in CI (#33145)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/e630f787298a607ca6cd20397c0bc6d0dc96223d</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/e630f787298a607ca6cd20397c0bc6d0dc96223d</guid>
+      <pubDate>Thu, 26 Nov 2026 14:16:53 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: install the demo harness before the app&amp;#39;s type check in CI (#33145)
 
-* ui: fix the phone model sheet&amp;#39;s search width and reasoning row
-
-Give the sheet&amp;#39;s foot the lists&amp;#39; gutter, | why kept: model, claude</description>
+The app&amp;#39;s demo helpers import @ggml-org/llama-demo, a link to ui/lib/demo,
+and svelte-check resolves the harness s | why kept: claude, llama</description>
     </item></channel></rss>

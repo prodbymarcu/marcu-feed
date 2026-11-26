@@ -1,2 +1,2 @@
-- ui: NVFP4 as 4-bit in Discover, model details inside Search (#33120) — https://github.com/ggml-org/llama.cpp/commit/0ac39e47059bbca547dd907bf5bbf35c92b073eb (score 6)
-- ui: fix the phone model sheet's search field and reasoning row (#33144) — https://github.com/ggml-org/llama.cpp/commit/5d7bb89f4719243dc52fe387bcb67c3518256565 (score 4)
+- fix(cua-driver): give browser_prepare E2E calls room for the driver's… — https://github.com/trycua/cua/commit/79014f184602b30235c2752e6a4d99a00bad047a (score 7)
+- ui: install the demo harness before the app's type check in CI (#33145) — https://github.com/ggml-org/llama.cpp/commit/e630f787298a607ca6cd20397c0bc6d0dc96223d (score 4)
