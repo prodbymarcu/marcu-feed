@@ -1,2 +1,1 @@
-- chore(main): release cua-driver-rs 0.63.2 (#8752) — https://github.com/trycua/cua/commit/ae3caac7efd46d80490e84023bd6713aa09c8027 (score 5)
-- Notion's official MCP inject hidden upsell instructions into agent context — https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/ (score 4)
+- chore(cua-driver): advance published installer version to 0.63.2 (#8753) — https://github.com/trycua/cua/commit/12fde2b24d98ce0b7ffc9b078ab3c6972fe5d4fc (score 5)

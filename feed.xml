@@ -1,23 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.63.2 (#8752)</title>
-      <link>https://github.com/trycua/cua/commit/ae3caac7efd46d80490e84023bd6713aa09c8027</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ae3caac7efd46d80490e84023bd6713aa09c8027</guid>
-      <pubDate>Thu, 26 Nov 2026 15:20:54 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.63.2 (#8752)
+      <title>chore(cua-driver): advance published installer version to 0.63.2 (#8753)</title>
+      <link>https://github.com/trycua/cua/commit/12fde2b24d98ce0b7ffc9b078ab3c6972fe5d4fc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/12fde2b24d98ce0b7ffc9b078ab3c6972fe5d4fc</guid>
+      <pubDate>Thu, 26 Nov 2026 17:13:02 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.63.2 (#8753)
 
-* chore(main): release cua-driver-rs 0.63.2
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
-    </item>
-    <item>
-      <title>Notion&#x27;s official MCP inject hidden upsell instructions into agent context</title>
-      <link>https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/</link>
-      <guid isPermaLink="false">https://news.ycombinator.com/item?id=50658093</guid>
-      <pubDate>Thu, 26 Nov 2026 15:20:54 +0000</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href=&quot;https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/&quot;&gt;https://www.reddit.com/r/ClaudeCode/comments/1y4qm5o/heads_up_if_you_wire_notions_official_mcp_into/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;C | why kept: agent, claude</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
