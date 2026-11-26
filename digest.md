@@ -1,1 +1,2 @@
-- chore(main): release cua-driver-rs 0.63.0 (#8733) — https://github.com/trycua/cua/commit/e392cba69e9264f15c9a1e47c4adf26d03321b40 (score 5)
+- fix(hyprland-plugin): reviewed Omarchy edge profile for Hyprland 0.57… — https://github.com/trycua/cua/commit/f14b456de30abbf8b17ffd1c7bea6f95a286222b (score 7)
+- chore(main): release bench 0.4.24 (#8739) — https://github.com/trycua/cua/commit/3cbc5c83441c4aeef898e8237978b812af74751f (score 5)
