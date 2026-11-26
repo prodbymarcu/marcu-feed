@@ -1,10 +1,19 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: npx llama-chat talks to llama-server on :9931 by default (#33095)</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/074f1f3f730c1d17f34645d62c1859c74bedbdd8</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/074f1f3f730c1d17f34645d62c1859c74bedbdd8</guid>
-      <pubDate>Thu, 26 Nov 2026 03:04:00 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: npx llama-chat talks to llama-server on :9931 by default (#33095)
+      <title>CUDA: fuse the top-k MoE weight norm with an additive sum bias (#32943)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/51ab45e3c52304d7cc8e43e5a913baa8ccd7abcc</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/51ab45e3c52304d7cc8e43e5a913baa8ccd7abcc</guid>
+      <pubDate>Thu, 26 Nov 2026 04:40:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: fuse the top-k MoE weight norm with an additive sum bias (#32943)
 
-Without --server, the CLI&amp;#39;s config.json now points the app at
-llama-server&amp;#39;s default port on the host the page was o | why kept: claude, llama</description>
+Assisted-by: Claude Opus 5.5&lt;/pre&gt; | why kept: claude</description>
+    </item>
+    <item>
+      <title>CUDA: loop over ne2/ne3 in non-contiguous concat (#33006)</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/caea914e9d05153aa32b96a846dca543e7cb16be</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/caea914e9d05153aa32b96a846dca543e7cb16be</guid>
+      <pubDate>Thu, 26 Nov 2026 04:40:04 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;CUDA: loop over ne2/ne3 in non-contiguous concat (#33006)
+
+The non-contiguous concat kernel mapped dst ne[2] and ne[3] directly to
+gridDim.y and gridDim.z, which are limited to 65535. Larger tens | why kept: claude</description>
     </item></channel></rss>
