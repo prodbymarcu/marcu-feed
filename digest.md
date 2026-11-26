@@ -1,3 +1,1 @@
-- Quoting Jack Despain Zhou — https://simonwillison.net/2026/Nov/26/jack-despain-zhou/ (score 4)
-- MCP Gateway: How Snap Checks Both the Person and the Agent — https://eng.snap.com/mcp-gateway (score 2)
-- CUDA: fuse the Inkling 2 short conv, depth mix, loop controller, L2 c… — https://github.com/ggml-org/llama.cpp/commit/0e4e925e8fa3d784b39f450050511576a0c8869b (score 2)
+- chore(cua-driver): advance published installer version to 0.63.1 (#8743) — https://github.com/trycua/cua/commit/5d57030936ecdc4114021329b362ea14f7a609fe (score 5)
