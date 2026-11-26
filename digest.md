@@ -1,1 +1,1 @@
-- How Clay Builds GTM Agents — Jeff Barg, Head of AI — https://latent.space/p/how_clay_builds_gtm_agents_jeff_barg_head_of_ai/ (score 4)
+- fix(spaces-macos): bundle Cua Driver 0.63.2 in Cua Spaces (#8754) — https://github.com/trycua/cua/commit/d7d802c0add409b92900a8c579392ba39a45b96f (score 5)
