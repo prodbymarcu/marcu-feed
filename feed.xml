@@ -1,9 +1,7 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.63.2 (#8753)</title>
-      <link>https://github.com/trycua/cua/commit/12fde2b24d98ce0b7ffc9b078ab3c6972fe5d4fc</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/12fde2b24d98ce0b7ffc9b078ab3c6972fe5d4fc</guid>
-      <pubDate>Thu, 26 Nov 2026 17:13:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.63.2 (#8753)
-
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+      <title>How Clay Builds GTM Agents — Jeff Barg, Head of AI</title>
+      <link>https://latent.space/p/how_clay_builds_gtm_agents_jeff_barg_head_of_ai/</link>
+      <guid isPermaLink="false">urn:latent-space:post:pod_ep_01a21990-d1c6-7a0c-b8e0-fa2c1f04b55c</guid>
+      <pubDate>Thu, 26 Nov 2026 17:45:03 +0000</pubDate>
+      <description>Clay ( https://www.clay.com/ ) wants you to get about the same results whether you use its own agent or point Claude Code at Clay. Usage is already split close to 50/50 between Clay’s agent and outside harnesses. In this episode, we chat wi | why kept: agent, claude</description>
     </item></channel></rss>

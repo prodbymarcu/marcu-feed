@@ -1,1 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.63.2 (#8753) — https://github.com/trycua/cua/commit/12fde2b24d98ce0b7ffc9b078ab3c6972fe5d4fc (score 5)
+- How Clay Builds GTM Agents — Jeff Barg, Head of AI — https://latent.space/p/how_clay_builds_gtm_agents_jeff_barg_head_of_ai/ (score 4)
