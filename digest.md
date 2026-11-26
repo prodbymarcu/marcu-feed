@@ -1,1 +1,1 @@
-- ui: open settings, the + menu and the model picker as sheets on phone… — https://github.com/ggml-org/llama.cpp/commit/9c003a97ab34a69cc49243f9b02014038205ffae (score 4)
+- fix(spaces-macos): bundle cua 0.31.1 in Cua Spaces (#8720) — https://github.com/trycua/cua/commit/f7bd58569341fea3d9465d067c4be484fecf0445 (score 5)

@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: open settings, the + menu and the model picker as sheets on phone…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/9c003a97ab34a69cc49243f9b02014038205ffae</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9c003a97ab34a69cc49243f9b02014038205ffae</guid>
-      <pubDate>Wed, 25 Nov 2026 16:56:02 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: open settings, the + menu and the model picker as sheets on phones, and manage MCP from settings (#33036)
+      <title>fix(spaces-macos): bundle cua 0.31.1 in Cua Spaces (#8720)</title>
+      <link>https://github.com/trycua/cua/commit/f7bd58569341fea3d9465d067c4be484fecf0445</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/f7bd58569341fea3d9465d067c4be484fecf0445</guid>
+      <pubDate>Wed, 25 Nov 2026 21:43:57 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.31.1 in Cua Spaces (#8720)
 
-* ui: add inset lists, rounder bottom sheets and a native select to the design syste | why kept: model, llama</description>
+cua 0.31.1 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
