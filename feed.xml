@@ -1,15 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-sdk 0.31.3 (#8779)</title>
-      <link>https://github.com/trycua/cua/commit/0599c0331616bdf7166e0aabf2d99b4b518ad347</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0599c0331616bdf7166e0aabf2d99b4b518ad347</guid>
-      <pubDate>Fri, 27 Nov 2026 11:36:28 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.31.3 (#8779)
+      <title>fix(ci): clear the Windows test failures and show every failure in on…</title>
+      <link>https://github.com/trycua/cua/commit/9aaed68f618d01ed7ab0080362adeef34e15cea5</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/9aaed68f618d01ed7ab0080362adeef34e15cea5</guid>
+      <pubDate>Fri, 27 Nov 2026 11:52:44 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): clear the Windows test failures and show every failure in one run (#8780)
 
-* chore(main): release cua-sdk 0.31.3
-
-* chore(cua-sdk): synchronize release documentation and lockfiles
-
----------
-
-Co-authored-by: cua-release-bot[b | why kept: trycua</description>
+The Windows job stopped at the first failing step, so each fix exposed the next.
+- cua-agent-setup: the sign-in | why kept: trycua, agent</description>
     </item></channel></rss>

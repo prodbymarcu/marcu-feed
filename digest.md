@@ -1,1 +1,1 @@
-- chore(main): release cua-sdk 0.31.3 (#8779) — https://github.com/trycua/cua/commit/0599c0331616bdf7166e0aabf2d99b4b518ad347 (score 5)
+- fix(ci): clear the Windows test failures and show every failure in on… — https://github.com/trycua/cua/commit/9aaed68f618d01ed7ab0080362adeef34e15cea5 (score 7)
