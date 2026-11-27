@@ -1,1 +1,1 @@
-- test(cua-daemon-core): expect Stop for the firecracker microVM on Win… — https://github.com/trycua/cua/commit/ebc4d9c0f2ac2b2263d4d8f7900ba8de9f81a35c (score 7)
+- chore(main): release cua-driver-rs 0.64.1 (#8775) — https://github.com/trycua/cua/commit/3de125f3b87ece6ae8dd8b52047da7eb4e9a1f95 (score 5)

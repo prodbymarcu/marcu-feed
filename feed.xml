@@ -1,10 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>test(cua-daemon-core): expect Stop for the firecracker microVM on Win…</title>
-      <link>https://github.com/trycua/cua/commit/ebc4d9c0f2ac2b2263d4d8f7900ba8de9f81a35c</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ebc4d9c0f2ac2b2263d4d8f7900ba8de9f81a35c</guid>
-      <pubDate>Fri, 27 Nov 2026 07:36:30 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-daemon-core): expect Stop for the firecracker microVM on Windows (#8773)
+      <title>chore(main): release cua-driver-rs 0.64.1 (#8775)</title>
+      <link>https://github.com/trycua/cua/commit/3de125f3b87ece6ae8dd8b52047da7eb4e9a1f95</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3de125f3b87ece6ae8dd8b52047da7eb4e9a1f95</guid>
+      <pubDate>Fri, 27 Nov 2026 08:08:27 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.64.1 (#8775)
 
-power_control() deliberately stops the Windows microVM (a QEMU VM with no
-snapshots), so the Suspend assertion i | why kept: trycua, claude</description>
+* chore(main): release cua-driver-rs 0.64.1
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
