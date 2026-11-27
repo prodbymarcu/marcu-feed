@@ -1,15 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(main): release cua-driver-rs 0.64.1 (#8775)</title>
-      <link>https://github.com/trycua/cua/commit/3de125f3b87ece6ae8dd8b52047da7eb4e9a1f95</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/3de125f3b87ece6ae8dd8b52047da7eb4e9a1f95</guid>
-      <pubDate>Fri, 27 Nov 2026 08:08:27 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.64.1 (#8775)
+      <title>chore(cua-driver): advance published installer version to 0.64.1 (#8776)</title>
+      <link>https://github.com/trycua/cua/commit/1239f26b8f91321202dd53e1363178e096d85ae2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/1239f26b8f91321202dd53e1363178e096d85ae2</guid>
+      <pubDate>Fri, 27 Nov 2026 10:00:52 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.64.1 (#8776)
 
-* chore(main): release cua-driver-rs 0.64.1
-
-* chore(cua-driver-rs): synchronize generated release files
-
----------
-
-Co-authored-by: cua-release | why kept: trycua</description>
+Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
     </item></channel></rss>
