@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(cua-sandbox): accept cua-driver 0.64 (#8761)</title>
-      <link>https://github.com/trycua/cua/commit/0df567ee4abdcac8b979d80cd92b436b5885d9f9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/0df567ee4abdcac8b979d80cd92b436b5885d9f9</guid>
-      <pubDate>Fri, 27 Nov 2026 02:33:19 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(cua-sandbox): accept cua-driver 0.64 (#8761)
+      <title>chore(main): release bench 0.4.25 (#8762)</title>
+      <link>https://github.com/trycua/cua/commit/620276c39eaa7c5342e2cedcd8ebfc53ae65cb0f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/620276c39eaa7c5342e2cedcd8ebfc53ae65cb0f</guid>
+      <pubDate>Fri, 27 Nov 2026 02:48:49 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release bench 0.4.25 (#8762)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+* chore(main): release bench 0.4.25
+
+* chore(bench): synchronize release lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[bot] &amp;lt;254316371+cua-re | why kept: trycua</description>
     </item></channel></rss>
