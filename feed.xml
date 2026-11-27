@@ -1,9 +1,10 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle cua 0.31.2 in Cua Spaces (#8771)</title>
-      <link>https://github.com/trycua/cua/commit/4d6e614ea15f42c7c5f2ac6405d05c79ce2a1e30</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d6e614ea15f42c7c5f2ac6405d05c79ce2a1e30</guid>
-      <pubDate>Fri, 27 Nov 2026 07:20:39 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.31.2 in Cua Spaces (#8771)
+      <title>test(cua-daemon-core): expect Stop for the firecracker microVM on Win…</title>
+      <link>https://github.com/trycua/cua/commit/ebc4d9c0f2ac2b2263d4d8f7900ba8de9f81a35c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/ebc4d9c0f2ac2b2263d4d8f7900ba8de9f81a35c</guid>
+      <pubDate>Fri, 27 Nov 2026 07:36:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;test(cua-daemon-core): expect Stop for the firecracker microVM on Windows (#8773)
 
-cua 0.31.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
+power_control() deliberately stops the Windows microVM (a QEMU VM with no
+snapshots), so the Suspend assertion i | why kept: trycua, claude</description>
     </item></channel></rss>

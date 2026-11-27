@@ -1,1 +1,1 @@
-- fix(spaces-macos): bundle cua 0.31.2 in Cua Spaces (#8771) — https://github.com/trycua/cua/commit/4d6e614ea15f42c7c5f2ac6405d05c79ce2a1e30 (score 5)
+- test(cua-daemon-core): expect Stop for the firecracker microVM on Win… — https://github.com/trycua/cua/commit/ebc4d9c0f2ac2b2263d4d8f7900ba8de9f81a35c (score 7)
