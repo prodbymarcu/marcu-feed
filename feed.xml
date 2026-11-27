@@ -1,16 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747)</title>
-      <link>https://github.com/trycua/cua/commit/477828576ccc401b0000e76a9ffa600a5936f4ec</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/477828576ccc401b0000e76a9ffa600a5936f4ec</guid>
-      <pubDate>Thu, 26 Nov 2026 18:16:52 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747)
+      <title>fix(ci): drop the expired macOS mock E2E quarantine and accept an emp…</title>
+      <link>https://github.com/trycua/cua/commit/dc711bf3950db199e6a48b63277736f77c861349</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dc711bf3950db199e6a48b63277736f77c861349</guid>
+      <pubDate>Thu, 26 Nov 2026 23:21:23 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): drop the expired macOS mock E2E quarantine and accept an empty list (#8204)
 
-Cua Driver 0.63.1 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
-    </item>
-    <item>
-      <title>How Clay Builds GTM Agents — Jeff Barg, Head of AI</title>
-      <link>https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/</link>
-      <guid isPermaLink="false">urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319</guid>
-      <pubDate>Thu, 26 Nov 2026 18:16:52 +0000</pubDate>
-      <description>How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent | why kept: model, agent</description>
+Remove the expired macOS mock E2E entry from the flaky quarantine list (CUA-3133). The TCC lock it covered wa | why kept: trycua, claude, runs</description>
     </item></channel></rss>

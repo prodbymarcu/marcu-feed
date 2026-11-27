@@ -1,2 +1,1 @@
-- fix(spaces-macos): bundle Cua Driver 0.63.1 in Cua Spaces (#8747) — https://github.com/trycua/cua/commit/477828576ccc401b0000e76a9ffa600a5936f4ec (score 5)
-- How Clay Builds GTM Agents — Jeff Barg, Head of AI — https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/ (score 4)
+- fix(ci): drop the expired macOS mock E2E quarantine and accept an emp… — https://github.com/trycua/cua/commit/dc711bf3950db199e6a48b63277736f77c861349 (score 9)
