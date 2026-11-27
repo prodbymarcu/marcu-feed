@@ -1,9 +1,11 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(spaces-macos): bundle Cua Driver 0.63.3 in Cua Spaces (#8766)</title>
-      <link>https://github.com/trycua/cua/commit/837f6a0383ad898c4ec1a8e36eab1005076b7cc9</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/837f6a0383ad898c4ec1a8e36eab1005076b7cc9</guid>
-      <pubDate>Fri, 27 Nov 2026 04:09:15 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle Cua Driver 0.63.3 in Cua Spaces (#8766)
+      <title>ui: share conversations to Hugging Face datasets as agent traces (#32…</title>
+      <link>https://github.com/ggml-org/llama.cpp/commit/00d5c142c8c7c0212d0933afa43ebdccd6ccaa8f</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/00d5c142c8c7c0212d0933afa43ebdccd6ccaa8f</guid>
+      <pubDate>Fri, 27 Nov 2026 04:25:07 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: share conversations to Hugging Face datasets as agent traces (#32608)
 
-Cua Driver 0.63.3 was released. The Mac app bundles the driver pinned in apps/cua-spaces-macos/cua-driver.release.json, so mergi | why kept: trycua</description>
+* ui: add @ggml-org/llama-huggingface, a Hugging Face account as a package
+
+A package in ui/lib that gives an app runnin | why kept: agent, llama</description>
     </item></channel></rss>
