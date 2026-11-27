@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(/**)",
+      "Edit(/**)",
+      "NotebookEdit(/**)",
+      "Read(./**)",
+      "Edit(./**)",
+      "NotebookEdit(./**)",
+      "Read(**)",
+      "Edit(**)",
+      "NotebookEdit(**)"
+    ]
+  }
+}
