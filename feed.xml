@@ -1,9 +1,9 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>chore(cua-driver): advance published installer version to 0.64.0 (#8770)</title>
-      <link>https://github.com/trycua/cua/commit/4c8ae4e5857b53f63f5453ab4c6c2077118879b6</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4c8ae4e5857b53f63f5453ab4c6c2077118879b6</guid>
-      <pubDate>Fri, 27 Nov 2026 05:44:58 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(cua-driver): advance published installer version to 0.64.0 (#8770)
+      <title>fix(spaces-macos): bundle cua 0.31.2 in Cua Spaces (#8771)</title>
+      <link>https://github.com/trycua/cua/commit/4d6e614ea15f42c7c5f2ac6405d05c79ce2a1e30</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d6e614ea15f42c7c5f2ac6405d05c79ce2a1e30</guid>
+      <pubDate>Fri, 27 Nov 2026 07:20:39 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(spaces-macos): bundle cua 0.31.2 in Cua Spaces (#8771)
 
-Co-authored-by: trycua-release[bot] &amp;lt;trycua-release[bot]@users.noreply.github.com&amp;gt;&lt;/pre&gt; | why kept: trycua</description>
+cua 0.31.2 was released, and the Mac app bundles the cua it is built with. Merging this lets Release Please open the next Cua Spaces re | why kept: trycua</description>
     </item></channel></rss>
