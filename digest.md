@@ -1,1 +1,1 @@
-- fix(ci): drop the expired macOS mock E2E quarantine and accept an emp… — https://github.com/trycua/cua/commit/dc711bf3950db199e6a48b63277736f77c861349 (score 9)
+- chore(main): release cua-driver-rs 0.63.3 (#8757) — https://github.com/trycua/cua/commit/4d37ba81f116c42285254bfcd6c8bc0c784ec8e2 (score 5)

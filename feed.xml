@@ -1,9 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>fix(ci): drop the expired macOS mock E2E quarantine and accept an emp…</title>
-      <link>https://github.com/trycua/cua/commit/dc711bf3950db199e6a48b63277736f77c861349</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/dc711bf3950db199e6a48b63277736f77c861349</guid>
-      <pubDate>Thu, 26 Nov 2026 23:21:23 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;fix(ci): drop the expired macOS mock E2E quarantine and accept an empty list (#8204)
+      <title>chore(main): release cua-driver-rs 0.63.3 (#8757)</title>
+      <link>https://github.com/trycua/cua/commit/4d37ba81f116c42285254bfcd6c8bc0c784ec8e2</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/4d37ba81f116c42285254bfcd6c8bc0c784ec8e2</guid>
+      <pubDate>Fri, 27 Nov 2026 00:24:55 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-driver-rs 0.63.3 (#8757)
 
-Remove the expired macOS mock E2E entry from the flaky quarantine list (CUA-3133). The TCC lock it covered wa | why kept: trycua, claude, runs</description>
+* chore(main): release cua-driver-rs 0.63.3
+
+* chore(cua-driver-rs): synchronize generated release files
+
+---------
+
+Co-authored-by: cua-release | why kept: trycua</description>
     </item></channel></rss>
