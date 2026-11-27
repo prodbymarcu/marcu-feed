@@ -1,11 +1,15 @@
 <?xml version="1.0"?><rss version="2.0"><channel><title>Marcu curated AI feed</title><link>https://github.com/prodbymarcu/marcu-feed</link><description>No algorithm, no ads; interest graph from his bookmarks corpus plus local-model judgment.</description><language>en</language>    <item>
-      <title>ui: share conversations to Hugging Face datasets as agent traces (#32…</title>
-      <link>https://github.com/ggml-org/llama.cpp/commit/00d5c142c8c7c0212d0933afa43ebdccd6ccaa8f</link>
-      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/00d5c142c8c7c0212d0933afa43ebdccd6ccaa8f</guid>
-      <pubDate>Fri, 27 Nov 2026 04:25:07 +0000</pubDate>
-      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;ui: share conversations to Hugging Face datasets as agent traces (#32608)
+      <title>chore(main): release cua-sdk 0.31.2 (#8768)</title>
+      <link>https://github.com/trycua/cua/commit/773d10e07cfae0174952590c0fd59e4581ce8b6c</link>
+      <guid isPermaLink="false">tag:github.com,2008:Grit::Commit/773d10e07cfae0174952590c0fd59e4581ce8b6c</guid>
+      <pubDate>Fri, 27 Nov 2026 05:12:30 +0000</pubDate>
+      <description>&lt;pre style=&#x27;white-space:pre-wrap;width:81ex&#x27;&gt;chore(main): release cua-sdk 0.31.2 (#8768)
 
-* ui: add @ggml-org/llama-huggingface, a Hugging Face account as a package
+* chore(main): release cua-sdk 0.31.2
 
-A package in ui/lib that gives an app runnin | why kept: agent, llama</description>
+* chore(cua-sdk): synchronize release documentation and lockfiles
+
+---------
+
+Co-authored-by: cua-release-bot[b | why kept: trycua</description>
     </item></channel></rss>

@@ -2,7 +2,7 @@
  "fetched": 120,
  "new": 1,
  "dropped_kill": 0,
- "dropped_low": 1,
+ "dropped_low": 0,
  "errors": [
   "hn-agent: <HTTPError 502: 'Bad Gateway'>",
   "hn-llm: <HTTPError 502: 'Bad Gateway'>",
@@ -15,6 +15,6 @@
   "kept": 0,
   "note": "gate busy or judge skipped"
  },
- "kept": 0,
- "at": "2026-11-27T09:56:49Z"
+ "kept": 1,
+ "at": "2026-11-27T10:12:30Z"
 }
