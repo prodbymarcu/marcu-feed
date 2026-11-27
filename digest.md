@@ -1,2 +1,1 @@
-- chore(cua-driver): advance published installer version to 0.63.3 (#8764) — https://github.com/trycua/cua/commit/5a82ac26ca6aadc0f502276e1f266ccffc5e0cd3 (score 5)
-- chore(main): release cua-driver-rs 0.64.0 (#8760) — https://github.com/trycua/cua/commit/dc6bd33c5b83de094fffc46d872c6e9f0f9108df (score 5)
+- fix(spaces-macos): bundle Cua Driver 0.63.3 in Cua Spaces (#8766) — https://github.com/trycua/cua/commit/837f6a0383ad898c4ec1a8e36eab1005076b7cc9 (score 5)
